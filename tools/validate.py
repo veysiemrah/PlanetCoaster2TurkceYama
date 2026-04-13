@@ -91,17 +91,18 @@ def check_glossary(
 ) -> list[str]:
     """Source'ta geçen glossary terimlerinin translation'da doğru karşılıkla kullanılıp
     kullanılmadığını kontrol et.
+
+    Eşleşme büyük/küçük harfe duyarlıdır: "Ride" terimi sadece büyük harfle başlayan
+    (isim olarak) kullanımlarda tetiklenir, "ride" (fiil) göz ardı edilir.
     """
     warnings: list[str] = []
-    source_lower = source.lower()
     translation_lower = translation.lower()
 
     for term, info in glossary.items():
-        term_lower = term.lower()
         expected = info["translation"]
         expected_lower = expected.lower()
 
-        if re.search(rf"\b{re.escape(term_lower)}\b", source_lower):
+        if re.search(rf"\b{re.escape(term)}\b", source):
             if expected_lower not in translation_lower:
                 warnings.append(
                     f"{key}: '{term}' terimi source'ta geçiyor, "

@@ -9,267 +9,267 @@
   "strings": {
     "blueprint_coaster_big_ms_rides_ultra-spin_coaster_01": {
       "source": "Rampant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Rampant",
+      "status": "translated",
+      "context": "Ultra-Spin Coaster şablonunun adı (özel isim, korunur).",
       "max_length": null,
-      "category": ""
+      "category": "blueprint_names"
     },
     "blueprint_coaster_big_ms_rides_ultra-spin_coaster_01_desc": {
       "source": "Send your guests tumbling up, up and away with this layout.",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Ziyaretçilerini bu tasarımla yukarı, yukarı ve uzaklara savur!",
+      "status": "translated",
+      "context": "Rampant şablonunun açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "blueprint_coaster_vector_lim_launch_family_coaster_01": {
       "source": "Volt",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Volt",
+      "status": "translated",
+      "context": "LIM Launch Family Coaster şablonunun adı (özel isim, korunur).",
       "max_length": null,
-      "category": ""
+      "category": "blueprint_names"
     },
     "blueprint_coaster_vector_lim_launch_family_coaster_01_desc": {
       "source": "This layout launches guests through swooping turns to provide an energizing experience!",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Bu tasarım, ziyaretçilerini dalgalı dönüşlerle fırlatarak enerjik bir deneyim sunar!",
+      "status": "translated",
+      "context": "Volt şablonunun açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "coaster_cc_familylaunchcoaster": {
       "source": "LIM Launch Family Coaster",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "LIM Fırlatmalı Aile Hız Treni",
+      "status": "translated",
+      "context": "Hız treni tipi adı. LIM = Lineer İndüksiyon Motoru (teknik kısaltma).",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_cc_familylaunchcoaster_desc": {
       "source": "This coaster launches guests of all ages into a whirlwind adventure!",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Bu hız treni, her yaştan ziyaretçiyi kasırga gibi bir maceraya fırlatır!",
+      "status": "translated",
+      "context": "LIM Fırlatmalı Aile Hız Treni açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "coaster_cc_limlaunchfamily": {
       "source": "LIM Launch Family Coaster",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "LIM Fırlatmalı Aile Hız Treni",
+      "status": "translated",
+      "context": "Hız treni tipi adı (familylaunchcoaster ile aynı içerik).",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_cc_limlaunchfamily_desc": {
       "source": "This coaster launches guests of all ages into a whirlwind adventure!",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Bu hız treni, her yaştan ziyaretçiyi kasırga gibi bir maceraya fırlatır!",
+      "status": "translated",
+      "context": "LIM Fırlatmalı Aile Hız Treni açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "coaster_cc_superspin": {
       "source": "Ultra-Spin Coaster",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Ultra-Dönüşlü Hız Treni",
+      "status": "translated",
+      "context": "Hız treni tipi adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_cc_superspin_desc": {
       "source": "This coaster can rotate its cars faster and faster, until the world becomes a thrilling, spinning blur!",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Bu hız treni, arabalarını gittikçe daha hızlı döndürür; ta ki dünya heyecan verici, dönen bir bulanıklığa dönüşene kadar!",
+      "status": "translated",
+      "context": "Ultra-Dönüşlü Hız Treni açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "coaster_model_familylaunchcoaster": {
       "source": "LIM Launch Family Coaster",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "LIM Fırlatmalı Aile Hız Treni",
+      "status": "translated",
+      "context": "Model adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_model_limlaunchfamily": {
       "source": "LIM Launch Family Coaster",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "LIM Fırlatmalı Aile Hız Treni",
+      "status": "translated",
+      "context": "Model adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_model_ultraspin": {
       "source": "Ultra-Spin Coaster",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Ultra-Dönüşlü Hız Treni",
+      "status": "translated",
+      "context": "Model adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_type_cc_familylaunchcoaster": {
       "source": "LIM Launch Family Coaster",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "LIM Fırlatmalı Aile Hız Treni",
+      "status": "translated",
+      "context": "Tip adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_type_cc_limlaunchfamily": {
       "source": "LIM Launch Family Coaster",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "LIM Fırlatmalı Aile Hız Treni",
+      "status": "translated",
+      "context": "Tip adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_type_cc_superspin": {
       "source": "Ultra-Spin Coaster",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Ultra-Dönüşlü Hız Treni",
+      "status": "translated",
+      "context": "Tip adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "fr_540": {
       "source": "540",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "540",
+      "status": "translated",
+      "context": "Flat ride (düz eğlence) adı — sayısal, korunur.",
       "max_length": null,
-      "category": ""
+      "category": "ride_names"
     },
     "fr_540_desc": {
       "source": "Stand tall and ride these gondolas in a dizzying dance.",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Dik dur ve bu gondollarda baş döndürücü bir dansa eşlik et.",
+      "status": "translated",
+      "context": "540 ride'ın açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "fr_540_prefix": {
       "source": "540",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "540",
+      "status": "translated",
+      "context": "Ride önek adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_names"
     },
     "fr_strike": {
       "source": "Strike",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Strike",
+      "status": "translated",
+      "context": "Flat ride adı (özel isim, korunur).",
       "max_length": null,
-      "category": ""
+      "category": "ride_names"
     },
     "fr_strike_desc": {
       "source": "Swirl round and round on this mesmerising contraption!",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Bu büyüleyici düzenekte dönüp durarak savrul!",
+      "status": "translated",
+      "context": "Strike ride'ının açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "fr_strike_prefix": {
       "source": "Strike",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Strike",
+      "status": "translated",
+      "context": "Ride önek adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_names"
     },
     "fr_whirlpool": {
       "source": "Whirlpool",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Girdap",
+      "status": "translated",
+      "context": "Flat ride adı — anlamlı kelime olduğu için Türkçeleştirildi.",
       "max_length": null,
-      "category": ""
+      "category": "ride_names"
     },
     "fr_whirlpool_desc": {
       "source": "Get swept into a wild vortex with this whirling ride!",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Bu fırıl fırıl dönen eğlence biriminde vahşi bir girdaba kapıl!",
+      "status": "translated",
+      "context": "Girdap ride'ının açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "fr_whirlpool_prefix": {
       "source": "Whirlpool",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Girdap",
+      "status": "translated",
+      "context": "Ride önek adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_names"
     },
     "sequence_fr_540_allup": {
       "source": "All Up",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hepsi Yukarıda",
+      "status": "translated",
+      "context": "540 ride'ı için hareket sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_540_alternating": {
       "source": "Alternating",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Dönüşümlü",
+      "status": "translated",
+      "context": "540 ride'ı için hareket sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_540_wave": {
       "source": "Wave",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Dalga",
+      "status": "translated",
+      "context": "540 ride'ı için hareket sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_strike_columnccwarmsccw": {
       "source": "Anticlockwise column, Anticlockwise arms",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Saat yönü tersi sütun, saat yönü tersi kollar",
+      "status": "translated",
+      "context": "Strike ride'ı için hareket sekansı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_strike_columnccwarmscw": {
       "source": "Anticlockwise column, Clockwise arms",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Saat yönü tersi sütun, saat yönünde kollar",
+      "status": "translated",
+      "context": "Strike ride'ı için hareket sekansı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_strike_columncwarmsccw": {
       "source": "Clockwise column, Anticlockwise arms",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Saat yönünde sütun, saat yönü tersi kollar",
+      "status": "translated",
+      "context": "Strike ride'ı için hareket sekansı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_strike_columncwarmscw": {
       "source": "Clockwise column, Clockwise arms",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Saat yönünde sütun, saat yönünde kollar",
+      "status": "translated",
+      "context": "Strike ride'ı için hareket sekansı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_whirlpool_mainsequence": {
       "source": "Main Sequence",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Ana Sekans",
+      "status": "translated",
+      "context": "Girdap ride'ı için varsayılan hareket sekansı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     }
   }
 }
