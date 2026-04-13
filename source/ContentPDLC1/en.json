@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "language": "en",
+    "source_language": "en",
+    "content_pack": "ContentPDLC1",
+    "game_version": "extracted",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "blueprint_coaster_big_ms_rides_ultra-spin_coaster_01": {
+      "source": "Rampant",
+      "translation": "Rampant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_big_ms_rides_ultra-spin_coaster_01_desc": {
+      "source": "Send your guests tumbling up, up and away with this layout.",
+      "translation": "Send your guests tumbling up, up and away with this layout.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_vector_lim_launch_family_coaster_01": {
+      "source": "Volt",
+      "translation": "Volt",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_vector_lim_launch_family_coaster_01_desc": {
+      "source": "This layout launches guests through swooping turns to provide an energizing experience!",
+      "translation": "This layout launches guests through swooping turns to provide an energizing experience!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_familylaunchcoaster": {
+      "source": "LIM Launch Family Coaster",
+      "translation": "LIM Launch Family Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_familylaunchcoaster_desc": {
+      "source": "This coaster launches guests of all ages into a whirlwind adventure!",
+      "translation": "This coaster launches guests of all ages into a whirlwind adventure!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_limlaunchfamily": {
+      "source": "LIM Launch Family Coaster",
+      "translation": "LIM Launch Family Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_limlaunchfamily_desc": {
+      "source": "This coaster launches guests of all ages into a whirlwind adventure!",
+      "translation": "This coaster launches guests of all ages into a whirlwind adventure!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_superspin": {
+      "source": "Ultra-Spin Coaster",
+      "translation": "Ultra-Spin Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_superspin_desc": {
+      "source": "This coaster can rotate its cars faster and faster, until the world becomes a thrilling, spinning blur!",
+      "translation": "This coaster can rotate its cars faster and faster, until the world becomes a thrilling, spinning blur!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_model_familylaunchcoaster": {
+      "source": "LIM Launch Family Coaster",
+      "translation": "LIM Launch Family Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_model_limlaunchfamily": {
+      "source": "LIM Launch Family Coaster",
+      "translation": "LIM Launch Family Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_model_ultraspin": {
+      "source": "Ultra-Spin Coaster",
+      "translation": "Ultra-Spin Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_familylaunchcoaster": {
+      "source": "LIM Launch Family Coaster",
+      "translation": "LIM Launch Family Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_limlaunchfamily": {
+      "source": "LIM Launch Family Coaster",
+      "translation": "LIM Launch Family Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_superspin": {
+      "source": "Ultra-Spin Coaster",
+      "translation": "Ultra-Spin Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_540": {
+      "source": "540",
+      "translation": "540",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_540_desc": {
+      "source": "Stand tall and ride these gondolas in a dizzying dance.",
+      "translation": "Stand tall and ride these gondolas in a dizzying dance.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_540_prefix": {
+      "source": "540",
+      "translation": "540",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_strike": {
+      "source": "Strike",
+      "translation": "Strike",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_strike_desc": {
+      "source": "Swirl round and round on this mesmerising contraption!",
+      "translation": "Swirl round and round on this mesmerising contraption!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_strike_prefix": {
+      "source": "Strike",
+      "translation": "Strike",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_whirlpool": {
+      "source": "Whirlpool",
+      "translation": "Whirlpool",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_whirlpool_desc": {
+      "source": "Get swept into a wild vortex with this whirling ride!",
+      "translation": "Get swept into a wild vortex with this whirling ride!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_whirlpool_prefix": {
+      "source": "Whirlpool",
+      "translation": "Whirlpool",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_540_allup": {
+      "source": "All Up",
+      "translation": "All Up",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_540_alternating": {
+      "source": "Alternating",
+      "translation": "Alternating",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_540_wave": {
+      "source": "Wave",
+      "translation": "Wave",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_strike_columnccwarmsccw": {
+      "source": "Anticlockwise column, Anticlockwise arms",
+      "translation": "Anticlockwise column, Anticlockwise arms",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_strike_columnccwarmscw": {
+      "source": "Anticlockwise column, Clockwise arms",
+      "translation": "Anticlockwise column, Clockwise arms",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_strike_columncwarmsccw": {
+      "source": "Clockwise column, Anticlockwise arms",
+      "translation": "Clockwise column, Anticlockwise arms",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_strike_columncwarmscw": {
+      "source": "Clockwise column, Clockwise arms",
+      "translation": "Clockwise column, Clockwise arms",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_whirlpool_mainsequence": {
+      "source": "Main Sequence",
+      "translation": "Main Sequence",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    }
+  }
+}

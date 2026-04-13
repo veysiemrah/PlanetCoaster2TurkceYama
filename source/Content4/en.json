@@ -1,0 +1,427 @@
+{
+  "meta": {
+    "language": "en",
+    "source_language": "en",
+    "content_pack": "Content4",
+    "game_version": "extracted",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "blueprint_aq_shop_restaurant": {
+      "source": "Aquatic Restaurant",
+      "translation": "Aquatic Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_aq_shop_restaurant_desc": {
+      "source": "Aquatic themed Restaurant",
+      "translation": "Aquatic themed Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_my_shop_restaurant": {
+      "source": "Mythology Restaurant",
+      "translation": "Mythology Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_my_shop_restaurant_desc": {
+      "source": "Mythology themed Restaurant",
+      "translation": "Mythology themed Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_nat_shop_restaurant": {
+      "source": "Outdoor Restaurant",
+      "translation": "Outdoor Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_nat_shop_restaurant_desc": {
+      "source": "Outdoor style Restaurant",
+      "translation": "Outdoor style Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_pc_shop_restaurant": {
+      "source": "Planet Coaster Restaurant",
+      "translation": "Planet Coaster Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_pc_shop_restaurant_desc": {
+      "source": "Planet Coaster themed Restaurant",
+      "translation": "Planet Coaster themed Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_re_shop_restaurant": {
+      "source": "Resort Restaurant",
+      "translation": "Resort Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_re_shop_restaurant_desc": {
+      "source": "Resort themed Restaurant",
+      "translation": "Resort themed Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_vi_shop_restaurant": {
+      "source": "Viking Restaurant",
+      "translation": "Viking Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_vi_shop_restaurant_desc": {
+      "source": "Viking themed Restaurant",
+      "translation": "Viking themed Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_ws_shop_restaurant": {
+      "source": "Western Restaurant",
+      "translation": "Western Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_ws_shop_restaurant_desc": {
+      "source": "Western themed Restaurant",
+      "translation": "Western themed Restaurant",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_facility_restaurant_kitchen": {
+      "source": "Restaurant Kitchen",
+      "translation": "Restaurant Kitchen",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_mouse_01": {
+      "source": "Coaster Attachment - Mouse",
+      "translation": "Coaster Attachment - Mouse",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_mouse_02": {
+      "source": "Coaster Attachment - Mouse Tail",
+      "translation": "Coaster Attachment - Mouse Tail",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_stingray_large": {
+      "source": "Coaster Attachment - Manta Ray Large",
+      "translation": "Coaster Attachment - Manta Ray Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_stingray_small": {
+      "source": "Coaster Attachment - Manta Ray Small",
+      "translation": "Coaster Attachment - Manta Ray Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_diningbooth": {
+      "source": "Dining Table - Booth",
+      "translation": "Dining Table - Booth",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_diningtablechairs": {
+      "source": "Dining Table - Round",
+      "translation": "Dining Table - Round",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_manicmousestock": {
+      "source": "Spinning Manic Mouse (Standard)",
+      "translation": "Spinning Manic Mouse (Standard)",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_stingraystock": {
+      "source": "Inverted - Flying (Standard)",
+      "translation": "Inverted - Flying (Standard)",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_scizzer": {
+      "source": "Scizzer",
+      "translation": "Scizzer",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_scizzer_desc": {
+      "source": "Dazzling lights and dizzying delights spin this ride into the hearts of guests everywhere!",
+      "translation": "Dazzling lights and dizzying delights spin this ride into the hearts of guests everywhere!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_scizzer_prefix": {
+      "source": "Scizzer",
+      "translation": "Scizzer",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_scizzer_loopfast": {
+      "source": "Spin Fast",
+      "translation": "Spin Fast",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_scizzer_loopnormal": {
+      "source": "Spin",
+      "translation": "Spin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_scizzer_reverseloopfast": {
+      "source": "Reverse Spin Fast",
+      "translation": "Reverse Spin Fast",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_scizzer_reverseloopnormal": {
+      "source": "Reverse Spin",
+      "translation": "Reverse Spin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_artificialingredients": {
+      "source": "Artificial Ingredients",
+      "translation": "Artificial Ingredients",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_caffeine": {
+      "source": "Caffeine",
+      "translation": "Caffeine",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_dairy": {
+      "source": "Dairy",
+      "translation": "Dairy",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_egg": {
+      "source": "Egg",
+      "translation": "Egg",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_fish": {
+      "source": "Fish",
+      "translation": "Fish",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_fruit": {
+      "source": "Fruit",
+      "translation": "Fruit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_gluten": {
+      "source": "Gluten",
+      "translation": "Gluten",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_legumes": {
+      "source": "Legumes",
+      "translation": "Legumes",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_meat": {
+      "source": "Meat",
+      "translation": "Meat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_nuts": {
+      "source": "Nuts",
+      "translation": "Nuts",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_plants": {
+      "source": "Plants",
+      "translation": "Plants",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_rice": {
+      "source": "Rice",
+      "translation": "Rice",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_salt": {
+      "source": "Salt",
+      "translation": "Salt",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_shellfish": {
+      "source": "Shellfish",
+      "translation": "Shellfish",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_spice": {
+      "source": "Spice",
+      "translation": "Spice",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_extra_restaurant_sugar": {
+      "source": "Sugar",
+      "translation": "Sugar",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_restaurant_meal_clubs": {
+      "source": "Club Sandwich",
+      "translation": "Club Sandwich",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_restaurant_meal_curry": {
+      "source": "Curry",
+      "translation": "Curry",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_restaurant_meal_lasagna": {
+      "source": "Lasagna",
+      "translation": "Lasagna",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_restaurant_meal_salad": {
+      "source": "Salad",
+      "translation": "Salad",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_manicmousestock": {
+      "source": "Pearl Rides <b>Spinning Manic Mouse (Standard)</b>",
+      "translation": "Pearl Rides <b>Spinning Manic Mouse (Standard)</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_stingraystock": {
+      "source": "Valais & Nidwalden <b>Inverted - Flying (Standard)</b>",
+      "translation": "Valais & Nidwalden <b>Inverted - Flying (Standard)</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    }
+  }
+}

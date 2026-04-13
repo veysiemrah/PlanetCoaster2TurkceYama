@@ -1,0 +1,763 @@
+{
+  "meta": {
+    "language": "en",
+    "source_language": "en",
+    "content_pack": "Content2",
+    "game_version": "extracted",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "bard_social_1280x720.webm": {
+      "source": "Crescendo Melodis Mascot Video - Landscape",
+      "translation": "Crescendo Melodis Mascot Video - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "bard_social_720x1280.webm": {
+      "source": "Crescendo Melodis Mascot Video - Portrait",
+      "translation": "Crescendo Melodis Mascot Video - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "bard_social_720x720.webm": {
+      "source": "Crescendo Melodis Mascot Video - Square",
+      "translation": "Crescendo Melodis Mascot Video - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "bodhi_social_1280x720.webm": {
+      "source": "Bodhi Mascot Video - Landscape",
+      "translation": "Bodhi Mascot Video - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "bodhi_social_720x1280.webm": {
+      "source": "Bodhi Mascot Video - Portrait",
+      "translation": "Bodhi Mascot Video - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "bodhi_social_720x720.webm": {
+      "source": "Bodhi Mascot Video - Square",
+      "translation": "Bodhi Mascot Video - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_dragon_arm_left": {
+      "source": "Coaster Attachment - Dragon Arm Left",
+      "translation": "Coaster Attachment - Dragon Arm Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_dragon_arm_right": {
+      "source": "Coaster Attachment - Dragon Arm Right",
+      "translation": "Coaster Attachment - Dragon Arm Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_dragon_head": {
+      "source": "Coaster Attachment - Dragon Head",
+      "translation": "Coaster Attachment - Dragon Head",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_dragon_tail": {
+      "source": "Coaster Attachment - Dragon Tail",
+      "translation": "Coaster Attachment - Dragon Tail",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_falcon": {
+      "source": "Coaster Attachment - Falcon",
+      "translation": "Coaster Attachment - Falcon",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_falcon_wing_left": {
+      "source": "Coaster Attachment - Falcon Wing Left",
+      "translation": "Coaster Attachment - Falcon Wing Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_falcon_wing_right": {
+      "source": "Coaster Attachment - Falcon Wing Right",
+      "translation": "Coaster Attachment - Falcon Wing Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "chief_beef_social_1280x720.webm": {
+      "source": "Chief Beef Mascot Video - Landscape",
+      "translation": "Chief Beef Mascot Video - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "chief_beef_social_720x1280.webm": {
+      "source": "Chief Beef Mascot Video - Portrait",
+      "translation": "Chief Beef Mascot Video - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "chief_beef_social_720x720.webm": {
+      "source": "Chief Beef Mascot Video - Square",
+      "translation": "Chief Beef Mascot Video - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "chiefbeef_advert_1280x720.webm": {
+      "source": "Chief Beef Advert - Landscape",
+      "translation": "Chief Beef Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "chiefbeef_advert_720x1280.webm": {
+      "source": "Chief Beef Advert - Portrait",
+      "translation": "Chief Beef Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "chiefbeef_advert_720x720.webm": {
+      "source": "Chief Beef Advert - Square",
+      "translation": "Chief Beef Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_blackfalconstock": {
+      "source": "Wing - Chain Lift (Standard)",
+      "translation": "Wing - Chain Lift (Standard)",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_blackfalconstock_desc": {
+      "source": "A chain-lift coaster that positions riders either side of the track, with nothing above or below them, giving an unparalleled sense of freedom.",
+      "translation": "A chain-lift coaster that positions riders either side of the track, with nothing above or below them, giving an unparalleled sense of freedom.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_dragonstock": {
+      "source": "Junior (Standard)",
+      "translation": "Junior (Standard)",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_dragonstock_desc": {
+      "source": "A thrilling coaster that's fun for all the family!",
+      "translation": "A thrilling coaster that's fun for all the family!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_blackfalconstock": {
+      "source": "Wing - Chain Lift (Standard)",
+      "translation": "Wing - Chain Lift (Standard)",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_dragonstock": {
+      "source": "Junior (Standard)",
+      "translation": "Junior (Standard)",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "customtexture": {
+      "source": "{TEX}",
+      "translation": "{TEX}",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "diver_social_1280x720.webm": {
+      "source": "Sandy Reef Mascot Video - Landscape",
+      "translation": "Sandy Reef Mascot Video - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "diver_social_720x1280.webm": {
+      "source": "Sandy Reef Mascot Video - Portrait",
+      "translation": "Sandy Reef Mascot Video - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "diver_social_720x720.webm": {
+      "source": "Sandy Reef Mascot Video - Square",
+      "translation": "Sandy Reef Mascot Video - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "gelato_bros_advert_1280x720.webm": {
+      "source": "Gelato Bros Advert - Landscape",
+      "translation": "Gelato Bros Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "gelato_bros_advert_720x1280.webm": {
+      "source": "Gelato Bros Advert - Portrait",
+      "translation": "Gelato Bros Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "gelato_bros_advert_720x720.webm": {
+      "source": "Gelato Bros Advert - Square",
+      "translation": "Gelato Bros Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "gulpee_social_1280x720.webm": {
+      "source": "Gulpee Mascot Video - Landscape",
+      "translation": "Gulpee Mascot Video - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "gulpee_social_720x1280.webm": {
+      "source": "Gulpee Mascot Video - Portrait",
+      "translation": "Gulpee Mascot Video - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "gulpee_social_720x720.webm": {
+      "source": "Gulpee Mascot Video - Square",
+      "translation": "Gulpee Mascot Video - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "hats_fantastic_advert_1280x720.webm": {
+      "source": "Hat's Fantastic Advert - Landscape",
+      "translation": "Hat's Fantastic Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "hats_fantastic_advert_720x1280.webm": {
+      "source": "Hat's Fantastic Advert - Portrait",
+      "translation": "Hat's Fantastic Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "hats_fantastic_advert_720x720.webm": {
+      "source": "Hat's Fantastic Advert - Square",
+      "translation": "Hat's Fantastic Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "hayo sushi_advert_1280x720.webm": {
+      "source": "Haya Sushi Advert - Landscape",
+      "translation": "Haya Sushi Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "hayo sushi_advert_720x1280.webm": {
+      "source": "Haya Sushi Advert - Portrait",
+      "translation": "Haya Sushi Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "hayo sushi_advert_720x720.webm": {
+      "source": "Haya Sushi Advert - Square",
+      "translation": "Haya Sushi Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "hotd0gsquad_advert_1280x720.webm": {
+      "source": "Hot Dog Squad Advert - Landscape",
+      "translation": "Hot Dog Squad Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "hotd0gsquad_advert_720x1280.webm": {
+      "source": "Hot Dog Squad Advert - Portrait",
+      "translation": "Hot Dog Squad Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "hotd0gsquad_advert_720x720.webm": {
+      "source": "Hot Dog Squad Advert - Square",
+      "translation": "Hot Dog Squad Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "just_a_momento_advert_1280x720.webm": {
+      "source": "Just A Momento Advert - Landscape",
+      "translation": "Just A Momento Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "just_a_momento_advert_720x1280.webm": {
+      "source": "Just A Momento Advert - Portrait",
+      "translation": "Just A Momento Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "just_a_momento_advert_720x720.webm": {
+      "source": "Just A Momento Advert - Square",
+      "translation": "Just A Momento Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "kingcoaster_social_1280x720.webm": {
+      "source": "King Coaster Mascot Video - Landscape",
+      "translation": "King Coaster Mascot Video - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "kingcoaster_social_720x1280.webm": {
+      "source": "King Coaster Mascot Video - Portrait",
+      "translation": "King Coaster Mascot Video - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "kingcoaster_social_720x720.webm": {
+      "source": "King Coaster Mascot Video - Square",
+      "translation": "King Coaster Mascot Video - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "latte love_advert_1280x720.webm": {
+      "source": "Latte Love Advert - Landscape",
+      "translation": "Latte Love Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "latte love_advert_720x1280.webm": {
+      "source": "Latte Love Advert - Portrait",
+      "translation": "Latte Love Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "latte love_advert_720x720.webm": {
+      "source": "Latte Love Advert - Square",
+      "translation": "Latte Love Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pizzapen_advert_1280x720.webm": {
+      "source": "Pizza Pen Advert - Landscape",
+      "translation": "Pizza Pen Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pizzapen_advert_720x1280.webm": {
+      "source": "Pizza Pen Advert - Portrait",
+      "translation": "Pizza Pen Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pizzapen_advert_720x720.webm": {
+      "source": "Pizza Pen Advert - Square",
+      "translation": "Pizza Pen Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "queen splash emporium_1280x720.webm": {
+      "source": "Splash Emporium Advert - Landscape",
+      "translation": "Splash Emporium Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "queen splash emporium_720x1280.webm": {
+      "source": "Splash Emporium Advert - Portrait",
+      "translation": "Splash Emporium Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "queen splash emporium_720x720.webm": {
+      "source": "Splash Emporium Advert - Square",
+      "translation": "Splash Emporium Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "queen_splash_social_1280x720.webm": {
+      "source": "Queen Splash Mascot Video - Landscape",
+      "translation": "Queen Splash Mascot Video - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "queen_splash_social_720x1280.webm": {
+      "source": "Queen Splash Mascot Video - Portrait",
+      "translation": "Queen Splash Mascot Video - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "queen_splash_social_720x720.webm": {
+      "source": "Queen Splash Mascot Video - Square",
+      "translation": "Queen Splash Mascot Video - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "saguaro_guitaro_social_1280x720.webm": {
+      "source": "Saguaro Guitaro Mascot Video - Landscape",
+      "translation": "Saguaro Guitaro Mascot Video - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "saguaro_guitaro_social_720x1280.webm": {
+      "source": "Saguaro Guitaro Mascot Video - Portrait",
+      "translation": "Saguaro Guitaro Mascot Video - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "saguaro_guitaro_social_720x720.webm": {
+      "source": "Saguaro Guitaro Mascot Video - Square",
+      "translation": "Saguaro Guitaro Mascot Video - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_spinmid": {
+      "source": "Mid Spin",
+      "translation": "Mid Spin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_spinmidflip": {
+      "source": "Mid Spin Flip",
+      "translation": "Mid Spin Flip",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_spinmidflipreverse": {
+      "source": "Mid Spin Flip Reverse",
+      "translation": "Mid Spin Flip Reverse",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_spinmidreverse": {
+      "source": "Mid Spin Reverse",
+      "translation": "Mid Spin Reverse",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_spintop": {
+      "source": "Top Spin",
+      "translation": "Top Spin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_spintopreverse": {
+      "source": "Top Spin Reverse",
+      "translation": "Top Spin Reverse",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_spintopturn": {
+      "source": "Top Spin Turn",
+      "translation": "Top Spin Turn",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_spintopturnflip": {
+      "source": "Top Spin Turn Flip",
+      "translation": "Top Spin Turn Flip",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_spintopturnflipreverse": {
+      "source": "Top Spin Turn Flip Reverse",
+      "translation": "Top Spin Turn Flip Reverse",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_spintopturnreverse": {
+      "source": "Top Spin Turn Reverse",
+      "translation": "Top Spin Turn Reverse",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_topflip": {
+      "source": "Top Flip",
+      "translation": "Top Flip",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_topflipreverse": {
+      "source": "Top Flip Reverse",
+      "translation": "Top Flip Reverse",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_topturn": {
+      "source": "Top Turn",
+      "translation": "Top Turn",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_topturnflip": {
+      "source": "Top Turn Flip",
+      "translation": "Top Turn Flip",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_pathosiii_topturnflipreverse": {
+      "source": "Top Turn Flip Reverse",
+      "translation": "Top Turn Flip Reverse",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "slush_hour_advert_1280x720.webm": {
+      "source": "Slush Hour Advert - Landscape",
+      "translation": "Slush Hour Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "slush_hour_advert_720x1280.webm": {
+      "source": "Slush Hour Advert - Portrait",
+      "translation": "Slush Hour Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "slush_hour_advert_720x720.webm": {
+      "source": "Slush Hour Advert - Square",
+      "translation": "Slush Hour Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "soda lightful_advert_1280x720.webm": {
+      "source": "Soda Lightful Advert - Landscape",
+      "translation": "Soda Lightful Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "soda lightful_advert_720x1280.webm": {
+      "source": "Soda Lightful Advert - Portrait",
+      "translation": "Soda Lightful Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "soda lightful_advert_720x720.webm": {
+      "source": "Soda Lightful Advert - Square",
+      "translation": "Soda Lightful Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_blackfalconstock": {
+      "source": "Valais & Nidwalden <b>Wing - Chain Lift (Standard)</b>",
+      "translation": "Valais & Nidwalden <b>Wing - Chain Lift (Standard)</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_dragonstock": {
+      "source": "Zephyr <b>Junior Coaster (Standard)</b>",
+      "translation": "Zephyr <b>Junior Coaster (Standard)</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "viking_social_1280x720.webm": {
+      "source": "Viking Mascot Video - Landscape",
+      "translation": "Viking Mascot Video - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "viking_social_720x1280.webm": {
+      "source": "Viking Mascot Video - Portrait",
+      "translation": "Viking Mascot Video - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "viking_social_720x720.webm": {
+      "source": "Viking Mascot Video - Square",
+      "translation": "Viking Mascot Video - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "viva la vegan_advert_1280x720.webm": {
+      "source": "Viva La Vegan Advert - Landscape",
+      "translation": "Viva La Vegan Advert - Landscape",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "viva la vegan_advert_720x1280.webm": {
+      "source": "Viva La Vegan Advert - Portrait",
+      "translation": "Viva La Vegan Advert - Portrait",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "viva la vegan_advert_720x720.webm": {
+      "source": "Viva La Vegan Advert - Square",
+      "translation": "Viva La Vegan Advert - Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    }
+  }
+}

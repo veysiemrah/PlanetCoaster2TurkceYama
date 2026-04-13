@@ -1,0 +1,827 @@
+{
+  "meta": {
+    "language": "tr",
+    "source_language": "en",
+    "content_pack": "ContentAnniversary",
+    "game_version": "extracted",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "blueprint_powered_ptr_quickdraw": {
+      "source": "Bounty Hunter",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_powered_ptr_quickdraw_desc": {
+      "source": "Saddle up and serve some frontier justice on this outlaw-wranglin' Shooting Ride layout.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_target_flipper_l_large": {
+      "source": "Target - Flipper Arm Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_target_flipper_l_medium": {
+      "source": "Target - Flipper Arm Medium",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_target_flipper_l_small": {
+      "source": "Target - Flipper Arm Small",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_target_flipper_s_large": {
+      "source": "Target - Flipper Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_target_flipper_s_medium": {
+      "source": "Target - Flipper Medium",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_target_flipper_s_small": {
+      "source": "Target - Flipper Small",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_target_standard_large": {
+      "source": "Target - Fixed Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_target_standard_medium": {
+      "source": "Target - Fixed Medium",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_target_standard_small": {
+      "source": "Target - Fixed Small",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "gbh_minigame_points": {
+      "source": "Points",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_activateeverylabel": {
+      "source": "Activate Every",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_activateeveryx": {
+      "source": "Activate Every X Seconds",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_activateeveryxtooltip": {
+      "source": "Activate this target for a controllable amount of time every X seconds. The value of X can be changed.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_activateontriggertooltip": {
+      "source": "Target will only become shootable once it has been triggered.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_activeuntilshot": {
+      "source": "Stay Active Until Shot",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_activeuntilshottooltip": {
+      "source": "Target will stay active until it is shot.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_connectedtoridesheader": {
+      "source": "Shooting Ride",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_deactivate": {
+      "source": "Deactivate",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_deactivatetooltip": {
+      "source": "Target will remain inactive and unshootable.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_durationlabel": {
+      "source": "Duration",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_editsequencebutton": {
+      "source": "Edit Shoot Trigger Sequence",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_makesequencebutton": {
+      "source": "Create Shoot Trigger Sequence",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_notconnectedtoshootingdesc": {
+      "source": "This Target is not connected to a Shooting Ride, and so cannot be shot.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_playsequencebutton": {
+      "source": "Play Shoot Trigger Sequence",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_selectalltooltip": {
+      "source": "Select all items from this Target's shoot sequence.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_sequenceredittriggersdescription": {
+      "source": "Create a sequence that will play when the Target is shot.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_sequenceredittriggerstitle": {
+      "source": "Edit Shoot Trigger Sequence",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_setpoints": {
+      "source": "Points",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_staydeactivated": {
+      "source": "Stay Deactivated For",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootabletarget_triggertab": {
+      "source": "Triggers",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_confirmselection": {
+      "source": "Connect Selection to Ride",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_confirmselectiontoomanyitems": {
+      "source": "Too many items to connect to Ride.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_connecttargets": {
+      "source": "Connect Targets",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_connecttargetstooltip": {
+      "source": "Connect Targets so they can be shot from this ride.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_editammolimit": {
+      "source": "Ammo Limit",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_editammolimittooltip": {
+      "source": "Number of shots per run",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_editbutton": {
+      "source": "Edit Shooting Ride",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_editdescription": {
+      "source": "Connect Scenery Targets to shoot and edit ammo settings.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_editfreecamera": {
+      "source": "Free Camera Shooting",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_editfreecameratooltip": {
+      "source": "Toggle whether the player camera moves freely or follows the orientation of the train.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_editnotargets": {
+      "source": "No Targets currently connected",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_editremovealltargetstooltip": {
+      "source": "Disconnect all Targets",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_editsettings": {
+      "source": "Settings",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_edittargetfocustooltip": {
+      "source": "Focus on Target",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_edittargetremovetooltip": {
+      "source": "Disconnect Target",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_edittargets": {
+      "source": "Targets",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_edittestminigame": {
+      "source": "Test Shooting Ride",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_edittitle": {
+      "source": "Edit Shooting Ride",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_guntype": {
+      "source": "Select Gun Sound",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_infiniteammo": {
+      "source": "Infinite Ammo",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_playertraintriggersonly": {
+      "source": "Player Train Triggers Only",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_playertraintriggersonlytooltip": {
+      "source": "While in the Shooting Ride, only the train you are in will activate triggers.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_playminigame": {
+      "source": "Start Shooting Ride",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_playminigametooltip": {
+      "source": "Start the Shooting Ride to try and get a high score!",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_score": {
+      "source": "{Name} {Score:int:minDigits=1}",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_scorenum": {
+      "source": "{Score:int:minDigits=1}",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_shootingunavailable": {
+      "source": "Shooting Ride is only available when testing or open.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_shotsingorescenery": {
+      "source": "Shots Ignore Scenery",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_shotsingorescenerytooltip": {
+      "source": "Toggle whether Scenery blocks shots from hitting targets.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetlistheader": {
+      "source": "Shootable Targets",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectavailablelabel": {
+      "source": "Available Targets in Radius",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectavailabletooltip": {
+      "source": "Available Targets in the Ride's radius.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectconnectedlabel": {
+      "source": "Targets connected to Ride",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectconnectedlistlabel": {
+      "source": "Connected Targets",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectconnectedtooltip": {
+      "source": "Targets that are already attached to the Ride.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectconnectedvalue": {
+      "source": "{COUNT:separatedFloat:decimalPlaces=0}/{LIMIT:separatedFloat:decimalPlaces=0}",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectdescription": {
+      "source": "Use the Multi-Select tool to connect new Targets to your Ride.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectgetmorebutton": {
+      "source": "Get More Targets",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectselectedlabel": {
+      "source": "Selected Targets",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectselectedlistlabel": {
+      "source": "Selected Targets",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectselectedtooltip": {
+      "source": "Currently selected Targets",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectselectedvalue": {
+      "source": "{COUNT:separatedFloat:decimalPlaces=0}/{LIMIT:separatedFloat:decimalPlaces=0}",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselectsubtitle": {
+      "source": "Connect Targets to Ride",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_targetselecttitle": {
+      "source": "Shootable Target Selector",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_testminigametooltip": {
+      "source": "Try the Shooting Ride without submitting a score.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_shootingminigame_topscores": {
+      "source": "Shooting High Scores",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_targets_01": {
+      "source": "Target Cluster 1",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_targets_01_desc": {
+      "source": "A group of Shooting Ride targets.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_targets_02": {
+      "source": "Target Cluster 2",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_targets_02_desc": {
+      "source": "A group of Shooting Ride targets.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_targets_03": {
+      "source": "Target Cluster 3",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_targets_03_desc": {
+      "source": "A group of Shooting Ride targets.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_targets_04": {
+      "source": "Target Cluster 4",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_targets_04_desc": {
+      "source": "A group of Shooting Ride targets.",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "powered_ptr_quickdraw": {
+      "source": "Interactive Shooting Ride",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "powered_ptr_quickdraw_desc": {
+      "source": "Get ready, take aim and fire aboard this on-the-rails target range experience!",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "powered_type_ptr_quickdraw": {
+      "source": "Interactive Shooting Ride",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingminigame_combobroken": {
+      "source": "Combo Broken!",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingminigame_combogood": {
+      "source": "5x Combo",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingminigame_combogreat": {
+      "source": "10x Combo",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingminigame_combomax": {
+      "source": "MAX Combo",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingminigame_combostarted": {
+      "source": "2x Combo",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingpanel_combo": {
+      "source": "{MULTIPLIER:separatedFloat:decimalPlaces=0}x Combo",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingpanel_minigame": {
+      "source": "Shooting Ride",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingscorefanfare_continueplaying": {
+      "source": "Continue Playing",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingscorefanfare_enteryourname": {
+      "source": "Enter Your Name:",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingscorefanfare_gameover": {
+      "source": "Game Over!",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingscorefanfare_newhighscore": {
+      "source": "New High Score!",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingscorefanfare_nohighscore": {
+      "source": "No High Score this time",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shootingscorefanfare_quit": {
+      "source": "Quit",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    }
+  }
+}

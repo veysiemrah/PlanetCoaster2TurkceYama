@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "language": "en",
+    "source_language": "en",
+    "content_pack": "Content7",
+    "game_version": "extracted",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "flying_theatre_test.webm": {
+      "source": "FLYING_THEATRE_TEST",
+      "translation": "FLYING_THEATRE_TEST",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "flyingtheatre_video_forest.webm": {
+      "source": "Cinematic Experience - Winding Down Woodland",
+      "translation": "Cinematic Experience - Winding Down Woodland",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "flyingtheatre_video_highlands.webm": {
+      "source": "Cinematic Experience - High Above Highlands",
+      "translation": "Cinematic Experience - High Above Highlands",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "flyingtheatre_video_ruins.webm": {
+      "source": "Cinematic Experience - Rising Over Ruins",
+      "translation": "Cinematic Experience - Rising Over Ruins",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "flyingtheatre_video_space.webm": {
+      "source": "Cinematic Experience - Cascading Cosmos",
+      "translation": "Cinematic Experience - Cascading Cosmos",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_fluff_enteredqueueforfavouriteride_common_01": {
+      "source": "I'm queueing for my favourite ride! I can't wait!",
+      "translation": "I'm queueing for my favourite ride! I can't wait!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_fluff_enteredqueueforride_highscore_common_01": {
+      "source": "The ride I'm queuing for looks really fun.",
+      "translation": "The ride I'm queuing for looks really fun.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_fluff_inqueue_extremewait_common_01": {
+      "source": "The queuing time for {reference} is ridiculous! Never again.",
+      "translation": "The queuing time for {reference} is ridiculous! Never again.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_fluff_inqueue_longwait_common_01": {
+      "source": "I've been queueing for {reference} for a while now… Not great.",
+      "translation": "I've been queueing for {reference} for a while now… Not great.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_fluff_kickedoutofqueue_common_01": {
+      "source": "I got kicked out of a ride's queue! Better find something else to do.",
+      "translation": "I got kicked out of a ride's queue! Better find something else to do.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_parkexit_unhappy_poolpassrefund_common_01": {
+      "source": "I've had my pool pass refunded, what a terrible experience!",
+      "translation": "I've had my pool pass refunded, what a terrible experience!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    }
+  }
+}

@@ -1,0 +1,3507 @@
+{
+  "meta": {
+    "language": "en",
+    "source_language": "en",
+    "content_pack": "ContentPDLC2",
+    "game_version": "extracted",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "blueprint_coaster_outamax_bike_and_sidecar_coaster_01": {
+      "source": "Torque",
+      "translation": "Torque",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_outamax_bike_and_sidecar_coaster_01_desc": {
+      "source": "A multi-launch experience that puts the pedal to the metal with your guests in the driving seat.",
+      "translation": "A multi-launch experience that puts the pedal to the metal with your guests in the driving seat.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_outamax_lsm_raid_coaster_01": {
+      "source": "Ultraviolet",
+      "translation": "Ultraviolet",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_outamax_lsm_raid_coaster_01_desc": {
+      "source": "If upside-down wasn't enough, get ready to swing back and forth on this world-class layout that your guests will never forget.",
+      "translation": "If upside-down wasn't enough, get ready to swing back and forth on this world-class layout that your guests will never forget.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_vector_child_coaster_01": {
+      "source": "Sky Sailor",
+      "translation": "Sky Sailor",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_vector_child_coaster_01_desc": {
+      "source": "All aboard this child-friendly course of twists and turns that's sure to put the wind in your guests' sails.",
+      "translation": "All aboard this child-friendly course of twists and turns that's sure to put the wind in your guests' sails.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_vector_child_coaster_return_01": {
+      "source": "Backtrack",
+      "translation": "Backtrack",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_vector_child_coaster_return_01_desc": {
+      "source": "Don't be afraid to retrace your steps on this dual-direction layout.",
+      "translation": "Don't be afraid to retrace your steps on this dual-direction layout.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_sorcery_magiceffect_01": {
+      "source": "Special Effect - Sorcery 1",
+      "translation": "Special Effect - Sorcery 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_sorcery_magiceffect_02": {
+      "source": "Special Effect - Sorcery 2",
+      "translation": "Special Effect - Sorcery 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_sorcery_smoke_01": {
+      "source": "Special Effect - Magical Smoke 1",
+      "translation": "Special Effect - Magical Smoke 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_sorcery_smoke_02": {
+      "source": "Special Effect - Magical Smoke 2",
+      "translation": "Special Effect - Magical Smoke 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_souvenirshop_guesthat_sorcery": {
+      "source": "Spellcaster's Hat",
+      "translation": "Spellcaster's Hat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_bench_01": {
+      "source": "Sorcery Bench",
+      "translation": "Sorcery Bench",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_bins_01": {
+      "source": "Sorcery Bin",
+      "translation": "Sorcery Bin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_crystal_01": {
+      "source": "Sorcery Crystals - Single",
+      "translation": "Sorcery Crystals - Single",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_crystal_claw_01": {
+      "source": "Sorcery Crystals - Claw 1",
+      "translation": "Sorcery Crystals - Claw 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_crystal_claw_02": {
+      "source": "Sorcery Crystals - Claw 2",
+      "translation": "Sorcery Crystals - Claw 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_crystal_cluster_01": {
+      "source": "Sorcery Crystals - Cluster 1",
+      "translation": "Sorcery Crystals - Cluster 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_crystal_cluster_02": {
+      "source": "Sorcery Crystals - Cluster 2",
+      "translation": "Sorcery Crystals - Cluster 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_crystal_cluster_03": {
+      "source": "Sorcery Crystals - Cluster 3",
+      "translation": "Sorcery Crystals - Cluster 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_crystal_stand_01": {
+      "source": "Sorcery Crystals - Plinth",
+      "translation": "Sorcery Crystals - Plinth",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_door_01": {
+      "source": "Keep Door - Tall Single",
+      "translation": "Keep Door - Tall Single",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_door_02": {
+      "source": "Townhouse Door - Ornate Wooden Single",
+      "translation": "Townhouse Door - Ornate Wooden Single",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_door_03": {
+      "source": "Keep Door - Tall Double",
+      "translation": "Keep Door - Tall Double",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_door_04": {
+      "source": "Keep Door - Single Arched",
+      "translation": "Keep Door - Single Arched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_door_05": {
+      "source": "Townhouse Door - Industrial Single",
+      "translation": "Townhouse Door - Industrial Single",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_door_06": {
+      "source": "Townhouse Door - Windowed Single",
+      "translation": "Townhouse Door - Windowed Single",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_door_07": {
+      "source": "Townhouse Door - Wide Double",
+      "translation": "Townhouse Door - Wide Double",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_eggsac": {
+      "source": "Giant Spider - Egg Sac",
+      "translation": "Giant Spider - Egg Sac",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_fence_01": {
+      "source": "Sorcery Fence",
+      "translation": "Sorcery Fence",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_fence_02": {
+      "source": "Sorcery Fence 2",
+      "translation": "Sorcery Fence 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_arch_bottom_01": {
+      "source": "Sorcerer's Keep - Thin Arch Extension",
+      "translation": "Sorcerer's Keep - Thin Arch Extension",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_arch_decoration_01": {
+      "source": "Sorcerer's Keep - Tympanum",
+      "translation": "Sorcerer's Keep - Tympanum",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_arch_gable_01": {
+      "source": "Sorcerer's Keep - Gable Pointed Arch",
+      "translation": "Sorcerer's Keep - Gable Pointed Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_arch_large_01": {
+      "source": "Sorcerer's Keep - Large Pointed Arch",
+      "translation": "Sorcerer's Keep - Large Pointed Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_arch_medium_01": {
+      "source": "Sorcerer's Keep - Thin Rounded Arch",
+      "translation": "Sorcerer's Keep - Thin Rounded Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_arch_small_01": {
+      "source": "Sorcerer's Keep - Thin Squint Arch",
+      "translation": "Sorcerer's Keep - Thin Squint Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_arch_stepped_01": {
+      "source": "Sorcerer's Keep - Stepped Arch",
+      "translation": "Sorcerer's Keep - Stepped Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_buttress_medium_01": {
+      "source": "Sorcerer's Keep - Straight Buttress",
+      "translation": "Sorcerer's Keep - Straight Buttress",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_buttress_medium_02": {
+      "source": "Sorcerer's Keep - Curved Buttress ",
+      "translation": "Sorcerer's Keep - Curved Buttress ",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_buttress_medium_03": {
+      "source": "Sorcerer's Keep - Protruding Buttress ",
+      "translation": "Sorcerer's Keep - Protruding Buttress ",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_buttress_small_01": {
+      "source": "Sorcerer's Keep - Small Buttress ",
+      "translation": "Sorcerer's Keep - Small Buttress ",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_column_large_01": {
+      "source": "Sorcerer's Keep - Large Column",
+      "translation": "Sorcerer's Keep - Large Column",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_column_medium_01": {
+      "source": "Sorcerer's Keep - Medium Column 1",
+      "translation": "Sorcerer's Keep - Medium Column 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_column_medium_02": {
+      "source": "Sorcerer's Keep - Medium Column 2",
+      "translation": "Sorcerer's Keep - Medium Column 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_column_small_01": {
+      "source": "Sorcerer's Keep - Small Column 1",
+      "translation": "Sorcerer's Keep - Small Column 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_column_small_02": {
+      "source": "Sorcerer's Keep - Small Column 2",
+      "translation": "Sorcerer's Keep - Small Column 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_column_small_03": {
+      "source": "Sorcerer's Keep - Small Column 3",
+      "translation": "Sorcerer's Keep - Small Column 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_column_small_04": {
+      "source": "Sorcerer's Keep - Small Column 4",
+      "translation": "Sorcerer's Keep - Small Column 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_flying_buttress_01": {
+      "source": "Sorcerer's Keep - Flying Buttress 1",
+      "translation": "Sorcerer's Keep - Flying Buttress 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_flying_buttress_02": {
+      "source": "Sorcerer's Keep - Flying Buttress 2",
+      "translation": "Sorcerer's Keep - Flying Buttress 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_flying_buttress_03": {
+      "source": "Sorcerer's Keep - Flying Buttress 3",
+      "translation": "Sorcerer's Keep - Flying Buttress 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_oriel_01": {
+      "source": "Sorcerer's Keep - Oriel 1",
+      "translation": "Sorcerer's Keep - Oriel 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_oriel_02": {
+      "source": "Sorcerer's Keep - Oriel 2",
+      "translation": "Sorcerer's Keep - Oriel 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_pedestal_large_01": {
+      "source": "Sorcerer's Keep - Large Pedestal Raised",
+      "translation": "Sorcerer's Keep - Large Pedestal Raised",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_pedestal_large_02": {
+      "source": "Sorcerer's Keep - Large Pedestal Flat",
+      "translation": "Sorcerer's Keep - Large Pedestal Flat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_pedestal_medium_01": {
+      "source": "Sorcerer's Keep - Medium Pedestal Raised",
+      "translation": "Sorcerer's Keep - Medium Pedestal Raised",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_pedestal_medium_02": {
+      "source": "Sorcerer's Keep - Medium Pedestal Star",
+      "translation": "Sorcerer's Keep - Medium Pedestal Star",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_pedestal_medium_03": {
+      "source": "Sorcerer's Keep - Medium Pedestal Hexagonal",
+      "translation": "Sorcerer's Keep - Medium Pedestal Hexagonal",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_quatrefoil_01": {
+      "source": "Sorcerer's Keep - Trefoil Tracery",
+      "translation": "Sorcerer's Keep - Trefoil Tracery",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_roof_dome_01": {
+      "source": "Sorcerer's Keep - Turret Round Tall",
+      "translation": "Sorcerer's Keep - Turret Round Tall",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_roof_dome_02": {
+      "source": "Sorcerer's Keep - Turret Round ",
+      "translation": "Sorcerer's Keep - Turret Round ",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_roof_spire_01": {
+      "source": "Sorcerer's Keep - Spire Pointed",
+      "translation": "Sorcerer's Keep - Spire Pointed",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_roof_spire_02": {
+      "source": "Sorcerer's Keep - Spire Square",
+      "translation": "Sorcerer's Keep - Spire Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_roof_spire_03": {
+      "source": "Sorcerer's Keep - Spire Hexagonal",
+      "translation": "Sorcerer's Keep - Spire Hexagonal",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_roof_topper_01": {
+      "source": "Sorcerer's Keep - Spire Finial 1",
+      "translation": "Sorcerer's Keep - Spire Finial 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_roof_topper_02": {
+      "source": "Sorcerer's Keep - Spire Finial 2",
+      "translation": "Sorcerer's Keep - Spire Finial 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_roof_topper_03": {
+      "source": "Sorcerer's Keep - Spire Finial 3",
+      "translation": "Sorcerer's Keep - Spire Finial 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_rooftrim_01_4m": {
+      "source": "Sorcerer's Keep - Roof Trim 4m",
+      "translation": "Sorcerer's Keep - Roof Trim 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_spire_01": {
+      "source": "Sorcerer's Keep - Pinnacle",
+      "translation": "Sorcerer's Keep - Pinnacle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_steps_cnr_angle_01": {
+      "source": "Sorcerer's Keep - Steps Corner Straight",
+      "translation": "Sorcerer's Keep - Steps Corner Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_steps_cnr_rnd_01": {
+      "source": "Sorcerer's Keep - Steps Corner Round",
+      "translation": "Sorcerer's Keep - Steps Corner Round",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_steps_straight_01": {
+      "source": "Sorcerer's Keep - Steps 1",
+      "translation": "Sorcerer's Keep - Steps 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_architecture_steps_straight_02": {
+      "source": "Sorcerer's Keep - Steps 2",
+      "translation": "Sorcerer's Keep - Steps 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_floor": {
+      "source": "Keep Stone Floor",
+      "translation": "Keep Stone Floor",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_floor_quarter": {
+      "source": "Keep Stone Floor - Quarter 1",
+      "translation": "Keep Stone Floor - Quarter 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_floor_quarter_02": {
+      "source": "Keep Stone Floor - Quarter 2",
+      "translation": "Keep Stone Floor - Quarter 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_gabletri_1m": {
+      "source": "Keep Stone Wall - 1m Gable End",
+      "translation": "Keep Stone Wall - 1m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_gabletri_2m": {
+      "source": "Keep Stone Wall - 2m Gable End",
+      "translation": "Keep Stone Wall - 2m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_gabletri_4m": {
+      "source": "Keep Stone Wall - 4m Gable End",
+      "translation": "Keep Stone Wall - 4m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_half_1m": {
+      "source": "Keep Stone Wall - 1m Half Width",
+      "translation": "Keep Stone Wall - 1m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_half_2m": {
+      "source": "Keep Stone Wall - 2m Half Width",
+      "translation": "Keep Stone Wall - 2m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_half_4m": {
+      "source": "Keep Stone Wall - 4m Half Width",
+      "translation": "Keep Stone Wall - 4m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_1m": {
+      "source": "Keep Stone Wall 1m",
+      "translation": "Keep Stone Wall 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_2m": {
+      "source": "Keep Stone Wall 2m",
+      "translation": "Keep Stone Wall 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_4m": {
+      "source": "Keep Stone Wall 4m",
+      "translation": "Keep Stone Wall 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_archextention_4m": {
+      "source": "Keep Stone Wall - Arch Extension",
+      "translation": "Keep Stone Wall - Arch Extension",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_archround_4m": {
+      "source": "Keep Stone Wall - Arch 1",
+      "translation": "Keep Stone Wall - Arch 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_archstraight_4m": {
+      "source": "Keep Stone Wall - Arch 2",
+      "translation": "Keep Stone Wall - Arch 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_cap": {
+      "source": "Keep Stone Wall - Ridge Cap",
+      "translation": "Keep Stone Wall - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_curve": {
+      "source": "Keep Stone Wall - 4 x 2m Curved Slope",
+      "translation": "Keep Stone Wall - 4 x 2m Curved Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_curve_inverse": {
+      "source": "Keep Stone Wall - 4 x 2m Inverse Slope",
+      "translation": "Keep Stone Wall - 4 x 2m Inverse Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_door_4m": {
+      "source": "Keep Stone Wall - With Door",
+      "translation": "Keep Stone Wall - With Door",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_largewindow_4m": {
+      "source": "Keep Stone Wall - Large Window",
+      "translation": "Keep Stone Wall - Large Window",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_shopfront": {
+      "source": "Keep Stone Wall - Shop Front",
+      "translation": "Keep Stone Wall - Shop Front",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_slope_1m": {
+      "source": "Keep Stone Wall - Slope 1m",
+      "translation": "Keep Stone Wall - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_slope_2m": {
+      "source": "Keep Stone Wall - Slope 2m",
+      "translation": "Keep Stone Wall - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_slope_4m": {
+      "source": "Keep Stone Wall - Slope 4m",
+      "translation": "Keep Stone Wall - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_station_surround_01": {
+      "source": "Keep Stone Wall - Station Surround 1",
+      "translation": "Keep Stone Wall - Station Surround 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_merge_station_surround_02": {
+      "source": "Keep Stone Wall - Station Surround 2",
+      "translation": "Keep Stone Wall - Station Surround 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_round_1m": {
+      "source": "Keep Stone Wall - Round 1m",
+      "translation": "Keep Stone Wall - Round 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_round_2m": {
+      "source": "Keep Stone Wall - Round 2m",
+      "translation": "Keep Stone Wall - Round 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_keep_round_4m": {
+      "source": "Keep Stone Wall - Round 4m",
+      "translation": "Keep Stone Wall - Round 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_armillary_01": {
+      "source": "Armillary",
+      "translation": "Armillary",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_armillary_base_01": {
+      "source": "Armillary - Base",
+      "translation": "Armillary - Base",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_armillary_orb_01": {
+      "source": "Armillary - Orb",
+      "translation": "Armillary - Orb",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_armillary_pillar_01": {
+      "source": "Armillary - Pillar",
+      "translation": "Armillary - Pillar",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_bottle_01": {
+      "source": "Bottle Lamp 1",
+      "translation": "Bottle Lamp 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_bottle_02": {
+      "source": "Bottle Lamp 2",
+      "translation": "Bottle Lamp 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_bottle_03": {
+      "source": "Bottle Lamp 3",
+      "translation": "Bottle Lamp 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_bottle_04": {
+      "source": "Bottle Lamp 4",
+      "translation": "Bottle Lamp 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_bottle_05": {
+      "source": "Bottle Lamp 5",
+      "translation": "Bottle Lamp 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_bottle_bracket": {
+      "source": "Bottle Lamp Bracket",
+      "translation": "Bottle Lamp Bracket",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_candles_firepit": {
+      "source": "Sorcerer's Fire Pit",
+      "translation": "Sorcerer's Fire Pit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_candles_large": {
+      "source": "Candle Stand - Tall",
+      "translation": "Candle Stand - Tall",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_candles_medium": {
+      "source": "Candle Stand - Medium",
+      "translation": "Candle Stand - Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_candles_small": {
+      "source": "Candle Stand - Small",
+      "translation": "Candle Stand - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_cauldron_01": {
+      "source": "Sorcerer's Cauldron 1",
+      "translation": "Sorcerer's Cauldron 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_cauldron_02": {
+      "source": "Sorcerer's Cauldron 2",
+      "translation": "Sorcerer's Cauldron 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_cauldron_03": {
+      "source": "Sorcerer's Cauldron 3",
+      "translation": "Sorcerer's Cauldron 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lamppost_01": {
+      "source": "Sorcery Lamppost",
+      "translation": "Sorcery Lamppost",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lamppost_chain_long": {
+      "source": "Sorcery Lamppost Chain - Long",
+      "translation": "Sorcery Lamppost Chain - Long",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lamppost_chain_short": {
+      "source": "Sorcery Lamppost Chain - Short",
+      "translation": "Sorcery Lamppost Chain - Short",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lampposts_bracket_01": {
+      "source": "Sorcery Lamppost - Bracket 1",
+      "translation": "Sorcery Lamppost - Bracket 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lampposts_bracket_02": {
+      "source": "Sorcery Lamppost - Bracket 2",
+      "translation": "Sorcery Lamppost - Bracket 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lampposts_decoration_01": {
+      "source": "Sorcery Lamppost - Decoration 1",
+      "translation": "Sorcery Lamppost - Decoration 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lampposts_decoration_02": {
+      "source": "Sorcery Lamppost - Decoration 2",
+      "translation": "Sorcery Lamppost - Decoration 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lampposts_lamp_01": {
+      "source": "Sorcery Lamppost - Lamp 1",
+      "translation": "Sorcery Lamppost - Lamp 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lampposts_lamp_02": {
+      "source": "Sorcery Lamppost - Lamp 2",
+      "translation": "Sorcery Lamppost - Lamp 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lampposts_lamp_03": {
+      "source": "Sorcery Lamppost - Lamp 3",
+      "translation": "Sorcery Lamppost - Lamp 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lampposts_lamp_04": {
+      "source": "Sorcery Lamppost - Lamp 4",
+      "translation": "Sorcery Lamppost - Lamp 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lampposts_lamp_06": {
+      "source": "Sorcery Lamppost - Lamp 5",
+      "translation": "Sorcery Lamppost - Lamp 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lampposts_pole_01": {
+      "source": "Sorcery Lamppost - Post 1",
+      "translation": "Sorcery Lamppost - Post 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_lampposts_pole_02": {
+      "source": "Sorcery Lamppost - Post 2",
+      "translation": "Sorcery Lamppost - Post 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_sigils_large": {
+      "source": "Sorcerer's Sigil - Large",
+      "translation": "Sorcerer's Sigil - Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_sigils_small": {
+      "source": "Sorcerer's Sigil - Small",
+      "translation": "Sorcerer's Sigil - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_sign_01": {
+      "source": "Sorcery Lamppost - Sign 1",
+      "translation": "Sorcery Lamppost - Sign 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_lighting_sign_02": {
+      "source": "Sorcery Lamppost - Sign 2",
+      "translation": "Sorcery Lamppost - Sign 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_modularspider_baby_leg_bent": {
+      "source": "Giant Spider - Baby Leg Bent",
+      "translation": "Giant Spider - Baby Leg Bent",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_modularspider_baby_leg_stretched": {
+      "source": "Giant Spider - Baby Leg Stretched",
+      "translation": "Giant Spider - Baby Leg Stretched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_modularspider_bum": {
+      "source": "Giant Spider - Abdomen",
+      "translation": "Giant Spider - Abdomen",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_modularspider_complete_baby": {
+      "source": "Giant Spider - Complete Baby",
+      "translation": "Giant Spider - Complete Baby",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_modularspider_complete_mummy": {
+      "source": "Giant Spider - Complete",
+      "translation": "Giant Spider - Complete",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_modularspider_head": {
+      "source": "Giant Spider - Head",
+      "translation": "Giant Spider - Head",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_modularspider_leg_bent": {
+      "source": "Giant Spider - Leg Bent",
+      "translation": "Giant Spider - Leg Bent",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_modularspider_leg_stretched": {
+      "source": "Giant Spider - Leg Stretched",
+      "translation": "Giant Spider - Leg Stretched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_picnicbench_01": {
+      "source": "Sorcery Picnic Bench",
+      "translation": "Sorcery Picnic Bench",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_rock_short": {
+      "source": "Sorcery Rock 3",
+      "translation": "Sorcery Rock 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_rock_slim": {
+      "source": "Sorcery Rock 1",
+      "translation": "Sorcery Rock 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_rock_tall": {
+      "source": "Sorcery Rock 2",
+      "translation": "Sorcery Rock 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_1m": {
+      "source": "Keep Tile Roof - Slope 1m",
+      "translation": "Keep Tile Roof - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_1m_eave": {
+      "source": "Keep Tile Roof - Eave 1m",
+      "translation": "Keep Tile Roof - Eave 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_2m": {
+      "source": "Keep Tile Roof - Slope 2m",
+      "translation": "Keep Tile Roof - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_2m_eave": {
+      "source": "Keep Tile Roof - Eave 2m",
+      "translation": "Keep Tile Roof - Eave 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_4m": {
+      "source": "Keep Tile Roof - Slope 4m",
+      "translation": "Keep Tile Roof - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_4m_eave": {
+      "source": "Keep Tile Roof - Eave 4m",
+      "translation": "Keep Tile Roof - Eave 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_corner_1m": {
+      "source": "Keep Tile Roof - Corner 1m",
+      "translation": "Keep Tile Roof - Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_corner_1m_eave": {
+      "source": "Keep Tile Roof - Eave 1m Corner",
+      "translation": "Keep Tile Roof - Eave 1m Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_corner_2m": {
+      "source": "Keep Tile Roof - Corner 2m",
+      "translation": "Keep Tile Roof - Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_corner_2m_eave": {
+      "source": "Keep Tile Roof - Eave 2m Corner",
+      "translation": "Keep Tile Roof - Eave 2m Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_corner_4m": {
+      "source": "Keep Tile Roof - Corner 4m",
+      "translation": "Keep Tile Roof - Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_corner_4m_eave": {
+      "source": "Keep Tile Roof - Eave 4m Corner",
+      "translation": "Keep Tile Roof - Eave 4m Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_cornerinv_1m": {
+      "source": "Keep Tile Roof - Inverted Corner 1m",
+      "translation": "Keep Tile Roof - Inverted Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_cornerinv_2m": {
+      "source": "Keep Tile Roof - Inverted Corner 2m",
+      "translation": "Keep Tile Roof - Inverted Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_cornerinv_4m": {
+      "source": "Keep Tile Roof - Inverted Corner 4m",
+      "translation": "Keep Tile Roof - Inverted Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_doublepitch_1m": {
+      "source": "Keep Tile Roof - Pitched 1m",
+      "translation": "Keep Tile Roof - Pitched 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_doublepitch_2m": {
+      "source": "Keep Tile Roof - Pitched 2m",
+      "translation": "Keep Tile Roof - Pitched 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_doublepitch_4m": {
+      "source": "Keep Tile Roof - Pitched 4m",
+      "translation": "Keep Tile Roof - Pitched 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_doublepitch_corner_1m": {
+      "source": "Keep Tile Roof - Pitched Corner 1m",
+      "translation": "Keep Tile Roof - Pitched Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_doublepitch_corner_2m": {
+      "source": "Keep Tile Roof - Pitched Corner 2m",
+      "translation": "Keep Tile Roof - Pitched Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_doublepitch_corner_4m": {
+      "source": "Keep Tile Roof - Pitched Corner 4m",
+      "translation": "Keep Tile Roof - Pitched Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_flat": {
+      "source": "Keep Tile Roof - Flat",
+      "translation": "Keep Tile Roof - Flat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_flat_qtrcirc": {
+      "source": "Keep Tile Roof - Flat Quarter",
+      "translation": "Keep Tile Roof - Flat Quarter",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_keep_ridge": {
+      "source": "Keep Tile Roof - Ridge Cap",
+      "translation": "Keep Tile Roof - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_1m": {
+      "source": "Townhouse Slate Roof - Slope 1m",
+      "translation": "Townhouse Slate Roof - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_1m_eave": {
+      "source": "Townhouse Slate Roof - Eave 1m",
+      "translation": "Townhouse Slate Roof - Eave 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_2m": {
+      "source": "Townhouse Slate Roof - Slope 2m",
+      "translation": "Townhouse Slate Roof - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_2m_eave": {
+      "source": "Townhouse Slate Roof - Eave 2m",
+      "translation": "Townhouse Slate Roof - Eave 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_4m": {
+      "source": "Townhouse Slate Roof - Slope 4m",
+      "translation": "Townhouse Slate Roof - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_4m_eave": {
+      "source": "Townhouse Slate Roof - Eave 4m",
+      "translation": "Townhouse Slate Roof - Eave 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_corner_1m": {
+      "source": "Townhouse Slate Roof - Corner 1m",
+      "translation": "Townhouse Slate Roof - Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_corner_1m_eave": {
+      "source": "Townhouse Slate Roof - Eave 1m Corner",
+      "translation": "Townhouse Slate Roof - Eave 1m Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_corner_2m": {
+      "source": "Townhouse Slate Roof - Corner 2m",
+      "translation": "Townhouse Slate Roof - Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_corner_2m_eave": {
+      "source": "Townhouse Slate Roof - Eave 2m Corner",
+      "translation": "Townhouse Slate Roof - Eave 2m Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_corner_4m": {
+      "source": "Townhouse Slate Roof - Corner 4m",
+      "translation": "Townhouse Slate Roof - Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_corner_4m_eave": {
+      "source": "Townhouse Slate Roof - Eave 4m Corner",
+      "translation": "Townhouse Slate Roof - Eave 4m Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_cornerinv_1m": {
+      "source": "Townhouse Slate Roof - Inverted Corner 1m",
+      "translation": "Townhouse Slate Roof - Inverted Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_cornerinv_2m": {
+      "source": "Townhouse Slate Roof - Inverted Corner 2m",
+      "translation": "Townhouse Slate Roof - Inverted Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_cornerinv_4m": {
+      "source": "Townhouse Slate Roof - Inverted Corner 4m",
+      "translation": "Townhouse Slate Roof - Inverted Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_doublepitch_1m": {
+      "source": "Townhouse Slate Roof - Pitched 1m",
+      "translation": "Townhouse Slate Roof - Pitched 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_doublepitch_2m": {
+      "source": "Townhouse Slate Roof - Pitched 2m",
+      "translation": "Townhouse Slate Roof - Pitched 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_doublepitch_4m": {
+      "source": "Townhouse Slate Roof - Pitched 4m",
+      "translation": "Townhouse Slate Roof - Pitched 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_doublepitch_corner_1m": {
+      "source": "Townhouse Slate Roof - Pitched Corner 1m",
+      "translation": "Townhouse Slate Roof - Pitched Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_doublepitch_corner_2m": {
+      "source": "Townhouse Slate Roof - Pitched Corner 2m",
+      "translation": "Townhouse Slate Roof - Pitched Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_doublepitch_corner_4m": {
+      "source": "Townhouse Slate Roof - Pitched Corner 4m",
+      "translation": "Townhouse Slate Roof - Pitched Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_flat": {
+      "source": "Townhouse Slate Roof - Flat",
+      "translation": "Townhouse Slate Roof - Flat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_flat_qtrcirc": {
+      "source": "Townhouse Slate Roof - Flat Quarter",
+      "translation": "Townhouse Slate Roof - Flat Quarter",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_roof_town_ridge": {
+      "source": "Townhouse Slate Roof - Ridge Cap",
+      "translation": "Townhouse Slate Roof - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_shopawning_01": {
+      "source": "Sorcery Shop Awning 1",
+      "translation": "Sorcery Shop Awning 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_shopawning_02": {
+      "source": "Sorcery Shop Awning 2",
+      "translation": "Sorcery Shop Awning 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_shopfascia_01": {
+      "source": "Sorcery Shop Fascia 1",
+      "translation": "Sorcery Shop Fascia 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_shopfascia_02": {
+      "source": "Sorcery Shop Fascia 2",
+      "translation": "Sorcery Shop Fascia 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_sign_01": {
+      "source": "Sorcery Sign - Gothic Plate 1",
+      "translation": "Sorcery Sign - Gothic Plate 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_sign_02": {
+      "source": "Sorcery Sign - Gothic Plate 2",
+      "translation": "Sorcery Sign - Gothic Plate 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_sign_03": {
+      "source": "Sorcery Sign - Gothic Plate 3",
+      "translation": "Sorcery Sign - Gothic Plate 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_sign_04": {
+      "source": "Sorcery Sign - Book Shop",
+      "translation": "Sorcery Sign - Book Shop",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_sign_05": {
+      "source": "Sorcery Sign - Potion Seller",
+      "translation": "Sorcery Sign - Potion Seller",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_sign_06": {
+      "source": "Sorcery Sign - Hanging Parchment",
+      "translation": "Sorcery Sign - Hanging Parchment",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_sign_07": {
+      "source": "Sorcery Sign - Wooden Roof",
+      "translation": "Sorcery Sign - Wooden Roof",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_sign_08": {
+      "source": "Sorcery Sign - Tall Stone",
+      "translation": "Sorcery Sign - Tall Stone",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_sign_09": {
+      "source": "Sorcery Sign - Wooden Wide",
+      "translation": "Sorcery Sign - Wooden Wide",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_sign_10": {
+      "source": "Sorcery Sign - Ornate Gothic",
+      "translation": "Sorcery Sign - Ornate Gothic",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_spider_webs_01": {
+      "source": "Giant Spider Web 1",
+      "translation": "Giant Spider Web 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_spider_webs_02": {
+      "source": "Giant Spider Web 2",
+      "translation": "Giant Spider Web 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_spider_webs_03": {
+      "source": "Giant Spider Web 3",
+      "translation": "Giant Spider Web 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_spider_webs_04": {
+      "source": "Giant Spider Web 4",
+      "translation": "Giant Spider Web 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_spider_webs_funnel_01": {
+      "source": "Giant Spider Web Funnel",
+      "translation": "Giant Spider Web Funnel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_spider_webs_strand_01": {
+      "source": "Giant Spider Web Strand",
+      "translation": "Giant Spider Web Strand",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statue_cat_flap": {
+      "source": "Cat Statue - Wall",
+      "translation": "Cat Statue - Wall",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statue_cat_hunched": {
+      "source": "Cat Statue - Hunched",
+      "translation": "Cat Statue - Hunched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statue_cat_sitting": {
+      "source": "Cat Statue - Guarding",
+      "translation": "Cat Statue - Guarding",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statue_toad_body_01": {
+      "source": "Toad Statue - Full Body",
+      "translation": "Toad Statue - Full Body",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statue_toad_head_01": {
+      "source": "Toad Statue - Head",
+      "translation": "Toad Statue - Head",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_gargoyles_dragon": {
+      "source": "Gargoyle Statue - Protruding Dragon",
+      "translation": "Gargoyle Statue - Protruding Dragon",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_gargoyles_feline": {
+      "source": "Gargoyle Statue - Feline",
+      "translation": "Gargoyle Statue - Feline",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_gargoyles_gryphon": {
+      "source": "Gargoyle Statue - Gryphon",
+      "translation": "Gargoyle Statue - Gryphon",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_gargoyles_perched": {
+      "source": "Gargoyle Statue - Perched",
+      "translation": "Gargoyle Statue - Perched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_plaques_backplate_01": {
+      "source": "Gothic Plaque - Base 1",
+      "translation": "Gothic Plaque - Base 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_plaques_backplate_02": {
+      "source": "Gothic Plaque - Base 2",
+      "translation": "Gothic Plaque - Base 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_plaques_backplate_03": {
+      "source": "Gothic Plaque - Base 3",
+      "translation": "Gothic Plaque - Base 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_plaques_gargoyle_01": {
+      "source": "Gothic Plaque - Gargoyle",
+      "translation": "Gothic Plaque - Gargoyle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_plaques_gargoyle_02": {
+      "source": "Gothic Plaque - Gargoyle Happy",
+      "translation": "Gothic Plaque - Gargoyle Happy",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_plaques_gargoyle_03": {
+      "source": "Gothic Plaque - Gargoyle Profile",
+      "translation": "Gothic Plaque - Gargoyle Profile",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_plaques_gargoyle_left": {
+      "source": "Gothic Plaque - Gargoyle Left",
+      "translation": "Gothic Plaque - Gargoyle Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_plaques_gargoyle_right": {
+      "source": "Gothic Plaque - Gargoyle Right",
+      "translation": "Gothic Plaque - Gargoyle Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_spiders_hanging": {
+      "source": "Spider Statue - Hanging",
+      "translation": "Spider Statue - Hanging",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_spiders_hiding": {
+      "source": "Spider Statue - Hiding",
+      "translation": "Spider Statue - Hiding",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_spiders_perched": {
+      "source": "Spider Statue - Perched",
+      "translation": "Spider Statue - Perched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_wizard_founder_mage": {
+      "source": "Sorcerer Bust 3",
+      "translation": "Sorcerer Bust 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_wizard_founder_warlock": {
+      "source": "Sorcerer Bust 1",
+      "translation": "Sorcerer Bust 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_wizard_founder_witch": {
+      "source": "Sorcerer Bust 2",
+      "translation": "Sorcerer Bust 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_wizard_mask_sorcerer": {
+      "source": "Sorcerer Statue - Face 1",
+      "translation": "Sorcerer Statue - Face 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_wizard_mask_warlock": {
+      "source": "Sorcerer Statue - Face 2",
+      "translation": "Sorcerer Statue - Face 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_wizard_mask_witch": {
+      "source": "Sorcerer Statue - Face 3",
+      "translation": "Sorcerer Statue - Face 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_statues_wizard_robed": {
+      "source": "Sorcerer Statue - Robes",
+      "translation": "Sorcerer Statue - Robes",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_beam_4m": {
+      "source": "Townhouse - Beam 4m",
+      "translation": "Townhouse - Beam 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_beam_4m_curved": {
+      "source": "Townhouse - Beam 4m Curved",
+      "translation": "Townhouse - Beam 4m Curved",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_beam_8m": {
+      "source": "Townhouse - Beam 8m",
+      "translation": "Townhouse - Beam 8m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_beam_8m_curved": {
+      "source": "Townhouse - Beam 8m Curved",
+      "translation": "Townhouse - Beam 8m Curved",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_chimney_01": {
+      "source": "Townhouse - Chimney 1",
+      "translation": "Townhouse - Chimney 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_chimney_02": {
+      "source": "Townhouse - Chimney 2",
+      "translation": "Townhouse - Chimney 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_chimney_03": {
+      "source": "Townhouse - Chimney 3",
+      "translation": "Townhouse - Chimney 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_gable_01": {
+      "source": "Townhouse - Small Wooden Gable",
+      "translation": "Townhouse - Small Wooden Gable",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_gable_02": {
+      "source": "Townhouse - Tall Wooden Gable",
+      "translation": "Townhouse - Tall Wooden Gable",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_gable_03": {
+      "source": "Townhouse - Raised Stone Gable",
+      "translation": "Townhouse - Raised Stone Gable",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_gable_04": {
+      "source": "Townhouse - Pointy Stone Gable",
+      "translation": "Townhouse - Pointy Stone Gable",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_gable_04_tall": {
+      "source": "Townhouse - Tall Stone Gable",
+      "translation": "Townhouse - Tall Stone Gable",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_gable_05": {
+      "source": "Townhouse - Tall Decorative Gable",
+      "translation": "Townhouse - Tall Decorative Gable",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_gable_06": {
+      "source": "Townhouse - Large Decorative Gable",
+      "translation": "Townhouse - Large Decorative Gable",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_pillar_01": {
+      "source": "Townhouse - Pillar 1",
+      "translation": "Townhouse - Pillar 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_pillar_02": {
+      "source": "Townhouse - Pillar 2",
+      "translation": "Townhouse - Pillar 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_architecture_wall_wooden_01": {
+      "source": "Townhouse - Half-timbering Decoration",
+      "translation": "Townhouse - Half-timbering Decoration",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_floor": {
+      "source": "Townhouse Brick Floor",
+      "translation": "Townhouse Brick Floor",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_floor_quarter": {
+      "source": "Townhouse Brick Floor - Quarter 1",
+      "translation": "Townhouse Brick Floor - Quarter 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_floor_quarter_02": {
+      "source": "Townhouse Brick Floor - Quarter 2",
+      "translation": "Townhouse Brick Floor - Quarter 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_gabletri_1m": {
+      "source": "Townhouse Brick Wall - 1m Gable End",
+      "translation": "Townhouse Brick Wall - 1m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_gabletri_2m": {
+      "source": "Townhouse Brick Wall - 2m Gable End",
+      "translation": "Townhouse Brick Wall - 2m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_gabletri_4m": {
+      "source": "Townhouse Brick Wall - 4m Gable End",
+      "translation": "Townhouse Brick Wall - 4m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_half_1m": {
+      "source": "Townhouse Brick Wall - 1m Half Width",
+      "translation": "Townhouse Brick Wall - 1m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_half_2m": {
+      "source": "Townhouse Brick Wall - 2m Half Width",
+      "translation": "Townhouse Brick Wall - 2m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_half_4m": {
+      "source": "Townhouse Brick Wall - 4m Half Width",
+      "translation": "Townhouse Brick Wall - 4m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_1m": {
+      "source": "Townhouse Brick Wall 1m",
+      "translation": "Townhouse Brick Wall 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_2m": {
+      "source": "Townhouse Brick Wall 2m",
+      "translation": "Townhouse Brick Wall 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_4m": {
+      "source": "Townhouse Brick Wall 4m",
+      "translation": "Townhouse Brick Wall 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_archextention_4m": {
+      "source": "Townhouse Brick Wall - Arch Extension",
+      "translation": "Townhouse Brick Wall - Arch Extension",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_archround_4m": {
+      "source": "Townhouse Brick Wall - Arch 1",
+      "translation": "Townhouse Brick Wall - Arch 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_archstraight_4m": {
+      "source": "Townhouse Brick Wall - Arch 2",
+      "translation": "Townhouse Brick Wall - Arch 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_cap": {
+      "source": "Townhouse Brick Wall - Ridge Cap",
+      "translation": "Townhouse Brick Wall - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_curve": {
+      "source": "Townhouse Brick Wall - 4 x 2m Curved Slope",
+      "translation": "Townhouse Brick Wall - 4 x 2m Curved Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_curve_inverse": {
+      "source": "Townhouse Brick Wall - 4 x 2m Inverse Slope",
+      "translation": "Townhouse Brick Wall - 4 x 2m Inverse Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_door_4m": {
+      "source": "Townhouse Brick Wall - With Door",
+      "translation": "Townhouse Brick Wall - With Door",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_largewindow_4m": {
+      "source": "Townhouse Brick Wall - Large Window",
+      "translation": "Townhouse Brick Wall - Large Window",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_shopfront": {
+      "source": "Townhouse Brick Wall - Shop Front",
+      "translation": "Townhouse Brick Wall - Shop Front",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_slope_1m": {
+      "source": "Townhouse Brick Wall - Slope 1m",
+      "translation": "Townhouse Brick Wall - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_slope_2m": {
+      "source": "Townhouse Brick Wall - Slope 2m",
+      "translation": "Townhouse Brick Wall - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_slope_4m": {
+      "source": "Townhouse Brick Wall - Slope 4m",
+      "translation": "Townhouse Brick Wall - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_station_surround_01": {
+      "source": "Townhouse Brick Wall - Station Surround 1",
+      "translation": "Townhouse Brick Wall - Station Surround 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_merge_station_surround_02": {
+      "source": "Townhouse Brick Wall - Station Surround 2",
+      "translation": "Townhouse Brick Wall - Station Surround 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_round_1m": {
+      "source": "Townhouse Brick Wall - Round 1m",
+      "translation": "Townhouse Brick Wall - Round 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_round_2m": {
+      "source": "Townhouse Brick Wall - Round 2m",
+      "translation": "Townhouse Brick Wall - Round 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_town_round_4m": {
+      "source": "Townhouse Brick Wall - Round 4m",
+      "translation": "Townhouse Brick Wall - Round 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_bark_01": {
+      "source": "Tree Giant - Bark 1",
+      "translation": "Tree Giant - Bark 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_bark_02": {
+      "source": "Tree Giant - Bark 2",
+      "translation": "Tree Giant - Bark 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_bark_03": {
+      "source": "Tree Giant - Bark 3",
+      "translation": "Tree Giant - Bark 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_bark_04": {
+      "source": "Tree Giant - Bark 4",
+      "translation": "Tree Giant - Bark 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_branch_01": {
+      "source": "Tree Giant - Branch 1",
+      "translation": "Tree Giant - Branch 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_branch_02": {
+      "source": "Tree Giant - Branch 2",
+      "translation": "Tree Giant - Branch 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_branch_03": {
+      "source": "Tree Giant - Branch 3",
+      "translation": "Tree Giant - Branch 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_branch_04": {
+      "source": "Tree Giant - Branch 4",
+      "translation": "Tree Giant - Branch 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_branch_05": {
+      "source": "Tree Giant - Branch 5",
+      "translation": "Tree Giant - Branch 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_branch_06": {
+      "source": "Tree Giant - Branch 6",
+      "translation": "Tree Giant - Branch 6",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_face_01": {
+      "source": "Tree Giant - Head 1",
+      "translation": "Tree Giant - Head 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_face_02": {
+      "source": "Tree Giant - Head 2",
+      "translation": "Tree Giant - Head 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_face_03": {
+      "source": "Tree Giant - Head 3",
+      "translation": "Tree Giant - Head 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_face_04": {
+      "source": "Tree Giant - Head 4",
+      "translation": "Tree Giant - Head 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_trunk_01": {
+      "source": "Tree Giant - Trunk 1",
+      "translation": "Tree Giant - Trunk 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_trunk_02": {
+      "source": "Tree Giant - Trunk 2",
+      "translation": "Tree Giant - Trunk 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_trunk_03": {
+      "source": "Tree Giant - Trunk 3",
+      "translation": "Tree Giant - Trunk 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_trunk_04": {
+      "source": "Tree Giant - Trunk 4",
+      "translation": "Tree Giant - Trunk 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_trunk_05": {
+      "source": "Tree Giant - Trunk 5",
+      "translation": "Tree Giant - Trunk 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_treefolk_trunk_06": {
+      "source": "Tree Giant - Trunk 6",
+      "translation": "Tree Giant - Trunk 6",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_villager_animatronic01": {
+      "source": "Spellcaster 1",
+      "translation": "Spellcaster 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_villager_animatronic02": {
+      "source": "Spellcaster 2",
+      "translation": "Spellcaster 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_villager_animatronic03": {
+      "source": "Spellcaster 3",
+      "translation": "Spellcaster 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_walltrim_01": {
+      "source": "Townhouse Brick Wall - Plaster Trim",
+      "translation": "Townhouse Brick Wall - Plaster Trim",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_walltrim_02": {
+      "source": "Keep Stone Wall - Trim",
+      "translation": "Keep Stone Wall - Trim",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_web_entangled_female": {
+      "source": "Entangled Guest 2",
+      "translation": "Entangled Guest 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_web_entangled_male": {
+      "source": "Entangled Guest 1",
+      "translation": "Entangled Guest 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_window_06": {
+      "source": "Townhouse Window - Bay Single",
+      "translation": "Townhouse Window - Bay Single",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_window_07": {
+      "source": "Townhouse Window - Bay Double",
+      "translation": "Townhouse Window - Bay Double",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_windows_01": {
+      "source": "Townhouse Window - Wooden Double Arched",
+      "translation": "Townhouse Window - Wooden Double Arched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_windows_02": {
+      "source": "Townhouse Window - Wooden Single",
+      "translation": "Townhouse Window - Wooden Single",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_windows_03": {
+      "source": "Keep Window - Triple Arched",
+      "translation": "Keep Window - Triple Arched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_windows_04": {
+      "source": "Keep Window - Tall Cross-hatch Paned",
+      "translation": "Keep Window - Tall Cross-hatch Paned",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_sc_windows_05": {
+      "source": "Keep Window - Rose Tracery",
+      "translation": "Keep Window - Rose Tracery",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_childcoaster": {
+      "source": "Child Coaster",
+      "translation": "Child Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_childcoaster_desc": {
+      "source": "A fan-favourite coaster that's fun for guests of all ages!",
+      "translation": "A fan-favourite coaster that's fun for guests of all ages!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_childcoasterreturn": {
+      "source": "Child Coaster Return",
+      "translation": "Child Coaster Return",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_childcoasterreturn_desc": {
+      "source": "A fan-favourite, all-ages coaster that's fun in both directions!",
+      "translation": "A fan-favourite, all-ages coaster that's fun in both directions!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_raidcoaster": {
+      "source": "LSM Raid Coaster",
+      "translation": "LSM Raid Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_raidcoaster_desc": {
+      "source": "A dynamic coaster offering switch tracks, and dual-direction launch pieces to propel your guests this way and that!",
+      "translation": "A dynamic coaster offering switch tracks, and dual-direction launch pieces to propel your guests this way and that!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_steellaunched": {
+      "source": "Bike and Sidecar Coaster",
+      "translation": "Bike and Sidecar Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_steellaunched_desc": {
+      "source": "A launched steel coaster with motorcycle and sidecar styled trains.",
+      "translation": "A launched steel coaster with motorcycle and sidecar styled trains.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_model_childcoasterreturn": {
+      "source": "Child Coaster Return",
+      "translation": "Child Coaster Return",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_model_raidcoaster": {
+      "source": "LSM Raid Coaster",
+      "translation": "LSM Raid Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_model_steellaunched": {
+      "source": "Bike and Sidecar Coaster",
+      "translation": "Bike and Sidecar Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_childcoaster": {
+      "source": "Child Coaster",
+      "translation": "Child Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_childcoasterreturn": {
+      "source": "Child Coaster Return",
+      "translation": "Child Coaster Return",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_raidcoaster": {
+      "source": "LSM Raid Coaster",
+      "translation": "LSM Raid Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_steellaunched": {
+      "source": "Bike and Sidecar Coaster",
+      "translation": "Bike and Sidecar Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_flyingtheatre": {
+      "source": "Flying Theatre",
+      "translation": "Flying Theatre",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_flyingtheatre_desc": {
+      "source": "Glide through another world on this immersive cinema experience.",
+      "translation": "Glide through another world on this immersive cinema experience.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_flyingtheatre_prefix": {
+      "source": "Flying Theatre",
+      "translation": "Flying Theatre",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_galeforce": {
+      "source": "Gale Force",
+      "translation": "Gale Force",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_galeforce_desc": {
+      "source": "Crank up the fun with a ride on this swinging pendulum!",
+      "translation": "Crank up the fun with a ride on this swinging pendulum!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_galeforce_prefix": {
+      "source": "Gale Force",
+      "translation": "Gale Force",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_archway_01": {
+      "source": "Sorcery Archway 1",
+      "translation": "Sorcery Archway 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_archway_01_desc": {
+      "source": "Sorcery themed archway",
+      "translation": "Sorcery themed archway",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_archway_02": {
+      "source": "Sorcery Archway 2",
+      "translation": "Sorcery Archway 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_archway_02_desc": {
+      "source": "Sorcery themed archway",
+      "translation": "Sorcery themed archway",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_archway_03": {
+      "source": "Sorcery Archway 3",
+      "translation": "Sorcery Archway 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_archway_03_desc": {
+      "source": "Sorcery themed archway",
+      "translation": "Sorcery themed archway",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_01": {
+      "source": "Sorcery Building 1",
+      "translation": "Sorcery Building 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_01_desc": {
+      "source": "Sorcery themed building",
+      "translation": "Sorcery themed building",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_02": {
+      "source": "Sorcery Building 2",
+      "translation": "Sorcery Building 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_02_desc": {
+      "source": "Sorcery themed building",
+      "translation": "Sorcery themed building",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_03": {
+      "source": "Sorcery Building 3",
+      "translation": "Sorcery Building 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_03_desc": {
+      "source": "Sorcery themed building",
+      "translation": "Sorcery themed building",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_04": {
+      "source": "Sorcery Building 4",
+      "translation": "Sorcery Building 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_04_desc": {
+      "source": "Sorcery themed building",
+      "translation": "Sorcery themed building",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_05": {
+      "source": "Sorcery Building 5",
+      "translation": "Sorcery Building 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_05_desc": {
+      "source": "Sorcery themed building",
+      "translation": "Sorcery themed building",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_06": {
+      "source": "Sorcery Building 6",
+      "translation": "Sorcery Building 6",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_06_desc": {
+      "source": "Sorcery themed building",
+      "translation": "Sorcery themed building",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_07": {
+      "source": "Sorcery Building 7",
+      "translation": "Sorcery Building 7",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_07_desc": {
+      "source": "Sorcery themed building",
+      "translation": "Sorcery themed building",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_08": {
+      "source": "Sorcery Building 8",
+      "translation": "Sorcery Building 8",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_building_08_desc": {
+      "source": "Sorcery themed building",
+      "translation": "Sorcery themed building",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_centrepiece_01": {
+      "source": "Sorcery Centrepiece 1",
+      "translation": "Sorcery Centrepiece 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_centrepiece_01_desc": {
+      "source": "Sorcery themed centrepiece",
+      "translation": "Sorcery themed centrepiece",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_centrepiece_02": {
+      "source": "Sorcery Centrepiece 2",
+      "translation": "Sorcery Centrepiece 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_centrepiece_02_desc": {
+      "source": "Sorcery themed centrepiece",
+      "translation": "Sorcery themed centrepiece",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_centrepiece_03": {
+      "source": "Sorcery Centrepiece 3",
+      "translation": "Sorcery Centrepiece 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_centrepiece_03_desc": {
+      "source": "Sorcery themed centrepiece",
+      "translation": "Sorcery themed centrepiece",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_centrepiece_04": {
+      "source": "Sorcery Centrepiece 4",
+      "translation": "Sorcery Centrepiece 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_centrepiece_04_desc": {
+      "source": "Sorcery themed centrepiece",
+      "translation": "Sorcery themed centrepiece",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_centrepiece_05": {
+      "source": "Sorcery Centrepiece 5",
+      "translation": "Sorcery Centrepiece 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_centrepiece_05_desc": {
+      "source": "Sorcery themed centrepiece",
+      "translation": "Sorcery themed centrepiece",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_dressing_01": {
+      "source": "Sorcery Dressing 1",
+      "translation": "Sorcery Dressing 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_dressing_01_desc": {
+      "source": "Sorcery themed dressing",
+      "translation": "Sorcery themed dressing",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_dressing_02": {
+      "source": "Sorcery Dressing 2",
+      "translation": "Sorcery Dressing 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_dressing_02_desc": {
+      "source": "Sorcery themed dressing",
+      "translation": "Sorcery themed dressing",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_dressing_03": {
+      "source": "Sorcery Dressing 3",
+      "translation": "Sorcery Dressing 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_dressing_03_desc": {
+      "source": "Sorcery themed dressing",
+      "translation": "Sorcery themed dressing",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_dressing_04": {
+      "source": "Sorcery Dressing 4",
+      "translation": "Sorcery Dressing 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_dressing_04_desc": {
+      "source": "Sorcery themed dressing",
+      "translation": "Sorcery themed dressing",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_dressing_05": {
+      "source": "Sorcery Dressing 5",
+      "translation": "Sorcery Dressing 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_dressing_05_desc": {
+      "source": "Sorcery themed dressing",
+      "translation": "Sorcery themed dressing",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_guest_facilities_medium_01": {
+      "source": "Sorcery Guest Facilities - Medium Shell",
+      "translation": "Sorcery Guest Facilities - Medium Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_guest_facilities_medium_01_desc": {
+      "source": "Sorcery themed guest facilities shell",
+      "translation": "Sorcery themed guest facilities shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_guest_facilities_small_01": {
+      "source": "Sorcery Guest Facilities - Small Shell",
+      "translation": "Sorcery Guest Facilities - Small Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_guest_facilities_small_01_desc": {
+      "source": "Sorcery themed guest facilities shell",
+      "translation": "Sorcery themed guest facilities shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_shop_medium_01": {
+      "source": "Sorcery Shop - Medium Shell",
+      "translation": "Sorcery Shop - Medium Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_shop_medium_01_desc": {
+      "source": "Sorcery themed shop shell",
+      "translation": "Sorcery themed shop shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_shop_small_01": {
+      "source": "Sorcery Shop - Small Shell",
+      "translation": "Sorcery Shop - Small Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_shop_small_01_desc": {
+      "source": "Sorcery themed shop shell",
+      "translation": "Sorcery themed shop shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_staff_facilities_large_01": {
+      "source": "Sorcery Staff Facilities - Large Shell",
+      "translation": "Sorcery Staff Facilities - Large Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_staff_facilities_large_01_desc": {
+      "source": "Sorcery themed staff facilities shell",
+      "translation": "Sorcery themed staff facilities shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_staff_facilities_medium_01": {
+      "source": "Sorcery Staff Facilities - Medium Shell",
+      "translation": "Sorcery Staff Facilities - Medium Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_staff_facilities_medium_01_desc": {
+      "source": "Sorcery themed staff facilities shell",
+      "translation": "Sorcery themed staff facilities shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_staff_facilities_small_01": {
+      "source": "Sorcery Staff Facilities - Small Shell",
+      "translation": "Sorcery Staff Facilities - Small Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sc_staff_facilities_small_01_desc": {
+      "source": "Sorcery themed staff facilities shell",
+      "translation": "Sorcery themed staff facilities shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_flyingtheatre_gentlesway": {
+      "source": "Gentle Sway",
+      "translation": "Gentle Sway",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_flyingtheatre_riseandfall": {
+      "source": "Rise and Fall",
+      "translation": "Rise and Fall",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_flyingtheatre_riseandfallfast": {
+      "source": "Rise and Fall Fast",
+      "translation": "Rise and Fall Fast",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_flyingtheatre_risebackwadsandfallfast": {
+      "source": "Rise Backwards and Fall Fast",
+      "translation": "Rise Backwards and Fall Fast",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_flyingtheatre_risebackwardsandfall": {
+      "source": "Rise Backwards and Fall",
+      "translation": "Rise Backwards and Fall",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_flyingtheatre_rockbackandforth": {
+      "source": "Rock Back and Forth",
+      "translation": "Rock Back and Forth",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_flyingtheatre_shudder": {
+      "source": "Shudder",
+      "translation": "Shudder",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_flyingtheatre_still": {
+      "source": "Still",
+      "translation": "Still",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_flyingtheatre_swing": {
+      "source": "Swing",
+      "translation": "Swing",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_flyingtheatre_swingreverse": {
+      "source": "Swing Reverse",
+      "translation": "Swing Reverse",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_flyingtheatre_turbulentsway": {
+      "source": "Turbulent Sway",
+      "translation": "Turbulent Sway",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_galeforce_backwardroll": {
+      "source": "1 Backward Cabin Rotation",
+      "translation": "1 Backward Cabin Rotation",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_galeforce_backwardroll02": {
+      "source": "2 Backward Cabin Rotations",
+      "translation": "2 Backward Cabin Rotations",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_galeforce_backwardroll02forwardroll02": {
+      "source": "2 Backwards and 2 Forward Cabin Rotations",
+      "translation": "2 Backwards and 2 Forward Cabin Rotations",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_galeforce_backwardroll03": {
+      "source": "3 Backward Cabin Rotations",
+      "translation": "3 Backward Cabin Rotations",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_galeforce_backwardroll04": {
+      "source": "4 Backward Cabin Rotations",
+      "translation": "4 Backward Cabin Rotations",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_galeforce_forwardroll": {
+      "source": "1 Forward Cabin Rotation",
+      "translation": "1 Forward Cabin Rotation",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_galeforce_forwardroll02": {
+      "source": "2 Forward Cabin Rotations",
+      "translation": "2 Forward Cabin Rotations",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_galeforce_forwardroll02backwardroll02": {
+      "source": "2 Forward and 2 Backward Cabin Rotations",
+      "translation": "2 Forward and 2 Backward Cabin Rotations",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_galeforce_forwardroll03": {
+      "source": "3 Forward Cabin Rotations",
+      "translation": "3 Forward Cabin Rotations",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_galeforce_forwardroll04": {
+      "source": "4 Forward Cabin Rotations",
+      "translation": "4 Forward Cabin Rotations",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_galeforce_swingnoroll": {
+      "source": "Swing with no Cabin Rotation",
+      "translation": "Swing with no Cabin Rotation",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_guesthat_sorcery": {
+      "source": "Spellcaster's Hat",
+      "translation": "Spellcaster's Hat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "shopitem_guesthat_sorcery_desc": {
+      "source": "A stylish, pointed hat that's probably not the source of unfathomable magical power.",
+      "translation": "A stylish, pointed hat that's probably not the source of unfathomable magical power.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "staff_wizard": {
+      "source": "Vesper",
+      "translation": "Vesper",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "staff_wizard_desc": {
+      "source": "Powerful sorcerer",
+      "translation": "Powerful sorcerer",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "staff_wizardam": {
+      "source": "Vesper",
+      "translation": "Vesper",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_childcoaster": {
+      "source": "Vector <b>Child Coaster</b>",
+      "translation": "Vector <b>Child Coaster</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_childcoasterreturn": {
+      "source": "Vector <b>Child Coaster Return</b>",
+      "translation": "Vector <b>Child Coaster Return</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_childcoasterstock": {
+      "source": "Vector <b>Child Coaster (Standard)</b>",
+      "translation": "Vector <b>Child Coaster (Standard)</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_raidcoaster": {
+      "source": "Outamax <b>LSM Raid Coaster</b>",
+      "translation": "Outamax <b>LSM Raid Coaster</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_raidcoasterstock": {
+      "source": "Outamax <b>LSM Raid Coaster (Standard)</b>",
+      "translation": "Outamax <b>LSM Raid Coaster (Standard)</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_steellaunched": {
+      "source": "Outamax <b>Bike and Sidecar Coaster</b>",
+      "translation": "Outamax <b>Bike and Sidecar Coaster</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_steellaunchedstock": {
+      "source": "Outamax <b>Bike and Sidecar Coaster (Standard)</b>",
+      "translation": "Outamax <b>Bike and Sidecar Coaster (Standard)</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    }
+  }
+}

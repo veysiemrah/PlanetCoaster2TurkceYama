@@ -1,0 +1,3115 @@
+{
+  "meta": {
+    "language": "en",
+    "source_language": "en",
+    "content_pack": "Content3",
+    "game_version": "extracted",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "blueprint_coaster_vector_inverting_suspended_01": {
+      "source": "Pulse",
+      "translation": "Pulse",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_fighterplane_back": {
+      "source": "Coaster Attachment - Fighter Tail",
+      "translation": "Coaster Attachment - Fighter Tail",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_fighterplane_front": {
+      "source": "Coaster Attachment - Fighter Nose",
+      "translation": "Coaster Attachment - Fighter Nose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_racecar_front": {
+      "source": "Coaster Attachment - Race Car Front",
+      "translation": "Coaster Attachment - Race Car Front",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_racecar_rearwing": {
+      "source": "Coaster Attachment - Race Car Rear Wing",
+      "translation": "Coaster Attachment - Race Car Rear Wing",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_racecar_side_01": {
+      "source": "Coaster Attachment - Race Car Right Side",
+      "translation": "Coaster Attachment - Race Car Right Side",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_racecar_side_02": {
+      "source": "Coaster Attachment - Race Car Left Side",
+      "translation": "Coaster Attachment - Race Car Left Side",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_attachments_racecar_wheel": {
+      "source": "Coaster Attachment - Race Car Wheel",
+      "translation": "Coaster Attachment - Race Car Wheel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_anvil": {
+      "source": "Anvil",
+      "translation": "Anvil",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_arch_01": {
+      "source": "Ranchers' Gateway",
+      "translation": "Ranchers' Gateway",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_arch_deco_01": {
+      "source": "Rodeo Sign",
+      "translation": "Rodeo Sign",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_awning_01": {
+      "source": "Corrugated Iron Awning",
+      "translation": "Corrugated Iron Awning",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_awning_02": {
+      "source": "Canvas Awning",
+      "translation": "Canvas Awning",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_awning_03": {
+      "source": "Tile Awning",
+      "translation": "Tile Awning",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_awning_04": {
+      "source": "Striped Vinyl Awning",
+      "translation": "Striped Vinyl Awning",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_awning_05": {
+      "source": "Striped Ribbed Awning",
+      "translation": "Striped Ribbed Awning",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_balcony_01": {
+      "source": "Decorative Wooden Railing",
+      "translation": "Decorative Wooden Railing",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_balcony_angle_01": {
+      "source": "Decorative Wooden Railing - Angle",
+      "translation": "Decorative Wooden Railing - Angle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_balcony_corner_01": {
+      "source": "Decorative Wooden Railing - Corner",
+      "translation": "Decorative Wooden Railing - Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_balconybase_45": {
+      "source": "Wooden Balcony - Base Corner",
+      "translation": "Wooden Balcony - Base Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_balconybase_b": {
+      "source": "Wooden Balcony - Base",
+      "translation": "Wooden Balcony - Base",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_balconybase_square_b": {
+      "source": "Wooden Balcony - Base Square",
+      "translation": "Wooden Balcony - Base Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_band": {
+      "source": "Wagon Stand",
+      "translation": "Wagon Stand",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_band_002": {
+      "source": "Wagon Stand - Counter",
+      "translation": "Wagon Stand - Counter",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_band_piano": {
+      "source": "Wagon Stand - Piano",
+      "translation": "Wagon Stand - Piano",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_band_stage": {
+      "source": "Wagon Stand - Empty",
+      "translation": "Wagon Stand - Empty",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_belt": {
+      "source": "Belt Drive",
+      "translation": "Belt Drive",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_bench_02": {
+      "source": "Western Picnic Bench",
+      "translation": "Western Picnic Bench",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_bench_refined": {
+      "source": "Western Fine Bench",
+      "translation": "Western Fine Bench",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_bench_rustic": {
+      "source": "Western Rustic Bench",
+      "translation": "Western Rustic Bench",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_bin": {
+      "source": "Western Rustic Bin",
+      "translation": "Western Rustic Bin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_bison_skull": {
+      "source": "Bison Skull",
+      "translation": "Bison Skull",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_boiler": {
+      "source": "Iron Firebox",
+      "translation": "Iron Firebox",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_bracket_01": {
+      "source": "Small Wooden Bracket 1",
+      "translation": "Small Wooden Bracket 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_bracket_02": {
+      "source": "Small Wooden Bracket 2",
+      "translation": "Small Wooden Bracket 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_bracket_03": {
+      "source": "Small Wooden Bracket 3",
+      "translation": "Small Wooden Bracket 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_bracket_04": {
+      "source": "Small Wooden Bracket 4",
+      "translation": "Small Wooden Bracket 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_bracket_05": {
+      "source": "Small Wooden Bracket 5",
+      "translation": "Small Wooden Bracket 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_brick_pillar_1m": {
+      "source": "Classic Brick Pillar 1m",
+      "translation": "Classic Brick Pillar 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_brick_pillar_2m": {
+      "source": "Classic Brick Pillar 2m",
+      "translation": "Classic Brick Pillar 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_brick_pillar_4m": {
+      "source": "Classic Brick Pillar 4m",
+      "translation": "Classic Brick Pillar 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_brickcourse_01": {
+      "source": "Classic Brick Decorative Course",
+      "translation": "Classic Brick Decorative Course",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_canopy_02": {
+      "source": "Western Picnic Canopy",
+      "translation": "Western Picnic Canopy",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_chimney_01": {
+      "source": "Iron Chimney - Straight",
+      "translation": "Iron Chimney - Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_chimney_short": {
+      "source": "Iron Chimney - Bell",
+      "translation": "Iron Chimney - Bell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_chimney_tall": {
+      "source": "Iron Chimney - Tall",
+      "translation": "Iron Chimney - Tall",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_chimneybend_01": {
+      "source": "Iron Chimney - Bend",
+      "translation": "Iron Chimney - Bend",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_clock_b_01": {
+      "source": "Station Clock",
+      "translation": "Station Clock",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_coasterdoor_01": {
+      "source": "Coaster Doors - Stables",
+      "translation": "Coaster Doors - Stables",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_coffin": {
+      "source": "Coffin",
+      "translation": "Coffin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_column_01_6m": {
+      "source": "Iron Column 6m",
+      "translation": "Iron Column 6m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_column_02_1m": {
+      "source": "Wooden Pillar 1m - Plain",
+      "translation": "Wooden Pillar 1m - Plain",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_column_02_2m": {
+      "source": "Wooden Pillar 2m - Plain",
+      "translation": "Wooden Pillar 2m - Plain",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_column_02_4m": {
+      "source": "Wooden Pillar 4m - Plain",
+      "translation": "Wooden Pillar 4m - Plain",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_column_03_4m": {
+      "source": "Wooden Pillar 4m - Chamfered",
+      "translation": "Wooden Pillar 4m - Chamfered",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_cooking_frame": {
+      "source": "Cooking Frame",
+      "translation": "Cooking Frame",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_cowboy_bad_01": {
+      "source": "Bandit Angry Shot",
+      "translation": "Bandit Angry Shot",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_cowboy_bad_02": {
+      "source": "Bandit Cover Shot",
+      "translation": "Bandit Cover Shot",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_cowboy_good_01": {
+      "source": "Cowboy Cover Shot",
+      "translation": "Cowboy Cover Shot",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_cowboy_good_02": {
+      "source": "Cowboy Quickdraw",
+      "translation": "Cowboy Quickdraw",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_cowboy_idle_01": {
+      "source": "Cowboy Idle",
+      "translation": "Cowboy Idle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_cowboy_kickheel_01": {
+      "source": "Cowboy Kicking Heel",
+      "translation": "Cowboy Kicking Heel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_cowboy_lean_01": {
+      "source": "Cowboy Leaning",
+      "translation": "Cowboy Leaning",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_cowboy_tiphat_01": {
+      "source": "Cowboy Tipping Hat",
+      "translation": "Cowboy Tipping Hat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_crates_large": {
+      "source": "Wooden Crate - Large",
+      "translation": "Wooden Crate - Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_crates_medium": {
+      "source": "Wooden Crate - Medium",
+      "translation": "Wooden Crate - Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_crates_small": {
+      "source": "Wooden Crate - Small",
+      "translation": "Wooden Crate - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_crates_tnt": {
+      "source": "Dynamite Crate",
+      "translation": "Dynamite Crate",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_deck_45": {
+      "source": "Wooden Deck - Angle 2m",
+      "translation": "Wooden Deck - Angle 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_deck_steps_2m": {
+      "source": "Wooden Deck - Steps 2m",
+      "translation": "Wooden Deck - Steps 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_deck_steps_4m": {
+      "source": "Wooden Deck - Steps 4m",
+      "translation": "Wooden Deck - Steps 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_decksquare_b": {
+      "source": "Wooden Deck - Square 2m",
+      "translation": "Wooden Deck - Square 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_door_b_01": {
+      "source": "Wooden Door - Narrow",
+      "translation": "Wooden Door - Narrow",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_door_b_02": {
+      "source": "Wooden Double Door - Large 1",
+      "translation": "Wooden Double Door - Large 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_door_b_03": {
+      "source": "Wooden Door - Wide",
+      "translation": "Wooden Door - Wide",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_door_b_04": {
+      "source": "Wooden Door - Window",
+      "translation": "Wooden Door - Window",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_door_b_05": {
+      "source": "Wooden Door - Plain",
+      "translation": "Wooden Door - Plain",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_door_b_06": {
+      "source": "Wooden Double Door - Entrance 1",
+      "translation": "Wooden Double Door - Entrance 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_door_b_07": {
+      "source": "Wooden Double Door - Barn",
+      "translation": "Wooden Double Door - Barn",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_door_b_08": {
+      "source": "Wooden Double Door - Entrance 2",
+      "translation": "Wooden Double Door - Entrance 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_door_b_09": {
+      "source": "Wooden Door - Half Barn",
+      "translation": "Wooden Door - Half Barn",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_door_b_10": {
+      "source": "Wooden Door - Glass Panel",
+      "translation": "Wooden Door - Glass Panel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_fence_low_2m": {
+      "source": "Low Western Fence 2m",
+      "translation": "Low Western Fence 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_fence_low_4m": {
+      "source": "Low Western Fence 4m",
+      "translation": "Low Western Fence 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_fence_painted_2m": {
+      "source": "Painted Western Fence 2m",
+      "translation": "Painted Western Fence 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_fence_painted_4m": {
+      "source": "Painted Western Fence 4m",
+      "translation": "Painted Western Fence 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_fence_rough_2m": {
+      "source": "Rough Western Fence 4m",
+      "translation": "Rough Western Fence 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_fence_rough_4m": {
+      "source": "Rough Western Fence 8m",
+      "translation": "Rough Western Fence 8m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_flag_a": {
+      "source": "Drapes - Half Circle",
+      "translation": "Drapes - Half Circle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_flag_b": {
+      "source": "Drapes - Quarter Circle",
+      "translation": "Drapes - Quarter Circle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_flag_c": {
+      "source": "Drapes - Hanging",
+      "translation": "Drapes - Hanging",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_flag_d": {
+      "source": "Drapes - Long",
+      "translation": "Drapes - Long",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_flywheel": {
+      "source": "Iron Flywheel",
+      "translation": "Iron Flywheel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_gear_large": {
+      "source": "Iron Gear - Large",
+      "translation": "Iron Gear - Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_gear_small": {
+      "source": "Iron Gear - Small",
+      "translation": "Iron Gear - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_girder_thick_4m": {
+      "source": "Iron Girder 4m",
+      "translation": "Iron Girder 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_girder_thick_4m3": {
+      "source": "Iron Girder - Angle",
+      "translation": "Iron Girder - Angle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_girder_thin_2m": {
+      "source": "Iron Girder 2m",
+      "translation": "Iron Girder 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_girder_wheelbrace": {
+      "source": "Iron Girder - Wheel Brace",
+      "translation": "Iron Girder - Wheel Brace",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_hitchingpost": {
+      "source": "Hitching Post",
+      "translation": "Hitching Post",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_housing": {
+      "source": "Iron Piston",
+      "translation": "Iron Piston",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_lamppost_01": {
+      "source": "Iron Square Lamppost",
+      "translation": "Iron Square Lamppost",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_lamppost_02": {
+      "source": "Iron Hexagonal Lamp",
+      "translation": "Iron Hexagonal Lamp",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_lamppost_03": {
+      "source": "Iron Square Lamp",
+      "translation": "Iron Square Lamp",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_large_boiler": {
+      "source": "Iron Boiler - Large",
+      "translation": "Iron Boiler - Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive": {
+      "source": "Locomotive",
+      "translation": "Locomotive",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive_buffer": {
+      "source": "Locomotive - Buffer Stop",
+      "translation": "Locomotive - Buffer Stop",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive_carriage": {
+      "source": "Locomotive - Carriage",
+      "translation": "Locomotive - Carriage",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive_flatbed": {
+      "source": "Locomotive - Flatbed",
+      "translation": "Locomotive - Flatbed",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive_hopper": {
+      "source": "Locomotive - Hopper",
+      "translation": "Locomotive - Hopper",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive_tender": {
+      "source": "Locomotive - Tender",
+      "translation": "Locomotive - Tender",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive_trackcurved": {
+      "source": "Locomotive Track - Curved",
+      "translation": "Locomotive Track - Curved",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive_trackrail2m": {
+      "source": "Locomotive Track - Rail 2m",
+      "translation": "Locomotive Track - Rail 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive_trackrail4m": {
+      "source": "Locomotive Track - Rail 4m",
+      "translation": "Locomotive Track - Rail 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive_tracksleeper": {
+      "source": "Locomotive Track - Sleeper Long",
+      "translation": "Locomotive Track - Sleeper Long",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive_tracksleepershort": {
+      "source": "Locomotive Track - Sleeper Short",
+      "translation": "Locomotive Track - Sleeper Short",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_locomotive_trackstraight": {
+      "source": "Locomotive Track - Straight",
+      "translation": "Locomotive Track - Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_log": {
+      "source": "Log - Whole",
+      "translation": "Log - Whole",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_log_half": {
+      "source": "Log - Sawn Half",
+      "translation": "Log - Sawn Half",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_log_plank": {
+      "source": "Log - Sawn Plank",
+      "translation": "Log - Sawn Plank",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_luggage": {
+      "source": "Luggage",
+      "translation": "Luggage",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_luggage_trolley": {
+      "source": "Luggage Trolley",
+      "translation": "Luggage Trolley",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_medium_boiler": {
+      "source": "Iron Boiler - Small",
+      "translation": "Iron Boiler - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_milkchurn": {
+      "source": "Milkchurn",
+      "translation": "Milkchurn",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_minecart": {
+      "source": "Minecart - Empty",
+      "translation": "Minecart - Empty",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_mooring_bitt": {
+      "source": "Mooring Bitt",
+      "translation": "Mooring Bitt",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_notice_board": {
+      "source": "Notice Board",
+      "translation": "Notice Board",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_oilpump": {
+      "source": "Oil Pump",
+      "translation": "Oil Pump",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_open_tnt": {
+      "source": "Dynamite Crate - Open",
+      "translation": "Dynamite Crate - Open",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_paddlesteamer": {
+      "source": "Paddle Steamer",
+      "translation": "Paddle Steamer",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_paddlesteamer_backpaddle": {
+      "source": "Steamer Paddle",
+      "translation": "Steamer Paddle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_picnicbench_01": {
+      "source": "Western Picnic Table",
+      "translation": "Western Picnic Table",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_pillar_02_2m": {
+      "source": "Thick Wooden Beam - Straight 2m",
+      "translation": "Thick Wooden Beam - Straight 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_pillar_02_4m": {
+      "source": "Thick Wooden Beam - Straight 4m",
+      "translation": "Thick Wooden Beam - Straight 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_pillar_02_8m": {
+      "source": "Thick Wooden Beam - Straight 8m",
+      "translation": "Thick Wooden Beam - Straight 8m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_pipe_curve": {
+      "source": "Iron Pipe - Curved",
+      "translation": "Iron Pipe - Curved",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_pipe_straight_2m": {
+      "source": "Iron Pipe 2m",
+      "translation": "Iron Pipe 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_pipe_straight_4m": {
+      "source": "Iron Pipe 4m",
+      "translation": "Iron Pipe 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_planter": {
+      "source": "Crate Planter",
+      "translation": "Crate Planter",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_post_01_4m": {
+      "source": "Wooden Pillar 4m - Carved",
+      "translation": "Wooden Pillar 4m - Carved",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_poster_board": {
+      "source": "Poster Board",
+      "translation": "Poster Board",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_pulley_b": {
+      "source": "Warehouse Pulley 1",
+      "translation": "Warehouse Pulley 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_pulley_c": {
+      "source": "Warehouse Pulley 2",
+      "translation": "Warehouse Pulley 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_pulley_d": {
+      "source": "Warehouse Pulley 3",
+      "translation": "Warehouse Pulley 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_1m": {
+      "source": "Corrugated Iron Roof - Slope 1m",
+      "translation": "Corrugated Iron Roof - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_2m": {
+      "source": "Corrugated Iron Roof - Slope 2m",
+      "translation": "Corrugated Iron Roof - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_4m": {
+      "source": "Corrugated Iron Roof - Slope 4m",
+      "translation": "Corrugated Iron Roof - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_corner_1m": {
+      "source": "Corrugated Iron Roof - Corner 1m",
+      "translation": "Corrugated Iron Roof - Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_corner_2m": {
+      "source": "Corrugated Iron Roof - Corner 2m",
+      "translation": "Corrugated Iron Roof - Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_corner_4m": {
+      "source": "Corrugated Iron Roof - Corner 4m",
+      "translation": "Corrugated Iron Roof - Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_cornerinv_1m": {
+      "source": "Corrugated Iron Roof - Inverted Corner 1m",
+      "translation": "Corrugated Iron Roof - Inverted Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_cornerinv_2m": {
+      "source": "Corrugated Iron Roof - Inverted Corner 2m",
+      "translation": "Corrugated Iron Roof - Inverted Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_cornerinv_4m": {
+      "source": "Corrugated Iron Roof - Inverted Corner 4m",
+      "translation": "Corrugated Iron Roof - Inverted Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_doublepitch_a_4m": {
+      "source": "Corrugated Iron Roof - Pitched 2m",
+      "translation": "Corrugated Iron Roof - Pitched 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_doublepitch_b_4m": {
+      "source": "Corrugated Iron Roof - Pitched 1m",
+      "translation": "Corrugated Iron Roof - Pitched 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_pitch_b_4m": {
+      "source": "Corrugated Iron Shack Roof",
+      "translation": "Corrugated Iron Shack Roof",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_ridge": {
+      "source": "Corrugated Iron Roof - Ridge Cap",
+      "translation": "Corrugated Iron Roof - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_veranda_b_4m": {
+      "source": "Corrugated Iron Roof - Veranda",
+      "translation": "Corrugated Iron Roof - Veranda",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_veranda_b_lmitre": {
+      "source": "Corrugated Iron Roof - Veranda Left Corner",
+      "translation": "Corrugated Iron Roof - Veranda Left Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_metal_01_veranda_b_rmitre": {
+      "source": "Corrugated Iron Roof - Veranda Right Corner",
+      "translation": "Corrugated Iron Roof - Veranda Right Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_1m": {
+      "source": "Wood Tile Roof - Slope 1m",
+      "translation": "Wood Tile Roof - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_2m": {
+      "source": "Wood Tile Roof - Slope 2m",
+      "translation": "Wood Tile Roof - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_2m_eave": {
+      "source": "Wood Tile Roof - Eave 2m",
+      "translation": "Wood Tile Roof - Eave 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_4m": {
+      "source": "Wood Tile Roof - Slope 4m",
+      "translation": "Wood Tile Roof - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_corner_1m": {
+      "source": "Wood Tile Roof - Corner 1m",
+      "translation": "Wood Tile Roof - Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_corner_2m": {
+      "source": "Wood Tile Roof - Corner 2m",
+      "translation": "Wood Tile Roof - Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_corner_2m_eave": {
+      "source": "Wood Tile Roof - Eave 2m Corner",
+      "translation": "Wood Tile Roof - Eave 2m Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_corner_4m": {
+      "source": "Wood Tile Roof - Corner 4m",
+      "translation": "Wood Tile Roof - Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_cornerinv_1m": {
+      "source": "Wood Tile Roof - Inverted Corner 1m",
+      "translation": "Wood Tile Roof - Inverted Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_cornerinv_2m": {
+      "source": "Wood Tile Roof - Inverted Corner 2m",
+      "translation": "Wood Tile Roof - Inverted Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_cornerinv_4m": {
+      "source": "Wood Tile Roof - Inverted Corner 4m",
+      "translation": "Wood Tile Roof - Inverted Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_doublepitch2m_b_4m": {
+      "source": "Wood Tile Roof - Pitched 2m",
+      "translation": "Wood Tile Roof - Pitched 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_doublepitch_b_4m": {
+      "source": "Wood Tile Roof - Pitched 1m",
+      "translation": "Wood Tile Roof - Pitched 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_flat_b_4m": {
+      "source": "Tar Pitch Roof Flat",
+      "translation": "Tar Pitch Roof Flat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_pitch2m_b_4m": {
+      "source": "Wood Tile Shack Roof - 2m Slope",
+      "translation": "Wood Tile Shack Roof - 2m Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_pitch_b_4m": {
+      "source": "Wood Tile Shack Roof - 1m Slope",
+      "translation": "Wood Tile Shack Roof - 1m Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_ridge": {
+      "source": "Wood Tile Roof - Ridge Cap",
+      "translation": "Wood Tile Roof - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_veranda_b_4m": {
+      "source": "Wooden Tile Roof - Veranda",
+      "translation": "Wooden Tile Roof - Veranda",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_veranda_b_bracket_01": {
+      "source": "Wooden Tile Roof - Veranda Support",
+      "translation": "Wooden Tile Roof - Veranda Support",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_veranda_b_lmitre": {
+      "source": "Wooden Tile Roof - Veranda Left Corner",
+      "translation": "Wooden Tile Roof - Veranda Left Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roof_wood_01_veranda_b_rmitre": {
+      "source": "Wooden Tile Roof - Veranda Right Corner",
+      "translation": "Wooden Tile Roof - Veranda Right Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_rope_spool_a": {
+      "source": "Rope Spool - Empty",
+      "translation": "Rope Spool - Empty",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_rope_spool_b": {
+      "source": "Rope Spool - Full",
+      "translation": "Rope Spool - Full",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_ropeloops_01": {
+      "source": "Rope Coil",
+      "translation": "Rope Coil",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roundpole_a_05m": {
+      "source": "Wooden Pole 0.5m",
+      "translation": "Wooden Pole 0.5m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roundpole_a_2m": {
+      "source": "Wooden Pole 2m",
+      "translation": "Wooden Pole 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_roundpole_a_4m": {
+      "source": "Wooden Pole 4m",
+      "translation": "Wooden Pole 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sack_barrow": {
+      "source": "Sack Barrow",
+      "translation": "Sack Barrow",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_saguarocactus": {
+      "source": "Saguaro Cactus 1 ",
+      "translation": "Saguaro Cactus 1 ",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_saguarocactus02": {
+      "source": "Saguaro Cactus 2",
+      "translation": "Saguaro Cactus 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_saguarocactus03": {
+      "source": "Saguaro Cactus 3",
+      "translation": "Saguaro Cactus 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_saw_blade": {
+      "source": "Saw Blade",
+      "translation": "Saw Blade",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_01": {
+      "source": "Western Sign - Panel 04",
+      "translation": "Western Sign - Panel 04",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_02": {
+      "source": "Western Sign - Panel 05",
+      "translation": "Western Sign - Panel 05",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_03": {
+      "source": "Western Sign - Panel 06",
+      "translation": "Western Sign - Panel 06",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_04": {
+      "source": "Western Sign - Panel 07",
+      "translation": "Western Sign - Panel 07",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_05": {
+      "source": "Western Sign - Panel 08",
+      "translation": "Western Sign - Panel 08",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_06": {
+      "source": "Western Sign - Panel 09",
+      "translation": "Western Sign - Panel 09",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_b_01": {
+      "source": "Western Sign - Projecting 1",
+      "translation": "Western Sign - Projecting 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_b_02": {
+      "source": "Western Sign - Projecting 2",
+      "translation": "Western Sign - Projecting 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_b_03": {
+      "source": "Western Sign - Projecting 3",
+      "translation": "Western Sign - Projecting 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_b_04": {
+      "source": "Western Sign - Panel 01",
+      "translation": "Western Sign - Panel 01",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_b_05": {
+      "source": "Western Sign - Panel 02",
+      "translation": "Western Sign - Panel 02",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_b_06": {
+      "source": "Western Sign - Panel 03",
+      "translation": "Western Sign - Panel 03",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_b_wantedposter": {
+      "source": "Wanted Poster",
+      "translation": "Wanted Poster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_boot": {
+      "source": "Western Sign - Boot",
+      "translation": "Western Sign - Boot",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_bracket": {
+      "source": "Western Sign Bracket",
+      "translation": "Western Sign Bracket",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_general_01": {
+      "source": "Western Sign - Panel 10",
+      "translation": "Western Sign - Panel 10",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_general_02": {
+      "source": "Western Sign - Panel 11",
+      "translation": "Western Sign - Panel 11",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_general_03": {
+      "source": "Western Sign - Panel 12",
+      "translation": "Western Sign - Panel 12",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_general_04": {
+      "source": "Western Sign - Panel 13",
+      "translation": "Western Sign - Panel 13",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_general_05": {
+      "source": "Western Sign - Panel 14",
+      "translation": "Western Sign - Panel 14",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_general_06": {
+      "source": "Western Sign - Panel 15",
+      "translation": "Western Sign - Panel 15",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_general_07": {
+      "source": "Western Sign - Panel 16",
+      "translation": "Western Sign - Panel 16",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_general_08": {
+      "source": "Western Sign - Panel 17",
+      "translation": "Western Sign - Panel 17",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_horseshoe": {
+      "source": "Western Sign - Horseshoe",
+      "translation": "Western Sign - Horseshoe",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_metal_01": {
+      "source": "Western Sign - Metal 1",
+      "translation": "Western Sign - Metal 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_metal_02": {
+      "source": "Western Sign - Metal 2",
+      "translation": "Western Sign - Metal 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_revolver": {
+      "source": "Western Statue - Revolver",
+      "translation": "Western Statue - Revolver",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_sign_star": {
+      "source": "Western Sign - Star",
+      "translation": "Western Sign - Star",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_steamertrunk": {
+      "source": "Steamer Trunk",
+      "translation": "Steamer Trunk",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_steamshovel": {
+      "source": "Steam Shovel",
+      "translation": "Steam Shovel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_steamshovel_base": {
+      "source": "Steam Shovel Base",
+      "translation": "Steam Shovel Base",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_step_2m": {
+      "source": "Wooden Stepladder 2m",
+      "translation": "Wooden Stepladder 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_step_4m": {
+      "source": "Wooden Stepladder 4m",
+      "translation": "Wooden Stepladder 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_tent_01": {
+      "source": "Trail Tent - Large",
+      "translation": "Trail Tent - Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_tent_02": {
+      "source": "Trail Tent - Small",
+      "translation": "Trail Tent - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_tnt_plunger": {
+      "source": "TNT Plunger",
+      "translation": "TNT Plunger",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_tools_a": {
+      "source": "Prospector's Shovel",
+      "translation": "Prospector's Shovel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_tools_b": {
+      "source": "Prospector's Pickaxe",
+      "translation": "Prospector's Pickaxe",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wagon": {
+      "source": "Wagon - Caravan",
+      "translation": "Wagon - Caravan",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wagon_nocanvas": {
+      "source": "Wagon - Bare",
+      "translation": "Wagon - Bare",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wagoncanvas": {
+      "source": "Wagon - Canvas",
+      "translation": "Wagon - Canvas",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wagoncanvas_rideentrance": {
+      "source": "Canvas Wagon Archway",
+      "translation": "Canvas Wagon Archway",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_floor": {
+      "source": "Classic Brick Floor",
+      "translation": "Classic Brick Floor",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_floor_quarter": {
+      "source": "Classic Brick Floor - Quarter 1",
+      "translation": "Classic Brick Floor - Quarter 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_floor_quarter_02": {
+      "source": "Classic Brick Floor - Quarter 2",
+      "translation": "Classic Brick Floor - Quarter 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_gabletri_1m": {
+      "source": "Classic Brick Wall - 1m Gable End",
+      "translation": "Classic Brick Wall - 1m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_gabletri_2m": {
+      "source": "Classic Brick Wall - 2m Gable End",
+      "translation": "Classic Brick Wall - 2m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_1m": {
+      "source": "Classic Brick Wall 1m",
+      "translation": "Classic Brick Wall 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_2m": {
+      "source": "Classic Brick Wall 2m",
+      "translation": "Classic Brick Wall 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_4m": {
+      "source": "Classic Brick Wall 4m",
+      "translation": "Classic Brick Wall 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_archextention_4m": {
+      "source": "Classic Brick Wall - Arch Extension",
+      "translation": "Classic Brick Wall - Arch Extension",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_archround_4m": {
+      "source": "Classic Brick Wall - Arch 1",
+      "translation": "Classic Brick Wall - Arch 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_archstraight_4m": {
+      "source": "Classic Brick Wall - Arch 2",
+      "translation": "Classic Brick Wall - Arch 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_cap": {
+      "source": "Classic Brick Wall - Ridge Cap",
+      "translation": "Classic Brick Wall - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_curve": {
+      "source": "Classic Brick Wall - 4 x 2m Curved Slope",
+      "translation": "Classic Brick Wall - 4 x 2m Curved Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_curve_inverse": {
+      "source": "Classic Brick Wall - 4 x 2m Inverse Slope",
+      "translation": "Classic Brick Wall - 4 x 2m Inverse Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_door_4m": {
+      "source": "Classic Brick Wall - With Door",
+      "translation": "Classic Brick Wall - With Door",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_largewindow_4m": {
+      "source": "Classic Brick Wall - Large Window",
+      "translation": "Classic Brick Wall - Large Window",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_shopfront": {
+      "source": "Classic Brick Wall - Shop Front",
+      "translation": "Classic Brick Wall - Shop Front",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_slope_1m": {
+      "source": "Classic Brick Wall - Slope 1m",
+      "translation": "Classic Brick Wall - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_slope_2m": {
+      "source": "Classic Brick Wall - Slope 2m",
+      "translation": "Classic Brick Wall - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_slope_4m": {
+      "source": "Classic Brick Wall - Slope 4m",
+      "translation": "Classic Brick Wall - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_station_surround_01": {
+      "source": "Classic Brick Wall - Station Surround 1",
+      "translation": "Classic Brick Wall - Station Surround 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_merge_station_surround_02": {
+      "source": "Classic Brick Wall - Station Surround 2",
+      "translation": "Classic Brick Wall - Station Surround 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_round_1m": {
+      "source": "Classic Brick Wall - Round 1m",
+      "translation": "Classic Brick Wall - Round 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_round_2m": {
+      "source": "Classic Brick Wall - Round 2m",
+      "translation": "Classic Brick Wall - Round 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_round_4m": {
+      "source": "Classic Brick Wall - Round 4m",
+      "translation": "Classic Brick Wall - Round 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_01": {
+      "source": "Classic Brick Wall - Top Flat",
+      "translation": "Classic Brick Wall - Top Flat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_02": {
+      "source": "Classic Brick Wall - Top Small Arch",
+      "translation": "Classic Brick Wall - Top Small Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_03": {
+      "source": "Classic Brick Wall - Top Large Corner",
+      "translation": "Classic Brick Wall - Top Large Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_04": {
+      "source": "Classic Brick Wall - Top Large Arch",
+      "translation": "Classic Brick Wall - Top Large Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_05": {
+      "source": "Classic Brick Wall - Top Flat Stepped",
+      "translation": "Classic Brick Wall - Top Flat Stepped",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_06": {
+      "source": "Classic Brick Wall - Top Flat Stepped Arch",
+      "translation": "Classic Brick Wall - Top Flat Stepped Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_07": {
+      "source": "Classic Brick Wall - Top Round Arch",
+      "translation": "Classic Brick Wall - Top Round Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_08_l": {
+      "source": "Classic Brick Wall - Top Half Round Arch Left",
+      "translation": "Classic Brick Wall - Top Half Round Arch Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_08_r": {
+      "source": "Classic Brick Wall - Top Half Round Arch Right",
+      "translation": "Classic Brick Wall - Top Half Round Arch Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_09": {
+      "source": "Classic Brick Wall - Top Gable",
+      "translation": "Classic Brick Wall - Top Gable",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_10_l": {
+      "source": "Classic Brick Wall - Top Slope Left",
+      "translation": "Classic Brick Wall - Top Slope Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_brick_01_walltop_10_r": {
+      "source": "Classic Brick Wall - Top Slope Right",
+      "translation": "Classic Brick Wall - Top Slope Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_floor": {
+      "source": "Wood Plank Floor",
+      "translation": "Wood Plank Floor",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_floor_quarter": {
+      "source": "Wood Plank Floor - Quarter 1",
+      "translation": "Wood Plank Floor - Quarter 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_floor_quarter_02": {
+      "source": "Wood Plank Floor - Quarter 2",
+      "translation": "Wood Plank Floor - Quarter 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_gabletri_1m": {
+      "source": "Wood Plank Wall - 1m Gable End",
+      "translation": "Wood Plank Wall - 1m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_gabletri_2m": {
+      "source": "Wood Plank Wall - 2m Gable End",
+      "translation": "Wood Plank Wall - 2m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_1m": {
+      "source": "Wood Plank Wall 1m",
+      "translation": "Wood Plank Wall 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_2m": {
+      "source": "Wood Plank Wall 2m",
+      "translation": "Wood Plank Wall 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_4m": {
+      "source": "Wood Plank Wall 4m",
+      "translation": "Wood Plank Wall 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_archextention_4m": {
+      "source": "Wood Plank Wall - Arch Extension",
+      "translation": "Wood Plank Wall - Arch Extension",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_archround_4m": {
+      "source": "Wood Plank Wall - Arch 1",
+      "translation": "Wood Plank Wall - Arch 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_archstraight_4m": {
+      "source": "Wood Plank Wall - Arch 2",
+      "translation": "Wood Plank Wall - Arch 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_cap": {
+      "source": "Wood Plank Wall - Ridge Cap",
+      "translation": "Wood Plank Wall - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_curve": {
+      "source": "Wood Plank Wall - 4 x 2m Curved Slope",
+      "translation": "Wood Plank Wall - 4 x 2m Curved Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_curve_inverse": {
+      "source": "Wood Plank Wall - 4 x 2m Inverse Slope",
+      "translation": "Wood Plank Wall - 4 x 2m Inverse Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_door_4m": {
+      "source": "Wood Plank Wall - With Door",
+      "translation": "Wood Plank Wall - With Door",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_largewindow_4m": {
+      "source": "Wood Plank Wall - Large Window",
+      "translation": "Wood Plank Wall - Large Window",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_shopfront": {
+      "source": "Wood Plank Wall - Shop Front",
+      "translation": "Wood Plank Wall - Shop Front",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_slope_1m": {
+      "source": "Wood Plank Wall - Slope 1m",
+      "translation": "Wood Plank Wall - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_slope_2m": {
+      "source": "Wood Plank Wall - Slope 2m",
+      "translation": "Wood Plank Wall - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_slope_4m": {
+      "source": "Wood Plank Wall - Slope 4m",
+      "translation": "Wood Plank Wall - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_station_surround_01": {
+      "source": "Wood Plank Wall - Station Surround 1",
+      "translation": "Wood Plank Wall - Station Surround 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_merge_station_surround_02": {
+      "source": "Wood Plank Wall - Station Surround 2",
+      "translation": "Wood Plank Wall - Station Surround 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_round_1m": {
+      "source": "Wood Plank Wall - Round 1m",
+      "translation": "Wood Plank Wall - Round 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_round_2m": {
+      "source": "Wood Plank Wall - Round 2m",
+      "translation": "Wood Plank Wall - Round 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_round_4m": {
+      "source": "Wood Plank Wall - Round 4m",
+      "translation": "Wood Plank Wall - Round 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_01": {
+      "source": "Wood Plank Wall - Top Flat",
+      "translation": "Wood Plank Wall - Top Flat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_02": {
+      "source": "Wood Plank Wall - Top Small Arch",
+      "translation": "Wood Plank Wall - Top Small Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_03": {
+      "source": "Wood Plank Wall - Top Large Corner",
+      "translation": "Wood Plank Wall - Top Large Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_04": {
+      "source": "Wood Plank Wall - Top Large Arch",
+      "translation": "Wood Plank Wall - Top Large Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_05": {
+      "source": "Wood Plank Wall - Top Flat Stepped",
+      "translation": "Wood Plank Wall - Top Flat Stepped",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_06": {
+      "source": "Wood Plank Wall - Top Flat Stepped Arch",
+      "translation": "Wood Plank Wall - Top Flat Stepped Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_07": {
+      "source": "Wood Plank Wall - Top Round Arch",
+      "translation": "Wood Plank Wall - Top Round Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_08_l": {
+      "source": "Wood Plank Wall - Top Half Round Arch Left",
+      "translation": "Wood Plank Wall - Top Half Round Arch Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_08_r": {
+      "source": "Wood Plank Wall - Top Half Round Arch Right",
+      "translation": "Wood Plank Wall - Top Half Round Arch Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_09": {
+      "source": "Wood Plank Wall - Top Gable",
+      "translation": "Wood Plank Wall - Top Gable",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_10_l": {
+      "source": "Wood Plank Wall - Top Slope Left",
+      "translation": "Wood Plank Wall - Top Slope Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_01_walltop_10_r": {
+      "source": "Wood Plank Wall - Top Slope Right",
+      "translation": "Wood Plank Wall - Top Slope Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_floor": {
+      "source": "Wood Batten Floor",
+      "translation": "Wood Batten Floor",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_floor_quarter": {
+      "source": "Wood Batten Floor - Quarter 1",
+      "translation": "Wood Batten Floor - Quarter 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_floor_quarter_02": {
+      "source": "Wood Batten Floor - Quarter 2",
+      "translation": "Wood Batten Floor - Quarter 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_gabletri_1m": {
+      "source": "Wood Batten Wall - 1m Gable End",
+      "translation": "Wood Batten Wall - 1m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_gabletri_2m": {
+      "source": "Wood Batten Wall - 2m Gable End",
+      "translation": "Wood Batten Wall - 2m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_1m": {
+      "source": "Wood Batten Wall 1m",
+      "translation": "Wood Batten Wall 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_2m": {
+      "source": "Wood Batten Wall 2m",
+      "translation": "Wood Batten Wall 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_4m": {
+      "source": "Wood Batten Wall 4m",
+      "translation": "Wood Batten Wall 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_archextention_4m": {
+      "source": "Wood Batten Wall - Arch Extension",
+      "translation": "Wood Batten Wall - Arch Extension",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_archround_4m": {
+      "source": "Wood Batten Wall - Arch 1",
+      "translation": "Wood Batten Wall - Arch 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_archstraight_4m": {
+      "source": "Wood Batten Wall - Arch 2",
+      "translation": "Wood Batten Wall - Arch 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_cap": {
+      "source": "Wood Batten Wall - Ridge Cap",
+      "translation": "Wood Batten Wall - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_curve": {
+      "source": "Wood Batten Wall - 4 x 2m Curved Slope",
+      "translation": "Wood Batten Wall - 4 x 2m Curved Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_curve_inverse": {
+      "source": "Wood Batten Wall - 4 x 2m Inverse Slope",
+      "translation": "Wood Batten Wall - 4 x 2m Inverse Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_door_4m": {
+      "source": "Wood Batten Wall - With Door",
+      "translation": "Wood Batten Wall - With Door",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_largewindow_4m": {
+      "source": "Wood Batten Wall - Large Window",
+      "translation": "Wood Batten Wall - Large Window",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_shopfront": {
+      "source": "Wood Batten Wall - Shop Front",
+      "translation": "Wood Batten Wall - Shop Front",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_slope_1m": {
+      "source": "Wood Batten Wall - Slope 1m",
+      "translation": "Wood Batten Wall - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_slope_2m": {
+      "source": "Wood Batten Wall - Slope 2m",
+      "translation": "Wood Batten Wall - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_slope_4m": {
+      "source": "Wood Batten Wall - Slope 4m",
+      "translation": "Wood Batten Wall - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_station_surround_01": {
+      "source": "Wood Batten Wall - Station Surround 1",
+      "translation": "Wood Batten Wall - Station Surround 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_merge_station_surround_02": {
+      "source": "Wood Batten Wall - Station Surround 2",
+      "translation": "Wood Batten Wall - Station Surround 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_round_1m": {
+      "source": "Wood Batten Wall - Round 1m",
+      "translation": "Wood Batten Wall - Round 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_round_2m": {
+      "source": "Wood Batten Wall - Round 2m",
+      "translation": "Wood Batten Wall - Round 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_round_4m": {
+      "source": "Wood Batten Wall - Round 4m",
+      "translation": "Wood Batten Wall - Round 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_01": {
+      "source": "Wood Batten Wall - Top Flat",
+      "translation": "Wood Batten Wall - Top Flat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_02": {
+      "source": "Wood Batten Wall - Top Small Arch",
+      "translation": "Wood Batten Wall - Top Small Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_03": {
+      "source": "Wood Batten Wall - Top Large Corner",
+      "translation": "Wood Batten Wall - Top Large Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_04": {
+      "source": "Wood Batten Wall - Top Large Arch",
+      "translation": "Wood Batten Wall - Top Large Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_05": {
+      "source": "Wood Batten Wall - Top Flat Stepped",
+      "translation": "Wood Batten Wall - Top Flat Stepped",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_06": {
+      "source": "Wood Batten Wall - Top Flat Stepped Arch",
+      "translation": "Wood Batten Wall - Top Flat Stepped Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_07": {
+      "source": "Wood Batten Wall - Top Round Arch",
+      "translation": "Wood Batten Wall - Top Round Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_08_l": {
+      "source": "Wood Batten Wall - Top Half Round Arch Left",
+      "translation": "Wood Batten Wall - Top Half Round Arch Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_08_r": {
+      "source": "Wood Batten Wall - Top Half Round Arch Right",
+      "translation": "Wood Batten Wall - Top Half Round Arch Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_09": {
+      "source": "Wood Batten Wall - Top Gable",
+      "translation": "Wood Batten Wall - Top Gable",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_10_l": {
+      "source": "Wood Batten Wall - Top Slope Left",
+      "translation": "Wood Batten Wall - Top Slope Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wall_wood_02_walltop_10_r": {
+      "source": "Wood Batten Wall - Top Slope Right",
+      "translation": "Wood Batten Wall - Top Slope Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_walllamp_04a": {
+      "source": "Oil Lamp 2",
+      "translation": "Oil Lamp 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_walllamp_04b": {
+      "source": "Oil Lamp 1",
+      "translation": "Oil Lamp 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_walllamp_05": {
+      "source": "Iron Box Lamp",
+      "translation": "Iron Box Lamp",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_walllamps_bracket_01": {
+      "source": "Iron Hanger 1",
+      "translation": "Iron Hanger 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_walllamps_bracket_02": {
+      "source": "Iron Hanger 2",
+      "translation": "Iron Hanger 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wash_tub": {
+      "source": "Wash Tub",
+      "translation": "Wash Tub",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_waterbasin_01": {
+      "source": "Water Basin",
+      "translation": "Water Basin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_watertower": {
+      "source": "Watertower - Large",
+      "translation": "Watertower - Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_watertower_small": {
+      "source": "Watertower - Small",
+      "translation": "Watertower - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_weathervane": {
+      "source": "Gunslinger Weathervane",
+      "translation": "Gunslinger Weathervane",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wheel_large": {
+      "source": "Iron Wheel - Large",
+      "translation": "Iron Wheel - Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wheel_large_anim": {
+      "source": "Iron Wheel - Large Rotating",
+      "translation": "Iron Wheel - Large Rotating",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wheel_small": {
+      "source": "Iron Wheel - Small",
+      "translation": "Iron Wheel - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_wheel_small_anim": {
+      "source": "Iron Wheel - Small Rotating",
+      "translation": "Iron Wheel - Small Rotating",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_01": {
+      "source": "Wooden Window - Plain Large",
+      "translation": "Wooden Window - Plain Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_03": {
+      "source": "Wooden Window - Open Shutters",
+      "translation": "Wooden Window - Open Shutters",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_04": {
+      "source": "Wooden Window - Neat Peaked",
+      "translation": "Wooden Window - Neat Peaked",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_05": {
+      "source": "Wooden Window - Barred",
+      "translation": "Wooden Window - Barred",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_06": {
+      "source": "Wooden Window - Plain Small",
+      "translation": "Wooden Window - Plain Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_07": {
+      "source": "Wooden Window - Flat Stone Sill",
+      "translation": "Wooden Window - Flat Stone Sill",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_08": {
+      "source": "Wooden Window - Arch Stone Sill",
+      "translation": "Wooden Window - Arch Stone Sill",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_09": {
+      "source": "Wooden Window - Mantle Stone Sill",
+      "translation": "Wooden Window - Mantle Stone Sill",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_10": {
+      "source": "Wooden Window - Square Stone Sill",
+      "translation": "Wooden Window - Square Stone Sill",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_11": {
+      "source": "Wooden Window - Neat Small",
+      "translation": "Wooden Window - Neat Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_12": {
+      "source": "Wooden Window - Wide",
+      "translation": "Wooden Window - Wide",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_13": {
+      "source": "Wooden Window - Wide Peaked",
+      "translation": "Wooden Window - Wide Peaked",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_window_b_14": {
+      "source": "Wooden Window - Train Carriage",
+      "translation": "Wooden Window - Train Carriage",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_windpump": {
+      "source": "Wind Pump",
+      "translation": "Wind Pump",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_woodcourse_01": {
+      "source": "Wooden Decorative Course 1",
+      "translation": "Wooden Decorative Course 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_woodcourse_02": {
+      "source": "Wooden Decorative Course 2",
+      "translation": "Wooden Decorative Course 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ws_woodcourse_03": {
+      "source": "Wooden Decorative Course 3",
+      "translation": "Wooden Decorative Course 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_invertingsuspended": {
+      "source": "Inverting Suspended",
+      "translation": "Inverting Suspended",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_invertingsuspended_desc": {
+      "source": "Feel the wind in your wings on this suspended coaster as you fly through hair-raising twists and loops!",
+      "translation": "Feel the wind in your wings on this suspended coaster as you fly through hair-raising twists and loops!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_sitdowncoasterstock": {
+      "source": "Sit Down - 4 Seater (Standard)",
+      "translation": "Sit Down - 4 Seater (Standard)",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_sitdowncoasterstock_desc": {
+      "source": "A high-octane launched coaster, with updated cars and restraints, and a variety of inverted pieces.",
+      "translation": "A high-octane launched coaster, with updated cars and restraints, and a variety of inverted pieces.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_sprint500stock": {
+      "source": "Launched - Hydraulic (Standard)",
+      "translation": "Launched - Hydraulic (Standard)",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_sprint500stock_desc": {
+      "source": "This coaster boasts a hydraulic launch system to set your guests racing around the track.",
+      "translation": "This coaster boasts a hydraulic launch system to set your guests racing around the track.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_invertingsuspended": {
+      "source": "Inverting Suspended",
+      "translation": "Inverting Suspended",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_sitdowncoasterstock": {
+      "source": "Sit Down - 4 Seater (Standard)",
+      "translation": "Sit Down - 4 Seater (Standard)",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_sprint500stock": {
+      "source": "Launched - Hydraulic (Standard)",
+      "translation": "Launched - Hydraulic (Standard)",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_invertingsuspended": {
+      "source": "Vector <b>Inverting Suspended</b>",
+      "translation": "Vector <b>Inverting Suspended</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_sitdowncoasterstock": {
+      "source": "Vector <b>Sit Down - 4 Seater (Standard)</b>",
+      "translation": "Vector <b>Sit Down - 4 Seater (Standard)</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_sprint500stock": {
+      "source": "Outamax <b>Launched - Hydraulic (Standard)</b>",
+      "translation": "Outamax <b>Launched - Hydraulic (Standard)</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    }
+  }
+}

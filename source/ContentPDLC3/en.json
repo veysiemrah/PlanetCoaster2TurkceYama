@@ -1,0 +1,4411 @@
+{
+  "meta": {
+    "language": "en",
+    "source_language": "en",
+    "content_pack": "ContentPDLC3",
+    "game_version": "extracted",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "blueprint_coaster_f&nthriller_kid_coaster_01": {
+      "source": "Starfish",
+      "translation": "Starfish",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_f&nthriller_kid_coaster_01_desc": {
+      "source": "This winding track is sure to make waves with your guests.",
+      "translation": "This winding track is sure to make waves with your guests.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_vector_newgeninvertingsuspended_coaster_01": {
+      "source": "Equilibrium",
+      "translation": "Equilibrium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprint_coaster_vector_newgeninvertingsuspended_coaster_01_desc": {
+      "source": "Find your balance on this topsy-turvy layout.",
+      "translation": "Find your balance on this topsy-turvy layout.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_toybox_cartoonfire": {
+      "source": "Special Effect - Cartoon Fire",
+      "translation": "Special Effect - Cartoon Fire",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_toybox_dusttrail": {
+      "source": "Special Effect - Dust Trail",
+      "translation": "Special Effect - Dust Trail",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_toybox_largebeam": {
+      "source": "Special Effect - Light Beam",
+      "translation": "Special Effect - Light Beam",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_toybox_paintdrip": {
+      "source": "Special Effect - Paint Drip",
+      "translation": "Special Effect - Paint Drip",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_toybox_paintsplash": {
+      "source": "Special Effect - Paint Splash",
+      "translation": "Special Effect - Paint Splash",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_toybox_rainbow": {
+      "source": "Special Effect - Rainbow",
+      "translation": "Special Effect - Rainbow",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_toybox_starconfetti_01": {
+      "source": "Special Effect - Star Confetti",
+      "translation": "Special Effect - Star Confetti",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fx_toybox_starconfetti_02": {
+      "source": "Special Effect - Star Confetti Multicolour",
+      "translation": "Special Effect - Star Confetti Multicolour",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_animatronics_alien": {
+      "source": "Toy Figure - Alien",
+      "translation": "Toy Figure - Alien",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_animatronics_female": {
+      "source": "Toy Figure - Paramedic",
+      "translation": "Toy Figure - Paramedic",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_animatronics_male": {
+      "source": "Toy Figure - Police",
+      "translation": "Toy Figure - Police",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_bench_01": {
+      "source": "Toybox Bench",
+      "translation": "Toybox Bench",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_bin_01": {
+      "source": "Toybox Bin",
+      "translation": "Toybox Bin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_angled_01": {
+      "source": "Cardboard Shape - Indent Sharp",
+      "translation": "Cardboard Shape - Indent Sharp",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_angled_02": {
+      "source": "Cardboard Shape - Angled",
+      "translation": "Cardboard Shape - Angled",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_circle_4m": {
+      "source": "Cardboard Shape - Circle",
+      "translation": "Cardboard Shape - Circle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_circle_wobbly_4m": {
+      "source": "Cardboard Shape - Circle Wobbly",
+      "translation": "Cardboard Shape - Circle Wobbly",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_cloud_01": {
+      "source": "Cardboard Shape - Cloud 1",
+      "translation": "Cardboard Shape - Cloud 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_cloud_02": {
+      "source": "Cardboard Shape - Cloud 2",
+      "translation": "Cardboard Shape - Cloud 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_cloud_03": {
+      "source": "Cardboard Shape - Cloud 3",
+      "translation": "Cardboard Shape - Cloud 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_curve_01": {
+      "source": "Cardboard Shape - Quarter Circle",
+      "translation": "Cardboard Shape - Quarter Circle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_curve_02": {
+      "source": "Cardboard Shape - Curved",
+      "translation": "Cardboard Shape - Curved",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_curve_03": {
+      "source": "Cardboard Shape - Indent Curved",
+      "translation": "Cardboard Shape - Indent Curved",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_curve_04": {
+      "source": "Cardboard Shape - Curved Long",
+      "translation": "Cardboard Shape - Curved Long",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_door_01": {
+      "source": "Cardboard Shape - Door Round",
+      "translation": "Cardboard Shape - Door Round",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_door_02": {
+      "source": "Cardboard Shape - Door Rectangle",
+      "translation": "Cardboard Shape - Door Rectangle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_step_01": {
+      "source": "Cardboard Shape - Stepped",
+      "translation": "Cardboard Shape - Stepped",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_step_02": {
+      "source": "Cardboard Shape - Stepped Rounded",
+      "translation": "Cardboard Shape - Stepped Rounded",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_triangle_01": {
+      "source": "Cardboard Shape - Tapered",
+      "translation": "Cardboard Shape - Tapered",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_cardboardshapes_triangle_02": {
+      "source": "Cardboard Shape - Triangle",
+      "translation": "Cardboard Shape - Triangle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_arch_large": {
+      "source": "Toy City Skyscraper - Arch Large",
+      "translation": "Toy City Skyscraper - Arch Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_arch_small": {
+      "source": "Toy City Skyscraper - Arch Small",
+      "translation": "Toy City Skyscraper - Arch Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_arm": {
+      "source": "Toy City Skyscraper - Arm",
+      "translation": "Toy City Skyscraper - Arm",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_ball": {
+      "source": "Toy City Skyscraper - Ball",
+      "translation": "Toy City Skyscraper - Ball",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_block": {
+      "source": "Toy City Skyscraper - Block",
+      "translation": "Toy City Skyscraper - Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_block_arch": {
+      "source": "Toy City Skyscraper - Block Arch",
+      "translation": "Toy City Skyscraper - Block Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_cone": {
+      "source": "Toy City Skyscraper - Traffic Cone",
+      "translation": "Toy City Skyscraper - Traffic Cone",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_fin": {
+      "source": "Toy City Skyscraper - Fin",
+      "translation": "Toy City Skyscraper - Fin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_hexagon": {
+      "source": "Toy City Skyscraper - Hexagon",
+      "translation": "Toy City Skyscraper - Hexagon",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_pole": {
+      "source": "Toy City Skyscraper - Pole",
+      "translation": "Toy City Skyscraper - Pole",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_scaffold": {
+      "source": "Toy City Skyscraper - Scaffold",
+      "translation": "Toy City Skyscraper - Scaffold",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_triangle": {
+      "source": "Toy City Skyscraper - Triangle",
+      "translation": "Toy City Skyscraper - Triangle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_wall_large": {
+      "source": "Toy City Skyscraper - Wall Large",
+      "translation": "Toy City Skyscraper - Wall Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_wall_medium": {
+      "source": "Toy City Skyscraper - Wall Medium",
+      "translation": "Toy City Skyscraper - Wall Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_wall_trim": {
+      "source": "Toy City Skyscraper - Wall Trim 4m",
+      "translation": "Toy City Skyscraper - Wall Trim 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_wall_trim_2m": {
+      "source": "Toy City Skyscraper - Wall Trim 2m",
+      "translation": "Toy City Skyscraper - Wall Trim 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_wall_trim_cap": {
+      "source": "Toy City Skyscraper - Wall Trim Cap",
+      "translation": "Toy City Skyscraper - Wall Trim Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_city_skyscraper_window_inset": {
+      "source": "Toy City Skyscraper - Window Inset",
+      "translation": "Toy City Skyscraper - Window Inset",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_clay_pieces_001": {
+      "source": "Toy Crafts - Clay Blob 1",
+      "translation": "Toy Crafts - Clay Blob 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_clay_pieces_002": {
+      "source": "Toy Crafts - Clay Blob 2",
+      "translation": "Toy Crafts - Clay Blob 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_clay_pieces_003": {
+      "source": "Toy Crafts - Clay Squiggle",
+      "translation": "Toy Crafts - Clay Squiggle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_clay_pieces_004": {
+      "source": "Toy Crafts - Clay Corner",
+      "translation": "Toy Crafts - Clay Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_clay_pieces_005": {
+      "source": "Toy Crafts - Clay T-Junction",
+      "translation": "Toy Crafts - Clay T-Junction",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_clay_pieces_006": {
+      "source": "Toy Crafts - Clay Spire",
+      "translation": "Toy Crafts - Clay Spire",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_clay_pieces_007": {
+      "source": "Toy Crafts - Clay Tentacle",
+      "translation": "Toy Crafts - Clay Tentacle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_clay_pieces_008": {
+      "source": "Toy Crafts - Clay Flat",
+      "translation": "Toy Crafts - Clay Flat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_clay_pieces_009": {
+      "source": "Toy Crafts - Clay Cylinder",
+      "translation": "Toy Crafts - Clay Cylinder",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_clay_pieces_010": {
+      "source": "Toy Crafts - Clay Ball",
+      "translation": "Toy Crafts - Clay Ball",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_01": {
+      "source": "Toy Crafts - Palette Large Left",
+      "translation": "Toy Crafts - Palette Large Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_01_b": {
+      "source": "Toy Crafts - Palette Large Right",
+      "translation": "Toy Crafts - Palette Large Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_02": {
+      "source": "Toy Crafts - Palette Long",
+      "translation": "Toy Crafts - Palette Long",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_03": {
+      "source": "Toy Crafts - Palette Long Windowed",
+      "translation": "Toy Crafts - Palette Long Windowed",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_04": {
+      "source": "Toy Crafts - Palette Tall Left",
+      "translation": "Toy Crafts - Palette Tall Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_04_b": {
+      "source": "Toy Crafts - Palette Tall Right",
+      "translation": "Toy Crafts - Palette Tall Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_05": {
+      "source": "Toy Crafts - Palette Small",
+      "translation": "Toy Crafts - Palette Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_06": {
+      "source": "Toy Crafts - Palette Round",
+      "translation": "Toy Crafts - Palette Round",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_flap": {
+      "source": "Toy Crafts - Palette Tab",
+      "translation": "Toy Crafts - Palette Tab",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_paint_blob_01": {
+      "source": "Toy Crafts - Palette Paint Blob",
+      "translation": "Toy Crafts - Palette Paint Blob",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_paint_blob_02": {
+      "source": "Toy Crafts - Palette Paint Squiggle",
+      "translation": "Toy Crafts - Palette Paint Squiggle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_paintblock_rectangle_01": {
+      "source": "Toy Crafts - Palette Paint Rectangle",
+      "translation": "Toy Crafts - Palette Paint Rectangle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_items_pallette_paintblock_round_01": {
+      "source": "Toy Crafts - Palette Paint Round",
+      "translation": "Toy Crafts - Palette Paint Round",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_base_01": {
+      "source": "Toy Crafts - Base",
+      "translation": "Toy Crafts - Base",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_eraser": {
+      "source": "Toy Crafts - Rubber",
+      "translation": "Toy Crafts - Rubber",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_lid_01": {
+      "source": "Toy Crafts - Pen Lid 1",
+      "translation": "Toy Crafts - Pen Lid 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_lid_02": {
+      "source": "Toy Crafts - Pen Lid 2",
+      "translation": "Toy Crafts - Pen Lid 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_lid_03": {
+      "source": "Toy Crafts - Pen Lid 3",
+      "translation": "Toy Crafts - Pen Lid 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_marble": {
+      "source": "Toy Crafts - Marble",
+      "translation": "Toy Crafts - Marble",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_pen_01": {
+      "source": "Toy Crafts - Pen Fineliner",
+      "translation": "Toy Crafts - Pen Fineliner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_pen_02": {
+      "source": "Toy Crafts - Pen Felt-tip",
+      "translation": "Toy Crafts - Pen Felt-tip",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_pencil_body": {
+      "source": "Toy Crafts - Pencil Body",
+      "translation": "Toy Crafts - Pencil Body",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_pencil_connector": {
+      "source": "Toy Crafts - Pencil Ferrule",
+      "translation": "Toy Crafts - Pencil Ferrule",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_pencil_eraser": {
+      "source": "Toy Crafts - Pencil Rubber",
+      "translation": "Toy Crafts - Pencil Rubber",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_pencil_tip": {
+      "source": "Toy Crafts - Pencil Tip",
+      "translation": "Toy Crafts - Pencil Tip",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_scissors_left": {
+      "source": "Toy Crafts - Scissors Half",
+      "translation": "Toy Crafts - Scissors Half",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_sharpener": {
+      "source": "Toy Crafts - Sharpener",
+      "translation": "Toy Crafts - Sharpener",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_sharpener_handle": {
+      "source": "Toy Crafts - Sharpener Handle",
+      "translation": "Toy Crafts - Sharpener Handle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_yoyo": {
+      "source": "Toy Crafts - Yo-yo",
+      "translation": "Toy Crafts - Yo-yo",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craft_pieces_yoyo_string": {
+      "source": "Toy Crafts - Yo-yo String",
+      "translation": "Toy Crafts - Yo-yo String",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_crayon_new": {
+      "source": "Toy Crafts - Crayon New",
+      "translation": "Toy Crafts - Crayon New",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_crayon_used": {
+      "source": "Toy Crafts - Crayon Used",
+      "translation": "Toy Crafts - Crayon Used",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_glitter_pot": {
+      "source": "Toy Crafts - Glitter Pot",
+      "translation": "Toy Crafts - Glitter Pot",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_glue_spreader": {
+      "source": "Toy Crafts - Glue Spreader",
+      "translation": "Toy Crafts - Glue Spreader",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_lollipop_stick": {
+      "source": "Toy Crafts - Lolly Stick",
+      "translation": "Toy Crafts - Lolly Stick",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_marker_pen": {
+      "source": "Toy Crafts - Pen Marker",
+      "translation": "Toy Crafts - Pen Marker",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_paint_brush_large_handle": {
+      "source": "Toy Crafts - Paintbrush Large Handle",
+      "translation": "Toy Crafts - Paintbrush Large Handle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_paint_brush_large_head": {
+      "source": "Toy Crafts - Paintbrush Large Head",
+      "translation": "Toy Crafts - Paintbrush Large Head",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_paint_brush_small_handle": {
+      "source": "Toy Crafts - Paintbrush Small Handle",
+      "translation": "Toy Crafts - Paintbrush Small Handle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_paint_brush_small_head": {
+      "source": "Toy Crafts - Paintbrush Small Head",
+      "translation": "Toy Crafts - Paintbrush Small Head",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_paint_pot": {
+      "source": "Toy Crafts - Paint Pot",
+      "translation": "Toy Crafts - Paint Pot",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_paint_pot_empty": {
+      "source": "Toy Crafts - Paint Pot Empty",
+      "translation": "Toy Crafts - Paint Pot Empty",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_paint_pot_lid": {
+      "source": "Toy Crafts - Paint Pot Lid",
+      "translation": "Toy Crafts - Paint Pot Lid",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_paint_tube": {
+      "source": "Toy Crafts - Paint Tube",
+      "translation": "Toy Crafts - Paint Tube",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_paint_tube_lid": {
+      "source": "Toy Crafts - Paint Tube Lid",
+      "translation": "Toy Crafts - Paint Tube Lid",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_craftpieces_paint_tube_squashed": {
+      "source": "Toy Crafts - Paint Tube Squeezed",
+      "translation": "Toy Crafts - Paint Tube Squeezed",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_animal_cat": {
+      "source": "Toy Sticker - Animal Cat",
+      "translation": "Toy Sticker - Animal Cat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_animal_dog": {
+      "source": "Toy Sticker - Animal Dog",
+      "translation": "Toy Sticker - Animal Dog",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_animal_fox": {
+      "source": "Toy Sticker - Animal Fox",
+      "translation": "Toy Sticker - Animal Fox",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_animal_racoon": {
+      "source": "Toy Sticker - Animal Raccoon",
+      "translation": "Toy Sticker - Animal Raccoon",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_01": {
+      "source": "Toy Sticker - Doodle Max",
+      "translation": "Toy Sticker - Doodle Max",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_02": {
+      "source": "Toy Sticker - Doodle Coaster Mascot",
+      "translation": "Toy Sticker - Doodle Coaster Mascot",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_03": {
+      "source": "Toy Sticker - Doodle Alien",
+      "translation": "Toy Sticker - Doodle Alien",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_04": {
+      "source": "Toy Sticker - Doodle Splash Mascot",
+      "translation": "Toy Sticker - Doodle Splash Mascot",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_05": {
+      "source": "Toy Sticker - Doodle Alien Badge",
+      "translation": "Toy Sticker - Doodle Alien Badge",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_06": {
+      "source": "Toy Sticker - Doodle Alien Zigzag",
+      "translation": "Toy Sticker - Doodle Alien Zigzag",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_07": {
+      "source": "Toy Sticker - Doodle Alien Swirly Eye",
+      "translation": "Toy Sticker - Doodle Alien Swirly Eye",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_08": {
+      "source": "Toy Sticker - Doodle Alien Eye",
+      "translation": "Toy Sticker - Doodle Alien Eye",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_09": {
+      "source": "Toy Sticker - Doodle Alien Mouth",
+      "translation": "Toy Sticker - Doodle Alien Mouth",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_10": {
+      "source": "Toy Sticker - Doodle Spiky Bubble",
+      "translation": "Toy Sticker - Doodle Spiky Bubble",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_alien_leg_l": {
+      "source": "Toy Sticker - Doodle Alien Leg Left",
+      "translation": "Toy Sticker - Doodle Alien Leg Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_alien_leg_r": {
+      "source": "Toy Sticker - Doodle Alien Leg Right",
+      "translation": "Toy Sticker - Doodle Alien Leg Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_arm_01": {
+      "source": "Toy Sticker - Doodle Arm Bent",
+      "translation": "Toy Sticker - Doodle Arm Bent",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_arm_02": {
+      "source": "Toy Sticker - Doodle Arm Straight",
+      "translation": "Toy Sticker - Doodle Arm Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_dog_ear_01": {
+      "source": "Toy Sticker - Doodle Dog Ear",
+      "translation": "Toy Sticker - Doodle Dog Ear",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_dog_nose_01": {
+      "source": "Toy Sticker - Doodle Dog Nose",
+      "translation": "Toy Sticker - Doodle Dog Nose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_eye_01": {
+      "source": "Toy Sticker - Doodle Eyelash",
+      "translation": "Toy Sticker - Doodle Eyelash",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_eye_02": {
+      "source": "Toy Sticker - Doodle Eyebrow",
+      "translation": "Toy Sticker - Doodle Eyebrow",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_eye_03": {
+      "source": "Toy Sticker - Doodle Eye",
+      "translation": "Toy Sticker - Doodle Eye",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_mascot_arm_l": {
+      "source": "Toy Sticker - Doodle Max Arm Left",
+      "translation": "Toy Sticker - Doodle Max Arm Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_mascot_arm_r": {
+      "source": "Toy Sticker - Doodle Max Arm Right",
+      "translation": "Toy Sticker - Doodle Max Arm Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_mascot_head_af": {
+      "source": "Toy Sticker - Doodle Max Head 1",
+      "translation": "Toy Sticker - Doodle Max Head 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_mascot_head_am": {
+      "source": "Toy Sticker - Doodle Max Head 2",
+      "translation": "Toy Sticker - Doodle Max Head 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_mascot_leg_l": {
+      "source": "Toy Sticker - Doodle Max Leg Left",
+      "translation": "Toy Sticker - Doodle Max Leg Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_mascot_leg_r": {
+      "source": "Toy Sticker - Doodle Max Leg Right",
+      "translation": "Toy Sticker - Doodle Max Leg Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_mouth_01": {
+      "source": "Toy Sticker - Doodle Mouth Tongue",
+      "translation": "Toy Sticker - Doodle Mouth Tongue",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_mouth_02": {
+      "source": "Toy Sticker - Doodle Mouth Lips",
+      "translation": "Toy Sticker - Doodle Mouth Lips",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_mouth_03": {
+      "source": "Toy Sticker - Doodle Mouth Scowl",
+      "translation": "Toy Sticker - Doodle Mouth Scowl",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_mouth_04": {
+      "source": "Toy Sticker - Doodle Mouth Open",
+      "translation": "Toy Sticker - Doodle Mouth Open",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_mouth_05": {
+      "source": "Toy Sticker - Doodle Mouth Smile",
+      "translation": "Toy Sticker - Doodle Mouth Smile",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_nose_01": {
+      "source": "Toy Sticker - Doodle Nose",
+      "translation": "Toy Sticker - Doodle Nose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_artwork_speechbubble": {
+      "source": "Toy Sticker - Doodle Speech Bubble",
+      "translation": "Toy Sticker - Doodle Speech Bubble",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_doodle_01": {
+      "source": "Toy Sticker - Doodle Zigzag",
+      "translation": "Toy Sticker - Doodle Zigzag",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_doodle_02": {
+      "source": "Toy Sticker - Doodle Heart",
+      "translation": "Toy Sticker - Doodle Heart",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_doodle_03": {
+      "source": "Toy Sticker - Doodle Sun",
+      "translation": "Toy Sticker - Doodle Sun",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_doodle_04": {
+      "source": "Toy Sticker - Doodle Swirl",
+      "translation": "Toy Sticker - Doodle Swirl",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_doodle_05": {
+      "source": "Toy Sticker - Doodle Fire",
+      "translation": "Toy Sticker - Doodle Fire",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_doodle_06": {
+      "source": "Toy Sticker - Doodle Squiggle Pencil",
+      "translation": "Toy Sticker - Doodle Squiggle Pencil",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_doodle_07": {
+      "source": "Toy Sticker - Doodle Squiggle Pen",
+      "translation": "Toy Sticker - Doodle Squiggle Pen",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_doodle_08": {
+      "source": "Toy Sticker - Doodle Squiggle Crayon",
+      "translation": "Toy Sticker - Doodle Squiggle Crayon",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_doodle_09": {
+      "source": "Toy Sticker - Doodle Lightning",
+      "translation": "Toy Sticker - Doodle Lightning",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_doodle_10": {
+      "source": "Toy Sticker - Doodle Scribble",
+      "translation": "Toy Sticker - Doodle Scribble",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_doodle_11": {
+      "source": "Toy Sticker - Doodle Cloud",
+      "translation": "Toy Sticker - Doodle Cloud",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_door_01": {
+      "source": "Toy Sticker - Door Single",
+      "translation": "Toy Sticker - Door Single",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_door_02": {
+      "source": "Toy Sticker - Door Glass",
+      "translation": "Toy Sticker - Door Glass",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_foliage_bush_01": {
+      "source": "Toy Sticker - Foliage Bush",
+      "translation": "Toy Sticker - Foliage Bush",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_foliage_tree_01": {
+      "source": "Toy Sticker - Foliage Tree 1",
+      "translation": "Toy Sticker - Foliage Tree 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_foliage_tree_02": {
+      "source": "Toy Sticker - Foliage Tree 2",
+      "translation": "Toy Sticker - Foliage Tree 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_01": {
+      "source": "Toy Sticker - Face Eyelash",
+      "translation": "Toy Sticker - Face Eyelash",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_02": {
+      "source": "Toy Sticker - Face Eye ",
+      "translation": "Toy Sticker - Face Eye ",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_03": {
+      "source": "Toy Sticker - Face Ear",
+      "translation": "Toy Sticker - Face Ear",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_04": {
+      "source": "Toy Sticker - Face Nose",
+      "translation": "Toy Sticker - Face Nose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_05": {
+      "source": "Toy Sticker - Face Eye Cartoon",
+      "translation": "Toy Sticker - Face Eye Cartoon",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_06": {
+      "source": "Toy Sticker - Mascot Stormcloud 1",
+      "translation": "Toy Sticker - Mascot Stormcloud 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_07": {
+      "source": "Toy Sticker - Mascot Crown",
+      "translation": "Toy Sticker - Mascot Crown",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_08": {
+      "source": "Toy Sticker - Mascot Stormcloud 2",
+      "translation": "Toy Sticker - Mascot Stormcloud 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_09": {
+      "source": "Toy Sticker - Mascot Queen Splash",
+      "translation": "Toy Sticker - Mascot Queen Splash",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_10": {
+      "source": "Toy Sticker - Mascot King Coaster",
+      "translation": "Toy Sticker - Mascot King Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_11": {
+      "source": "Toy Sticker - Mascot Max Approved",
+      "translation": "Toy Sticker - Mascot Max Approved",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_12": {
+      "source": "Toy Sticker - Mascot Barcode",
+      "translation": "Toy Sticker - Mascot Barcode",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_mascot_13": {
+      "source": "Toy Sticker - Mascot Barcode Strip",
+      "translation": "Toy Sticker - Mascot Barcode Strip",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_01": {
+      "source": "Toy Sticker - Sign Caution",
+      "translation": "Toy Sticker - Sign Caution",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_02": {
+      "source": "Toy Sticker - Sign Hospital",
+      "translation": "Toy Sticker - Sign Hospital",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_03": {
+      "source": "Toy Sticker - Sign Police Station",
+      "translation": "Toy Sticker - Sign Police Station",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_04": {
+      "source": "Toy Sticker - Sign Traffic Light",
+      "translation": "Toy Sticker - Sign Traffic Light",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_05": {
+      "source": "Toy Sticker - Sign Ladder",
+      "translation": "Toy Sticker - Sign Ladder",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_06": {
+      "source": "Toy Sticker - Sign Double Line",
+      "translation": "Toy Sticker - Sign Double Line",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_07": {
+      "source": "Toy Sticker - Sign Chevron",
+      "translation": "Toy Sticker - Sign Chevron",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_08": {
+      "source": "Toy Sticker - Sign Double Line Angled",
+      "translation": "Toy Sticker - Sign Double Line Angled",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_09": {
+      "source": "Toy Sticker - Sign Squiggle",
+      "translation": "Toy Sticker - Sign Squiggle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_10": {
+      "source": "Toy Sticker - Sign Hazard",
+      "translation": "Toy Sticker - Sign Hazard",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_13": {
+      "source": "Toy Sticker - Sign Stop",
+      "translation": "Toy Sticker - Sign Stop",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_14": {
+      "source": "Toy Sticker - Sign Right Turn",
+      "translation": "Toy Sticker - Sign Right Turn",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_15": {
+      "source": "Toy Sticker - Sign Taxi",
+      "translation": "Toy Sticker - Sign Taxi",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_16": {
+      "source": "Toy Sticker - Sign Lines Thin",
+      "translation": "Toy Sticker - Sign Lines Thin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_17": {
+      "source": "Toy Sticker - Vehicle Tail Light",
+      "translation": "Toy Sticker - Vehicle Tail Light",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_18": {
+      "source": "Toy Sticker - Vehicle Headlight",
+      "translation": "Toy Sticker - Vehicle Headlight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_19": {
+      "source": "Toy Sticker - Doodle Eye Squint",
+      "translation": "Toy Sticker - Doodle Eye Squint",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_20": {
+      "source": "Toy Sticker - Sign Lines Thick",
+      "translation": "Toy Sticker - Sign Lines Thick",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_21": {
+      "source": "Toy Sticker - Doodle Mouth Grin",
+      "translation": "Toy Sticker - Doodle Mouth Grin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_22": {
+      "source": "Toy Sticker - Vehicle Bumper",
+      "translation": "Toy Sticker - Vehicle Bumper",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_23": {
+      "source": "Toy Sticker - Sign Line Thin Yellow",
+      "translation": "Toy Sticker - Sign Line Thin Yellow",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_24": {
+      "source": "Toy Sticker - Vehicle Grill",
+      "translation": "Toy Sticker - Vehicle Grill",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_25": {
+      "source": "Toy Sticker - Vehicle Tail Light Dual",
+      "translation": "Toy Sticker - Vehicle Tail Light Dual",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_26": {
+      "source": "Toy Sticker - Sign Line Blue Distressed",
+      "translation": "Toy Sticker - Sign Line Blue Distressed",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_27": {
+      "source": "Toy Sticker - Vehicle Dual Light",
+      "translation": "Toy Sticker - Vehicle Dual Light",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_sign_28": {
+      "source": "Toy Sticker - Doodle Eye Looking",
+      "translation": "Toy Sticker - Doodle Eye Looking",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_01": {
+      "source": "Toy Sticker - Window Triple Pane",
+      "translation": "Toy Sticker - Window Triple Pane",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_02": {
+      "source": "Toy Sticker - Window Tall",
+      "translation": "Toy Sticker - Window Tall",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_03": {
+      "source": "Toy Sticker - Window Trapezium Small",
+      "translation": "Toy Sticker - Window Trapezium Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_04": {
+      "source": "Toy Sticker - Window Trapezium",
+      "translation": "Toy Sticker - Window Trapezium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_05": {
+      "source": "Toy Sticker - Window Square",
+      "translation": "Toy Sticker - Window Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_06": {
+      "source": "Toy Sticker - Window Double Pane",
+      "translation": "Toy Sticker - Window Double Pane",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_07": {
+      "source": "Toy Sticker - Window Trapezium Rounded",
+      "translation": "Toy Sticker - Window Trapezium Rounded",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_08": {
+      "source": "Toy Sticker - Window Angled Thin",
+      "translation": "Toy Sticker - Window Angled Thin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_09": {
+      "source": "Toy Sticker - Window Trapezium Tall",
+      "translation": "Toy Sticker - Window Trapezium Tall",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_10": {
+      "source": "Toy Sticker - Window Oblong Rounded",
+      "translation": "Toy Sticker - Window Oblong Rounded",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_11": {
+      "source": "Toy Sticker - Window Large",
+      "translation": "Toy Sticker - Window Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_12": {
+      "source": "Toy Sticker - Window Rectangle Rounded",
+      "translation": "Toy Sticker - Window Rectangle Rounded",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_13": {
+      "source": "Toy Sticker - Window Rectangle",
+      "translation": "Toy Sticker - Window Rectangle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_14": {
+      "source": "Toy Sticker - Window Tapered",
+      "translation": "Toy Sticker - Window Tapered",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_15": {
+      "source": "Toy Sticker - Window Thin",
+      "translation": "Toy Sticker - Window Thin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_16": {
+      "source": "Toy Sticker - Window Circle",
+      "translation": "Toy Sticker - Window Circle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_17": {
+      "source": "Toy Sticker - Window Paned",
+      "translation": "Toy Sticker - Window Paned",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decal_window_18": {
+      "source": "Toy Sticker - Window Oblong Arched",
+      "translation": "Toy Sticker - Window Oblong Arched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_0": {
+      "source": "Toy Sticker - Number 0",
+      "translation": "Toy Sticker - Number 0",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_1": {
+      "source": "Toy Sticker - Number 1",
+      "translation": "Toy Sticker - Number 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_2": {
+      "source": "Toy Sticker - Number 2",
+      "translation": "Toy Sticker - Number 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_3": {
+      "source": "Toy Sticker - Number 3",
+      "translation": "Toy Sticker - Number 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_4": {
+      "source": "Toy Sticker - Number 4",
+      "translation": "Toy Sticker - Number 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_5": {
+      "source": "Toy Sticker - Number 5",
+      "translation": "Toy Sticker - Number 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_6": {
+      "source": "Toy Sticker - Number 6",
+      "translation": "Toy Sticker - Number 6",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_7": {
+      "source": "Toy Sticker - Number 7",
+      "translation": "Toy Sticker - Number 7",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_8": {
+      "source": "Toy Sticker - Number 8",
+      "translation": "Toy Sticker - Number 8",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_9": {
+      "source": "Toy Sticker - Number 9",
+      "translation": "Toy Sticker - Number 9",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_a": {
+      "source": "Toy Sticker - Alphabet A",
+      "translation": "Toy Sticker - Alphabet A",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_b": {
+      "source": "Toy Sticker - Alphabet B",
+      "translation": "Toy Sticker - Alphabet B",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_c": {
+      "source": "Toy Sticker - Alphabet C",
+      "translation": "Toy Sticker - Alphabet C",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_d": {
+      "source": "Toy Sticker - Alphabet D",
+      "translation": "Toy Sticker - Alphabet D",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_e": {
+      "source": "Toy Sticker - Alphabet E",
+      "translation": "Toy Sticker - Alphabet E",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_f": {
+      "source": "Toy Sticker - Alphabet F",
+      "translation": "Toy Sticker - Alphabet F",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_g": {
+      "source": "Toy Sticker - Alphabet G",
+      "translation": "Toy Sticker - Alphabet G",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_h": {
+      "source": "Toy Sticker - Alphabet H",
+      "translation": "Toy Sticker - Alphabet H",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_i": {
+      "source": "Toy Sticker - Alphabet I",
+      "translation": "Toy Sticker - Alphabet I",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_j": {
+      "source": "Toy Sticker - Alphabet J",
+      "translation": "Toy Sticker - Alphabet J",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_k": {
+      "source": "Toy Sticker - Alphabet K",
+      "translation": "Toy Sticker - Alphabet K",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_l": {
+      "source": "Toy Sticker - Alphabet L",
+      "translation": "Toy Sticker - Alphabet L",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_m": {
+      "source": "Toy Sticker - Alphabet M",
+      "translation": "Toy Sticker - Alphabet M",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_n": {
+      "source": "Toy Sticker - Alphabet N",
+      "translation": "Toy Sticker - Alphabet N",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_o": {
+      "source": "Toy Sticker - Alphabet O",
+      "translation": "Toy Sticker - Alphabet O",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_p": {
+      "source": "Toy Sticker - Alphabet P",
+      "translation": "Toy Sticker - Alphabet P",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_q": {
+      "source": "Toy Sticker - Alphabet Q",
+      "translation": "Toy Sticker - Alphabet Q",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_r": {
+      "source": "Toy Sticker - Alphabet R",
+      "translation": "Toy Sticker - Alphabet R",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_s": {
+      "source": "Toy Sticker - Alphabet S",
+      "translation": "Toy Sticker - Alphabet S",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_t": {
+      "source": "Toy Sticker - Alphabet T",
+      "translation": "Toy Sticker - Alphabet T",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_u": {
+      "source": "Toy Sticker - Alphabet U",
+      "translation": "Toy Sticker - Alphabet U",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_v": {
+      "source": "Toy Sticker - Alphabet V",
+      "translation": "Toy Sticker - Alphabet V",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_w": {
+      "source": "Toy Sticker - Alphabet W",
+      "translation": "Toy Sticker - Alphabet W",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_x": {
+      "source": "Toy Sticker - Alphabet X",
+      "translation": "Toy Sticker - Alphabet X",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_y": {
+      "source": "Toy Sticker - Alphabet Y",
+      "translation": "Toy Sticker - Alphabet Y",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_decals_alphabet_z": {
+      "source": "Toy Sticker - Alphabet Z",
+      "translation": "Toy Sticker - Alphabet Z",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_door_01": {
+      "source": "Toy Door - Elevator",
+      "translation": "Toy Door - Elevator",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_door_02": {
+      "source": "Toy Door - Paned",
+      "translation": "Toy Door - Paned",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_door_03": {
+      "source": "Toy Door - Framed",
+      "translation": "Toy Door - Framed",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_door_04": {
+      "source": "Toy Door - Arched",
+      "translation": "Toy Door - Arched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_door_05": {
+      "source": "Toy Door - Modern",
+      "translation": "Toy Door - Modern",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_door_06": {
+      "source": "Toy Door - Garage",
+      "translation": "Toy Door - Garage",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_fence_01": {
+      "source": "Toybox Plastic Fence",
+      "translation": "Toybox Plastic Fence",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_fence_02": {
+      "source": "Toybox Crayon Fence",
+      "translation": "Toybox Crayon Fence",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_alien_arm_left": {
+      "source": "Toy Figure Part - Alien Arm Left",
+      "translation": "Toy Figure Part - Alien Arm Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_alien_arm_right": {
+      "source": "Toy Figure Part - Alien Arm Right",
+      "translation": "Toy Figure Part - Alien Arm Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_alien_head": {
+      "source": "Toy Figure Part - Alien Head",
+      "translation": "Toy Figure Part - Alien Head",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_alien_torso": {
+      "source": "Toy Figure Part - Alien Torso",
+      "translation": "Toy Figure Part - Alien Torso",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_cap": {
+      "source": "Toy Figure Part - Cap",
+      "translation": "Toy Figure Part - Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_foot": {
+      "source": "Toy Figure Part - Foot",
+      "translation": "Toy Figure Part - Foot",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_hand": {
+      "source": "Toy Figure Part - Hand",
+      "translation": "Toy Figure Part - Hand",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_lowerlegs_left": {
+      "source": "Toy Figure Part - Lower Leg Left",
+      "translation": "Toy Figure Part - Lower Leg Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_lowerlegs_right": {
+      "source": "Toy Figure Part - Lower Leg Right",
+      "translation": "Toy Figure Part - Lower Leg Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_paramedic_arm_left": {
+      "source": "Toy Figure Part - Arm Left",
+      "translation": "Toy Figure Part - Arm Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_paramedic_arm_right": {
+      "source": "Toy Figure Part - Arm Right",
+      "translation": "Toy Figure Part - Arm Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_paramedic_head": {
+      "source": "Toy Figure Part - Paramedic Head",
+      "translation": "Toy Figure Part - Paramedic Head",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_paramedic_torso": {
+      "source": "Toy Figure Part - Paramedic Torso",
+      "translation": "Toy Figure Part - Paramedic Torso",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_police_hat": {
+      "source": "Toy Figure Part - Police Hat",
+      "translation": "Toy Figure Part - Police Hat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_police_head": {
+      "source": "Toy Figure Part - Police Head",
+      "translation": "Toy Figure Part - Police Head",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_police_torso": {
+      "source": "Toy Figure Part - Police Torso",
+      "translation": "Toy Figure Part - Police Torso",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_upperlegs_left": {
+      "source": "Toy Figure Part - Upper Leg Left",
+      "translation": "Toy Figure Part - Upper Leg Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_figureset_upperlegs_right": {
+      "source": "Toy Figure Part - Upper Leg Right",
+      "translation": "Toy Figure Part - Upper Leg Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_googlyeye": {
+      "source": "Toy Googly Eye",
+      "translation": "Toy Googly Eye",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_bracket_01": {
+      "source": "Toybox Light - Bracket Round",
+      "translation": "Toybox Light - Bracket Round",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_bracket_02": {
+      "source": "Toybox Light - Bracket Flat",
+      "translation": "Toybox Light - Bracket Flat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_bracket_arm_01": {
+      "source": "Toybox Light - Bracket Arm",
+      "translation": "Toybox Light - Bracket Arm",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_button_circle": {
+      "source": "Toybox Light - Button Circle",
+      "translation": "Toybox Light - Button Circle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_button_curve": {
+      "source": "Toybox Light - Button Curve",
+      "translation": "Toybox Light - Button Curve",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_button_oval": {
+      "source": "Toybox Light - Button Oval",
+      "translation": "Toybox Light - Button Oval",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_button_square": {
+      "source": "Toybox Light - Button Square",
+      "translation": "Toybox Light - Button Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_dome_01": {
+      "source": "Toybox Light - Dome",
+      "translation": "Toybox Light - Dome",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_lamppost_01": {
+      "source": "Toybox Lamppost",
+      "translation": "Toybox Lamppost",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_siren_01": {
+      "source": "Toybox Light - Beacon",
+      "translation": "Toybox Light - Beacon",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_siren_02": {
+      "source": "Toybox Light - Lightbar",
+      "translation": "Toybox Light - Lightbar",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_spotlight_megaphone": {
+      "source": "Toybox Light - Spotlight Megaphone",
+      "translation": "Toybox Light - Spotlight Megaphone",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_spotlight_stepped": {
+      "source": "Toybox Light - Spotlight Stepped",
+      "translation": "Toybox Light - Spotlight Stepped",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_lighting_trafficlight": {
+      "source": "Toybox Light - Traffic Light",
+      "translation": "Toybox Light - Traffic Light",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_mascot_screen": {
+      "source": "A.D.A.M Screen",
+      "translation": "A.D.A.M Screen",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_mat_foam_1m": {
+      "source": "Toy Foam Mat",
+      "translation": "Toy Foam Mat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_paintsplat_01": {
+      "source": "Toy Decal - Paint Splatter",
+      "translation": "Toy Decal - Paint Splatter",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_paintsplat_02": {
+      "source": "Toy Decal - Paint Streaks",
+      "translation": "Toy Decal - Paint Streaks",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_paintsplat_03": {
+      "source": "Toy Decal - Paint Daub",
+      "translation": "Toy Decal - Paint Daub",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_paintsplat_04": {
+      "source": "Toy Decal - Paint Line",
+      "translation": "Toy Decal - Paint Line",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_paintsplat_05": {
+      "source": "Toy Decal - Paint Splotch",
+      "translation": "Toy Decal - Paint Splotch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_paintsplat_06": {
+      "source": "Toy Decal - Paint Droplets",
+      "translation": "Toy Decal - Paint Droplets",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_paintsplat_07": {
+      "source": "Toy Decal - Paint Splat",
+      "translation": "Toy Decal - Paint Splat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_paintsplat_08": {
+      "source": "Toy Decal - Paint Blotch",
+      "translation": "Toy Decal - Paint Blotch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_paintsplat_09": {
+      "source": "Toy Decal - Paint Fleck",
+      "translation": "Toy Decal - Paint Fleck",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_picnicbench_01": {
+      "source": "Toybox Picnic Bench",
+      "translation": "Toybox Picnic Bench",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_box_clip": {
+      "source": "Toy Plastic Piece - Box Clip",
+      "translation": "Toy Plastic Piece - Box Clip",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_box_cylinder": {
+      "source": "Toy Plastic Piece - Cube Round Top",
+      "translation": "Toy Plastic Piece - Cube Round Top",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_box_rounded": {
+      "source": "Toy Plastic Piece - Box Rounded",
+      "translation": "Toy Plastic Piece - Box Rounded",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_box_rounded_wide": {
+      "source": "Toy Plastic Piece - Box Rounded Wide",
+      "translation": "Toy Plastic Piece - Box Rounded Wide",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_box_small": {
+      "source": "Toy Plastic Piece - Box Small",
+      "translation": "Toy Plastic Piece - Box Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_bracket_01": {
+      "source": "Toy Plastic Piece - Bracket",
+      "translation": "Toy Plastic Piece - Bracket",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_canopy": {
+      "source": "Toy Plastic Piece - Canopy",
+      "translation": "Toy Plastic Piece - Canopy",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_cap": {
+      "source": "Toy Plastic Piece - Cap",
+      "translation": "Toy Plastic Piece - Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_chassis_01": {
+      "source": "Toy Plastic Piece - Chassis",
+      "translation": "Toy Plastic Piece - Chassis",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_chimney": {
+      "source": "Toy Plastic Piece - Chimney",
+      "translation": "Toy Plastic Piece - Chimney",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_cog_01": {
+      "source": "Toy Plastic Piece - Cog",
+      "translation": "Toy Plastic Piece - Cog",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_cube": {
+      "source": "Toy Plastic Piece - Cube",
+      "translation": "Toy Plastic Piece - Cube",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_cuboid": {
+      "source": "Toy Plastic Piece - Cuboid",
+      "translation": "Toy Plastic Piece - Cuboid",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_cuboid_cutout": {
+      "source": "Toy Plastic Piece - Ramp",
+      "translation": "Toy Plastic Piece - Ramp",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_cuboid_rounded": {
+      "source": "Toy Plastic Piece - Cuboid Rounded",
+      "translation": "Toy Plastic Piece - Cuboid Rounded",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_dial_01": {
+      "source": "Toy Plastic Piece - Dial Small",
+      "translation": "Toy Plastic Piece - Dial Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_dial_02": {
+      "source": "Toy Plastic Piece - Dial Large",
+      "translation": "Toy Plastic Piece - Dial Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_engine_block_01": {
+      "source": "Toy Plastic Piece - Engine Block Long",
+      "translation": "Toy Plastic Piece - Engine Block Long",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_engine_block_02": {
+      "source": "Toy Plastic Piece - Engine Block Tapered",
+      "translation": "Toy Plastic Piece - Engine Block Tapered",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_engine_block_03": {
+      "source": "Toy Plastic Piece - Engine Block Large",
+      "translation": "Toy Plastic Piece - Engine Block Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_joystick": {
+      "source": "Toy Plastic Piece - Joystick",
+      "translation": "Toy Plastic Piece - Joystick",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_pipe_01": {
+      "source": "Toy Plastic Piece - Pipe",
+      "translation": "Toy Plastic Piece - Pipe",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_pipe_box": {
+      "source": "Toy Plastic Piece - Pipe Box",
+      "translation": "Toy Plastic Piece - Pipe Box",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_pipe_large_01": {
+      "source": "Toy Plastic Piece - Pipe Large",
+      "translation": "Toy Plastic Piece - Pipe Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_pipe_t_junction": {
+      "source": "Toy Plastic Piece - Pipe T-Junction",
+      "translation": "Toy Plastic Piece - Pipe T-Junction",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_qtr_saucer_01": {
+      "source": "Toy Plastic Piece - Saucer Quarter",
+      "translation": "Toy Plastic Piece - Saucer Quarter",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_qtr_saucer_02": {
+      "source": "Toy Plastic Piece - Saucer Trim Quarter",
+      "translation": "Toy Plastic Piece - Saucer Trim Quarter",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_spring_01": {
+      "source": "Toy Plastic Piece - Threaded Rod",
+      "translation": "Toy Plastic Piece - Threaded Rod",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_windows_rnd": {
+      "source": "Toy Plastic Piece - Window Bay",
+      "translation": "Toy Plastic Piece - Window Bay",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_wing_01": {
+      "source": "Toy Plastic Piece - Wing 1",
+      "translation": "Toy Plastic Piece - Wing 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_wing_02_left": {
+      "source": "Toy Plastic Piece - Wing 2 Left",
+      "translation": "Toy Plastic Piece - Wing 2 Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_wing_02_right": {
+      "source": "Toy Plastic Piece - Wing 2 Right",
+      "translation": "Toy Plastic Piece - Wing 2 Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_wing_03": {
+      "source": "Toy Plastic Piece - Wing 3",
+      "translation": "Toy Plastic Piece - Wing 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_plasticpieces_wing_04": {
+      "source": "Toy Plastic Piece - Wing 4",
+      "translation": "Toy Plastic Piece - Wing 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_pushpuppet": {
+      "source": "Toy Push Puppet",
+      "translation": "Toy Push Puppet",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_robot_arm_left": {
+      "source": "Toy Robot - Arm Left",
+      "translation": "Toy Robot - Arm Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_robot_arm_right": {
+      "source": "Toy Robot - Arm Right",
+      "translation": "Toy Robot - Arm Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_robot_body": {
+      "source": "Toy Robot - Body",
+      "translation": "Toy Robot - Body",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_robot_complete": {
+      "source": "Toy Robot - Complete",
+      "translation": "Toy Robot - Complete",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_robot_head": {
+      "source": "Toy Robot - Head",
+      "translation": "Toy Robot - Head",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_robot_legs": {
+      "source": "Toy Robot - Legs",
+      "translation": "Toy Robot - Legs",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_1m": {
+      "source": "Cardboard Roof - Slope 1m",
+      "translation": "Cardboard Roof - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_1m_eave": {
+      "source": "Cardboard Roof - Eave 1m",
+      "translation": "Cardboard Roof - Eave 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_2m": {
+      "source": "Cardboard Roof - Slope 2m",
+      "translation": "Cardboard Roof - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_2m_eave": {
+      "source": "Cardboard Roof - Eave 2m",
+      "translation": "Cardboard Roof - Eave 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_4m": {
+      "source": "Cardboard Roof - Slope 4m",
+      "translation": "Cardboard Roof - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_4m_eave": {
+      "source": "Cardboard Roof - Eave 4m",
+      "translation": "Cardboard Roof - Eave 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_corner_1m": {
+      "source": "Cardboard Roof - Corner 1m",
+      "translation": "Cardboard Roof - Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_corner_1m_eave": {
+      "source": "Cardboard Roof - Eave 1m Corner",
+      "translation": "Cardboard Roof - Eave 1m Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_corner_2m": {
+      "source": "Cardboard Roof - Corner 2m",
+      "translation": "Cardboard Roof - Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_corner_2m_eave": {
+      "source": "Cardboard Roof - Eave 2m Corner",
+      "translation": "Cardboard Roof - Eave 2m Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_corner_4m": {
+      "source": "Cardboard Roof - Corner 4m",
+      "translation": "Cardboard Roof - Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_corner_4m_eave": {
+      "source": "Cardboard Roof - Eave 4m Corner",
+      "translation": "Cardboard Roof - Eave 4m Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_cornerinv_1m": {
+      "source": "Cardboard Roof - Inverted Corner 1m",
+      "translation": "Cardboard Roof - Inverted Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_cornerinv_2m": {
+      "source": "Cardboard Roof - Inverted Corner 2m",
+      "translation": "Cardboard Roof - Inverted Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_cornerinv_4m": {
+      "source": "Cardboard Roof - Inverted Corner 4m",
+      "translation": "Cardboard Roof - Inverted Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_doublepitch_1m": {
+      "source": "Cardboard Roof - Pitched 1m",
+      "translation": "Cardboard Roof - Pitched 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_doublepitch_2m": {
+      "source": "Cardboard Roof - Pitched 2m",
+      "translation": "Cardboard Roof - Pitched 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_doublepitch_4m": {
+      "source": "Cardboard Roof - Pitched 4m",
+      "translation": "Cardboard Roof - Pitched 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_doublepitch_corner_1m": {
+      "source": "Cardboard Roof - Pitched Corner 1m",
+      "translation": "Cardboard Roof - Pitched Corner 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_doublepitch_corner_2m": {
+      "source": "Cardboard Roof - Pitched Corner 2m",
+      "translation": "Cardboard Roof - Pitched Corner 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_doublepitch_corner_4m": {
+      "source": "Cardboard Roof - Pitched Corner 4m",
+      "translation": "Cardboard Roof - Pitched Corner 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_flat": {
+      "source": "Cardboard Roof - Flat",
+      "translation": "Cardboard Roof - Flat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_flat_qtrcirc": {
+      "source": "Cardboard Roof - Flat Quarter 1",
+      "translation": "Cardboard Roof - Flat Quarter 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_flat_qtrcirc_02": {
+      "source": "Cardboard Roof - Flat Quarter 2",
+      "translation": "Cardboard Roof - Flat Quarter 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_ridge": {
+      "source": "Cardboard Roof - Ridge Cap",
+      "translation": "Cardboard Roof - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_tape_1m": {
+      "source": "Cardboard Roof - Tape 1m",
+      "translation": "Cardboard Roof - Tape 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_tape_2m": {
+      "source": "Cardboard Roof - Tape 2m",
+      "translation": "Cardboard Roof - Tape 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_roof_cardboard_tape_4m": {
+      "source": "Cardboard Roof - Tape 4m",
+      "translation": "Cardboard Roof - Tape 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_shopawning_01": {
+      "source": "Toybox Plastic Awning",
+      "translation": "Toybox Plastic Awning",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_shopawning_02": {
+      "source": "Toybox Crayons Awning",
+      "translation": "Toybox Crayons Awning",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_shopfascia_01": {
+      "source": "Toybox Plastic Fascia",
+      "translation": "Toybox Plastic Fascia",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_shopfascia_02": {
+      "source": "Toybox Crayons Fascia",
+      "translation": "Toybox Crayons Fascia",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_sign_01": {
+      "source": "Toybox Sign - Box Torn",
+      "translation": "Toybox Sign - Box Torn",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_sign_02": {
+      "source": "Toybox Sign - A.D.A.M Screen",
+      "translation": "Toybox Sign - A.D.A.M Screen",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_sign_03": {
+      "source": "Toybox Sign - Name Tag",
+      "translation": "Toybox Sign - Name Tag",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_sign_04": {
+      "source": "Toybox Sign - Bunny",
+      "translation": "Toybox Sign - Bunny",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_sign_05": {
+      "source": "Toybox Sign - Alien",
+      "translation": "Toybox Sign - Alien",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_sign_06": {
+      "source": "Toybox Sign - Memo Square",
+      "translation": "Toybox Sign - Memo Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_sign_07": {
+      "source": "Toybox Sign - Rubber Key Ring",
+      "translation": "Toybox Sign - Rubber Key Ring",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_sign_08": {
+      "source": "Toybox Sign - Key Ring",
+      "translation": "Toybox Sign - Key Ring",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_sign_09": {
+      "source": "Toybox Sign - Key Chain",
+      "translation": "Toybox Sign - Key Chain",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_sign_10": {
+      "source": "Toybox Sign - Rosette",
+      "translation": "Toybox Sign - Rosette",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_tape_corner": {
+      "source": "Cardboard Wall - Tape Corner",
+      "translation": "Cardboard Wall - Tape Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_tape_corner_short": {
+      "source": "Cardboard Wall - Tape Corner Short",
+      "translation": "Cardboard Wall - Tape Corner Short",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_tape_strip": {
+      "source": "Cardboard Wall - Tape Straight",
+      "translation": "Cardboard Wall - Tape Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_floor": {
+      "source": "Cardboard Floor",
+      "translation": "Cardboard Floor",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_floor_quarter": {
+      "source": "Cardboard Floor - Quarter 1",
+      "translation": "Cardboard Floor - Quarter 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_floor_quarter_02": {
+      "source": "Cardboard Floor - Quarter 2",
+      "translation": "Cardboard Floor - Quarter 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_gabletri_1m": {
+      "source": "Cardboard Wall - 1m Gable End",
+      "translation": "Cardboard Wall - 1m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_gabletri_2m": {
+      "source": "Cardboard Wall - 2m Gable End",
+      "translation": "Cardboard Wall - 2m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_half_1m": {
+      "source": "Cardboard Wall - 1m Half Width",
+      "translation": "Cardboard Wall - 1m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_half_2m": {
+      "source": "Cardboard Wall - 2m Half Width",
+      "translation": "Cardboard Wall - 2m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_half_4m": {
+      "source": "Cardboard Wall - 4m Half Width",
+      "translation": "Cardboard Wall - 4m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_1m": {
+      "source": "Cardboard Wall 1m",
+      "translation": "Cardboard Wall 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_2m": {
+      "source": "Cardboard Wall 2m",
+      "translation": "Cardboard Wall 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_4m": {
+      "source": "Cardboard Wall 4m",
+      "translation": "Cardboard Wall 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_archextention_4m": {
+      "source": "Cardboard Wall - Arch Extension",
+      "translation": "Cardboard Wall - Arch Extension",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_archround_4m": {
+      "source": "Cardboard Wall - Tunnel Arch 1",
+      "translation": "Cardboard Wall - Tunnel Arch 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_archstraight_4m": {
+      "source": "Cardboard Wall - Tunnel Arch 2",
+      "translation": "Cardboard Wall - Tunnel Arch 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_cap": {
+      "source": "Cardboard Wall - Ridge Cap",
+      "translation": "Cardboard Wall - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_curve": {
+      "source": "Cardboard Wall - 4 x 2m Curved Slope",
+      "translation": "Cardboard Wall - 4 x 2m Curved Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_curve_inverse": {
+      "source": "Cardboard Wall - 4 x 2m Inverse Slope",
+      "translation": "Cardboard Wall - 4 x 2m Inverse Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_door_4m": {
+      "source": "Cardboard Wall - With Door",
+      "translation": "Cardboard Wall - With Door",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_largewindow_4m": {
+      "source": "Cardboard Wall - Large Window",
+      "translation": "Cardboard Wall - Large Window",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_shopfront": {
+      "source": "Cardboard Wall - Shop Front",
+      "translation": "Cardboard Wall - Shop Front",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_slope_1m": {
+      "source": "Cardboard Wall - Slope 1m",
+      "translation": "Cardboard Wall - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_slope_2m": {
+      "source": "Cardboard Wall - Slope 2m",
+      "translation": "Cardboard Wall - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_slope_4m": {
+      "source": "Cardboard Wall - Slope 4m",
+      "translation": "Cardboard Wall - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_station_surround_01": {
+      "source": "Cardboard Wall - Station Surround 1",
+      "translation": "Cardboard Wall - Station Surround 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_merge_station_surround_02": {
+      "source": "Cardboard Wall - Station Surround 2",
+      "translation": "Cardboard Wall - Station Surround 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_round_1m": {
+      "source": "Cardboard Wall - Round 1m",
+      "translation": "Cardboard Wall - Round 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_round_2m": {
+      "source": "Cardboard Wall - Round 2m",
+      "translation": "Cardboard Wall - Round 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_wall_cardboard_round_4m": {
+      "source": "Cardboard Wall - Round 4m",
+      "translation": "Cardboard Wall - Round 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_window_01": {
+      "source": "Toy Window - Round Bay",
+      "translation": "Toy Window - Round Bay",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_window_02": {
+      "source": "Toy Window - Paned",
+      "translation": "Toy Window - Paned",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_window_03": {
+      "source": "Toy Window - Double",
+      "translation": "Toy Window - Double",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_window_04": {
+      "source": "Toy Window - Angled",
+      "translation": "Toy Window - Angled",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_window_05": {
+      "source": "Toy Window - Arched",
+      "translation": "Toy Window - Arched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_window_06": {
+      "source": "Toy Window - Framed",
+      "translation": "Toy Window - Framed",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenanimal_cat": {
+      "source": "Toy Wooden Animal - Cat",
+      "translation": "Toy Wooden Animal - Cat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenanimal_cat_shape": {
+      "source": "Toy Wooden Animal - Cat Block",
+      "translation": "Toy Wooden Animal - Cat Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenanimal_dog": {
+      "source": "Toy Wooden Animal - Dog",
+      "translation": "Toy Wooden Animal - Dog",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenanimal_dog_shape": {
+      "source": "Toy Wooden Animal - Dog Block",
+      "translation": "Toy Wooden Animal - Dog Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenanimal_fox": {
+      "source": "Toy Wooden Animal - Fox",
+      "translation": "Toy Wooden Animal - Fox",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenanimal_fox_shape": {
+      "source": "Toy Wooden Animal - Fox Block",
+      "translation": "Toy Wooden Animal - Fox Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenanimal_racoon": {
+      "source": "Toy Wooden Animal - Raccoon",
+      "translation": "Toy Wooden Animal - Raccoon",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenanimal_racoon_shape": {
+      "source": "Toy Wooden Animal - Raccoon Block",
+      "translation": "Toy Wooden Animal - Raccoon Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_arch": {
+      "source": "Toy Wooden Block - Arch",
+      "translation": "Toy Wooden Block - Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_arch_half": {
+      "source": "Toy Wooden Block - Arch Half",
+      "translation": "Toy Wooden Block - Arch Half",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_bridge": {
+      "source": "Toy Wooden Block - Bridge",
+      "translation": "Toy Wooden Block - Bridge",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_bridge_half": {
+      "source": "Toy Wooden Block - Bridge Half",
+      "translation": "Toy Wooden Block - Bridge Half",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_circle_quarter": {
+      "source": "Toy Wooden Block - Circle Quarter",
+      "translation": "Toy Wooden Block - Circle Quarter",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cube": {
+      "source": "Toy Wooden Block - Cube",
+      "translation": "Toy Wooden Block - Cube",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cube_half": {
+      "source": "Toy Wooden Block - Cube Half",
+      "translation": "Toy Wooden Block - Cube Half",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cube_half_long": {
+      "source": "Toy Wooden Block - Cuboid Half",
+      "translation": "Toy Wooden Block - Cuboid Half",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cube_long": {
+      "source": "Toy Wooden Block - Cuboid",
+      "translation": "Toy Wooden Block - Cuboid",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cube_tall": {
+      "source": "Toy Wooden Block - Cuboid Tall",
+      "translation": "Toy Wooden Block - Cuboid Tall",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cube_tall_thin": {
+      "source": "Toy Wooden Block - Pillar",
+      "translation": "Toy Wooden Block - Pillar",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cylinder": {
+      "source": "Toy Wooden Block - Cylinder",
+      "translation": "Toy Wooden Block - Cylinder",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cylinder_half": {
+      "source": "Toy Wooden Block - Cylinder Half",
+      "translation": "Toy Wooden Block - Cylinder Half",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cylinder_half_long": {
+      "source": "Toy Wooden Block - Cylinder Half Long",
+      "translation": "Toy Wooden Block - Cylinder Half Long",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cylinder_quarter": {
+      "source": "Toy Wooden Block - Cylinder Quarter",
+      "translation": "Toy Wooden Block - Cylinder Quarter",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cylinder_short_01": {
+      "source": "Toy Wooden Block - Round",
+      "translation": "Toy Wooden Block - Round",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cylinder_taper_01": {
+      "source": "Toy Wooden Block - Cylinder Tapered 1",
+      "translation": "Toy Wooden Block - Cylinder Tapered 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_cylinder_taper_02": {
+      "source": "Toy Wooden Block - Cylinder Tapered 2",
+      "translation": "Toy Wooden Block - Cylinder Tapered 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_post": {
+      "source": "Toy Wooden Block - Post",
+      "translation": "Toy Wooden Block - Post",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_pyramid": {
+      "source": "Toy Wooden Block - Pyramid",
+      "translation": "Toy Wooden Block - Pyramid",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_trapezoid": {
+      "source": "Toy Wooden Block - Trapezium",
+      "translation": "Toy Wooden Block - Trapezium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_trapezoid_right": {
+      "source": "Toy Wooden Block - Trapezium Right",
+      "translation": "Toy Wooden Block - Trapezium Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_trapezoid_small": {
+      "source": "Toy Wooden Block - Trapezium Small",
+      "translation": "Toy Wooden Block - Trapezium Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_triangle": {
+      "source": "Toy Wooden Block - Triangle",
+      "translation": "Toy Wooden Block - Triangle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_triangle_large": {
+      "source": "Toy Wooden Block - Triangle Large",
+      "translation": "Toy Wooden Block - Triangle Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenblocks_triangle_right": {
+      "source": "Toy Wooden Block - Triangle Right",
+      "translation": "Toy Wooden Block - Triangle Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenfoliage_bush_01": {
+      "source": "Toy Wooden Foliage - Bush",
+      "translation": "Toy Wooden Foliage - Bush",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenfoliage_bush_shape_01": {
+      "source": "Toy Wooden Foliage - Bush Block",
+      "translation": "Toy Wooden Foliage - Bush Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenfoliage_tree_01": {
+      "source": "Toy Wooden Foliage - Tree 1",
+      "translation": "Toy Wooden Foliage - Tree 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenfoliage_tree_02": {
+      "source": "Toy Wooden Foliage - Tree 2",
+      "translation": "Toy Wooden Foliage - Tree 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenfoliage_tree_shape_01": {
+      "source": "Toy Wooden Foliage - Tree 1 Block",
+      "translation": "Toy Wooden Foliage - Tree 1 Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenfoliage_tree_shape_02": {
+      "source": "Toy Wooden Foliage - Tree 2 Block",
+      "translation": "Toy Wooden Foliage - Tree 2 Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenvehicles_bus_short_shape": {
+      "source": "Toy Wooden Vehicle - Bus Block",
+      "translation": "Toy Wooden Vehicle - Bus Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenvehicles_bus_tall_shape": {
+      "source": "Toy Wooden Vehicle - Double-Decker Bus Block",
+      "translation": "Toy Wooden Vehicle - Double-Decker Bus Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenvehicles_car_saloon_shape": {
+      "source": "Toy Wooden Vehicle - Car Block",
+      "translation": "Toy Wooden Vehicle - Car Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenvehicles_truck_flatbed_shape": {
+      "source": "Toy Wooden Vehicle - Flatbed Truck Block",
+      "translation": "Toy Wooden Vehicle - Flatbed Truck Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenvehicles_truck_van_01_shape": {
+      "source": "Toy Wooden Vehicle - Van 1 Block",
+      "translation": "Toy Wooden Vehicle - Van 1 Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenvehicles_truck_van_02_shape": {
+      "source": "Toy Wooden Vehicle - Van 2 Block",
+      "translation": "Toy Wooden Vehicle - Van 2 Block",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_ty_woodenvehicles_wheel_01": {
+      "source": "Toy Wooden Vehicle - Wheel",
+      "translation": "Toy Wooden Vehicle - Wheel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_kidcoaster": {
+      "source": "Kid Coaster",
+      "translation": "Kid Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_kidcoaster_desc": {
+      "source": "A steel coaster that's white-knuckle fun for kids and grown-ups alike.",
+      "translation": "A steel coaster that's white-knuckle fun for kids and grown-ups alike.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_newgeninvertingsuspended": {
+      "source": "New-Gen Inverting Suspended",
+      "translation": "New-Gen Inverting Suspended",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_cc_newgeninvertingsuspended_desc": {
+      "source": "Experience silky-smooth inversions on this twisting suspended coaster.",
+      "translation": "Experience silky-smooth inversions on this twisting suspended coaster.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_model_kidcoaster": {
+      "source": "Kid Coaster",
+      "translation": "Kid Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_model_newgeninvertingsuspended": {
+      "source": "New-Gen Inverting Suspended",
+      "translation": "New-Gen Inverting Suspended",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_kidcoaster": {
+      "source": "Kid Coaster",
+      "translation": "Kid Coaster",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "coaster_type_cc_newgeninvertingsuspended": {
+      "source": "New-Gen Inverting Suspended",
+      "translation": "New-Gen Inverting Suspended",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_airdrop": {
+      "source": "Airdrop",
+      "translation": "Airdrop",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_airdrop_desc": {
+      "source": "Let this ride lift you up and drop you down like a towering yo-yo!",
+      "translation": "Let this ride lift you up and drop you down like a towering yo-yo!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_airdrop_prefix": {
+      "source": "Airdrop",
+      "translation": "Airdrop",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_highroll": {
+      "source": "Highroll",
+      "translation": "Highroll",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_highroll_desc": {
+      "source": "This ride's spinning gondolas rotate on a raised arm to take your guests on an all-around orbit!",
+      "translation": "This ride's spinning gondolas rotate on a raised arm to take your guests on an all-around orbit!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_highroll_prefix": {
+      "source": "Highroll",
+      "translation": "Highroll",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_wavesim": {
+      "source": "WaveSim",
+      "translation": "WaveSim",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_wavesim_desc": {
+      "source": "Break out the board and carve up gnarly waves on this rip-roaring surfing simulator!",
+      "translation": "Break out the board and carve up gnarly waves on this rip-roaring surfing simulator!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_wavesim_descalt": {
+      "source": "Put on a swimsuit, break out the board and carve up gnarly waves on this rip-roaring surfing simulator!",
+      "translation": "Put on a swimsuit, break out the board and carve up gnarly waves on this rip-roaring surfing simulator!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "fr_wavesim_prefix": {
+      "source": "WaveSim",
+      "translation": "WaveSim",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_flatride_needsswimsuit": {
+      "source": "Guests must be in a swimsuit to use this ride.",
+      "translation": "Guests must be in a swimsuit to use this ride.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "infopanel_flatride_needsswimsuitwarning": {
+      "source": "Guests must be in a swimsuit to use this ride. Ensure Guests have access to a Changing Room.",
+      "translation": "Guests must be in a swimsuit to use this ride. Ensure Guests have access to a Changing Room.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_airdrop_drop": {
+      "source": "Drop",
+      "translation": "Drop",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_airdrop_fakeoutanddrop": {
+      "source": "Fake Out and Drop",
+      "translation": "Fake Out and Drop",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_airdrop_holdhigh": {
+      "source": "Hold High",
+      "translation": "Hold High",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_armhighgondolaspinclockwise": {
+      "source": "Arm High Gondola Spin Clockwise",
+      "translation": "Arm High Gondola Spin Clockwise",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_armhighgondolaspincounterclockwise": {
+      "source": "Arm High Gondola Spin Anticlockwise",
+      "translation": "Arm High Gondola Spin Anticlockwise",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_armspinclockwisefast": {
+      "source": "Arm Spin Clockwise Fast",
+      "translation": "Arm Spin Clockwise Fast",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_armspinclockwisemedium": {
+      "source": "Arm Spin Clockwise Medium",
+      "translation": "Arm Spin Clockwise Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_armspinclockwiseslow": {
+      "source": "Arm Spin Clockwise Slow",
+      "translation": "Arm Spin Clockwise Slow",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_armspinclockwiseslowreverserotation": {
+      "source": "Arm Spin Clockwise Slow Reverse Rotation",
+      "translation": "Arm Spin Clockwise Slow Reverse Rotation",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_armspincounterclockwisefast": {
+      "source": "Arm Spin Anticlockwise Fast",
+      "translation": "Arm Spin Anticlockwise Fast",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_armspincounterclockwisemedium": {
+      "source": "Arm Spin Anticlockwise Medium",
+      "translation": "Arm Spin Anticlockwise Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_armspincounterclockwiseslow": {
+      "source": "Arm Spin Anticlockwise Slow",
+      "translation": "Arm Spin Anticlockwise Slow",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_armspincounterclockwiseslowreverserotation": {
+      "source": "Arm Spin Anticlockwise Slow Reverse Rotation",
+      "translation": "Arm Spin Anticlockwise Slow Reverse Rotation",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_gondolaspinclockwise": {
+      "source": "Gondola Spin Clockwise",
+      "translation": "Gondola Spin Clockwise",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_highroll_gondolaspincounterclockwise": {
+      "source": "Gondola Spin Anticlockwise",
+      "translation": "Gondola Spin Anticlockwise",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_wavesim_10seconds": {
+      "source": "10 Seconds",
+      "translation": "10 Seconds",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_wavesim_20seconds": {
+      "source": "20 Seconds",
+      "translation": "20 Seconds",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_wavesim_30seconds": {
+      "source": "30 Seconds",
+      "translation": "30 Seconds",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_wavesim_40seconds": {
+      "source": "40 Seconds",
+      "translation": "40 Seconds",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_wavesim_50seconds": {
+      "source": "50 Seconds",
+      "translation": "50 Seconds",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_wavesim_60seconds": {
+      "source": "60 Seconds",
+      "translation": "60 Seconds",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_wavesim_70seconds": {
+      "source": "70 Seconds",
+      "translation": "70 Seconds",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "sequence_fr_wavesim_freestyle10seconds": {
+      "source": "Freestyle 10 Seconds",
+      "translation": "Freestyle 10 Seconds",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "staff_toymascot": {
+      "source": "Max Stormcloud",
+      "translation": "Max Stormcloud",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "staff_toymascot_desc": {
+      "source": "Fully posable!",
+      "translation": "Fully posable!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "staff_toymascotam": {
+      "source": "Max Stormcloud",
+      "translation": "Max Stormcloud",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_kidcoaster": {
+      "source": "F&N Thriller Industries <b>Kid Coaster</b>",
+      "translation": "F&N Thriller Industries <b>Kid Coaster</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "train_cc_newgeninvertingsuspended": {
+      "source": "Vector <b>New-Gen Inverting Suspended</b>",
+      "translation": "Vector <b>New-Gen Inverting Suspended</b>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_archway_01": {
+      "source": "Toybox Archway 1",
+      "translation": "Toybox Archway 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_archway_02": {
+      "source": "Toybox Archway 2",
+      "translation": "Toybox Archway 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_archway_03": {
+      "source": "Toybox Archway 3",
+      "translation": "Toybox Archway 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_building_01": {
+      "source": "Toybox Building 1",
+      "translation": "Toybox Building 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_building_02": {
+      "source": "Toybox Building 2",
+      "translation": "Toybox Building 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_building_03": {
+      "source": "Toybox Building 3",
+      "translation": "Toybox Building 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_building_04": {
+      "source": "Toybox Building 4",
+      "translation": "Toybox Building 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_building_05": {
+      "source": "Toybox Building 5",
+      "translation": "Toybox Building 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_building_06": {
+      "source": "Toybox Building 6",
+      "translation": "Toybox Building 6",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_building_07": {
+      "source": "Toybox Building 7",
+      "translation": "Toybox Building 7",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_building_08": {
+      "source": "Toybox Building 8",
+      "translation": "Toybox Building 8",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_centrepiece_01": {
+      "source": "Toybox Centrepiece 1",
+      "translation": "Toybox Centrepiece 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_centrepiece_02": {
+      "source": "Toybox Centrepiece 2",
+      "translation": "Toybox Centrepiece 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_centrepiece_03": {
+      "source": "Toybox Centrepiece 3",
+      "translation": "Toybox Centrepiece 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_centrepiece_04": {
+      "source": "Toybox Centrepiece 4",
+      "translation": "Toybox Centrepiece 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_centrepiece_05": {
+      "source": "Toybox Centrepiece 5",
+      "translation": "Toybox Centrepiece 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_dressing_01": {
+      "source": "Toybox Dressing 1",
+      "translation": "Toybox Dressing 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_dressing_02": {
+      "source": "Toybox Dressing 2",
+      "translation": "Toybox Dressing 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_dressing_03": {
+      "source": "Toybox Dressing 3",
+      "translation": "Toybox Dressing 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_dressing_04": {
+      "source": "Toybox Dressing 4",
+      "translation": "Toybox Dressing 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_dressing_05": {
+      "source": "Toybox Dressing 5",
+      "translation": "Toybox Dressing 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_guest_facilities_medium_01": {
+      "source": "Toybox Guest Facilities Shell - Medium",
+      "translation": "Toybox Guest Facilities Shell - Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_guest_facilities_small_01": {
+      "source": "Toybox Guest Facilities Shell - Small",
+      "translation": "Toybox Guest Facilities Shell - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_shop_medium_01": {
+      "source": "Toybox Shop Shell - Medium",
+      "translation": "Toybox Shop Shell - Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_shop_small_01": {
+      "source": "Toybox Shop Shell - Small",
+      "translation": "Toybox Shop Shell - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_staff_facilities_large_01": {
+      "source": "Toybox Staff Facilities Shell - Large",
+      "translation": "Toybox Staff Facilities Shell - Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_staff_facilities_medium_01": {
+      "source": "Toybox Staff Facilities Shell - Medium",
+      "translation": "Toybox Staff Facilities Shell - Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_staff_facilities_small_01": {
+      "source": "Toybox Staff Facilities Shell - Small",
+      "translation": "Toybox Staff Facilities Shell - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "ty_wooden_vehicles_01": {
+      "source": "Toybox Wooden Vehicles",
+      "translation": "Toybox Wooden Vehicles",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    }
+  }
+}

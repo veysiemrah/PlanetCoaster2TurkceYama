@@ -1,0 +1,2171 @@
+{
+  "meta": {
+    "language": "en",
+    "source_language": "en",
+    "content_pack": "ContentFestive",
+    "game_version": "extracted",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "buildingpartname_hol_band": {
+      "source": "Festive Duet",
+      "translation": "Festive Duet",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_bauble": {
+      "source": "Bauble - Frosted Sphere",
+      "translation": "Bauble - Frosted Sphere",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_bell_01": {
+      "source": "Decorative Bell - Plain",
+      "translation": "Decorative Bell - Plain",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_bell_02": {
+      "source": "Decorative Bell - Ribbon",
+      "translation": "Decorative Bell - Ribbon",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_candycanes_large": {
+      "source": "Confectionery - Candy Cane Large",
+      "translation": "Confectionery - Candy Cane Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_candycanes_medium": {
+      "source": "Confectionery - Candy Cane Medium",
+      "translation": "Confectionery - Candy Cane Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_candycanes_small": {
+      "source": "Confectionery - Candy Cane Small",
+      "translation": "Confectionery - Candy Cane Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_chocolate_cup": {
+      "source": "Confectionery - Chocolate Cup",
+      "translation": "Confectionery - Chocolate Cup",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_chocolate_disc": {
+      "source": "Confectionery - Chocolate Disc Plain",
+      "translation": "Confectionery - Chocolate Disc Plain",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_chocolate_disc_sprinkles": {
+      "source": "Confectionery - Chocolate Disc Sprinkles",
+      "translation": "Confectionery - Chocolate Disc Sprinkles",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_chocolate_disc_white": {
+      "source": "Confectionery - White Chocolate Disc Plain",
+      "translation": "Confectionery - White Chocolate Disc Plain",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_chocolate_disc_white_sprinkles": {
+      "source": "Confectionery - White Chocolate Disc Sprinkles",
+      "translation": "Confectionery - White Chocolate Disc Sprinkles",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_chocolate_heart": {
+      "source": "Confectionery - Chocolate Heart",
+      "translation": "Confectionery - Chocolate Heart",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_chocolate_slice": {
+      "source": "Confectionery - Chocolate Slice",
+      "translation": "Confectionery - Chocolate Slice",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_chocolatedippedshortbread": {
+      "source": "Confectionery - Chocolate Dipped Shortbread",
+      "translation": "Confectionery - Chocolate Dipped Shortbread",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_chocolatefinger": {
+      "source": "Confectionery - Chocolate Dipped Finger",
+      "translation": "Confectionery - Chocolate Dipped Finger",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_chocolatefingerdark": {
+      "source": "Confectionery - Chocolate Dipped Finger Dark",
+      "translation": "Confectionery - Chocolate Dipped Finger Dark",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_chocolatefingerwhite": {
+      "source": "Confectionery - Chocolate Dipped Finger White",
+      "translation": "Confectionery - Chocolate Dipped Finger White",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_christmastree_01": {
+      "source": "Christmas Tree - Large",
+      "translation": "Christmas Tree - Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_christmastree_02": {
+      "source": "Christmas Tree - Small",
+      "translation": "Christmas Tree - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_cn_01": {
+      "source": "Festive Picnic Canopy",
+      "translation": "Festive Picnic Canopy",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_coconut_cube": {
+      "source": "Confectionery - Coconut Cube",
+      "translation": "Confectionery - Coconut Cube",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_coconut_cube_pink": {
+      "source": "Confectionery - Coconut Cube Pink",
+      "translation": "Confectionery - Coconut Cube Pink",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_coconutslice": {
+      "source": "Confectionery - Coconut Slice",
+      "translation": "Confectionery - Coconut Slice",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_complexbauble": {
+      "source": "Bauble - Lantern",
+      "translation": "Bauble - Lantern",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_conewafer": {
+      "source": "Confectionery - Wafer Fan",
+      "translation": "Confectionery - Wafer Fan",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_curvedbauble": {
+      "source": "Bauble - Ball",
+      "translation": "Bauble - Ball",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_decoration_light_01": {
+      "source": "Festive Sign - Bauble Lit",
+      "translation": "Festive Sign - Bauble Lit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_decoration_light_02": {
+      "source": "Festive Sign - Falling Star Lit",
+      "translation": "Festive Sign - Falling Star Lit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_decoration_light_03": {
+      "source": "Festive Sign - Star 2 Lit",
+      "translation": "Festive Sign - Star 2 Lit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_decoration_light_04": {
+      "source": "Festive Sign - Star 1 Lit",
+      "translation": "Festive Sign - Star 1 Lit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_decoration_light_05": {
+      "source": "Festive Sign - Scroll Lit",
+      "translation": "Festive Sign - Scroll Lit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_diskwafer": {
+      "source": "Confectionery - Wafer Disc",
+      "translation": "Confectionery - Wafer Disc",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_door_01": {
+      "source": "Gingerbread Icing - Door 1",
+      "translation": "Gingerbread Icing - Door 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_door_02": {
+      "source": "Gingerbread Icing - Door 2",
+      "translation": "Gingerbread Icing - Door 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_door_03": {
+      "source": "Gingerbread Icing - Door 3",
+      "translation": "Gingerbread Icing - Door 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_door_04": {
+      "source": "Gingerbread Icing - Door 4",
+      "translation": "Gingerbread Icing - Door 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_door_05": {
+      "source": "Gingerbread Icing - Door 5",
+      "translation": "Gingerbread Icing - Door 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_door_06": {
+      "source": "Gingerbread Icing - Door 6",
+      "translation": "Gingerbread Icing - Door 6",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_door_07": {
+      "source": "Gingerbread Icing - Door 7",
+      "translation": "Gingerbread Icing - Door 7",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_curved_loose_4m": {
+      "source": "Fairy Lights - Variable Curved 4m Loose",
+      "translation": "Fairy Lights - Variable Curved 4m Loose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_curved_straight_4m": {
+      "source": "Fairy Lights - Variable Curved 4m",
+      "translation": "Fairy Lights - Variable Curved 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_loose_1m": {
+      "source": "Fairy Lights - Variable 1m Loose",
+      "translation": "Fairy Lights - Variable 1m Loose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_loose_2m": {
+      "source": "Fairy Lights - Variable 2m Loose",
+      "translation": "Fairy Lights - Variable 2m Loose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_loose_4m": {
+      "source": "Fairy Lights - Variable 4m Loose",
+      "translation": "Fairy Lights - Variable 4m Loose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_still_curved_loose_4m": {
+      "source": "Fairy Lights - Constant Curved 4m Loose",
+      "translation": "Fairy Lights - Constant Curved 4m Loose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_still_curved_straight_4m": {
+      "source": "Fairy Lights - Constant Curved 4m",
+      "translation": "Fairy Lights - Constant Curved 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_still_loose_1m": {
+      "source": "Fairy Lights - Constant 1m Loose",
+      "translation": "Fairy Lights - Constant 1m Loose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_still_loose_2m": {
+      "source": "Fairy Lights - Constant 2m Loose",
+      "translation": "Fairy Lights - Constant 2m Loose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_still_loose_4m": {
+      "source": "Fairy Lights - Constant 4m Loose",
+      "translation": "Fairy Lights - Constant 4m Loose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_still_straight_1m": {
+      "source": "Fairy Lights - Constant 1m",
+      "translation": "Fairy Lights - Constant 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_still_straight_2m": {
+      "source": "Fairy Lights - Constant 2m",
+      "translation": "Fairy Lights - Constant 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_still_straight_4m": {
+      "source": "Fairy Lights - Constant 4m",
+      "translation": "Fairy Lights - Constant 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_straight_1m": {
+      "source": "Fairy Lights - Variable 1m",
+      "translation": "Fairy Lights - Variable 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_straight_2m": {
+      "source": "Fairy Lights - Variable 2m",
+      "translation": "Fairy Lights - Variable 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fairylights_straight_4m": {
+      "source": "Fairy Lights - Variable 4m",
+      "translation": "Fairy Lights - Variable 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fakesnowpatches": {
+      "source": "Artificial Snow - 4m x 4m Square",
+      "translation": "Artificial Snow - 4m x 4m Square",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fakesnowpatches2": {
+      "source": "Artificial Snow - 4m x 4m Square Top Surface",
+      "translation": "Artificial Snow - 4m x 4m Square Top Surface",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fakesnowpatches3": {
+      "source": "Artificial Snow - 2m x 2m Corner",
+      "translation": "Artificial Snow - 2m x 2m Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fakesnowpatches4": {
+      "source": "Artificial Snow - 2m x 2m Curved Corner",
+      "translation": "Artificial Snow - 2m x 2m Curved Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fakesnowpatches5": {
+      "source": "Artificial Snow - 4m x 4m Quarter Circle Top Surface",
+      "translation": "Artificial Snow - 4m x 4m Quarter Circle Top Surface",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fakesnowpatches6": {
+      "source": "Artificial Snow - 4m x 1m Rectangle",
+      "translation": "Artificial Snow - 4m x 1m Rectangle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fakesnowpatches7": {
+      "source": "Artificial Snow - 4m x 1m Rectangle Ridge",
+      "translation": "Artificial Snow - 4m x 1m Rectangle Ridge",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_fakesnowpatches8": {
+      "source": "Artificial Snow - Spread Lump",
+      "translation": "Artificial Snow - Spread Lump",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gbread_arch_tunnel": {
+      "source": "Gingerbread Wall - Round Arch Tunnel",
+      "translation": "Gingerbread Wall - Round Arch Tunnel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gbread_archhalf_tunnel": {
+      "source": "Gingerbread Wall - Half Arch Tunnel",
+      "translation": "Gingerbread Wall - Half Arch Tunnel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gbread_chimney_01": {
+      "source": "Gingerbread Column",
+      "translation": "Gingerbread Column",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gbread_door": {
+      "source": "Gingerbread Cutout - Door 1",
+      "translation": "Gingerbread Cutout - Door 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gbread_door_02": {
+      "source": "Gingerbread Cutout - Door 2",
+      "translation": "Gingerbread Cutout - Door 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gbread_heart": {
+      "source": "Gingerbread Cutout - Heart",
+      "translation": "Gingerbread Cutout - Heart",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gbread_oblong_1m": {
+      "source": "Gingerbread Oblong 1",
+      "translation": "Gingerbread Oblong 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gbread_oblong_2m": {
+      "source": "Gingerbread Oblong 2",
+      "translation": "Gingerbread Oblong 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gbread_oblong_4m": {
+      "source": "Gingerbread Oblong 3",
+      "translation": "Gingerbread Oblong 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gift_01": {
+      "source": "Festive Gift 1",
+      "translation": "Festive Gift 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gift_02": {
+      "source": "Festive Gift 2",
+      "translation": "Festive Gift 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gift_03": {
+      "source": "Festive Gift 3",
+      "translation": "Festive Gift 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gift_04": {
+      "source": "Festive Gift 4",
+      "translation": "Festive Gift 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gift_05": {
+      "source": "Festive Gift 5",
+      "translation": "Festive Gift 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gift_06": {
+      "source": "Festive Gift 6",
+      "translation": "Festive Gift 6",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gift_07": {
+      "source": "Festive Gift 7",
+      "translation": "Festive Gift 7",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gift_08": {
+      "source": "Festive Gift 8",
+      "translation": "Festive Gift 8",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gift_09": {
+      "source": "Festive Gift 9",
+      "translation": "Festive Gift 9",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gingerbread_child": {
+      "source": "Gingerbread Figure - Child",
+      "translation": "Gingerbread Figure - Child",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gingerbread_deer": {
+      "source": "Gingerbread Figure - Deer",
+      "translation": "Gingerbread Figure - Deer",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gingerbread_man": {
+      "source": "Gingerbread Figure - Man",
+      "translation": "Gingerbread Figure - Man",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gingerbread_santa": {
+      "source": "Gingerbread Figure - Santa",
+      "translation": "Gingerbread Figure - Santa",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gingerbread_tree": {
+      "source": "Gingerbread Figure - Tree",
+      "translation": "Gingerbread Figure - Tree",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_gingerbread_woman": {
+      "source": "Gingerbread Figure - Woman",
+      "translation": "Gingerbread Figure - Woman",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icedgem": {
+      "source": "Confectionery - Iced Biscuit",
+      "translation": "Confectionery - Iced Biscuit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_bricks": {
+      "source": "Gingerbread Icing - Bricks",
+      "translation": "Gingerbread Icing - Bricks",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_canes": {
+      "source": "Gingerbread Icing - Canes",
+      "translation": "Gingerbread Icing - Canes",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_comma_large": {
+      "source": "Gingerbread Icing - Comma Large",
+      "translation": "Gingerbread Icing - Comma Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_comma_small": {
+      "source": "Gingerbread Icing - Comma Small",
+      "translation": "Gingerbread Icing - Comma Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_doubleswirl": {
+      "source": "Gingerbread Icing - Double Swirl",
+      "translation": "Gingerbread Icing - Double Swirl",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_droplets": {
+      "source": "Gingerbread Icing - Droplets",
+      "translation": "Gingerbread Icing - Droplets",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_heart_bead_01": {
+      "source": "Gingerbread Icing - Heart Bead",
+      "translation": "Gingerbread Icing - Heart Bead",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_holly": {
+      "source": "Gingerbread Icing - Holly",
+      "translation": "Gingerbread Icing - Holly",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_leaves": {
+      "source": "Gingerbread Icing - Leaves",
+      "translation": "Gingerbread Icing - Leaves",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_scallops": {
+      "source": "Gingerbread Icing - Scallop Tile 4m Line",
+      "translation": "Gingerbread Icing - Scallop Tile 4m Line",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_star_large": {
+      "source": "Gingerbread Icing - Star Large",
+      "translation": "Gingerbread Icing - Star Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_star_small": {
+      "source": "Gingerbread Icing - Star Small",
+      "translation": "Gingerbread Icing - Star Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_stardots": {
+      "source": "Gingerbread Icing - Dots",
+      "translation": "Gingerbread Icing - Dots",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_swirl_large": {
+      "source": "Gingerbread Icing - Swirl Large",
+      "translation": "Gingerbread Icing - Swirl Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_swirl_medium": {
+      "source": "Gingerbread Icing - Swirl Medium",
+      "translation": "Gingerbread Icing - Swirl Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_swirl_small": {
+      "source": "Gingerbread Icing - Swirl Small",
+      "translation": "Gingerbread Icing - Swirl Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_tile": {
+      "source": "Gingerbread Icing - Scallop Tile Single",
+      "translation": "Gingerbread Icing - Scallop Tile Single",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_tile_group": {
+      "source": "Gingerbread Icing - Scallop Tile Group",
+      "translation": "Gingerbread Icing - Scallop Tile Group",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingdec_zigzag": {
+      "source": "Gingerbread Icing - Zigzag 4m Line",
+      "translation": "Gingerbread Icing - Zigzag 4m Line",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingtrims_curved_1m": {
+      "source": "Icing - Trim Curved 1m",
+      "translation": "Icing - Trim Curved 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingtrims_curved_2m": {
+      "source": "Icing - Trim Curved 2m",
+      "translation": "Icing - Trim Curved 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingtrims_curved_4m": {
+      "source": "Icing - Trim Curved 4m",
+      "translation": "Icing - Trim Curved 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingtrims_icicle_1m": {
+      "source": "Icing - Icicle 1m",
+      "translation": "Icing - Icicle 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingtrims_icicle_2m": {
+      "source": "Icing - Icicle 2m",
+      "translation": "Icing - Icicle 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingtrims_icicle_2m_double": {
+      "source": "Icing - Icicle 2m Double",
+      "translation": "Icing - Icicle 2m Double",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingtrims_icicle_4m": {
+      "source": "Icing - Icicle 4m",
+      "translation": "Icing - Icicle 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingtrims_straight_1m": {
+      "source": "Icing - Trim 1m",
+      "translation": "Icing - Trim 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingtrims_straight_2m": {
+      "source": "Icing - Trim 2m",
+      "translation": "Icing - Trim 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_icingtrims_straight_4m": {
+      "source": "Icing - Trim 4m",
+      "translation": "Icing - Trim 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_jammydodger": {
+      "source": "Confectionery - Jammy Biscuit",
+      "translation": "Confectionery - Jammy Biscuit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_jelly_gem": {
+      "source": "Confectionery - Jelly Gem",
+      "translation": "Confectionery - Jelly Gem",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_lampbauble": {
+      "source": "Bauble - Lampshade",
+      "translation": "Bauble - Lampshade",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_lollipop_01": {
+      "source": "Confectionery - Candy Lollipop 1",
+      "translation": "Confectionery - Candy Lollipop 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_lollipop_02": {
+      "source": "Confectionery - Candy Lollipop 2",
+      "translation": "Confectionery - Candy Lollipop 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_macaron": {
+      "source": "Confectionery - Macaron",
+      "translation": "Confectionery - Macaron",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_maltedmilk": {
+      "source": "Confectionery - Malted Biscuit",
+      "translation": "Confectionery - Malted Biscuit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_marshmallow_half": {
+      "source": "Marshmallow Face - Grin",
+      "translation": "Marshmallow Face - Grin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_marshmallow_happy": {
+      "source": "Marshmallow Face - Happy Large",
+      "translation": "Marshmallow Face - Happy Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_marshmallow_not_impressed": {
+      "source": "Marshmallow Face - Moody",
+      "translation": "Marshmallow Face - Moody",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_marshmallow_shocked": {
+      "source": "Marshmallow Face - Shocked",
+      "translation": "Marshmallow Face - Shocked",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_marshmallow_small_happy": {
+      "source": "Marshmallow Face - Happy Small",
+      "translation": "Marshmallow Face - Happy Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_marshmallow_twist": {
+      "source": "Confectionery - Marshmallow Twist Large",
+      "translation": "Confectionery - Marshmallow Twist Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_marshmallow_twist_1m": {
+      "source": "Confectionery - Marshmallow Twist Small",
+      "translation": "Confectionery - Marshmallow Twist Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_marshmallow_unhappy": {
+      "source": "Marshmallow Face - Sad",
+      "translation": "Marshmallow Face - Sad",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_molasses_chew": {
+      "source": "Confectionery - Molasses Chew",
+      "translation": "Confectionery - Molasses Chew",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_nutcracker_01": {
+      "source": "Soldier Puppet 1",
+      "translation": "Soldier Puppet 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_nutcracker_02": {
+      "source": "Soldier Puppet 2",
+      "translation": "Soldier Puppet 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_pinecone": {
+      "source": "Bauble - Pine Cone",
+      "translation": "Bauble - Pine Cone",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_pn_01": {
+      "source": "Festive Picnic Table",
+      "translation": "Festive Picnic Table",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_pretzel": {
+      "source": "Confectionery - Pretzel",
+      "translation": "Confectionery - Pretzel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_ribbon_01": {
+      "source": "Decorative Ribbon - Small",
+      "translation": "Decorative Ribbon - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_ribbon_02": {
+      "source": "Decorative Ribbon - Large",
+      "translation": "Decorative Ribbon - Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_02": {
+      "source": "Gingerbread Roof - Double Curve",
+      "translation": "Gingerbread Roof - Double Curve",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_02_overhang_1m": {
+      "source": "Gingerbread Roof - Double Curve Overhang",
+      "translation": "Gingerbread Roof - Double Curve Overhang",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_1m": {
+      "source": "Gingerbread Roof - Ridge 1m",
+      "translation": "Gingerbread Roof - Ridge 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_2m": {
+      "source": "Gingerbread Roof - Ridge 2m",
+      "translation": "Gingerbread Roof - Ridge 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_4m": {
+      "source": "Gingerbread Roof - Ridge 4m",
+      "translation": "Gingerbread Roof - Ridge 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_flat": {
+      "source": "Gingerbread Roof - Flat",
+      "translation": "Gingerbread Roof - Flat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_flatqtrcirc": {
+      "source": "Gingerbread Roof - Flat Quarter",
+      "translation": "Gingerbread Roof - Flat Quarter",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_overhang_1m": {
+      "source": "Gingerbread Roof - Ridge 1m Overhang",
+      "translation": "Gingerbread Roof - Ridge 1m Overhang",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_overhang_2m": {
+      "source": "Gingerbread Roof - Ridge 2m Overhang",
+      "translation": "Gingerbread Roof - Ridge 2m Overhang",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_overhang_4m": {
+      "source": "Gingerbread Roof - Ridge 4m Overhang",
+      "translation": "Gingerbread Roof - Ridge 4m Overhang",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_qtrcone": {
+      "source": "Gingerbread Roof - Quarter Cone",
+      "translation": "Gingerbread Roof - Quarter Cone",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_slope_1m": {
+      "source": "Gingerbread Roof - Slope 1m",
+      "translation": "Gingerbread Roof - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_slope_2m": {
+      "source": "Gingerbread Roof - Slope 2m",
+      "translation": "Gingerbread Roof - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_slope_4m": {
+      "source": "Gingerbread Roof - Slope 4m",
+      "translation": "Gingerbread Roof - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_slope_corner_1m": {
+      "source": "Gingerbread Oblong 5",
+      "translation": "Gingerbread Oblong 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_slope_corner_2m": {
+      "source": "Gingerbread Oblong 6",
+      "translation": "Gingerbread Oblong 6",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_slope_eave_1m": {
+      "source": "Gingerbread Oblong 4",
+      "translation": "Gingerbread Oblong 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_roof_gbread_tower": {
+      "source": "Gingerbread Roof - Ridge 4m Capped",
+      "translation": "Gingerbread Roof - Ridge 4m Capped",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_body_arm_01": {
+      "source": "Snowman Body - Arm 1",
+      "translation": "Snowman Body - Arm 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_body_arm_02": {
+      "source": "Snowman Body - Arm 2",
+      "translation": "Snowman Body - Arm 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_body_large": {
+      "source": "Snowman Body - Large",
+      "translation": "Snowman Body - Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_body_medium": {
+      "source": "Snowman Body - Medium",
+      "translation": "Snowman Body - Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_body_medium_stretched": {
+      "source": "Snowman Body - Medium Stretched",
+      "translation": "Snowman Body - Medium Stretched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_body_small": {
+      "source": "Snowman Body - Small",
+      "translation": "Snowman Body - Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_body_small_stretched": {
+      "source": "Snowman Body - Small Stretched",
+      "translation": "Snowman Body - Small Stretched",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_clothing_earmufs": {
+      "source": "Snowman Accessory - Earmuffs",
+      "translation": "Snowman Accessory - Earmuffs",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_clothing_hat_01": {
+      "source": "Snowman Accessory - Hat 1",
+      "translation": "Snowman Accessory - Hat 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_clothing_hat_02": {
+      "source": "Snowman Accessory - Hat 2",
+      "translation": "Snowman Accessory - Hat 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_clothing_hat_03": {
+      "source": "Snowman Accessory - Hat 3",
+      "translation": "Snowman Accessory - Hat 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_clothing_scarf_01": {
+      "source": "Snowman Accessory - Scarf 1",
+      "translation": "Snowman Accessory - Scarf 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_coal": {
+      "source": "Coal Lump",
+      "translation": "Coal Lump",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_face_cutesmile": {
+      "source": "Snowman Face - Cute Smile",
+      "translation": "Snowman Face - Cute Smile",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_face_happy": {
+      "source": "Snowman Face - Happy",
+      "translation": "Snowman Face - Happy",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_face_nose": {
+      "source": "Snowman Face - Nose",
+      "translation": "Snowman Face - Nose",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_face_sad": {
+      "source": "Snowman Face - Sad",
+      "translation": "Snowman Face - Sad",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowman_face_surprised": {
+      "source": "Snowman Face - Surprised",
+      "translation": "Snowman Face - Surprised",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowmanprop_bowa": {
+      "source": "Snowman Accessory - Bow 1",
+      "translation": "Snowman Accessory - Bow 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowmanprop_bowb": {
+      "source": "Snowman Accessory - Bow 2",
+      "translation": "Snowman Accessory - Bow 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowmanprop_bucket": {
+      "source": "Snowman Accessory - Bucket",
+      "translation": "Snowman Accessory - Bucket",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowmanprop_cowboyhat": {
+      "source": "Snowman Accessory - Cowboy Hat",
+      "translation": "Snowman Accessory - Cowboy Hat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowmanprop_neckerchief": {
+      "source": "Snowman Accessory - Neckerchief",
+      "translation": "Snowman Accessory - Neckerchief",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowmanprop_snowshovel": {
+      "source": "Snowman Accessory - Snow Shovel",
+      "translation": "Snowman Accessory - Snow Shovel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_snowmanprop_woolyhat": {
+      "source": "Snowman Accessory - Woolly Hat",
+      "translation": "Snowman Accessory - Woolly Hat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sour_strip": {
+      "source": "Confectionery - Sour Strip Large",
+      "translation": "Confectionery - Sour Strip Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sour_strips_small": {
+      "source": "Confectionery - Sour Strip Small",
+      "translation": "Confectionery - Sour Strip Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_standardpinkwafer": {
+      "source": "Confectionery - Wafer Biscuit Pink",
+      "translation": "Confectionery - Wafer Biscuit Pink",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_standardwafer": {
+      "source": "Confectionery - Wafer Biscuit",
+      "translation": "Confectionery - Wafer Biscuit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_star_01": {
+      "source": "Treetop Star - Plain",
+      "translation": "Treetop Star - Plain",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_star_02": {
+      "source": "Treetop Star - Glowing",
+      "translation": "Treetop Star - Glowing",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_star_03": {
+      "source": "Treetop Star - Eight Pointed",
+      "translation": "Treetop Star - Eight Pointed",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_star_04": {
+      "source": "Treetop Star - Giant Lit",
+      "translation": "Treetop Star - Giant Lit",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_streetlamp": {
+      "source": "Candle Torch",
+      "translation": "Candle Torch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sugar_coated_choc_button": {
+      "source": "Confectionery - Sugar Coated Chocolate Button",
+      "translation": "Confectionery - Sugar Coated Chocolate Button",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweetbench_01": {
+      "source": "Festive Sweets Bench",
+      "translation": "Festive Sweets Bench",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweetbin": {
+      "source": "Festive Bin",
+      "translation": "Festive Bin",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweets_bonbon": {
+      "source": "Confectionery - Bonbon",
+      "translation": "Confectionery - Bonbon",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweets_candy_corn": {
+      "source": "Confectionery - Candy Corn",
+      "translation": "Confectionery - Candy Corn",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweets_humbug": {
+      "source": "Confectionery - Humbug",
+      "translation": "Confectionery - Humbug",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweets_jelly_bean": {
+      "source": "Confectionery - Jelly Bean",
+      "translation": "Confectionery - Jelly Bean",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweets_jelly_buttons": {
+      "source": "Confectionery - Jelly Button",
+      "translation": "Confectionery - Jelly Button",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweets_jelly_drop": {
+      "source": "Confectionery - Jelly Drop",
+      "translation": "Confectionery - Jelly Drop",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweets_marshmallow_01": {
+      "source": "Confectionery - Marshmallow 1",
+      "translation": "Confectionery - Marshmallow 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweets_marshmallow_02": {
+      "source": "Confectionery - Marshmallow 2",
+      "translation": "Confectionery - Marshmallow 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweets_scarf": {
+      "source": "Snowman Accessory - Scarf 2",
+      "translation": "Snowman Accessory - Scarf 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_sweets_strawberries_cream": {
+      "source": "Confectionery - Strawberry Cream",
+      "translation": "Confectionery - Strawberry Cream",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_taperedbauble": {
+      "source": "Bauble - Tapered",
+      "translation": "Bauble - Tapered",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_teardropbauble": {
+      "source": "Bauble - Teardrop",
+      "translation": "Bauble - Teardrop",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_thinwafer": {
+      "source": "Confectionery - Wafer Rectangle",
+      "translation": "Confectionery - Wafer Rectangle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_treebauble": {
+      "source": "Bauble - Tree",
+      "translation": "Bauble - Tree",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_truffle_a": {
+      "source": "Confectionery - Truffle 1",
+      "translation": "Confectionery - Truffle 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_truffle_b": {
+      "source": "Confectionery - Truffle 2",
+      "translation": "Confectionery - Truffle 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_truffle_c": {
+      "source": "Confectionery - Truffle 3",
+      "translation": "Confectionery - Truffle 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_trumpet": {
+      "source": "Trumpet Decoration",
+      "translation": "Trumpet Decoration",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_tubewafer": {
+      "source": "Confectionery - Wafer Straw Chocolate",
+      "translation": "Confectionery - Wafer Straw Chocolate",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_viennesefinger": {
+      "source": "Confectionery - Viennese Finger",
+      "translation": "Confectionery - Viennese Finger",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_floor": {
+      "source": "Gingerbread Floor",
+      "translation": "Gingerbread Floor",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_floor_quarter": {
+      "source": "Gingerbread Floor - Quarter 1",
+      "translation": "Gingerbread Floor - Quarter 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_floor_quarter_02": {
+      "source": "Gingerbread Floor - Quarter 2",
+      "translation": "Gingerbread Floor - Quarter 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_gabletri_1m": {
+      "source": "Gingerbread Wall - 1m Gable End",
+      "translation": "Gingerbread Wall - 1m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_gabletri_2m": {
+      "source": "Gingerbread Wall - 2m Gable End",
+      "translation": "Gingerbread Wall - 2m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_gabletri_4m": {
+      "source": "Gingerbread Wall - 4m Gable End",
+      "translation": "Gingerbread Wall - 4m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_half_1m": {
+      "source": "Gingerbread Wall - 1m Half Width",
+      "translation": "Gingerbread Wall - 1m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_half_2m": {
+      "source": "Gingerbread Wall - 2m Half Width",
+      "translation": "Gingerbread Wall - 2m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_half_4m": {
+      "source": "Gingerbread Wall - 4m Half Width",
+      "translation": "Gingerbread Wall - 4m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_1m": {
+      "source": "Gingerbread Wall 1m",
+      "translation": "Gingerbread Wall 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_2m": {
+      "source": "Gingerbread Wall 2m",
+      "translation": "Gingerbread Wall 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_4m": {
+      "source": "Gingerbread Wall 4m",
+      "translation": "Gingerbread Wall 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_4m_archwindow": {
+      "source": "Gingerbread Wall - Arch Cutout",
+      "translation": "Gingerbread Wall - Arch Cutout",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_4m_circle": {
+      "source": "Gingerbread Wall - Circle Cutout",
+      "translation": "Gingerbread Wall - Circle Cutout",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_4m_heart": {
+      "source": "Gingerbread Wall - Heart Cutout",
+      "translation": "Gingerbread Wall - Heart Cutout",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_archextention_4m": {
+      "source": "Gingerbread Wall - Arch Extension",
+      "translation": "Gingerbread Wall - Arch Extension",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_archhalf": {
+      "source": "Gingerbread Wall - Half Arch",
+      "translation": "Gingerbread Wall - Half Arch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_archround_4m": {
+      "source": "Gingerbread Wall - Arch 1",
+      "translation": "Gingerbread Wall - Arch 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_archstraight_4m": {
+      "source": "Gingerbread Wall - Arch 2",
+      "translation": "Gingerbread Wall - Arch 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_cap": {
+      "source": "Gingerbread Wall - Ridge Cap",
+      "translation": "Gingerbread Wall - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_curve": {
+      "source": "Gingerbread Wall - 4 x 2m Curved Slope",
+      "translation": "Gingerbread Wall - 4 x 2m Curved Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_curve_inverse": {
+      "source": "Gingerbread Wall - 4 x 2m Inverse Slope",
+      "translation": "Gingerbread Wall - 4 x 2m Inverse Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_door_4m": {
+      "source": "Gingerbread Wall - With Door",
+      "translation": "Gingerbread Wall - With Door",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_doorway": {
+      "source": "Gingerbread Wall - Doorway Cutout",
+      "translation": "Gingerbread Wall - Doorway Cutout",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_largewindow_4m": {
+      "source": "Gingerbread Wall - Large Window",
+      "translation": "Gingerbread Wall - Large Window",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_shopfront": {
+      "source": "Gingerbread Wall - Shop Front",
+      "translation": "Gingerbread Wall - Shop Front",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_slope_1m": {
+      "source": "Gingerbread Wall - Slope 1m",
+      "translation": "Gingerbread Wall - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_slope_2m": {
+      "source": "Gingerbread Wall - Slope 2m",
+      "translation": "Gingerbread Wall - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_slope_4m": {
+      "source": "Gingerbread Wall - Slope 4m",
+      "translation": "Gingerbread Wall - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_slope_circle": {
+      "source": "Gingerbread Wall - Slope 4m Circle Cutout",
+      "translation": "Gingerbread Wall - Slope 4m Circle Cutout",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_slope_heart": {
+      "source": "Gingerbread Wall - Slope 4m Heart Cutout",
+      "translation": "Gingerbread Wall - Slope 4m Heart Cutout",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_station_surround_01": {
+      "source": "Gingerbread Wall - Station Surround 1",
+      "translation": "Gingerbread Wall - Station Surround 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_merge_station_surround_02": {
+      "source": "Gingerbread Wall - Station Surround 2",
+      "translation": "Gingerbread Wall - Station Surround 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_round_1m": {
+      "source": "Gingerbread Wall - Round 1m",
+      "translation": "Gingerbread Wall - Round 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_round_2m": {
+      "source": "Gingerbread Wall - Round 2m",
+      "translation": "Gingerbread Wall - Round 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wall_gbread_round_4m": {
+      "source": "Gingerbread Wall - Round 4m",
+      "translation": "Gingerbread Wall - Round 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_window_01": {
+      "source": "Gingerbread Icing - Window 1",
+      "translation": "Gingerbread Icing - Window 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_window_02": {
+      "source": "Gingerbread Icing - Window 2",
+      "translation": "Gingerbread Icing - Window 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_window_03": {
+      "source": "Gingerbread Icing - Window 3",
+      "translation": "Gingerbread Icing - Window 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_window_04": {
+      "source": "Gingerbread Icing - Window 4",
+      "translation": "Gingerbread Icing - Window 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_window_05": {
+      "source": "Gingerbread Icing - Window 5",
+      "translation": "Gingerbread Icing - Window 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_window_07": {
+      "source": "Gingerbread Icing - Window 6",
+      "translation": "Gingerbread Icing - Window 6",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_window_08": {
+      "source": "Gingerbread Icing - Window 7",
+      "translation": "Gingerbread Icing - Window 7",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wreath_ringlarge": {
+      "source": "Holly Wreath - Ring Large",
+      "translation": "Holly Wreath - Ring Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wreath_ringsmall": {
+      "source": "Holly Wreath - Ring Small",
+      "translation": "Holly Wreath - Ring Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wreath_starlarge": {
+      "source": "Holly Wreath - Star Large",
+      "translation": "Holly Wreath - Star Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wreath_starsmall": {
+      "source": "Holly Wreath - Star Small",
+      "translation": "Holly Wreath - Star Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wreath_straight": {
+      "source": "Holly Wreath - Straight",
+      "translation": "Holly Wreath - Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wreath_straightendl": {
+      "source": "Holly Wreath - Straight End Left",
+      "translation": "Holly Wreath - Straight End Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wreath_straightendr": {
+      "source": "Holly Wreath - Straight End Right",
+      "translation": "Holly Wreath - Straight End Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wreath_swaglargel": {
+      "source": "Holly Wreath - Swag Large Left",
+      "translation": "Holly Wreath - Swag Large Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wreath_swaglarger": {
+      "source": "Holly Wreath - Swag Large Right",
+      "translation": "Holly Wreath - Swag Large Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wreath_swagsmalll": {
+      "source": "Holly Wreath - Swag Small Left",
+      "translation": "Holly Wreath - Swag Small Left",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_hol_wreath_swagsmallr": {
+      "source": "Holly Wreath - Swag Small Right",
+      "translation": "Holly Wreath - Swag Small Right",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    }
+  }
+}

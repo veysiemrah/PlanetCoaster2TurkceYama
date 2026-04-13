@@ -1,0 +1,2563 @@
+{
+  "meta": {
+    "language": "en",
+    "source_language": "en",
+    "content_pack": "Content8",
+    "game_version": "extracted",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "aq_flatride_coriolis": {
+      "source": "Aquatic Coriolis",
+      "translation": "Aquatic Coriolis",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "aq_flatride_coriolis_desc": {
+      "source": "Aquatic themed Coriolis ride",
+      "translation": "Aquatic themed Coriolis ride",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "aq_flatride_synchronise": {
+      "source": "Aquatic Synchronise",
+      "translation": "Aquatic Synchronise",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "aq_flatride_synchronise_desc": {
+      "source": "Aquatic themed Synchronise ride",
+      "translation": "Aquatic themed Synchronise ride",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_cargo": {
+      "source": "Pirate Cargo 2",
+      "translation": "Pirate Cargo 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_claypots": {
+      "source": "Fairytale Clay Pots",
+      "translation": "Fairytale Clay Pots",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_dragonslayer": {
+      "source": "Fairytale Dragon Whisperer",
+      "translation": "Fairytale Dragon Whisperer",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_fairytale_corner_180": {
+      "source": "Fairytale Fence Path End",
+      "translation": "Fairytale Fence Path End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_fairytale_corner_45": {
+      "source": "Fairytale Fence Plaza Edge",
+      "translation": "Fairytale Fence Plaza Edge",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_fairytale_corner_90l": {
+      "source": "Fairytale Fence Corner Large",
+      "translation": "Fairytale Fence Corner Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_fairytale_corner_90m": {
+      "source": "Fairytale Fence Corner",
+      "translation": "Fairytale Fence Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_fairytale_corner_90s": {
+      "source": "Fairytale Fence Corner Small",
+      "translation": "Fairytale Fence Corner Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_fairytale_straight_16m": {
+      "source": "Fairytale Fence Straight",
+      "translation": "Fairytale Fence Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_festive_corner_180": {
+      "source": "Festive Fence Path End",
+      "translation": "Festive Fence Path End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_festive_corner_45": {
+      "source": "Festive Fence Plaza Edge",
+      "translation": "Festive Fence Plaza Edge",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_festive_corner_90l": {
+      "source": "Festive Fence Corner Large",
+      "translation": "Festive Fence Corner Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_festive_corner_90m": {
+      "source": "Festive Fence Corner",
+      "translation": "Festive Fence Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_festive_corner_90s": {
+      "source": "Festive Fence Corner Small",
+      "translation": "Festive Fence Corner Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_festive_straight_16m": {
+      "source": "Festive Fence Straight",
+      "translation": "Festive Fence Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_pirate_corner_180": {
+      "source": "Pirate Fence Path End",
+      "translation": "Pirate Fence Path End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_pirate_corner_45": {
+      "source": "Pirate Fence Plaza Edge",
+      "translation": "Pirate Fence Plaza Edge",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_pirate_corner_90l": {
+      "source": "Pirate Fence Corner Large",
+      "translation": "Pirate Fence Corner Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_pirate_corner_90m": {
+      "source": "Pirate Fence Corner",
+      "translation": "Pirate Fence Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_pirate_corner_90s": {
+      "source": "Pirate Fence Corner Small",
+      "translation": "Pirate Fence Corner Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_pirate_straight_16m": {
+      "source": "Pirate Fence Straight",
+      "translation": "Pirate Fence Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_scifi_corner_180": {
+      "source": "Sci-Fi Fence Path End",
+      "translation": "Sci-Fi Fence Path End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_scifi_corner_45": {
+      "source": "Sci-Fi Fence Plaza Edge",
+      "translation": "Sci-Fi Fence Plaza Edge",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_scifi_corner_90l": {
+      "source": "Sci-Fi Fence Corner Large",
+      "translation": "Sci-Fi Fence Corner Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_scifi_corner_90m": {
+      "source": "Sci-Fi Fence Corner",
+      "translation": "Sci-Fi Fence Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_scifi_corner_90s": {
+      "source": "Sci-Fi Fence Corner Small",
+      "translation": "Sci-Fi Fence Corner Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_scifi_straight_16m": {
+      "source": "Sci-Fi Fence Straight",
+      "translation": "Sci-Fi Fence Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_low_corner_180": {
+      "source": "Western Fence Low Path End",
+      "translation": "Western Fence Low Path End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_low_corner_45": {
+      "source": "Western Fence Low Plaza Edge",
+      "translation": "Western Fence Low Plaza Edge",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_low_corner_90l": {
+      "source": "Western Fence Low Corner Large",
+      "translation": "Western Fence Low Corner Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_low_corner_90m": {
+      "source": "Western Fence Low Corner",
+      "translation": "Western Fence Low Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_low_corner_90s": {
+      "source": "Western Fence Low Corner Small",
+      "translation": "Western Fence Low Corner Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_low_straight_16m": {
+      "source": "Western Fence Low Straight",
+      "translation": "Western Fence Low Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_painted_corner_180": {
+      "source": "Western Fence Painted Path End",
+      "translation": "Western Fence Painted Path End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_painted_corner_45": {
+      "source": "Western Fence Painted Plaza Edge",
+      "translation": "Western Fence Painted Plaza Edge",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_painted_corner_90l": {
+      "source": "Western Fence Painted Corner Large",
+      "translation": "Western Fence Painted Corner Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_painted_corner_90m": {
+      "source": "Western Fence Painted Corner",
+      "translation": "Western Fence Painted Corner",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_painted_corner_90s": {
+      "source": "Western Fence Painted Corner Small",
+      "translation": "Western Fence Painted Corner Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_edges_western_painted_straight_16m": {
+      "source": "Western Fence Painted Straight",
+      "translation": "Western Fence Painted Straight",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairyfancythatch": {
+      "source": "Fairytale Fancy Thatch",
+      "translation": "Fairytale Fancy Thatch",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairyfountain": {
+      "source": "Fairytale Fountain",
+      "translation": "Fairytale Fountain",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairyfountain2": {
+      "source": "Fairytale Fountain of Youth",
+      "translation": "Fairytale Fountain of Youth",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairyjesterjoust": {
+      "source": "Fairytale Jesters Jousting",
+      "translation": "Fairytale Jesters Jousting",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairyscenery": {
+      "source": "Fairytale Tents",
+      "translation": "Fairytale Tents",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairysceneryplanet": {
+      "source": "Fairytale Queen Statue",
+      "translation": "Fairytale Queen Statue",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytale_stationsurround_01": {
+      "source": "Fairytale Station Shell 1",
+      "translation": "Fairytale Station Shell 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytale_stationsurround_02": {
+      "source": "Fairytale Station Shell 2",
+      "translation": "Fairytale Station Shell 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytalebuilding_facilityshell": {
+      "source": "Fairytale Facility Shell",
+      "translation": "Fairytale Facility Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytalebuilding_shopshell": {
+      "source": "Fairytale Shop Shell",
+      "translation": "Fairytale Shop Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytalescenery_arch_01": {
+      "source": "Fairytale Archway 1",
+      "translation": "Fairytale Archway 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytalescenery_arch_02": {
+      "source": "Fairytale Archway 2",
+      "translation": "Fairytale Archway 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytalescenery_flowers_01": {
+      "source": "Fairytale Flowers 1",
+      "translation": "Fairytale Flowers 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytalescenery_flowers_02": {
+      "source": "Fairytale Flowers 2",
+      "translation": "Fairytale Flowers 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytalescenery_flowertree": {
+      "source": "Fairytale Flowers 3",
+      "translation": "Fairytale Flowers 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytalescenery_happytree": {
+      "source": "Fairytale Happy Tree",
+      "translation": "Fairytale Happy Tree",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytalescenery_potions": {
+      "source": "Fairytale Potions",
+      "translation": "Fairytale Potions",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fairytower": {
+      "source": "Fairytale Tower",
+      "translation": "Fairytale Tower",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_fayre": {
+      "source": "Fairytale Fayre",
+      "translation": "Fairytale Fayre",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festive_building_facilityshell_new": {
+      "source": "Festive Facility Shell",
+      "translation": "Festive Facility Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festive_building_shopshell_new": {
+      "source": "Festive Shop Shell",
+      "translation": "Festive Shop Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festive_building_stationsurround_new": {
+      "source": "Festive Station Shell",
+      "translation": "Festive Station Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festive_festivetreelarge_01": {
+      "source": "Festive Tree Large",
+      "translation": "Festive Tree Large",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festive_icedbiscuittree_01": {
+      "source": "Festive Biscuit Tree 1",
+      "translation": "Festive Biscuit Tree 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festive_scenery_festivetree_new": {
+      "source": "Festive Tree Small",
+      "translation": "Festive Tree Small",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festive_scenery_gingerbreadtree_new": {
+      "source": "Festive Gingerbread Tree",
+      "translation": "Festive Gingerbread Tree",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festive_scenery_lollypops_new": {
+      "source": "Festive Lollipops 2",
+      "translation": "Festive Lollipops 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festive_scenery_smallpresents_new": {
+      "source": "Festive Presents",
+      "translation": "Festive Presents",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festivelarge04": {
+      "source": "Festive House Large 3",
+      "translation": "Festive House Large 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festivemedium03": {
+      "source": "Festive House Medium 3",
+      "translation": "Festive House Medium 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_festivemedium04": {
+      "source": "Festive House Medium 4",
+      "translation": "Festive House Medium 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_flowerstall": {
+      "source": "Fairytale Flower Stall",
+      "translation": "Fairytale Flower Stall",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_ft_castlelarge_01": {
+      "source": "Fairytale Large Castle",
+      "translation": "Fairytale Large Castle",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_ft_castlepassagesmall_01": {
+      "source": "Fairytale Castle Passage",
+      "translation": "Fairytale Castle Passage",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_ft_clocktowerlarge": {
+      "source": "Fairytale Clock Tower",
+      "translation": "Fairytale Clock Tower",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_candycollection": {
+      "source": "Festive Gingerbread Trees",
+      "translation": "Festive Gingerbread Trees",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_candycollection02": {
+      "source": "Festive Lollipops 1",
+      "translation": "Festive Lollipops 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_christmastreescenes": {
+      "source": "Festive Tree Medium",
+      "translation": "Festive Tree Medium",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_christmastreescenes02": {
+      "source": "Festive Biscuit Tree 2",
+      "translation": "Festive Biscuit Tree 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festiveentrancel": {
+      "source": "Festive Archway 2",
+      "translation": "Festive Archway 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festiveentrances": {
+      "source": "Festive Archway 1",
+      "translation": "Festive Archway 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festivefood": {
+      "source": "Festive Shop Shell 2",
+      "translation": "Festive Shop Shell 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festivehousel": {
+      "source": "Festive House Large 1",
+      "translation": "Festive House Large 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festivehousel02": {
+      "source": "Festive House Large 2",
+      "translation": "Festive House Large 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festivehousem": {
+      "source": "Festive House Medium 1",
+      "translation": "Festive House Medium 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festivehousem02": {
+      "source": "Festive House Medium 2",
+      "translation": "Festive House Medium 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festivehouses": {
+      "source": "Festive House Small 1",
+      "translation": "Festive House Small 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festivehouses02": {
+      "source": "Festive House Small 2",
+      "translation": "Festive House Small 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festivescene": {
+      "source": "Festive Fence",
+      "translation": "Festive Fence",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festivescene02": {
+      "source": "Festive Biscuit Train",
+      "translation": "Festive Biscuit Train",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_festivetower": {
+      "source": "Festive Tower",
+      "translation": "Festive Tower",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_giftcollection": {
+      "source": "Festive Gift Collection",
+      "translation": "Festive Gift Collection",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_snowman01": {
+      "source": "Festive Snowmen 1",
+      "translation": "Festive Snowmen 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_snowman02": {
+      "source": "Festive Snowmen 2",
+      "translation": "Festive Snowmen 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_snowman03": {
+      "source": "Festive Gingerbread Family",
+      "translation": "Festive Gingerbread Family",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_snowman04": {
+      "source": "Festive Snowmen 3",
+      "translation": "Festive Snowmen 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_hol_snowman05": {
+      "source": "Festive Snowman Melted",
+      "translation": "Festive Snowman Melted",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_kingsloottent": {
+      "source": "Fairytale Loot Tent",
+      "translation": "Fairytale Loot Tent",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_krakenattack": {
+      "source": "Pirate Kraken Attack",
+      "translation": "Pirate Kraken Attack",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_marketstalls": {
+      "source": "Fairytale Market Stalls",
+      "translation": "Fairytale Market Stalls",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_overgrownspookytree": {
+      "source": "Fairytale Overgrown Tree",
+      "translation": "Fairytale Overgrown Tree",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_overgrownspookytreeduo": {
+      "source": "Fairytale Trees Standing Guard",
+      "translation": "Fairytale Trees Standing Guard",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pirate_buildings_shopshell_new": {
+      "source": "Pirate Villa Shop Shell",
+      "translation": "Pirate Villa Shop Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pirate_buildings_stationsurround_new": {
+      "source": "Pirate Shipwreck Station Shell",
+      "translation": "Pirate Shipwreck Station Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pirate_scenery_ancorstatue_new": {
+      "source": "Pirate Anchor Statue",
+      "translation": "Pirate Anchor Statue",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pirate_scenery_band_new": {
+      "source": "Pirate Band",
+      "translation": "Pirate Band",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pirate_scenery_cannonstatue_new": {
+      "source": "Pirate Cannon Statue",
+      "translation": "Pirate Cannon Statue",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pirate_scenery_flowers_new": {
+      "source": "Pirate Flowers",
+      "translation": "Pirate Flowers",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pirate_scenery_palmarch_new": {
+      "source": "Pirate Palm Archway",
+      "translation": "Pirate Palm Archway",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pirate_scenery_parotstatue_new": {
+      "source": "Pirate Parrot Statue",
+      "translation": "Pirate Parrot Statue",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pirate_scenery_tenticle_new": {
+      "source": "Pirate Tentacle Pool",
+      "translation": "Pirate Tentacle Pool",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pirateanimatronicharbourscene": {
+      "source": "Pirate Animatronic Harbour",
+      "translation": "Pirate Animatronic Harbour",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_piratecamp": {
+      "source": "Pirate Camp",
+      "translation": "Pirate Camp",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_piratescenery": {
+      "source": "Pirate Mermaid Statue",
+      "translation": "Pirate Mermaid Statue",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_piratescenery2": {
+      "source": "Pirate Holdout",
+      "translation": "Pirate Holdout",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_piratescenery3": {
+      "source": "Pirate Skull Rock",
+      "translation": "Pirate Skull Rock",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_piratesea": {
+      "source": "Pirate Fountain 2",
+      "translation": "Pirate Fountain 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pirateskirmish": {
+      "source": "Pirate Skirmish 1",
+      "translation": "Pirate Skirmish 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_piratesmallent": {
+      "source": "Pirate Archway",
+      "translation": "Pirate Archway",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_piratesmallhouse": {
+      "source": "Pirate Villa 1",
+      "translation": "Pirate Villa 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_piratewatery": {
+      "source": "Pirate Fountain 1",
+      "translation": "Pirate Fountain 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pr_atmfacility": {
+      "source": "Pirate Villa Bank",
+      "translation": "Pirate Villa Bank",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pr_houselarge_01": {
+      "source": "Pirate Villa 3",
+      "translation": "Pirate Villa 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pr_houselarge_02": {
+      "source": "Pirate Villa 4",
+      "translation": "Pirate Villa 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pr_housesmall_01": {
+      "source": "Pirate Villa 2",
+      "translation": "Pirate Villa 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pr_housesmall_02": {
+      "source": "Pirate Villa 5",
+      "translation": "Pirate Villa 5",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_pr_smallscene_01": {
+      "source": "Pirate Cargo 1",
+      "translation": "Pirate Cargo 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_redcoatskirmish": {
+      "source": "Pirate Skirmish 2",
+      "translation": "Pirate Skirmish 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_bugbot_01": {
+      "source": "Sci-Fi Bug Bot",
+      "translation": "Sci-Fi Bug Bot",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_building_facilityshell_new": {
+      "source": "Sci-Fi Facility Shell",
+      "translation": "Sci-Fi Facility Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_building_shopshell_new": {
+      "source": "Sci-Fi Shop Shell",
+      "translation": "Sci-Fi Shop Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_coastertunnel_01": {
+      "source": "Sci-Fi Coaster Tunnel",
+      "translation": "Sci-Fi Coaster Tunnel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_largewallcap_01": {
+      "source": "Sci-Fi Wall Cap 1",
+      "translation": "Sci-Fi Wall Cap 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_largewallcap_02": {
+      "source": "Sci-Fi Wall Cap 2",
+      "translation": "Sci-Fi Wall Cap 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_pipes_01": {
+      "source": "Sci-Fi Pipes",
+      "translation": "Sci-Fi Pipes",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_powerstation_01": {
+      "source": "Sci-Fi Power Station",
+      "translation": "Sci-Fi Power Station",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_satellite_01": {
+      "source": "Sci-Fi Satellite",
+      "translation": "Sci-Fi Satellite",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_scenery_computerterminal_new": {
+      "source": "Sci-Fi Computer Terminal 1",
+      "translation": "Sci-Fi Computer Terminal 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_scenery_exhaustvent_new": {
+      "source": "Sci-Fi Exhaust Port",
+      "translation": "Sci-Fi Exhaust Port",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_scenery_fence2_new": {
+      "source": "Sci-Fi Barrier 2",
+      "translation": "Sci-Fi Barrier 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_scenery_fence_new": {
+      "source": "Sci-Fi Barrier 1",
+      "translation": "Sci-Fi Barrier 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_scenery_statue01_new": {
+      "source": "Sci-Fi Tower 1",
+      "translation": "Sci-Fi Tower 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_scenery_statue02_new": {
+      "source": "Sci-Fi Tower 2",
+      "translation": "Sci-Fi Tower 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_scenery_statue03_new": {
+      "source": "Sci-Fi Tower 3",
+      "translation": "Sci-Fi Tower 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_scenery_statue04_new": {
+      "source": "Sci-Fi Research Station 1",
+      "translation": "Sci-Fi Research Station 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_scenery_statue05_new": {
+      "source": "Sci-Fi Research Station 2",
+      "translation": "Sci-Fi Research Station 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_scenery_statue06_new": {
+      "source": "Sci-Fi Computer Terminal 2",
+      "translation": "Sci-Fi Computer Terminal 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_silo_01": {
+      "source": "Sci-Fi Silo",
+      "translation": "Sci-Fi Silo",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_spaceshiplarge_01": {
+      "source": "Sci-Fi Spaceship 2",
+      "translation": "Sci-Fi Spaceship 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_spaceshiplarge_02": {
+      "source": "Sci-Fi Spaceship 3",
+      "translation": "Sci-Fi Spaceship 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifi_spaceshipsmall_01": {
+      "source": "Sci-Fi Spaceship 1",
+      "translation": "Sci-Fi Spaceship 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifibuilding02": {
+      "source": "Sci-Fi Fusion Tower",
+      "translation": "Sci-Fi Fusion Tower",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scificollection": {
+      "source": "Sci-Fi Gustav's Collection",
+      "translation": "Sci-Fi Gustav's Collection",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifientrance01": {
+      "source": "Sci-Fi Wall Entrance",
+      "translation": "Sci-Fi Wall Entrance",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scififountain": {
+      "source": "Sci-Fi Fountain",
+      "translation": "Sci-Fi Fountain",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scififountain2": {
+      "source": "Sci-Fi Plumes of Enceladus",
+      "translation": "Sci-Fi Plumes of Enceladus",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifilargeent": {
+      "source": "Sci-Fi Ride Scenery",
+      "translation": "Sci-Fi Ride Scenery",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifiparkset": {
+      "source": "Sci-Fi Sputnik's Travels",
+      "translation": "Sci-Fi Sputnik's Travels",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifiscenery": {
+      "source": "Sci-Fi Airlock",
+      "translation": "Sci-Fi Airlock",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifisceneryplanet": {
+      "source": "Sci-Fi Skirmish",
+      "translation": "Sci-Fi Skirmish",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifismallent": {
+      "source": "Sci-Fi Corridor",
+      "translation": "Sci-Fi Corridor",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_scifiwall": {
+      "source": "Sci-Fi Wall",
+      "translation": "Sci-Fi Wall",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_sf_dogbotcrashed": {
+      "source": "Sci-Fi M.U.T.T Crashed",
+      "translation": "Sci-Fi M.U.T.T Crashed",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_sf_poseable_dogbot": {
+      "source": "Sci-Fi M.U.T.T",
+      "translation": "Sci-Fi M.U.T.T",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_silversmith": {
+      "source": "Fairytale Silversmith Manor",
+      "translation": "Fairytale Silversmith Manor",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_sleepingdragon": {
+      "source": "Fairytale Dragon's Nest",
+      "translation": "Fairytale Dragon's Nest",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_swordinthestone": {
+      "source": "Fairytale Sword in the Stone",
+      "translation": "Fairytale Sword in the Stone",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_travellerscamp": {
+      "source": "Fairytale Traveller Camp",
+      "translation": "Fairytale Traveller Camp",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_treasurepile": {
+      "source": "Pirate Treasure",
+      "translation": "Pirate Treasure",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_ufo": {
+      "source": "Sci-Fi UFO",
+      "translation": "Sci-Fi UFO",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_ufocrash": {
+      "source": "Sci-Fi UFO Crashed",
+      "translation": "Sci-Fi UFO Crashed",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_vasecollection": {
+      "source": "Fairytale Vase Collection",
+      "translation": "Fairytale Vase Collection",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_washedupboat": {
+      "source": "Pirate Rowboat",
+      "translation": "Pirate Rowboat",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_building_facilityshell_new": {
+      "source": "Western Facility Shell",
+      "translation": "Western Facility Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_building_shopshell_new": {
+      "source": "Western Shop Shell",
+      "translation": "Western Shop Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_building_stationsurround01_new": {
+      "source": "Western Station Shell 3",
+      "translation": "Western Station Shell 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_building_stationsurround02_new": {
+      "source": "Western Station Shell 4",
+      "translation": "Western Station Shell 4",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_chapel_01": {
+      "source": "Western Chapel",
+      "translation": "Western Chapel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_parkentrance_01": {
+      "source": "Western Barn 1",
+      "translation": "Western Barn 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_parkentrance_02": {
+      "source": "Western Barn 2",
+      "translation": "Western Barn 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_scenert_outhouse": {
+      "source": "Western Outhouse",
+      "translation": "Western Outhouse",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_scenery_arch02_new": {
+      "source": "Western Archway 2",
+      "translation": "Western Archway 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_scenery_arch_new": {
+      "source": "Western Archway 3",
+      "translation": "Western Archway 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_scenery_boiler_new": {
+      "source": "Western Boiler",
+      "translation": "Western Boiler",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_scenery_grave_new": {
+      "source": "Western Grave",
+      "translation": "Western Grave",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_scenery_minecartscene": {
+      "source": "Western Mine Cart Scene",
+      "translation": "Western Mine Cart Scene",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_scenery_scafold_new": {
+      "source": "Western Scaffolding",
+      "translation": "Western Scaffolding",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_scenery_skirmish01_new": {
+      "source": "Western Skirmish 1",
+      "translation": "Western Skirmish 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_scenery_skirmish02_new": {
+      "source": "Western Skirmish 2",
+      "translation": "Western Skirmish 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_stationbuilding_01": {
+      "source": "Western Station Building",
+      "translation": "Western Station Building",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_stationsurround_01": {
+      "source": "Western Station Shell 1",
+      "translation": "Western Station Shell 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_stationsurround_02": {
+      "source": "Western Station Shell 2",
+      "translation": "Western Station Shell 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_tower_01": {
+      "source": "Western Tower 1",
+      "translation": "Western Tower 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_western_tower_02": {
+      "source": "Western Tower 2",
+      "translation": "Western Tower 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernbuilding01": {
+      "source": "Western Horse Vet",
+      "translation": "Western Horse Vet",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernbuilding02": {
+      "source": "Western Wagon Servicing",
+      "translation": "Western Wagon Servicing",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernbuilding03": {
+      "source": "Western Building 1",
+      "translation": "Western Building 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernbuilding05": {
+      "source": "Western Building 2",
+      "translation": "Western Building 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernbuilding06": {
+      "source": "Western Hotel Shell",
+      "translation": "Western Hotel Shell",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernbuilding07": {
+      "source": "Western Gambling Den",
+      "translation": "Western Gambling Den",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernbuilding08": {
+      "source": "Western Sheriffs",
+      "translation": "Western Sheriffs",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernbuilding09": {
+      "source": "Western Building 3",
+      "translation": "Western Building 3",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernbuilding10": {
+      "source": "Western Undertakers",
+      "translation": "Western Undertakers",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernbuilding11": {
+      "source": "Western Stables",
+      "translation": "Western Stables",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernbuilding12": {
+      "source": "Western Abandoned Church",
+      "translation": "Western Abandoned Church",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westerncollection": {
+      "source": "Western Tents",
+      "translation": "Western Tents",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernentrance": {
+      "source": "Western Buildings",
+      "translation": "Western Buildings",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernparkset": {
+      "source": "Western Wagons Roll!",
+      "translation": "Western Wagons Roll!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernparkset2": {
+      "source": "Western Wagons",
+      "translation": "Western Wagons",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernscenery": {
+      "source": "Western Adventure",
+      "translation": "Western Adventure",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernsceneryplanet": {
+      "source": "Western Apothecary",
+      "translation": "Western Apothecary",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_westernsmallent": {
+      "source": "Western Archway 1",
+      "translation": "Western Archway 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "blueprints_witchtreehouse": {
+      "source": "Fairytale Witch's Tree House",
+      "translation": "Fairytale Witch's Tree House",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartdesc_facility_heater_radiant": {
+      "source": "Keeps guests toasty.",
+      "translation": "Keeps guests toasty.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_facility_heater_radiant": {
+      "source": "Radiant Heater - Standing",
+      "translation": "Radiant Heater - Standing",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_facility_heater_wall": {
+      "source": "Radiant Heater - Wall Mounted",
+      "translation": "Radiant Heater - Wall Mounted",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_floor": {
+      "source": "Rough Concrete Floor",
+      "translation": "Rough Concrete Floor",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_floor_quarter": {
+      "source": "Rough Concrete Floor - Quarter 1",
+      "translation": "Rough Concrete Floor - Quarter 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_floor_quarter_02": {
+      "source": "Rough Concrete Floor - Quarter 2",
+      "translation": "Rough Concrete Floor - Quarter 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_gabletri_1m": {
+      "source": "Rough Concrete Wall - 1m Gable End",
+      "translation": "Rough Concrete Wall - 1m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_gabletri_2m": {
+      "source": "Rough Concrete Wall - 2m Gable End",
+      "translation": "Rough Concrete Wall - 2m Gable End",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_half_1m": {
+      "source": "Rough Concrete Wall - 1m Half Width",
+      "translation": "Rough Concrete Wall - 1m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_half_2m": {
+      "source": "Rough Concrete Wall - 2m Half Width",
+      "translation": "Rough Concrete Wall - 2m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_half_4m": {
+      "source": "Rough Concrete Wall - 4m Half Width",
+      "translation": "Rough Concrete Wall - 4m Half Width",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_1m": {
+      "source": "Rough Concrete Wall 1m",
+      "translation": "Rough Concrete Wall 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_2m": {
+      "source": "Rough Concrete Wall 2m",
+      "translation": "Rough Concrete Wall 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_4m": {
+      "source": "Rough Concrete Wall 4m",
+      "translation": "Rough Concrete Wall 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_archextention_4m": {
+      "source": "Rough Concrete Wall - Arch Extension",
+      "translation": "Rough Concrete Wall - Arch Extension",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_archround_4m": {
+      "source": "Rough Concrete Wall - Tunnel Arch 1",
+      "translation": "Rough Concrete Wall - Tunnel Arch 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_archstraight_4m": {
+      "source": "Rough Concrete Wall - Tunnel Arch 2",
+      "translation": "Rough Concrete Wall - Tunnel Arch 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_cap": {
+      "source": "Rough Concrete Wall - Ridge Cap",
+      "translation": "Rough Concrete Wall - Ridge Cap",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_curve": {
+      "source": "Rough Concrete Wall - 4 x 2m Curved Slope",
+      "translation": "Rough Concrete Wall - 4 x 2m Curved Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_curve_inverse": {
+      "source": "Rough Concrete Wall - 4 x 2m Inverse Slope",
+      "translation": "Rough Concrete Wall - 4 x 2m Inverse Slope",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_door_4m": {
+      "source": "Rough Concrete Wall - With Door",
+      "translation": "Rough Concrete Wall - With Door",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_largewindow_4m": {
+      "source": "Rough Concrete Wall - Large Window",
+      "translation": "Rough Concrete Wall - Large Window",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_shopfront": {
+      "source": "Rough Concrete Wall - Shop Front",
+      "translation": "Rough Concrete Wall - Shop Front",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_slope_1m": {
+      "source": "Rough Concrete Wall - Slope 1m",
+      "translation": "Rough Concrete Wall - Slope 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_slope_2m": {
+      "source": "Rough Concrete Wall - Slope 2m",
+      "translation": "Rough Concrete Wall - Slope 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_slope_4m": {
+      "source": "Rough Concrete Wall - Slope 4m",
+      "translation": "Rough Concrete Wall - Slope 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_station_surround_01": {
+      "source": "Rough Concrete Wall - Station Surround 1",
+      "translation": "Rough Concrete Wall - Station Surround 1",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_merge_station_surround_02": {
+      "source": "Rough Concrete Wall - Station Surround 2",
+      "translation": "Rough Concrete Wall - Station Surround 2",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_round_1m": {
+      "source": "Rough Concrete Wall - Round 1m",
+      "translation": "Rough Concrete Wall - Round 1m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_round_2m": {
+      "source": "Rough Concrete Wall - Round 2m",
+      "translation": "Rough Concrete Wall - Round 2m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_pc_wall_roughconcrete_round_4m": {
+      "source": "Rough Concrete Wall - Round 4m",
+      "translation": "Rough Concrete Wall - Round 4m",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_wtr_pool_heater": {
+      "source": "Pool Heater",
+      "translation": "Pool Heater",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_coldcritical_natural_common_01": {
+      "source": "It's freezing around here!",
+      "translation": "It's freezing around here!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_coldcritical_natural_common_02": {
+      "source": "I'm so c-c-c-cold…",
+      "translation": "I'm so c-c-c-cold…",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_coldcritical_natural_common_03": {
+      "source": "Brrr! This park is so chilly!",
+      "translation": "Brrr! This park is so chilly!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_coldcritical_nodestination_common_01": {
+      "source": "Where are all the heaters? It's f-f-f-freezing!",
+      "translation": "Where are all the heaters? It's f-f-f-freezing!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_coldlow_natural_common_01": {
+      "source": "I'm starting to shiver.",
+      "translation": "I'm starting to shiver.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_coldsatisfied_destination_common_01": {
+      "source": "Ahh! {reference} has thawed me out!",
+      "translation": "Ahh! {reference} has thawed me out!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_parktemperaturehigh_common_01": {
+      "source": "It's a hot one today!",
+      "translation": "It's a hot one today!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_parktemperaturehigh_drink_fluff_common_01": {
+      "source": "It's boiling! A nice cold drink would cool me down.",
+      "translation": "It's boiling! A nice cold drink would cool me down.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_parktemperaturehigh_food_fluff_common_01": {
+      "source": "It's so hot today! I'd like to eat something cold.",
+      "translation": "It's so hot today! I'd like to eat something cold.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_parktemperaturelow_drink_fluff_common_01": {
+      "source": "It's freezing here! I'd love a hot drink to warm me up.",
+      "translation": "It's freezing here! I'd love a hot drink to warm me up.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_parktemperaturelow_food_fluff_common_01": {
+      "source": "On a cold day like this, some hot food would be amazing!",
+      "translation": "On a cold day like this, some hot food would be amazing!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_pool_temperaturecritical_common_01": {
+      "source": "Woah! That pool has frozen over!",
+      "translation": "Woah! That pool has frozen over!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_pool_temperaturecritical_common_02": {
+      "source": "Is that pool frozen solid?",
+      "translation": "Is that pool frozen solid?",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_pool_temperaturegood_common_01": {
+      "source": "{reference} is nice and warm.",
+      "translation": "{reference} is nice and warm.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_pool_temperaturehigh_common_01": {
+      "source": "{reference} looks a little too hot.",
+      "translation": "{reference} looks a little too hot.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_pool_temperaturelow_common_01": {
+      "source": "{reference} looks too cold for me.",
+      "translation": "{reference} looks too cold for me.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_sunburncritical_destination_common_01": {
+      "source": "Ouch! I hope {reference} has some suncream.",
+      "translation": "Ouch! I hope {reference} has some suncream.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_sunburncritical_natural_common_01": {
+      "source": "Ow! I'm completely sunburnt.",
+      "translation": "Ow! I'm completely sunburnt.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_sunburncritical_natural_common_02": {
+      "source": "Ew, my sunburn is starting to peel.",
+      "translation": "Ew, my sunburn is starting to peel.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_sunburncritical_natural_common_03": {
+      "source": "I've been in the sun too long, I'm totally cooked.",
+      "translation": "I've been in the sun too long, I'm totally cooked.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_sunburncritical_nodestination_common_01": {
+      "source": "Why is there nowhere to buy suncream? I'm burning here!",
+      "translation": "Why is there nowhere to buy suncream? I'm burning here!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_sunburnlow_natural_common_01": {
+      "source": "I think I'll burn if I get any more sun.",
+      "translation": "I think I'll burn if I get any more sun.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_sunburnsatisfied_common_01": {
+      "source": "Ahh! That suncream was just what I needed.",
+      "translation": "Ahh! That suncream was just what I needed.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_sunburnsatisfied_destination_common_01": {
+      "source": "My skin feels so much better after that suncream from {reference}. ",
+      "translation": "My skin feels so much better after that suncream from {reference}. ",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_weather_snow_common_01": {
+      "source": "Look! It's snowing!",
+      "translation": "Look! It's snowing!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_weather_temperaturelow_ridequeue_common_01": {
+      "source": "Why are there no heaters around the queue for {reference}? It's so cold!",
+      "translation": "Why are there no heaters around the queue for {reference}? It's so cold!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_weather_temperaturelow_ridequeue_common_02": {
+      "source": "I'm freezing! They should put more heaters around here.",
+      "translation": "I'm freezing! They should put more heaters around here.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_weather_thunder_common_01": {
+      "source": "Eek! I hear thunder!",
+      "translation": "Eek! I hear thunder!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_weather_thunder_onridestruck_common_01": {
+      "source": "We were on a ride that got hit by lightning! Let's go home, this park isn't safe!",
+      "translation": "We were on a ride that got hit by lightning! Let's go home, this park isn't safe!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_weather_thunder_ridestruck_common_01": {
+      "source": "Woah! That ride got struck by lightning!",
+      "translation": "Woah! That ride got struck by lightning!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_wetnesscritical_destination_common_01": {
+      "source": "I'm going to {reference} to dry off.",
+      "translation": "I'm going to {reference} to dry off.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_wetnesscritical_natural_common_01": {
+      "source": "I'm drenched!",
+      "translation": "I'm drenched!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_wetnesscritical_natural_common_02": {
+      "source": "I'm soaked through!",
+      "translation": "I'm soaked through!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_wetnesscritical_natural_common_03": {
+      "source": "Ugh, I'm completely drenched.",
+      "translation": "Ugh, I'm completely drenched.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_wetnesscritical_nodestination_common_01": {
+      "source": "Huh? There's no Body Dryers here! I'm soaked!",
+      "translation": "Huh? There's no Body Dryers here! I'm soaked!",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_wetnesslow_natural_common_01": {
+      "source": "I'm getting rained on a lot.",
+      "translation": "I'm getting rained on a lot.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_wetnesssatisfied_common_01": {
+      "source": "Ahh, I've dried off now.",
+      "translation": "Ahh, I've dried off now.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guest_thought_wetnesssatisfied_destination_common_01": {
+      "source": "I'm nice and dry after going to {reference}.",
+      "translation": "I'm nice and dry after going to {reference}.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guestmood_reason_cold": {
+      "source": "Cold",
+      "translation": "Cold",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guestmood_reason_ridestruckbylightning": {
+      "source": "Ride Struck by Lightning",
+      "translation": "Ride Struck by Lightning",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "guestmood_reason_wet": {
+      "source": "Wet",
+      "translation": "Wet",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "my_flatride_bumpinderby": {
+      "source": "Mythology Bumpin' Derby",
+      "translation": "Mythology Bumpin' Derby",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "my_flatride_bumpinderby_desc": {
+      "source": "Mythology themed Bumpin' Derby ride",
+      "translation": "Mythology themed Bumpin' Derby ride",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "my_flatride_skywatcher": {
+      "source": "Mythology Sky Watcher",
+      "translation": "Mythology Sky Watcher",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "my_flatride_skywatcher_desc": {
+      "source": "Mythology themed Sky Watcher ride",
+      "translation": "Mythology themed Sky Watcher ride",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_flatride_bigwheel": {
+      "source": "Planet Coaster Big Wheel",
+      "translation": "Planet Coaster Big Wheel",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_flatride_bigwheel_desc": {
+      "source": "Planet Coaster themed Big Wheel ride",
+      "translation": "Planet Coaster themed Big Wheel ride",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_flatride_resurgence": {
+      "source": "Planet Coaster Resurgence",
+      "translation": "Planet Coaster Resurgence",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "pc_flatride_resurgence_desc": {
+      "source": "Planet Coaster themed Resurgence ride",
+      "translation": "Planet Coaster themed Resurgence ride",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "re_flatride_ironclaw": {
+      "source": "Resort Iron Claw",
+      "translation": "Resort Iron Claw",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "re_flatride_ironclaw_desc": {
+      "source": "Resort themed Iron Claw ride",
+      "translation": "Resort themed Iron Claw ride",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "re_flatride_pathosiii": {
+      "source": "Resort Pathos III",
+      "translation": "Resort Pathos III",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "re_flatride_pathosiii_desc": {
+      "source": "Resort themed Pathos III ride",
+      "translation": "Resort themed Pathos III ride",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementdesc_dualdirectionlsm_holdingsection": {
+      "source": "Holds trains before launching them in the direction of travel with a magnetic propulsion system.\n\nDesigned for use at the start of a run of Dual Direction LSM sections.",
+      "translation": "Holds trains before launching them in the direction of travel with a magnetic propulsion system.\n\nDesigned for use at the start of a run of Dual Direction LSM sections.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementdesc_frictionwheelliftanddrop": {
+      "source": "Releases the train facing backwards at the end of the lift.",
+      "translation": "Releases the train facing backwards at the end of the lift.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementdesc_frictionwheelliftanddropreverse": {
+      "source": "Releases the train facing forwards at the end of the lift.",
+      "translation": "Releases the train facing forwards at the end of the lift.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementdisabled_frictionwheelliftanddrop_canonlyplaceafterstation": {
+      "source": "Can only be placed on unbanked track in front of the station.",
+      "translation": "Can only be placed on unbanked track in front of the station.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementdisabled_frictionwheelliftanddropreverse_canonlyplacebehindstation": {
+      "source": "Can only be placed directly behind the station or existing Reverse Friction Wheel Lift and Drop sections.",
+      "translation": "Can only be placed directly behind the station or existing Reverse Friction Wheel Lift and Drop sections.",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementname_dualdirectionlsm_holdingsection": {
+      "source": "Dual Direction LSM Holding Section",
+      "translation": "Dual Direction LSM Holding Section",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementname_frictionwheelliftanddrop": {
+      "source": "Friction Wheel Lift and Drop",
+      "translation": "Friction Wheel Lift and Drop",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementname_frictionwheelliftanddropreverse": {
+      "source": "Reverse Friction Wheel Lift and Drop",
+      "translation": "Reverse Friction Wheel Lift and Drop",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "tutorialscreen_description_adverseweather": {
+      "source": "<p>The <b>weather</b> in your park is always changing. Keep an eye on the <b>Weather Forecast</b> for adverse weather events that can affect the operation of your park.</p>\n<br>\n<p><b>Snow </b>might be pretty to look at, but it can cause real problems in your park. Snow means <b>low temperatures</b>, which make your <b>pools freeze</b> over if unheated. <b>Heaters </b>will also draw more <b>power</b>, and guests will be drawn to warmer areas as well as shops serving hot drinks and food.</p>\n<br>\n<p><b>Thunderstorms </b>spell trouble for your rides. Check the <b>Thunderstorm Risk Heatmap</b> and the <b>Ride InfoPanels</b> to see which of your <b>rides </b>are likely to be <b>struck </b>by lightning, and consider shutting them down to keep guests safe, and <b>maintenance </b>costs low. </p>",
+      "translation": "<p>The <b>weather</b> in your park is always changing. Keep an eye on the <b>Weather Forecast</b> for adverse weather events that can affect the operation of your park.</p>\n<br>\n<p><b>Snow </b>might be pretty to look at, but it can cause real problems in your park. Snow means <b>low temperatures</b>, which make your <b>pools freeze</b> over if unheated. <b>Heaters </b>will also draw more <b>power</b>, and guests will be drawn to warmer areas as well as shops serving hot drinks and food.</p>\n<br>\n<p><b>Thunderstorms </b>spell trouble for your rides. Check the <b>Thunderstorm Risk Heatmap</b> and the <b>Ride InfoPanels</b> to see which of your <b>rides </b>are likely to be <b>struck </b>by lightning, and consider shutting them down to keep guests safe, and <b>maintenance </b>costs low. </p>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "tutorialscreen_description_coldneed": {
+      "source": "<p>When temperatures are low, your guests' <b>Warmth Need</b> will drop. Guests that are <b>cold </b>for a long time will become <b>Uncomfortable</b>, and may want to leave your park.</p>\n<br>\n<p>Place <b>heaters</b> around the high-traffic areas of your park, like <b>queues</b>, so that your guests are nice and toasty when cold weather hits. Also, be sure to have shops that offer hot food and drink to take advantage of guests' changing desires during a cold snap.</p>",
+      "translation": "<p>When temperatures are low, your guests' <b>Warmth Need</b> will drop. Guests that are <b>cold </b>for a long time will become <b>Uncomfortable</b>, and may want to leave your park.</p>\n<br>\n<p>Place <b>heaters</b> around the high-traffic areas of your park, like <b>queues</b>, so that your guests are nice and toasty when cold weather hits. Also, be sure to have shops that offer hot food and drink to take advantage of guests' changing desires during a cold snap.</p>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "tutorialscreen_description_temperature": {
+      "source": "<p>Guests have their own preferences for <b>temperature</b>, whether they're walking around your park or swimming in a pool. It's important to make sure your park accommodates these different preferences to ensure your guests are comfortable.</p>\n<br>\n<p>Check a Guest Group's <b>Tolerances</b> to see what kinds of <b>Park Temperature</b> and <b>Minimum Pool Temperature</b> they will tolerate. Temperatures below these minimums will make guests <b>Uncomfortable</b>, or stop them from using your Pools. Guests who don't have their needs accommodated will leave the park.</p>\n<br>\n<p>Pools at very low temperatures will <b>freeze</b> over, stopping your guests from being able to use them. Place <b>Pool Heaters</b> to keep your pools at a comfortable temperature, and stop them from freezing. </p>",
+      "translation": "<p>Guests have their own preferences for <b>temperature</b>, whether they're walking around your park or swimming in a pool. It's important to make sure your park accommodates these different preferences to ensure your guests are comfortable.</p>\n<br>\n<p>Check a Guest Group's <b>Tolerances</b> to see what kinds of <b>Park Temperature</b> and <b>Minimum Pool Temperature</b> they will tolerate. Temperatures below these minimums will make guests <b>Uncomfortable</b>, or stop them from using your Pools. Guests who don't have their needs accommodated will leave the park.</p>\n<br>\n<p>Pools at very low temperatures will <b>freeze</b> over, stopping your guests from being able to use them. Place <b>Pool Heaters</b> to keep your pools at a comfortable temperature, and stop them from freezing. </p>",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "tutorialscreen_title_adverseweather": {
+      "source": "Adverse Weather",
+      "translation": "Adverse Weather",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "tutorialscreen_title_coldneed": {
+      "source": "Warmth Need",
+      "translation": "Warmth Need",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "tutorialscreen_title_temperature": {
+      "source": "Temperature",
+      "translation": "Temperature",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "vi_flatride_scizzer": {
+      "source": "Viking Scizzer",
+      "translation": "Viking Scizzer",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "vi_flatride_scizzer_desc": {
+      "source": "Viking themed Scizzer ride",
+      "translation": "Viking themed Scizzer ride",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "vi_flatride_tinyeye": {
+      "source": "Viking Tiny Eye",
+      "translation": "Viking Tiny Eye",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "vi_flatride_tinyeye_desc": {
+      "source": "Viking themed Tiny Eye ride",
+      "translation": "Viking themed Tiny Eye ride",
+      "status": "translated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    }
+  }
+}

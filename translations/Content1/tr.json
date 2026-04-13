@@ -1,0 +1,1315 @@
+{
+  "meta": {
+    "language": "tr",
+    "source_language": "en",
+    "content_pack": "Content1",
+    "game_version": "extracted",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "buildingpartname_dlc1_firework_chrysanthemum": {
+      "source": "Firework Chrysanthemum",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_chrysanthemumlarge": {
+      "source": "Firework Chrysanthemum Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_comet": {
+      "source": "Firework Comet",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_cometmultilaunch": {
+      "source": "Firework Comet Multi Launch",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_crossette": {
+      "source": "Firework Crossette",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_crossettelarge": {
+      "source": "Firework Crossette Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_flyingfish": {
+      "source": "Firework Flying Fish",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_horsetail": {
+      "source": "Firework Horsetail",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_horsetaillarge": {
+      "source": "Firework Horsetail Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_palm": {
+      "source": "Firework Palm",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_palmlarge": {
+      "source": "Firework Palm Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_pearls": {
+      "source": "Firework Pearls",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_pearlslarge": {
+      "source": "Firework Pearls Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_pearlsmulti": {
+      "source": "Firework Pearls Multi",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_pearlsmultilarge": {
+      "source": "Firework Pearls Multi Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_peony": {
+      "source": "Firework Peony ",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_peonybursts": {
+      "source": "Firework Peony Bursts",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_peonyburstslarge": {
+      "source": "Firework Peony Bursts Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_peonyburstsmultilaunch": {
+      "source": "Firework Peony Bursts Multi Launch",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_peonylarge": {
+      "source": "Firework Peony Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_peonypistil": {
+      "source": "Firework Peony Pistil",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_peonysparkle": {
+      "source": "Firework Peony Sparkle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_peonysparklelarge": {
+      "source": "Firework Peony Sparkle Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_peonytriple": {
+      "source": "Firework Peony Triple",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_peonytriplelarge": {
+      "source": "Firework Peony Triple Large",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_ring": {
+      "source": "Firework Ring",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_ringpistilvariant": {
+      "source": "Firework Ring Pistil",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_romancandle": {
+      "source": "Firework Roman Candle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_romancandlemultishot": {
+      "source": "Firework Roman Candle Multi Shot",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapeskingcoastercrown": {
+      "source": "Firework Shapes - King Coaster Crown",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapeslettera": {
+      "source": "Firework Shapes - Letter A",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterb": {
+      "source": "Firework Shapes - Letter B",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterc": {
+      "source": "Firework Shapes - Letter C",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterd": {
+      "source": "Firework Shapes - Letter D",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapeslettere": {
+      "source": "Firework Shapes - Letter E",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterf": {
+      "source": "Firework Shapes - Letter F",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterg": {
+      "source": "Firework Shapes - Letter G",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterh": {
+      "source": "Firework Shapes - Letter H",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletteri": {
+      "source": "Firework Shapes - Letter I",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterj": {
+      "source": "Firework Shapes - Letter J",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterk": {
+      "source": "Firework Shapes - Letter K",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterl": {
+      "source": "Firework Shapes - Letter L",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterm": {
+      "source": "Firework Shapes - Letter M",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapeslettern": {
+      "source": "Firework Shapes - Letter N",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapeslettero": {
+      "source": "Firework Shapes - Letter O",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterp": {
+      "source": "Firework Shapes - Letter P",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterq": {
+      "source": "Firework Shapes - Letter Q",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterr": {
+      "source": "Firework Shapes - Letter R",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletters": {
+      "source": "Firework Shapes - Letter S",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapeslettert": {
+      "source": "Firework Shapes - Letter T",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletteru": {
+      "source": "Firework Shapes - Letter U",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterv": {
+      "source": "Firework Shapes - Letter V",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterw": {
+      "source": "Firework Shapes - Letter W",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterx": {
+      "source": "Firework Shapes - Letter X",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapeslettery": {
+      "source": "Firework Shapes - Letter Y",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesletterz": {
+      "source": "Firework Shapes - Letter Z",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesnumbers00": {
+      "source": "Firework Shapes - 0",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesnumbers01": {
+      "source": "Firework Shapes - 1",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesnumbers02": {
+      "source": "Firework Shapes - 2",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesnumbers03": {
+      "source": "Firework Shapes - 3",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesnumbers04": {
+      "source": "Firework Shapes - 4",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesnumbers05": {
+      "source": "Firework Shapes - 5",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesnumbers06": {
+      "source": "Firework Shapes - 6",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesnumbers07": {
+      "source": "Firework Shapes - 7",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesnumbers08": {
+      "source": "Firework Shapes - 8",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesnumbers09": {
+      "source": "Firework Shapes - 9",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesplanetcoaster2logo": {
+      "source": "Firework Shapes - Planet Coaster 2 Logo",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_dlc1_firework_shapesqueensplashcrown": {
+      "source": "Firework Shapes - Queen Splash Crown",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_bi_tube_connector": {
+      "source": "Coaster Bi-Tube Connector",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_pin_connector": {
+      "source": "Coaster Pin Connector",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_pin_connector_extender": {
+      "source": "Coaster Pin Connector Extender",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_pin_connector_flange": {
+      "source": "Coaster Pin Connector Flange",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_large_2m": {
+      "source": "Coaster Support 1 Large 2m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_large_4m": {
+      "source": "Coaster Support 1 Large 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_large_connector": {
+      "source": "Coaster Support 1 Large Connector",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_large_flange": {
+      "source": "Coaster Support 1 Large Flange",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_large_footer": {
+      "source": "Coaster Support 1 Large Footer",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_large_footer_extension": {
+      "source": "Coaster Support 1 Large Footer Extension",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_small_2m": {
+      "source": "Coaster Support 1 Small 2m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_small_4m": {
+      "source": "Coaster Support 1 Small 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_small_connector": {
+      "source": "Coaster Support 1 Small Connector",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_small_flange": {
+      "source": "Coaster Support 1 Small Flange",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_small_footer": {
+      "source": "Coaster Support 1 Small Footer",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_1_small_footer_extension": {
+      "source": "Coaster Support 1 Small Footer Extension",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_large_2m": {
+      "source": "Coaster Support 2 Large 2m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_large_4m": {
+      "source": "Coaster Support 2 Large 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_large_connector": {
+      "source": "Coaster Support 2 Large Connector",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_large_flange": {
+      "source": "Coaster Support 2 Large Flange",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_large_footer": {
+      "source": "Coaster Support 2 Large Footer",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_large_footer_extension": {
+      "source": "Coaster Support 2 Large Footer Extension",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_small_2m": {
+      "source": "Coaster Support 2 Small 2m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_small_4m": {
+      "source": "Coaster Support 2 Small 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_small_connector": {
+      "source": "Coaster Support 2 Small Connector",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_small_flange": {
+      "source": "Coaster Support 2 Small Flange",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_small_footer": {
+      "source": "Coaster Support 2 Small Footer",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_2_small_footer_extension": {
+      "source": "Coaster Support 2 Small Footer Extension",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_3_2m": {
+      "source": "Coaster Support 3 2m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_3_4m": {
+      "source": "Coaster Support 3 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_3_connector": {
+      "source": "Coaster Support 3 Connector",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_3_flange": {
+      "source": "Coaster Support 3 Flange",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_3_footer": {
+      "source": "Coaster Support 3 Footer",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_3_footer_extension": {
+      "source": "Coaster Support 3 Footer Extension",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_connector_1": {
+      "source": "Coaster Support 4 Connector 1",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_connector_2": {
+      "source": "Coaster Support 4 Connector 2",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_connector_3": {
+      "source": "Coaster Support 4 Connector 3",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_connector_4": {
+      "source": "Coaster Support 4 Connector 4",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_crossbeam": {
+      "source": "Coaster Support 4 Crossbeam",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_large_2m": {
+      "source": "Coaster Support 4 Large 2m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_large_4m": {
+      "source": "Coaster Support 4 Large 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_large_flange": {
+      "source": "Coaster Support 4 Large Flange",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_large_footer": {
+      "source": "Coaster Support 4 Large Footer",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_large_footer_extension": {
+      "source": "Coaster Support 4 Large Footer Extension",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_small_2m": {
+      "source": "Coaster Support 4 Small 2m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_small_4m": {
+      "source": "Coaster Support 4 Small 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_small_footer": {
+      "source": "Coaster Support 4 Small Footer",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_support_4_small_footer_extension": {
+      "source": "Coaster Support 4 Small Footer Extension",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_tri_tube_connector": {
+      "source": "Coaster Tri-Tube Connector",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_coaster_tri_tube_connector_filled": {
+      "source": "Coaster Tri-Tube Connector Filled",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_circle": {
+      "source": "Glass Pane - Circle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_frame_circle": {
+      "source": "Glass Pane - Framed Circle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_frame_hexagon": {
+      "source": "Glass Pane - Framed Hexagon",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_frame_octagon": {
+      "source": "Glass Pane - Framed Octagon",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_frame_rectangle": {
+      "source": "Glass Pane - Framed Rectangle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_frame_semicircle": {
+      "source": "Glass Pane - Framed Semicircle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_frame_square": {
+      "source": "Glass Pane - Framed Square",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_frame_thin": {
+      "source": "Glass Pane - Framed Thin",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_frame_triangle": {
+      "source": "Glass Pane - Framed Triangle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_frame_triangle_long": {
+      "source": "Glass Pane - Framed Long Triangle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_hexagon": {
+      "source": "Glass Pane - Hexagon",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_octagon": {
+      "source": "Glass Pane - Octagon",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_rectangle": {
+      "source": "Glass Pane - Rectangle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_semicircle": {
+      "source": "Glass Pane - Semicircle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_square": {
+      "source": "Glass Pane - Square",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_thin": {
+      "source": "Glass Pane - Thin",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_triangle": {
+      "source": "Glass Pane - Triangle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_glasspanel_triangle_long": {
+      "source": "Glass Pane - Long Triangle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_hoarding_primary_support_2m": {
+      "source": "Hoarding Primary Support 2m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_hoarding_primary_support_4m": {
+      "source": "Hoarding Primary Support 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_hoarding_primary_support_8m": {
+      "source": "Hoarding Primary Support 6m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_hoarding_secondary_support_2m": {
+      "source": "Hoarding Secondary Support 2m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_hoarding_secondary_support_4m": {
+      "source": "Hoarding Secondary Support 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_hoarding_secondary_support_8m": {
+      "source": "Hoarding Secondary Support 6m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_lattice_support_box_2m": {
+      "source": "Lattice Support Box 2m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_lattice_support_box_4m": {
+      "source": "Lattice Support Box 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_lattice_support_box_truss_4m": {
+      "source": "Lattice Support Box Truss 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_lattice_support_diagonal_pole_4m": {
+      "source": "Lattice Support Diagonal Pole 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_lattice_support_frame_2m": {
+      "source": "Lattice Support Frame 2m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_lattice_support_frame_4m": {
+      "source": "Lattice Support Frame 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_lattice_support_lift": {
+      "source": "Lattice Support Lift",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_lattice_support_pole_4m": {
+      "source": "Lattice Support Pole 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_lattice_support_poles_4m": {
+      "source": "Lattice Support Poles 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_lattice_support_truss_4m": {
+      "source": "Lattice Support Truss 4m",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_maintenance_ladder_bottom": {
+      "source": "Maintenance Ladder Bottom",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_maintenance_ladder_middle": {
+      "source": "Maintenance Ladder Middle",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "buildingpartname_fdlc1_maintenance_ladder_top": {
+      "source": "Maintenance Ladder Top",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "semantictag_firework1": {
+      "source": "Firework 1",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "semantictag_firework2": {
+      "source": "Firework 2",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "semantictag_firework3": {
+      "source": "Firework 3",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "semantictag_firework4": {
+      "source": "Firework 4",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementname_raftflumebehemothbowl": {
+      "source": "Big Bowl Right",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementname_raftflumebehemothbowlleft": {
+      "source": "Big Bowl Left",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementname_raftflumeultrawidepipe": {
+      "source": "Ultra Wide Pipe Right",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    },
+    "trackelementname_raftflumeultrawidepipeleft": {
+      "source": "Ultra Wide Pipe Left",
+      "translation": "",
+      "status": "untranslated",
+      "context": "",
+      "max_length": null,
+      "category": ""
+    }
+  }
+}
