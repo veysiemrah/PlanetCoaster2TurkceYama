@@ -18,6 +18,21 @@ PLACEHOLDER_PATTERNS = [
     re.compile(r"%[dsifx]"),
 ]
 
+# Çeviride kesinlikle kullanılmaması gereken terimler → [HATA]
+FORBIDDEN_TERMS: dict[str, str] = {
+    "çekici": "Eğlence Birimi veya Aktivite",
+    "misafir": "Ziyaretçi",
+    "lunapark treni": "Hız Treni",
+}
+
+# Yazılı Türkçede kullanılmaması gereken ağız/argo sözcükler → [UYARI]
+COLLOQUIAL_TERMS: list[str] = [
+    "valla",
+    "yahu",
+    "pes artık",
+    "yeter yahu",
+]
+
 
 @dataclass
 class ValidationError:
@@ -75,6 +90,36 @@ def check_placeholders(key: str, source: str, translation: str) -> list[str]:
             errors.append(f"{key}: çeviride fazla placeholder: {m}")
 
     return errors
+
+
+def check_forbidden_terms(key: str, translation: str) -> list[str]:
+    """Çeviride yasaklı terimlerin kullanılıp kullanılmadığını kontrol et.
+
+    Returns: Hata mesajı listesi (boş = temiz).
+    """
+    errors: list[str] = []
+    translation_lower = translation.lower()
+    for term, suggestion in FORBIDDEN_TERMS.items():
+        if term.lower() in translation_lower:
+            errors.append(
+                f"{key}: yasaklı terim '{term}' — kullan: '{suggestion}'"
+            )
+    return errors
+
+
+def check_colloquial_terms(key: str, translation: str) -> list[str]:
+    """Çeviride argo/ağız sözcüklerini tespit et.
+
+    Returns: Uyarı mesajı listesi (boş = temiz). Uyarı = hata değil.
+    """
+    warnings: list[str] = []
+    translation_lower = translation.lower()
+    for term in COLLOQUIAL_TERMS:
+        if term.lower() in translation_lower:
+            warnings.append(
+                f"{key}: argo/ağız sözcüğü '{term}' — yazılı Türkçede kullanılmaz"
+            )
+    return warnings
 
 
 def load_glossary(path: Path) -> dict[str, dict]:
@@ -166,6 +211,7 @@ def main() -> int:
         glossary = load_glossary(Path(args.glossary))
 
     all_errors: list[str] = []
+    all_warnings: list[str] = []
     for jf in json_files:
         schema_errors = validate_schema(jf)
         for e in schema_errors:
@@ -180,6 +226,12 @@ def main() -> int:
                     )
                     all_errors.extend(f"{jf}: {e}" for e in ph_errors)
 
+                    fb_errors = check_forbidden_terms(key, entry["translation"])
+                    all_errors.extend(f"[HATA]   {jf}: {e}" for e in fb_errors)
+
+                    cq_warnings = check_colloquial_terms(key, entry["translation"])
+                    all_warnings.extend(f"[UYARI]  {jf}: {w}" for w in cq_warnings)
+
         if glossary and not schema_errors:
             data = json.loads(jf.read_text(encoding="utf-8"))
             for key, entry in data.get("strings", {}).items():
@@ -189,13 +241,20 @@ def main() -> int:
                     )
                     all_errors.extend(f"{jf}: {w}" for w in g_warnings)
 
+    if all_warnings:
+        for w in all_warnings:
+            print(w)
+
     if all_errors:
         for err in all_errors:
             print(err, file=sys.stderr)
-        print(f"\n{len(all_errors)} sorun bulundu", file=sys.stderr)
+        print(f"\n{len(all_errors)} hata bulundu", file=sys.stderr)
         return 1
 
-    print(f"Tüm çeviriler geçerli ({len(json_files)} dosya kontrol edildi)")
+    msg = f"Tüm çeviriler geçerli ({len(json_files)} dosya kontrol edildi)"
+    if all_warnings:
+        msg += f" — {len(all_warnings)} uyarı (argo sözcük)"
+    print(msg)
     return 0
 
 
