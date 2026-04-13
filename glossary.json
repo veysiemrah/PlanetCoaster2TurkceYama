@@ -123,6 +123,205 @@
     "Slide": {
       "translation": "Kaydırak",
       "note": "Su parkı kaydırağı."
+    },
+    "Attraction": {
+      "translation": "Aktivite",
+      "note": "UI başlık ve kategori bağlamında 'Aktivite'; pazarlama/tanıtım metninde 'Heyecan'. 'Thrill' da 'Heyecan' olduğundan aynı metinde 'Aktivite' tercih edilir."
+    },
+    "Flat Ride": {
+      "translation": "Sabit Eğlence Birimi",
+      "note": "Dönme, sallanma, kule tipi mekanik platformlar."
+    },
+    "Dark Ride": {
+      "translation": "Kapalı Eğlence Birimi",
+      "note": "Kapalı ortamda anlatı temelli binişler."
+    },
+    "Water Ride": {
+      "translation": "Su Eğlence Birimi",
+      "note": "Su içeren binişler."
+    },
+    "Transport Ride": {
+      "translation": "Ulaşım Birimi",
+      "note": "Ziyaretçileri parkta farklı noktalara taşır."
+    },
+    "Go Kart": {
+      "translation": "Go-Kart",
+      "note": "Özel isim olarak korunur, Türkçeleştirilmez."
+    },
+    "Flying Theatre": {
+      "translation": "Uçuş Tiyatrosu",
+      "note": "Hava simülasyonlu sinema deneyimi."
+    },
+    "Spinning Ride": {
+      "translation": "Dönen Eğlence Birimi"
+    },
+    "Swinging Ride": {
+      "translation": "Salınan Eğlence Birimi"
+    },
+    "Tower Ride": {
+      "translation": "Kule Eğlence Birimi"
+    },
+    "Wooden Coaster": {
+      "translation": "Ahşap Hız Treni"
+    },
+    "Hybrid Coaster": {
+      "translation": "Hibrit Hız Treni"
+    },
+    "Finance": {
+      "translation": "Finans",
+      "note": "Park mali yönetimi bölümü."
+    },
+    "Loan": {
+      "translation": "Kredi",
+      "note": "Bankadan alınan borç."
+    },
+    "Marketing": {
+      "translation": "Pazarlama",
+      "note": "Reklam kampanyaları."
+    },
+    "Research": {
+      "translation": "Araştırma",
+      "note": "Tech Tree araştırma sistemi."
+    },
+    "Maintenance": {
+      "translation": "Bakım",
+      "note": "Personelin yaptığı rutin bakım."
+    },
+    "Refurbishment": {
+      "translation": "Yenileme",
+      "note": "Eğlence birimini sıfırlayan kapsamlı bakım."
+    },
+    "Running Costs": {
+      "translation": "İşletme Giderleri",
+      "note": "Aylık sabit giderler."
+    },
+    "Breakdown": {
+      "translation": "Arıza",
+      "note": "Eğlence biriminin beklenmedik arızası."
+    },
+    "Inspection": {
+      "translation": "Denetim"
+    },
+    "Infrastructure": {
+      "translation": "Altyapı",
+      "note": "Jeneratör, pompa, su sistemi gibi park alt yapısı."
+    },
+    "Aging": {
+      "translation": "Eskiyen",
+      "note": "Prestij düşüş aşaması."
+    },
+    "Classic": {
+      "translation": "Klasik",
+      "note": "Prestij bonus aşaması."
+    },
+    "Established": {
+      "translation": "Yerleşik",
+      "note": "Normal işletim aşaması."
+    },
+    "Resurging": {
+      "translation": "Canlanıyor",
+      "note": "Prestij yükseliş aşaması."
+    },
+    "Reputation": {
+      "translation": "İtibar",
+      "note": "Eğlence biriminin ziyaretçi çekme skoru."
+    },
+    "Condition": {
+      "translation": "Durum",
+      "note": "Eğlence biriminin fiziksel yıpranma durumu."
+    },
+    "Patrol Zone": {
+      "translation": "Devriye Bölgesi",
+      "note": "Personelin görev alanı."
+    },
+    "Training": {
+      "translation": "Eğitim",
+      "note": "Personel seviye geliştirme sistemi."
+    },
+    "Wage": {
+      "translation": "Maaş"
+    },
+    "Morale": {
+      "translation": "Moral",
+      "note": "Personel memnuniyet skoru."
+    },
+    "Ride Attendant": {
+      "translation": "Biniş Görevlisi",
+      "note": "Eğlence birimi operatörü."
+    },
+    "Workload": {
+      "translation": "İş Yükü"
+    },
+    "Happiness": {
+      "translation": "Mutluluk",
+      "note": "Ziyaretçinin genel memnuniyet skoru."
+    },
+    "Hunger": {
+      "translation": "Açlık"
+    },
+    "Thirst": {
+      "translation": "Susuzluk"
+    },
+    "Energy": {
+      "translation": "Enerji",
+      "note": "Yorgunluğun tersi."
+    },
+    "Toilet Need": {
+      "translation": "Tuvalet İhtiyacı"
+    },
+    "Mood": {
+      "translation": "Ruh Hali",
+      "note": "Ziyaretçinin anlık duygusal durumu."
+    },
+    "Thought": {
+      "translation": "Düşünce",
+      "note": "guest_thought kategorisi — ziyaretçinin içinden geçen düşünceler."
+    },
+    "Nausea Tolerance": {
+      "translation": "Bulantı Toleransı"
+    },
+    "Queue Tolerance": {
+      "translation": "Sıra Bekleme Sabrı"
+    },
+    "Fear Tolerance": {
+      "translation": "Korku Toleransı"
+    },
+    "Price Tolerance": {
+      "translation": "Fiyat Toleransı"
+    },
+    "Scenario": {
+      "translation": "Senaryo",
+      "note": "Belirli hedefleri olan oyun modu."
+    },
+    "Planet Points": {
+      "translation": "Planet Points",
+      "note": "Oyun adından gelir, çevrilmez."
+    },
+    "Tech Tree": {
+      "translation": "Araştırma Ağacı"
+    },
+    "Heatmap": {
+      "translation": "Isı Haritası",
+      "note": "Sorunları renklerle görselleştiren araç."
+    },
+    "Season Track": {
+      "translation": "Sezon Takibi"
+    },
+    "Trigger Sequence": {
+      "translation": "Olay Zinciri",
+      "note": "Event tetikleme ve sıralama sistemi."
+    },
+    "Footprint": {
+      "translation": "Zemin Alanı",
+      "note": "Yapının kapladığı yer boyutları."
+    },
+    "Station": {
+      "translation": "İstasyon",
+      "note": "Eğlence biriminin biniş-iniş noktası."
+    },
+    "Track Element": {
+      "translation": "Ray Elementi",
+      "note": "Ray sistemi bağlantı parçaları."
     }
   }
 }
