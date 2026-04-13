@@ -9,91 +9,91 @@
   "strings": {
     "flying_theatre_test.webm": {
       "source": "FLYING_THEATRE_TEST",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "FLYING_THEATRE_TEST",
+      "status": "translated",
+      "context": "Test amaçlı placeholder string, oyuncuya gösterilmez. Olduğu gibi bırakıldı.",
       "max_length": null,
-      "category": ""
+      "category": "internal"
     },
     "flyingtheatre_video_forest.webm": {
       "source": "Cinematic Experience - Winding Down Woodland",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sinematik Deneyim - Ormanın Sükûneti",
+      "status": "translated",
+      "context": "Flying Theatre atraksiyonu için rahatlatıcı bir orman videosu.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "flyingtheatre_video_highlands.webm": {
       "source": "Cinematic Experience - High Above Highlands",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sinematik Deneyim - Yaylaların Tepesinde",
+      "status": "translated",
+      "context": "Flying Theatre atraksiyonu için yüksek yayla manzaralı video.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "flyingtheatre_video_ruins.webm": {
       "source": "Cinematic Experience - Rising Over Ruins",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sinematik Deneyim - Harabelerin Üzerinde",
+      "status": "translated",
+      "context": "Flying Theatre atraksiyonu için harabeler üzerinde uçuş videosu.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "flyingtheatre_video_space.webm": {
       "source": "Cinematic Experience - Cascading Cosmos",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sinematik Deneyim - Akan Kozmos",
+      "status": "translated",
+      "context": "Flying Theatre atraksiyonu için uzay temalı video.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "guest_thought_fluff_enteredqueueforfavouriteride_common_01": {
       "source": "I'm queueing for my favourite ride! I can't wait!",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Vay be, favorime bineceğim! İçim içime sığmıyor!",
+      "status": "translated",
+      "context": "Ziyaretçinin favori ride'ın sırasına girdiğinde içinden geçirdiği düşünce.",
       "max_length": null,
-      "category": ""
+      "category": "guest_thought"
     },
     "guest_thought_fluff_enteredqueueforride_highscore_common_01": {
       "source": "The ride I'm queuing for looks really fun.",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sıradayım ama bayağı eğlenceli görünüyor, beklemeye değer.",
+      "status": "translated",
+      "context": "Yüksek puanlı bir ride sırasında ziyaretçinin düşüncesi.",
       "max_length": null,
-      "category": ""
+      "category": "guest_thought"
     },
     "guest_thought_fluff_inqueue_extremewait_common_01": {
       "source": "The queuing time for {reference} is ridiculous! Never again.",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Yapma yahu, {reference} için bu kadar mı beklenir? Bir daha asla!",
+      "status": "translated",
+      "context": "Çok uzun sıra beklerken ziyaretçinin söylendiği düşünce. {reference} = ride adı.",
       "max_length": null,
-      "category": ""
+      "category": "guest_thought"
     },
     "guest_thought_fluff_inqueue_longwait_common_01": {
-      "source": "I've been queueing for {reference} for a while now… Not great.",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "source": "I've been queueing for {reference} for a while now… Not great.",
+      "translation": "Epeydir {reference} sırasında bekleyip duruyorum yahu… Hiç iç açıcı değil.",
+      "status": "translated",
+      "context": "Uzun bekleme sırasında ziyaretçinin düşüncesi. {reference} = ride adı.",
       "max_length": null,
-      "category": ""
+      "category": "guest_thought"
     },
     "guest_thought_fluff_kickedoutofqueue_common_01": {
       "source": "I got kicked out of a ride's queue! Better find something else to do.",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sıradan attılar beni yahu! Başka bir şeylere bakayım bari.",
+      "status": "translated",
+      "context": "Sıradan çıkarıldığında ziyaretçinin düşüncesi.",
       "max_length": null,
-      "category": ""
+      "category": "guest_thought"
     },
     "guest_thought_parkexit_unhappy_poolpassrefund_common_01": {
       "source": "I've had my pool pass refunded, what a terrible experience!",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Havuz paramı geri aldım valla, resmen rezalet bir gündü!",
+      "status": "translated",
+      "context": "Kötü bir havuz deneyimi sonrası parktan çıkarken ziyaretçinin düşüncesi.",
       "max_length": null,
-      "category": ""
+      "category": "guest_thought"
     }
   }
 }
