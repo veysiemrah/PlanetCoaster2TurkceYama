@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "language": "tr",
+    "source_language": "en",
+    "content_pack": "Content0",
+    "game_version": "1.0.0",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "UI_Test_Key": {
+      "translation": "Merhaba",
+      "status": "translated"
+    }
+  }
+}

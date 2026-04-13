@@ -1,0 +1,12 @@
+{
+  "terms": {
+    "Coaster": {
+      "translation": "Hız Treni",
+      "note": "Test"
+    },
+    "Guest": {
+      "translation": "Ziyaretçi",
+      "note": "Test"
+    }
+  }
+}

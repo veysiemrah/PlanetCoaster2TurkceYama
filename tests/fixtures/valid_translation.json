@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "language": "tr",
+    "source_language": "en",
+    "content_pack": "Content0",
+    "game_version": "1.0.0",
+    "last_updated": "2026-04-13"
+  },
+  "strings": {
+    "UI_Test_Key": {
+      "source": "Hello",
+      "translation": "Merhaba",
+      "status": "translated",
+      "context": "Test",
+      "max_length": null,
+      "category": "ui_labels"
+    }
+  }
+}
