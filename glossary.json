@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "version": "0.1.0",
+    "last_updated": "2026-04-13",
+    "description": "Planet Coaster 2 Türkçe Yama Terimler Sözlüğü"
+  },
+  "terms": {
+    "Coaster": {
+      "translation": "Hız Treni",
+      "note": "'Roller coaster' kısaltması. 'Lunapark treni' kullanılmaz."
+    },
+    "Roller Coaster": {
+      "translation": "Hız Treni",
+      "note": "'Coaster' ile aynı çeviri."
+    },
+    "Guest": {
+      "translation": "Ziyaretçi",
+      "note": "Tema parkı bağlamı. 'Misafir' değil."
+    },
+    "Ride": {
+      "translation": "Eğlence Birimi",
+      "note": "Genel bir eğlence tesisi. Fiil olarak 'binmek' kullanılabilir."
+    },
+    "Scenery": {
+      "translation": "Dekorasyon",
+      "note": "Park süsleme öğeleri."
+    },
+    "Park": {
+      "translation": "Park",
+      "note": "Aynen korunur. 'Tema parkı' gerektiğinde açıklamada kullanılır."
+    },
+    "Staff": {
+      "translation": "Personel",
+      "note": "Çalışan kadrosu."
+    },
+    "Mechanic": {
+      "translation": "Tamirci",
+      "note": "Park çalışanı rolü."
+    },
+    "Janitor": {
+      "translation": "Temizlikçi",
+      "note": "Park çalışanı rolü."
+    },
+    "Entertainer": {
+      "translation": "Animatör",
+      "note": "Park çalışanı rolü. 'Eğlendirici' değil."
+    },
+    "Security": {
+      "translation": "Güvenlik",
+      "note": "Park çalışanı rolü."
+    },
+    "Lifeguard": {
+      "translation": "Cankurtaran",
+      "note": "Su parkı çalışanı."
+    },
+    "Queue": {
+      "translation": "Sıra",
+      "note": "Ride kuyruğu."
+    },
+    "Path": {
+      "translation": "Yol",
+      "note": "Park içi patika."
+    },
+    "Thrill": {
+      "translation": "Heyecan",
+      "note": "Ride istatistiği."
+    },
+    "Excitement": {
+      "translation": "Eğlence",
+      "note": "Ride istatistiği."
+    },
+    "Nausea": {
+      "translation": "Mide Bulantısı",
+      "note": "Ride istatistiği."
+    },
+    "Fear": {
+      "translation": "Korku",
+      "note": "Ride istatistiği."
+    },
+    "Reliability": {
+      "translation": "Güvenilirlik",
+      "note": "Ride istatistiği."
+    },
+    "Prestige": {
+      "translation": "Prestij",
+      "note": "Park istatistiği."
+    },
+    "Shop": {
+      "translation": "Dükkan",
+      "note": "Satış noktası."
+    },
+    "Restaurant": {
+      "translation": "Restoran"
+    },
+    "Facility": {
+      "translation": "Tesis",
+      "note": "Tuvalet, bilgi merkezi vb. yardımcı tesisler."
+    },
+    "Blueprint": {
+      "translation": "Şablon",
+      "note": "Kaydedilmiş tasarım."
+    },
+    "Sandbox": {
+      "translation": "Serbest Mod",
+      "note": "Oyun modu."
+    },
+    "Career": {
+      "translation": "Kariyer",
+      "note": "Oyun modu."
+    },
+    "Franchise": {
+      "translation": "Franchise",
+      "note": "Oyun modu, aynen korunur."
+    },
+    "Track": {
+      "translation": "Ray",
+      "note": "Coaster ray sistemi."
+    },
+    "Pool": {
+      "translation": "Havuz",
+      "note": "Su parkı havuzu."
+    },
+    "Slide": {
+      "translation": "Kaydırak",
+      "note": "Su parkı kaydırağı."
+    }
+  }
+}
