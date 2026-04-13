@@ -47,3 +47,42 @@ Başlıklar için her kelimenin baş harfi büyük (Türkçe başlık kuralı).
 
 ## Türkçe Karakter
 Her zaman tam Türkçe karakter kullanın: `ç ğ ı ö ş ü`. `c g i o s u` gibi ASCII karakter kullanmayın.
+
+## Guest Thoughts ve Diyalog Tonu
+
+Ziyaretçi düşünceleri ve diyaloglar birinci tekil şahısla, spontane ve samimi yazılır.
+Yazılı Türkçe normlarına uyar — ağız/sokak argosundan uzak.
+
+**Kullanılabilir:**
+- Doğal ünlemler: "Vay be!", "Müthiş!", "Harika!", "İnanılmaz!", "Berbat!"
+- Duygu ifadeleri: "Sabırsızlanıyorum", "Dayanamıyorum", "Mükemmeldi"
+
+**Kullanılmaz:**
+- Ağız sözcükleri: "valla", "yahu", "be" (cümle başı/sonu), "ya" (cümle sonu)
+- Kaba argo: "pes artık", "yeter yahu"
+
+**Örnekler:**
+- ✅ "En sevdiğim eğlence birimine bineceğim, sabırsızlanıyorum!"
+- ✅ "Bu kadar kuyruğa değmez, bir daha gelmem!"
+- ❌ "Valla favorime bineceğim, dayanamıyorum yahu!"
+
+## Yapılmaması Gerekenler
+
+| Hata | Yanlış | Doğru |
+|------|--------|-------|
+| Birebir çeviri | "up, up and away" → "yukarı, yukarı ve uzaklara" | "göklere fırlatır" |
+| Yanlış terim | "ride" → "çekici" | "Eğlence Birimi" |
+| Aşırı resmi | "deneyiminizi başlatın" | "hadi başlayalım" |
+| Aşırı argo | "valla harika bir gün" | "Harika bir gün!" |
+| İngilizce yapı | "Bu çekici {StartTime} içinde Klasik olacak" | "Bu eğlence birimi {StartTime} sonra Klasik aşamasına geçer" |
+
+## İçerik Tiplerine Göre Ton Rehberi
+
+| İçerik tipi | Ton | Örnek |
+|-------------|-----|-------|
+| UI buton/etiket | Kısa, net, emir kipi | "Kaydet", "Oyna" |
+| Tooltip | 1-2 cümle, samimi, 2. tekil | "Bakım maliyetini gösterir" |
+| Ride açıklaması | Akıcı, heyecan verici pazarlama dili | "Nefes kesen bir macera seni bekliyor!" |
+| Guest thought | Doğal yazılı konuşma, birinci tekil | "Muhteşemdi, bir daha bineceğim!" |
+| Tutorial | Öğretici, sıcak, adım adım | "Şimdi bir eğlence birimi yerleştir." |
+| Kariyer diyalogu | Doğal, karaktere özgü | Karakterin kişiliğine uygun |
