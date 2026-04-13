@@ -17,7 +17,7 @@
     },
     "blueprint_coaster_big_ms_rides_ultra-spin_coaster_01_desc": {
       "source": "Send your guests tumbling up, up and away with this layout.",
-      "translation": "Ziyaretçilerini bu tasarımla yukarı, yukarı ve uzaklara savur!",
+      "translation": "Ziyaretçilerini göklere savuracak bir tasarım.",
       "status": "translated",
       "context": "Rampant şablonunun açıklaması.",
       "max_length": null,
@@ -33,7 +33,7 @@
     },
     "blueprint_coaster_vector_lim_launch_family_coaster_01_desc": {
       "source": "This layout launches guests through swooping turns to provide an energizing experience!",
-      "translation": "Bu tasarım, ziyaretçilerini dalgalı dönüşlerle fırlatarak enerjik bir deneyim sunar!",
+      "translation": "Süzülen dönüşlerle adeta enerji patlaması yaşatan bir tasarım!",
       "status": "translated",
       "context": "Volt şablonunun açıklaması.",
       "max_length": null,
@@ -49,7 +49,7 @@
     },
     "coaster_cc_familylaunchcoaster_desc": {
       "source": "This coaster launches guests of all ages into a whirlwind adventure!",
-      "translation": "Bu hız treni, her yaştan ziyaretçiyi kasırga gibi bir maceraya fırlatır!",
+      "translation": "Yediden yetmişe herkesi nefes kesen bir maceraya sürükler!",
       "status": "translated",
       "context": "LIM Fırlatmalı Aile Hız Treni açıklaması.",
       "max_length": null,
@@ -65,7 +65,7 @@
     },
     "coaster_cc_limlaunchfamily_desc": {
       "source": "This coaster launches guests of all ages into a whirlwind adventure!",
-      "translation": "Bu hız treni, her yaştan ziyaretçiyi kasırga gibi bir maceraya fırlatır!",
+      "translation": "Yediden yetmişe herkesi nefes kesen bir maceraya sürükler!",
       "status": "translated",
       "context": "LIM Fırlatmalı Aile Hız Treni açıklaması.",
       "max_length": null,
@@ -81,7 +81,7 @@
     },
     "coaster_cc_superspin_desc": {
       "source": "This coaster can rotate its cars faster and faster, until the world becomes a thrilling, spinning blur!",
-      "translation": "Bu hız treni, arabalarını gittikçe daha hızlı döndürür; ta ki dünya heyecan verici, dönen bir bulanıklığa dönüşene kadar!",
+      "translation": "Arabalar giderek hızlanır; derken tüm dünya baş döndüren bir girdaba dönüşür!",
       "status": "translated",
       "context": "Ultra-Dönüşlü Hız Treni açıklaması.",
       "max_length": null,
@@ -145,7 +145,7 @@
     },
     "fr_540_desc": {
       "source": "Stand tall and ride these gondolas in a dizzying dance.",
-      "translation": "Dik dur ve bu gondollarda baş döndürücü bir dansa eşlik et.",
+      "translation": "Dik duran gondollarda baş döndürücü bir dansa hazır ol.",
       "status": "translated",
       "context": "540 ride'ın açıklaması.",
       "max_length": null,
@@ -169,7 +169,7 @@
     },
     "fr_strike_desc": {
       "source": "Swirl round and round on this mesmerising contraption!",
-      "translation": "Bu büyüleyici düzenekte dönüp durarak savrul!",
+      "translation": "Göz alıcı bir düzenekte fır dönmeye hazır ol!",
       "status": "translated",
       "context": "Strike ride'ının açıklaması.",
       "max_length": null,
@@ -193,7 +193,7 @@
     },
     "fr_whirlpool_desc": {
       "source": "Get swept into a wild vortex with this whirling ride!",
-      "translation": "Bu fırıl fırıl dönen eğlence biriminde vahşi bir girdaba kapıl!",
+      "translation": "Fır fır dönen bu eğlenceyle kendini çılgın bir girdabın ortasında bul!",
       "status": "translated",
       "context": "Girdap ride'ının açıklaması.",
       "max_length": null,
