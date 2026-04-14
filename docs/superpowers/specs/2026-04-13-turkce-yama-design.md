@@ -236,32 +236,22 @@ PR'larda ve build sırasında çalışan kontroller:
 
 ## 7. Dil Değiştirme Stratejisi
 
-Oyunda Türkçe dil seçeneği olmadığından, **Çekçe (Czech)** dili Türkçe ile değiştirilir.
+Oyunda Türkçe dil seçeneği olmadığından **İngilizce (US ve UK)** dil dosyaları doğrudan değiştirilir.
 
-### Neden Çekçe?
-- Türkçe karakterlerle benzer Unicode aralığında (Latin Extended)
-- Türkiye'deki oyuncu kitlesinin en az etkileneceği dil
-- Kurulum: Oyun ayarlarından dili "Čeština" olarak değiştir -> Türkçe görünür
+### Neden English (US/UK)?
+- Mod klasörü yaklaşımı (Manifest.xml) Xbox Game Pass sürümünde kararlılık sorunu yarattığından bu yöntem benimsenmiştir.
+- İngilizce dil dosyalarını değiştirmek en geniş kullanıcı kitlesine hitap eder.
+- Kurulum: Oyun ayarlarından dil **"English (United States)"** olarak seçilir → Türkçe görünür.
 
-### Mod Yapısı
-```xml
-<!-- Manifest.xml -->
-<ContentPack name="TurkceYama" version="1.0.0">
-  <Description>Planet Coaster 2 Türkçe Çeviri Yaması</Description>
-</ContentPack>
-```
+### Deploy Yöntemi
+Build sonrası şu iki dosya oyun dizininde yerine kopyalanır:
 
 ```
-output/TurkceYama/
-├── Manifest.xml
-└── Main/
-    └── Localised/
-        └── Czech/
-            └── CzechRepublic/
-                └── Loc.ovl
+Content0/Localised/English/UnitedStates/Loc.ovl
+Content0/Localised/English/UnitedKingdom/Loc.ovl
 ```
 
-Bu yapı orijinal oyun dosyalarına dokunmadan, mod olarak override yapar.
+Orijinal dosyalar `.bak` uzantısıyla yedeklenir. Oyun güncellemesinin ardından build + kopyalama tekrarlanır.
 
 ---
 
@@ -274,14 +264,14 @@ Bu yapı orijinal oyun dosyalarına dokunmadan, mod olarak override yapar.
 
 ### 8.2 Kurulum Scripti (`install.bat`)
 1. Oyun dizinini otomatik bul (XboxGames, Steam, vb.)
-2. Mevcut Çekçe dosyaların yedeğini al
-3. Mod dosyalarını `Win64/ovldata/` altına kopyala
+2. Mevcut İngilizce Loc.ovl dosyalarının `.bak` yedeğini al
+3. Türkçe Loc.ovl dosyalarını `Content0/Localised/English/UnitedStates/` ve `UnitedKingdom/` altına kopyala
 4. Başarılı kurulum mesajı göster
 
 ### 8.3 Manuel Kurulum
 1. Release'den zip indir
-2. `TurkceYama/` klasörünü `Win64/ovldata/` altına kopyala
-3. Oyunda dili "Čeština" olarak değiştir
+2. `Loc.ovl` dosyalarını ilgili dizinlere kopyala
+3. Oyunda dili **"English (United States)"** olarak değiştir
 
 ---
 
