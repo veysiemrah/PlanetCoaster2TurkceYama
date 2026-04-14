@@ -1,0 +1,648 @@
+{
+  "items": [
+    {
+      "key": "challenges_buildcoaster_label",
+      "translation": "Hız Treni Görevi"
+    },
+    {
+      "key": "challenges_complete",
+      "translation": "{ChallengeType} Tamamlandı!"
+    },
+    {
+      "key": "challenges_delete",
+      "translation": "Bu Görevi Sil"
+    },
+    {
+      "key": "challenges_empty",
+      "translation": "Etkin görev yok"
+    },
+    {
+      "key": "challenges_storybuildcoaster_averagespeed",
+      "translation": "Hız Treni Ortalama Hız:"
+    },
+    {
+      "key": "challenges_storybuildcoaster_cycletime",
+      "translation": "Hız Treni Tur Süresi:"
+    },
+    {
+      "key": "challenges_storybuildcoaster_excitement",
+      "translation": "Hız Treni Eğlencesi:"
+    },
+    {
+      "key": "challenges_storybuildcoaster_length",
+      "translation": "Hız Treni Uzunluğu:"
+    },
+    {
+      "key": "challenges_storybuildcoaster_maxdrop",
+      "translation": "Hız Treni Düşüşü:"
+    },
+    {
+      "key": "challenges_storybuildcoaster_maxspeed",
+      "translation": "Hız Treni Hızı:"
+    },
+    {
+      "key": "challenges_storybuildcoaster_numairtime",
+      "translation": "Hız Treni Havada Kalma Anları:"
+    },
+    {
+      "key": "challenges_storybuildcoaster_numinversions",
+      "translation": "Hız Treni Takla Sayısı:"
+    },
+    {
+      "key": "challenges_storybuildcoaster_totalairtime",
+      "translation": "Hız Treni Toplam Havada Kalma (sn):"
+    },
+    {
+      "key": "challenges_storycashprofitall",
+      "translation": "Aylık Kâr:"
+    },
+    {
+      "key": "challenges_storycashprofitcoasters",
+      "translation": "Aylık Hız Treni Kârı:"
+    },
+    {
+      "key": "challenges_storycashprofitrides",
+      "translation": "Aylık Eğlence Birimi Kârı:"
+    },
+    {
+      "key": "challenges_storycashprofitshopsfacilities",
+      "translation": "Aylık Dükkan / Tesis Kârı:"
+    },
+    {
+      "key": "challenges_storycatchpickpockets",
+      "translation": "Yakalanan Yankesici:"
+    },
+    {
+      "key": "challenges_storyfireworksdisplay",
+      "translation": "Havai Fişekleri İzleyen Ziyaretçiler:"
+    },
+    {
+      "key": "challenges_storyguesthappiness",
+      "translation": "Ortalama Ziyaretçi Mutluluğu:"
+    },
+    {
+      "key": "challenges_storyguesthappiness_needguests",
+      "translation": "Gereken Ziyaretçi Sayısı:"
+    },
+    {
+      "key": "challenges_storykeeptheftvictimslow",
+      "translation": "Hırsızlık Mağduru:"
+    },
+    {
+      "key": "challenges_storymonthcountdown",
+      "translation": "Kalan Ay:"
+    },
+    {
+      "key": "challenges_storymonthspassed",
+      "translation": "Hedefin Tutturulduğu Aylar:"
+    },
+    {
+      "key": "challenges_storymonthtimer",
+      "translation": "Ay İlerlemesi:"
+    },
+    {
+      "key": "challenges_storynostaffleavecurrent",
+      "translation": "İşe Alınan {StaffTypes}:"
+    },
+    {
+      "key": "challenges_storynostaffleaveprogress",
+      "translation": "Ay İlerlemesi:"
+    },
+    {
+      "key": "challenges_storyparkratingall",
+      "translation": "Park Puanı:"
+    },
+    {
+      "key": "challenges_storyparkratingbalance",
+      "translation": "Park Denge Bonusu:"
+    },
+    {
+      "key": "challenges_storyparkratingrides",
+      "translation": "Eğlence Birimi Puanı:"
+    },
+    {
+      "key": "challenges_storyparkratingscenery",
+      "translation": "Dekorasyon Puanı:"
+    },
+    {
+      "key": "challenges_storypercentage",
+      "translation": "{Value:float:decimalPlaces=0}%/{Target:float:decimalPlaces=0}%"
+    },
+    {
+      "key": "challenges_storyridequeuescenerycurrent",
+      "translation": "Mevcut Ortalama:"
+    },
+    {
+      "key": "challenges_storyridequeuesceneryridecount",
+      "translation": "Açık Eğlence Birimi ve İstasyonları:"
+    },
+    {
+      "key": "challenges_storystaffhappiness",
+      "translation": "Personel Mutluluğu:"
+    },
+    {
+      "key": "challenges_storyvalueandtarget",
+      "translation": "{Value:float:decimalPlaces=0} / {Target:float:decimalPlaces=0}"
+    },
+    {
+      "key": "challenges_storyvalueandtarget2dp",
+      "translation": "{Value:float:decimalPlaces=0} / {Target:float:decimalPlaces=0}"
+    },
+    {
+      "key": "challenges_storyvalueandtargetcurr",
+      "translation": "{Value:currency}/{Target:currency}"
+    },
+    {
+      "key": "challenges_storyvalueandtargetformatted",
+      "translation": "{Value} / {Target}"
+    },
+    {
+      "key": "challenges_storyvalueandtargetint",
+      "translation": "{Value:int} / {Target:int}"
+    },
+    {
+      "key": "challenges_storyvalueandtargetmonths",
+      "translation": "{Value:float:decimalPlaces=0} / {Target:float:decimalPlaces=0} ay"
+    },
+    {
+      "key": "hint_browserrotate",
+      "translation": "Tarayıcı Seç / Nesneyi Döndür"
+    },
+    {
+      "key": "hint_cameraholdmove",
+      "translation": "(Basılı tut) Hareket"
+    },
+    {
+      "key": "hint_cameraholdrotate",
+      "translation": "(Basılı tut) Döndür"
+    },
+    {
+      "key": "hint_cameramove",
+      "translation": "Hareket"
+    },
+    {
+      "key": "hint_camerarotate",
+      "translation": "Döndür"
+    },
+    {
+      "key": "hint_camerascrollzoom",
+      "translation": "(Kaydır) Yakınlaştır"
+    },
+    {
+      "key": "hint_camerazoom",
+      "translation": "Yakınlaştır"
+    },
+    {
+      "key": "hint_cancel",
+      "translation": "Geri"
+    },
+    {
+      "key": "hint_changespeed",
+      "translation": "Hızı Değiştir"
+    },
+    {
+      "key": "hint_confirm",
+      "translation": "Seçimi Onayla"
+    },
+    {
+      "key": "hint_empty",
+      "translation": ""
+    },
+    {
+      "key": "hint_hold",
+      "translation": "(Basılı tut)"
+    },
+    {
+      "key": "hint_holdplus",
+      "translation": "(Basılı tut) +"
+    },
+    {
+      "key": "hint_holdslopestairs",
+      "translation": "(Basılı tut) Rampa/Merdiven İnşa Et"
+    },
+    {
+      "key": "hint_lookaround",
+      "translation": "Etrafa Bak"
+    },
+    {
+      "key": "hint_managementoptions",
+      "translation": "Yönetim Seçeneklerini Seç"
+    },
+    {
+      "key": "hint_multiselect",
+      "translation": "(Basılı tut) Çoklu Seçimi Aç"
+    },
+    {
+      "key": "hint_multiselectadd",
+      "translation": "Çoklu Seçim"
+    },
+    {
+      "key": "hint_navmenu",
+      "translation": "Menüde Gezin"
+    },
+    {
+      "key": "hint_or",
+      "translation": "veya"
+    },
+    {
+      "key": "hint_parkmanagement",
+      "translation": "Park Yönetimini Aç"
+    },
+    {
+      "key": "hint_pause",
+      "translation": "Duraklat"
+    },
+    {
+      "key": "hint_pickup",
+      "translation": "Personeli Kaldır"
+    },
+    {
+      "key": "hint_place",
+      "translation": "Yerleştir"
+    },
+    {
+      "key": "hint_plus",
+      "translation": "+"
+    },
+    {
+      "key": "hint_radial",
+      "translation": "Radyal Menü"
+    },
+    {
+      "key": "hint_raiselower",
+      "translation": "Nesneyi Yükselt / Alçalt"
+    },
+    {
+      "key": "hint_redo",
+      "translation": "Yinele"
+    },
+    {
+      "key": "hint_remove",
+      "translation": "Seçimi Sil"
+    },
+    {
+      "key": "hint_removetap",
+      "translation": "(dokun) Seçimi Sil"
+    },
+    {
+      "key": "hint_ridecamera",
+      "translation": "Biniş Kamerasını Aç"
+    },
+    {
+      "key": "hint_rotate",
+      "translation": "Nesneyi Döndür"
+    },
+    {
+      "key": "hint_select",
+      "translation": "Seç"
+    },
+    {
+      "key": "hint_selectbrowser",
+      "translation": "Tarayıcı Seç"
+    },
+    {
+      "key": "hint_selectguest",
+      "translation": "Ziyaretçi Seç"
+    },
+    {
+      "key": "hint_selectpathbrowser",
+      "translation": "Yol Tarayıcısını Seç"
+    },
+    {
+      "key": "hint_selectride",
+      "translation": "Eğlence Birimi Seç"
+    },
+    {
+      "key": "hint_selectstaffroom",
+      "translation": "Personel Binası Seç"
+    },
+    {
+      "key": "hint_slopestairs",
+      "translation": "Rampa/Merdiven İnşa Et"
+    },
+    {
+      "key": "hint_switchtabs",
+      "translation": "Sekmeler Arası Geç"
+    },
+    {
+      "key": "hint_undo",
+      "translation": "Geri Al"
+    },
+    {
+      "key": "newslettercountry_at",
+      "translation": "Avusturya"
+    },
+    {
+      "key": "newslettercountry_au",
+      "translation": "Avustralya"
+    },
+    {
+      "key": "newslettercountry_be",
+      "translation": "Belçika"
+    },
+    {
+      "key": "newslettercountry_bg",
+      "translation": "Bulgaristan"
+    },
+    {
+      "key": "newslettercountry_br",
+      "translation": "Brezilya"
+    },
+    {
+      "key": "newslettercountry_ca",
+      "translation": "Kanada"
+    },
+    {
+      "key": "newslettercountry_ch",
+      "translation": "İsviçre"
+    },
+    {
+      "key": "newslettercountry_cn",
+      "translation": "Çin"
+    },
+    {
+      "key": "newslettercountry_cz",
+      "translation": "Çek Cumhuriyeti"
+    },
+    {
+      "key": "newslettercountry_de",
+      "translation": "Almanya"
+    },
+    {
+      "key": "newslettercountry_es",
+      "translation": "İspanya"
+    },
+    {
+      "key": "newslettercountry_fi",
+      "translation": "Finlandiya"
+    },
+    {
+      "key": "newslettercountry_fr",
+      "translation": "Fransa"
+    },
+    {
+      "key": "newslettercountry_gb",
+      "translation": "Birleşik Krallık"
+    },
+    {
+      "key": "newslettercountry_gr",
+      "translation": "Yunanistan"
+    },
+    {
+      "key": "newslettercountry_hk",
+      "translation": "Hong Kong"
+    },
+    {
+      "key": "newslettercountry_hu",
+      "translation": "Macaristan"
+    },
+    {
+      "key": "newslettercountry_id",
+      "translation": "Endonezya"
+    },
+    {
+      "key": "newslettercountry_ie",
+      "translation": "İrlanda"
+    },
+    {
+      "key": "newslettercountry_il",
+      "translation": "İsrail"
+    },
+    {
+      "key": "newslettercountry_in",
+      "translation": "Hindistan"
+    },
+    {
+      "key": "newslettercountry_it",
+      "translation": "İtalya"
+    },
+    {
+      "key": "newslettercountry_jp",
+      "translation": "Japonya"
+    },
+    {
+      "key": "newslettercountry_kr",
+      "translation": "Güney Kore"
+    },
+    {
+      "key": "newslettercountry_mx",
+      "translation": "Meksika"
+    },
+    {
+      "key": "newslettercountry_my",
+      "translation": "Malezya"
+    },
+    {
+      "key": "newslettercountry_nl",
+      "translation": "Hollanda"
+    },
+    {
+      "key": "newslettercountry_no",
+      "translation": "Norveç"
+    },
+    {
+      "key": "newslettercountry_nz",
+      "translation": "Yeni Zelanda"
+    },
+    {
+      "key": "newslettercountry_other",
+      "translation": "Diğer"
+    },
+    {
+      "key": "newslettercountry_ph",
+      "translation": "Filipinler"
+    },
+    {
+      "key": "newslettercountry_pl",
+      "translation": "Polonya"
+    },
+    {
+      "key": "newslettercountry_pr",
+      "translation": "Porto Riko"
+    },
+    {
+      "key": "newslettercountry_pt",
+      "translation": "Portekiz"
+    },
+    {
+      "key": "newslettercountry_ro",
+      "translation": "Romanya"
+    },
+    {
+      "key": "newslettercountry_ru",
+      "translation": "Rusya"
+    },
+    {
+      "key": "newslettercountry_se",
+      "translation": "İsveç"
+    },
+    {
+      "key": "newslettercountry_th",
+      "translation": "Tayland"
+    },
+    {
+      "key": "newslettercountry_tr",
+      "translation": "Türkiye"
+    },
+    {
+      "key": "newslettercountry_ua",
+      "translation": "Ukrayna"
+    },
+    {
+      "key": "newslettercountry_us",
+      "translation": "Amerika Birleşik Devletleri"
+    },
+    {
+      "key": "presettexture_custom_blank_grey",
+      "translation": "Boş Gri"
+    },
+    {
+      "key": "presettexture_drink_cosmiccow_square",
+      "translation": "Cosmic Cow Milkshakes - Kare"
+    },
+    {
+      "key": "presettexture_drink_cosmiccow_wide",
+      "translation": "Cosmic Cow Milkshakes"
+    },
+    {
+      "key": "presettexture_drink_gulpee_square",
+      "translation": "Gulpee Soda - Kare"
+    },
+    {
+      "key": "presettexture_drink_gulpee_wide",
+      "translation": "Gulpee Soda"
+    },
+    {
+      "key": "presettexture_drink_lattelove_square",
+      "translation": "Latte Love - Kare"
+    },
+    {
+      "key": "presettexture_drink_lattelove_wide",
+      "translation": "Latte Love"
+    },
+    {
+      "key": "presettexture_drink_pipshotjuice_square",
+      "translation": "Pipshot Juice - Kare"
+    },
+    {
+      "key": "presettexture_drink_pipshotjuice_wide",
+      "translation": "Pipshot Juice"
+    },
+    {
+      "key": "presettexture_drink_slushhour_square",
+      "translation": "Slush Hour - Kare"
+    },
+    {
+      "key": "presettexture_drink_slushhour_wide",
+      "translation": "Slush Hour"
+    },
+    {
+      "key": "presettexture_drink_sodalightful_square",
+      "translation": "Soda Lightful - Kare"
+    },
+    {
+      "key": "presettexture_drink_sodalightful_wide",
+      "translation": "Soda Lightful"
+    },
+    {
+      "key": "presettexture_enteringhyperspace",
+      "translation": "Hiperuzaya Giriş"
+    },
+    {
+      "key": "presettexture_food_chiefbeef_square",
+      "translation": "Chief Beef - Kare"
+    },
+    {
+      "key": "presettexture_food_chiefbeef_wide",
+      "translation": "Chief Beef"
+    },
+    {
+      "key": "presettexture_food_gelatobros_square",
+      "translation": "Gelato Bros - Kare"
+    },
+    {
+      "key": "presettexture_food_gelatobros_wide",
+      "translation": "Gelato Bros"
+    },
+    {
+      "key": "presettexture_food_hayasushi_square",
+      "translation": "Haya Sushi - Kare"
+    },
+    {
+      "key": "presettexture_food_hayasushi_wide",
+      "translation": "Haya Sushi"
+    },
+    {
+      "key": "presettexture_food_hotdogsquad_square",
+      "translation": "Hotdog Squad - Kare"
+    },
+    {
+      "key": "presettexture_food_hotdogsquad_wide",
+      "translation": "Hotdog Squad"
+    },
+    {
+      "key": "presettexture_food_pizzapen_square",
+      "translation": "Pizza Pen - Kare"
+    },
+    {
+      "key": "presettexture_food_pizzapen_wide",
+      "translation": "Pizza Pen"
+    },
+    {
+      "key": "presettexture_food_vivalavegan_square",
+      "translation": "Viva La Vegan - Kare"
+    },
+    {
+      "key": "presettexture_food_vivalavegan_wide",
+      "translation": "Viva La Vegan"
+    },
+    {
+      "key": "presettexture_gasgiant",
+      "translation": "Gaz Devi"
+    },
+    {
+      "key": "presettexture_inhyperspace",
+      "translation": "Hiperuzayda"
+    },
+    {
+      "key": "presettexture_none",
+      "translation": "Yok"
+    },
+    {
+      "key": "presettexture_souvenir_hatsfantastic_square",
+      "translation": "Hats Fantastic - Kare"
+    },
+    {
+      "key": "presettexture_souvenir_hatsfantastic_wide",
+      "translation": "Hats Fantastic"
+    },
+    {
+      "key": "presettexture_souvenir_justamomento_square",
+      "translation": "Just A Momento - Kare"
+    },
+    {
+      "key": "presettexture_souvenir_justamomento_wide",
+      "translation": "Just A Momento"
+    },
+    {
+      "key": "presettexture_souvenir_loonybloons_square",
+      "translation": "Loony Blooons - Kare"
+    },
+    {
+      "key": "presettexture_souvenir_loonybloons_wide",
+      "translation": "Loony Blooons"
+    },
+    {
+      "key": "presettexture_souvenir_splashemporium_square",
+      "translation": "Splash Emporium - Kare"
+    },
+    {
+      "key": "presettexture_souvenir_splashemporium_wide",
+      "translation": "Splash Emporium"
+    },
+    {
+      "key": "presettexture_starfield",
+      "translation": "Yıldız Tarlası"
+    }
+  ]
+}

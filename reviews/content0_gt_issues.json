@@ -1,0 +1,795 @@
+{
+  "english_leak": [
+    {
+      "key": "guest_thought_affectedbyadvert_common_01",
+      "source": "I guess we'll try out {reference} then",
+      "translation": "O zaman {reference} deneyelim bari",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_affectedbyadvert_common_02",
+      "source": "The advert makes me want to try {reference}",
+      "translation": "O reklam {reference} denemek için can attırıyor",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_affirmedbyadvert_common_01",
+      "source": "I was already going to {reference} but that advert makes me more excited",
+      "translation": "Zaten {reference} gidecektim ama reklam daha da heyecanlandırdı",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_arrivedinpark_child_01",
+      "source": "Yay!",
+      "translation": "Yeeey!",
+      "match": "Yeeey!"
+    },
+    {
+      "key": "guest_thought_arrivedinpark_child_02",
+      "source": "I'm finally here!",
+      "translation": "Sonunda geldim!",
+      "match": "geldim!"
+    },
+    {
+      "key": "guest_thought_arrivedinpark_child_03",
+      "source": "Woohoo, let's go!",
+      "translation": "Yaşasın, hadi gidelim!",
+      "match": "gidelim!"
+    },
+    {
+      "key": "guest_thought_arrivedinpark_common_03",
+      "source": "How... how did I get here?",
+      "translation": "Ne... nasıl geldim buraya?",
+      "match": "buraya?"
+    },
+    {
+      "key": "guest_thought_arrivedinpark_common_04",
+      "source": "Here at last!",
+      "translation": "Sonunda geldik!",
+      "match": "geldik!"
+    },
+    {
+      "key": "guest_thought_arrivedinpark_teen_01",
+      "source": "This is gonna be great!",
+      "translation": "Bu harika olacak!",
+      "match": "olacak!"
+    },
+    {
+      "key": "guest_thought_arrivedinpark_teen_04",
+      "source": "We're here! Let me at it!",
+      "translation": "Geldik! Hadi bakalım!",
+      "match": "Geldik!"
+    },
+    {
+      "key": "guest_thought_assessment_advertiseddestination_common_01",
+      "source": "{reference} is the place the advert talked about, lets try it",
+      "translation": "{reference} reklamda bahsedilen yer, deneyelim",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_classicride_adult_01",
+      "source": "I remember riding {reference} when it was new, it's even better now!",
+      "translation": "{reference} yeniyken binmiştim, şimdi çok daha iyi!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_classicride_adult_02",
+      "source": "I'd happily pay more to ride one of the greats like {reference}",
+      "translation": "{reference} gibi efsanelere binmek için fazlasını öderim",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_classicride_child_01",
+      "source": "{reference} is older than my granny and just as cool!",
+      "translation": "{reference} ninem kadar yaşlı ama bir o kadar harika!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_classicride_child_02",
+      "source": "I got to ride the classic {reference}!",
+      "translation": "Klasik {reference}'a binebildim!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_classicride_child_03",
+      "source": "{reference} is a classic for a reason!",
+      "translation": "{reference} bir nedenden ötürü klasik sayılıyor!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_classicride_child_04",
+      "source": "{reference} is awesome! I can see why it's a classic!",
+      "translation": "{reference} süpermiş! Neden klasik olduğunu anlıyorum!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_classicride_common_01",
+      "source": "{reference} is a real classic! ",
+      "translation": "{reference} gerçek bir klasik! ",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_classicride_teen_01",
+      "source": "Gotta respect the classics like {reference}",
+      "translation": "{reference} gibi klasiklere saygı duymak lazım",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_classicride_teen_02",
+      "source": "Sometimes old rides CAN be awesome, like {reference}",
+      "translation": "Bazen eski binişler de iyi olabiliyor, mesela {reference}",
+      "match": "olabiliyor,"
+    },
+    {
+      "key": "guest_thought_assessment_classicride_teen_03",
+      "source": "I'm gonna tell all my friends I got to ride a classic! - {reference}",
+      "translation": "Arkadaşlarıma bir klasiğe bindim diyeceğim! - {reference}",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_adult_01",
+      "source": "{reference} has such cheap tickets!",
+      "translation": "{reference} biletleri çok ucuz!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_adult_02",
+      "source": "{reference} is a bargain right now",
+      "translation": "{reference} şu an çok hesaplı",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_adult_03",
+      "source": "I can't believe how cheap {reference} tickets are!",
+      "translation": "{reference} biletleri bu kadar ucuz olur mu, inanamıyorum!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_adult_04",
+      "source": "I got a bargain with tickets for {reference}",
+      "translation": "{reference} biletlerini kelepir fiyata kaptım",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_child_01",
+      "source": "Yay! We can get loads of {reference} tickets!",
+      "translation": "Yeeey! {reference} biletinden bolca alabiliriz!",
+      "match": "Yeeey!"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_child_02",
+      "source": "We can easily buy tickets for {reference}",
+      "translation": "{reference} biletini rahatlıkla alabiliriz",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_child_03",
+      "source": "{reference} is worth more than that!",
+      "translation": "{reference} bundan daha değerli aslında!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_common_01",
+      "source": "{reference} has cheap tickets!",
+      "translation": "{reference} biletleri ucuz!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_teen_01",
+      "source": "Whoa, {reference} has such cheap tickets!",
+      "translation": "Vay be, {reference} biletleri çok ucuz!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_teen_02",
+      "source": "{reference} tickets are a steal at the moment!",
+      "translation": "{reference} biletleri şu an gerçekten fırsatmış!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_teen_03",
+      "source": "{reference} has such cheap tickets!",
+      "translation": "{reference} biletleri çok ucuz!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationcheap_teen_04",
+      "source": "{reference} is cheap as chips!",
+      "translation": "{reference} sudan ucuz!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_adult_01",
+      "source": "Prices for {reference} are way too high!",
+      "translation": "{reference} fiyatları had safhada!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_adult_02",
+      "source": "{reference} costs so much more than it should",
+      "translation": "{reference} olması gerekenden çok daha pahalı",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_adult_03",
+      "source": "The prices for {reference} are through the roof!",
+      "translation": "{reference} fiyatları çılgınlık sınırında!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_adult_04",
+      "source": "{reference} really costs an arm and a leg!",
+      "translation": "{reference} gerçekten canımı yakmaya yetiyor!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_child_01",
+      "source": "{reference} tickets cost too much!",
+      "translation": "{reference} biletleri çok pahalı!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_child_02",
+      "source": "My parents said {reference} is overpriced",
+      "translation": "Annem babam {reference} çok pahalı dedi",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_child_03",
+      "source": "{reference} isn't worth that much",
+      "translation": "{reference} bu kadar etmez ki",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_child_04",
+      "source": "We don't like spending so much on {reference}",
+      "translation": "{reference} için bu kadar harcamak istemiyoruz",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_common_01",
+      "source": "{reference} is so expensive",
+      "translation": "{reference} çok pahalı",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_teen_01",
+      "source": "{reference} sure is pricey!",
+      "translation": "{reference} gerçekten cüzdanı yakıyor!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_teen_02",
+      "source": "I can't believe they're charging so much for {reference}",
+      "translation": "{reference} için bu kadar para istediklerine inanamıyorum",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_teen_03",
+      "source": "{reference} is stupidly expensive!",
+      "translation": "{reference} saçma sapan pahalı!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_destinationexpensive_teen_04",
+      "source": "Wow! The prices for {reference} are pretty extreme",
+      "translation": "Vay be! {reference} fiyatları oldukça abartı",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_distancefar_common_01",
+      "source": "It would take ages to walk to {reference}",
+      "translation": "{reference} yürüyerek gitmek çok uzun sürer",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_distancefar_common_02",
+      "source": "Walking to {reference} would take a really long time",
+      "translation": "{reference} yürüyerek gitmek gerçekten çok uzun zaman alır",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_distancefar_common_03",
+      "source": "{reference} is really far away to walk to!",
+      "translation": "{reference} yürüyerek gidilecek kadar yakın değil!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilitycheap_adult_01",
+      "source": "{reference} costs money!? At least it's not too much",
+      "translation": "{reference} ücretli mi!? En azından çok değil",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilitycheap_adult_02",
+      "source": "{reference} costs a reasonable amount",
+      "translation": "{reference} makul bir fiyat",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilitycheap_adult_03",
+      "source": "I can pay a little bit for {reference}",
+      "translation": "{reference} için az bir şey öderim",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilitycheap_child_01",
+      "source": "I can pay a little bit to use {reference}",
+      "translation": "{reference} için biraz ödeyebilirim",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilitycheap_child_02",
+      "source": "{reference} costs a small amount to use? Okay",
+      "translation": "{reference} az bir ücret mi alıyor? Olur",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilitycheap_child_03",
+      "source": "I'm glad {reference} doesn't cost a lot",
+      "translation": "{reference} çok pahalı olmadığına sevindim",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilitycheap_common_01",
+      "source": "I'm okay paying that much for {reference}",
+      "translation": "{reference} için bu kadar ödemeye razıyım",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilitycheap_teen_01",
+      "source": "Hmm, at least {reference} is cheap!",
+      "translation": "Hmm, en azından {reference} ucuz!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilitycheap_teen_02",
+      "source": "{reference} doesn't cost too much",
+      "translation": "{reference} çok pahalı değil",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilitycheap_teen_03",
+      "source": "I hope they don't put the prices up for {reference}",
+      "translation": "{reference} fiyatları artmasın umarım",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityexpensive_adult_01",
+      "source": "{reference} costs loads! That's a cheap trick",
+      "translation": "{reference} çok pahalı! Bu tam soygunculuk",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityexpensive_adult_02",
+      "source": "{reference} costs that much? That's disgusting",
+      "translation": "{reference} bu kadar mı tuttu? Rezalet",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityexpensive_adult_03",
+      "source": "I can't believe {reference} costs that much",
+      "translation": "{reference} bu kadar tutacağına inanamıyorum",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityexpensive_child_01",
+      "source": "Wow! {reference} costs a lot!",
+      "translation": "Vay be! {reference} çok pahalı!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityexpensive_child_02",
+      "source": "I don't normally pay that much for {reference}",
+      "translation": "{reference} için normalde bu kadar ödemiyorum",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityexpensive_child_03",
+      "source": "I'm grumpy about paying lots for {reference}",
+      "translation": "{reference} için bu kadar para ödemek canımı sıkıyor",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityexpensive_common_01",
+      "source": "{reference} is expensive!",
+      "translation": "{reference} çok pahalı!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityexpensive_teen_02",
+      "source": "No way, that much for {reference}!?",
+      "translation": "Olmadı ki, {reference} için bu kadar mı!?",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityexpensive_teen_03",
+      "source": "The price for {reference} is sky high",
+      "translation": "{reference} fiyatı had safhasında",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityfree_adult_01",
+      "source": "It's a good thing they don't charge for {reference}",
+      "translation": "{reference} için para almıyor olmaları iyi ki",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityfree_adult_02",
+      "source": "I love that {reference} costs nothing!",
+      "translation": "{reference} ücretsiz, helal olsun!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityfree_adult_03",
+      "source": "Oh great, {reference} is free",
+      "translation": "Oh, güzel. {reference} bedava",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityfree_child_01",
+      "source": "Cool, {reference} is free!",
+      "translation": "Süper, {reference} bedava!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityfree_child_02",
+      "source": "Everyone is happy that {reference} is free",
+      "translation": "{reference} ücretsiz diye herkes çok mutlu",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityfree_child_03",
+      "source": "I'm glad {reference} doesn't cost money",
+      "translation": "{reference} para tutmamasına sevindim",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityfree_common_01",
+      "source": "I'm so glad {reference} is free",
+      "translation": "{reference} ücretsiz, çok iyi oldu",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityfree_teen_01",
+      "source": "Whoa, {reference} is free!",
+      "translation": "Vay be, {reference} bedava!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityfree_teen_02",
+      "source": "I can't believe {reference} is free",
+      "translation": "{reference} ücretsiz olmasına inanamıyorum",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_facilityfree_teen_03",
+      "source": "Excellent! Free to use! - {reference}",
+      "translation": "İşte bu! Bedava! - {reference}",
+      "match": "Bedava!"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_adult_01",
+      "source": "{reference} looks really cool!",
+      "translation": "{reference} gerçekten harika görünüyor!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_adult_02",
+      "source": "{reference} looks amazing!",
+      "translation": "{reference} inanılmaz görünüyor!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_adult_03",
+      "source": "I like the look of {reference}!",
+      "translation": "{reference} çok hoşuma gitti!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_adult_04",
+      "source": "I can't wait to try {reference}!",
+      "translation": "{reference} denemek için sabırsızlanıyorum!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_child_01",
+      "source": "I wanna go on {reference}!",
+      "translation": "{reference}'a binmek istiyorum!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_child_02",
+      "source": "Woah! {reference} is super cool!",
+      "translation": "Vaaay! {reference} süper harika!",
+      "match": "Vaaay!"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_child_03",
+      "source": "I just gotta ride on {reference}!",
+      "translation": "{reference}'a mutlaka binmeliyim!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_child_04",
+      "source": "If I don't get on {reference} I'm gonna freak!",
+      "translation": "{reference}'a binemezsem çıldırırım!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_common_01",
+      "source": "I want to go on {reference}!",
+      "translation": "{reference}'a binmek istiyorum!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_teen_01",
+      "source": "Wow, {reference} looks really cool!",
+      "translation": "Müthiş, {reference} gerçekten harika görünüyor!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_teen_02",
+      "source": "{reference} looks ace!",
+      "translation": "{reference} süper görünüyor!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_teen_03",
+      "source": "I bet {reference} is a great ride",
+      "translation": "{reference} harika bir biniş olmalı",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_goodride_teen_04",
+      "source": "{reference} looks awesome!",
+      "translation": "{reference} vay be görünüyor!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_itemcheap_adult_01",
+      "source": "{reference} is super cheap!",
+      "translation": "{reference} süper ucuz!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_itemcheap_adult_02",
+      "source": "{reference} is costs so little right now",
+      "translation": "{reference} şu an çok az tutuyor",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_itemcheap_adult_03",
+      "source": "I can't believe how cheap {reference} is!",
+      "translation": "{reference} bu kadar ucuz olur mu, inanamıyorum!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_itemcheap_child_01",
+      "source": "Yay! We can easily buy {reference} for that price!",
+      "translation": "Yeeey! {reference}'ı bu fiyata rahatlıkla alabiliriz!",
+      "match": "Yeeey!"
+    },
+    {
+      "key": "guest_thought_assessment_itemcheap_child_02",
+      "source": "We can easily buy {reference}",
+      "translation": "{reference}'ı rahatlıkla alabiliriz",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_itemcheap_child_03",
+      "source": "{reference} is worth more than that!",
+      "translation": "{reference} bundan daha değerli!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_itemcheap_common_01",
+      "source": "{reference} is cheap!",
+      "translation": "{reference} ucuz!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_itemcheap_common_02",
+      "source": "{reference} is a steal at that price!",
+      "translation": "{reference} bu fiyata kelepir!",
+      "match": "reference}"
+    },
+    {
+      "key": "guest_thought_assessment_itemcheap_common_03",
+      "source": "{reference} is nice and cheap!",
+      "translation": "{reference} güzel ve ucuz!",
+      "match": "reference}"
+    }
+  ],
+  "be_sentence_end": [
+    {
+      "key": "guest_thought_assessment_destinationexpensive_teen_04",
+      "source": "Wow! The prices for {reference} are pretty extreme",
+      "translation": "Vay be! {reference} fiyatları oldukça abartı",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_assessment_facilityexpensive_child_01",
+      "source": "Wow! {reference} costs a lot!",
+      "translation": "Vay be! {reference} çok pahalı!",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_assessment_queuetoolong_child_04",
+      "source": "Wow! That is one long queue for {reference}",
+      "translation": "Vay be! {reference} için ne uzun kuyruk",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_coastercarpassing_common_03",
+      "source": "Woah! That must be {reference}",
+      "translation": "Vay be! Bu {reference} olmalı",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_fluff_goodqueuetheming_teen_04",
+      "source": "Wow! The queue for {reference} has great scenery!",
+      "translation": "Vay be! {reference} kuyruğunun dekorasyonu çok iyi!",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_fluff_goodridetheming_teen_04",
+      "source": "Wow! {reference} looks rad! I love all the scenery!",
+      "translation": "Vay be! {reference} çok havalı! Bütün dekorasyonları çok sevdim!",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_fluff_goodshoptheming_adult_01",
+      "source": "Wow! The scenery around {reference} looks great!",
+      "translation": "Vay be! {reference} etrafındaki dekorasyon harika görünüyor!",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_fluff_goodtheming_adult_01",
+      "source": "Wow! The scenery looks great",
+      "translation": "Vay be! Dekorasyon çok güzel görünüyor",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_fluff_goodtheming_child_03",
+      "source": "Wow! I love the scenery!",
+      "translation": "Vay be! Dekorasyonları çok sevdim!",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_fluff_onride_intensityhigh_teen_03",
+      "source": "Woah! That was intense! - {reference}",
+      "translation": "Vay be! Bu çok yoğundu! - {reference}",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_mascot_common_03",
+      "source": "{reference} Wow!",
+      "translation": "{reference} Vay be!",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_musicstand_common_03",
+      "source": "Woo! Great music from {reference}",
+      "translation": "Vay be! {reference}'den harika müzik geliyor",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_parkentry_free_adult_03",
+      "source": "Woo! Free Entry!",
+      "translation": "Vay be! Ücretsiz giriş!",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_visitedride_teen_03",
+      "source": "Woo! {reference}!",
+      "translation": "Vay be! {reference}!",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_weather_clear_common_01",
+      "source": "Wow! What a beautiful day!",
+      "translation": "Vay be! Muhteşem bir gün!",
+      "match": "be!"
+    },
+    {
+      "key": "guest_thought_weather_wind_common_01",
+      "source": "Wow! This wind could take your socks off!",
+      "translation": "Vay be! Bu rüzgar insanı uçururdu neredeyse!",
+      "match": "be!"
+    }
+  ],
+  "awkward_vay_be": [
+    {
+      "key": "guest_thought_assessment_goodride_teen_04",
+      "source": "{reference} looks awesome!",
+      "translation": "{reference} vay be görünüyor!",
+      "match": "vay be görünüyor"
+    }
+  ],
+  "repeated_word": [
+    {
+      "key": "guest_thought_assessment_queueshort_child_01",
+      "source": "The queue for {reference} looks sooo fast!",
+      "translation": "{reference} kuyruğu çok çok hızlı görünüyor!",
+      "match": "çok çok"
+    },
+    {
+      "key": "guest_thought_assessment_shopcheap_child_01",
+      "source": "Yay! We can buy loads of cheap things from {reference}!",
+      "translation": "Yeeey! {reference}'dan bol bol ucuz şey alabiliriz!",
+      "match": "bol bol"
+    },
+    {
+      "key": "guest_thought_goinghome_child_03",
+      "source": "Bye, Park! I'm going home!",
+      "translation": "Güle güle Park! Eve gidiyorum!",
+      "match": "Güle güle"
+    },
+    {
+      "key": "guest_thought_inqueue_breakdown_teen_03",
+      "source": "Dang! There's no point lining up for {reference} now",
+      "translation": "Vah vah! {reference} için kuyrukta beklemenin artık manası yok",
+      "match": "Vah vah"
+    },
+    {
+      "key": "guest_thought_restaurant_nav_common_01",
+      "source": "I want to eat at {reference}.",
+      "translation": "{reference}'de yemek yemek istiyorum.",
+      "match": "yemek yemek"
+    },
+    {
+      "key": "guest_thought_shopitem_needsatisfied_hunger_child_03",
+      "source": "Yummy yummy in my tummy!",
+      "translation": "Yum yum, midemde oyunuyor!",
+      "match": "Yum yum"
+    },
+    {
+      "key": "guest_thought_weather_hotsun_common_01",
+      "source": "It's so sunny! We chose the right time to come!",
+      "translation": "Güneş cayır cayır yakıyor! Tam zamanında geldik!",
+      "match": "cayır cayır"
+    }
+  ],
+  "stutter_ya": [
+    {
+      "key": "guest_thought_facilityqueuefull_child_01",
+      "source": "Aw! {reference} is really busy",
+      "translation": "Yaaay! {reference} çok kalabalık",
+      "match": "Yaaay"
+    },
+    {
+      "key": "guest_thought_fluff_badtheming_child_04",
+      "source": "Aww! There is no scenery!",
+      "translation": "Yaaay! Hiç dekorasyon yok!",
+      "match": "Yaaay"
+    },
+    {
+      "key": "guest_thought_goinghome_child_01",
+      "source": "Aw! I don't wanna leave yet!",
+      "translation": "Yaaay! Gitmek istemiyorum daha!",
+      "match": "Yaaay"
+    },
+    {
+      "key": "guest_thought_inqueue_breakdown_child_01",
+      "source": "Aw! {reference} broke down!",
+      "translation": "Yaaay! {reference} bozuldu!",
+      "match": "Yaaay"
+    }
+  ],
+  "untranslated": [
+    {
+      "key": "guest_thought_fluff_onride_adult_03",
+      "source": "Eeeeee! - {reference}!",
+      "translation": "Eeeeee! - {reference}!"
+    }
+  ],
+  "ya_sentence_end": [
+    {
+      "key": "guest_thought_queuefull_teen_02",
+      "source": "Man! {reference} had a full queue!",
+      "translation": "Of ya! {reference}'in sırası tamamen dolmuş!",
+      "match": "Of ya!"
+    }
+  ]
+}

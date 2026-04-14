@@ -1,0 +1,814 @@
+{
+  "items": [
+    {
+      "key": "toolpanelfoliagescenery_alignrotationtosurface",
+      "source": "Align Rotation to Surface",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_aligntosurface",
+      "source": "Align to Surface",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_apply",
+      "source": "Apply Scenery",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_avoidpaths",
+      "source": "Avoid Paths",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushname",
+      "source": "Brush Name",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushobjects",
+      "source": "Brush Objects",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushoptions",
+      "source": "Brush Options",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushtype",
+      "source": "Brush Type",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushtypecustom",
+      "source": "Custom",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushtypestandard",
+      "source": "Standard",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_changebrush",
+      "source": "Change Brush",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_changeobject",
+      "source": "Change Object",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_changetexture",
+      "source": "Change Texture",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_choosetexture",
+      "source": "Choose Texture",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_createnewbrush",
+      "source": "Create New Brush",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_custombrush",
+      "source": "Custom Brush",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_customisetab",
+      "source": "Customise",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_customtab",
+      "source": "Custom",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_deletebrush",
+      "source": "Delete Brush",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_deleteobject",
+      "source": "Delete Object",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_editbrush",
+      "source": "Edit Brush",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_editfoliagebrush",
+      "source": "Edit Scenery Brush",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_editpreset",
+      "source": "Edit Preset",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_frequency",
+      "source": "Frequency",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_intensity",
+      "source": "Intensity",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_maximumscale",
+      "source": "Maximum Scale",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_minimumscale",
+      "source": "Minimum Scale",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_nobrushes",
+      "source": "No custom brushes available",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_objectradius",
+      "source": "Object Spacing",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_presettab",
+      "source": "Preset",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_randomrotation",
+      "source": "Random Rotation",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_rotation_all",
+      "source": "All",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_rotation_none",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_rotation_yaw",
+      "source": "Yaw",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_saveasnew",
+      "source": "Save As New",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_savechanges",
+      "source": "Save Changes",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_scenery",
+      "source": "Scenery",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_scenery_avoid",
+      "source": "Avoid",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_scenery_ignore",
+      "source": "Ignore",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_scenery_placeon",
+      "source": "Place On",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_scenerybrushtitle",
+      "source": "Scenery Brush",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_selectanobject",
+      "source": "Select An Object",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_settings",
+      "source": "Settings",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_size",
+      "source": "Size",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_title",
+      "source": "Scenery Brush",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_undochanges",
+      "source": "The changes made haven't been saved, and will be discarded. This action cannot be undone. ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpanelfoliagescenery_usebrushtab",
+      "source": "Use Brush",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_1",
+      "source": "[logo]\n<br>\n<h1>Game Direction</h1>\n<br>\n<h2>Game Director</h2>\n<div>Rich Newbold</div>\n<br>\n<h1>Production</h1>\n<br>\n<h2>Director of Production</h2>\n<div>Gerard Huke</div>\n<br>\n<h2>Senior Executive Producer</h2>\n<div>Adam Woods</div>\n<br>\n<h2>Executive Producer</h2>\n<div>Stuart Warren</div>\n<br>\n<h2>Senior Producer</h2>\n<div>Orcun Adsoy</div>\n<div>Richard Benton</div>\n<div>Sarah Marsden</div>\n<br>\n<h2>Producer</h2>\n<div>Lucy Hicks</div>\n<div>Joaquim Lancesseur</div>\n<div>Alexandre Modolo</div>\n<br>\n<h2>Assistant Producer</h2>\n<div>Georgia Jeffries</div>\n<br>\n<h1>Design</h1>\n<br>\n<h2>Head of Design</h2>\n<div>Laurence Oldham</div>\n<br>\n<h2>Principal Designer (Lead)</h2>\n<div>David Bamber</div>\n<div>Dan Davies</div>\n<div>Richard Edwards</div>\n<div>James P. Stimpson</div>\n<br>\n<h2>Principal Designer</h2>\n<div>James Taylor</div>\n<br>\n<h2>Senior Designer</h2>\n<div>Leigh Griffiths</div>\n<div>Alexander Paine</div>\n<div>Andrew Thomas</div>\n<div>Darren Williams</div>\n<br>\n<h2>Designer</h2>\n<div>Luke Duffy</div>\n<div>Kelly Griffin</div>\n<div>Callum Holland</div>\n<div>Pauline Martyn</div>\n<div>Emma Rydström</div>\n<div>Anne van Leeuwen</div>\n<div>Alex Wamsteker</div>\n<br>\n<h2>Graduate Designer</h2>\n<div>Monroe Botan</div>\n<div>Lamar Edwards</div>\n<div>Hannah Vardey</div>\n<br>\n<h1>Narrative</h1>\n<br>\n<h2>Narrative Design Lead</h2>\n<div>Shannon Jackson</div>\n<br>\n<h2>Senior Game Writer</h2>\n<div>Ian Bousher</div>\n<div>Shannon Jackson</div>\n<br>\n<h2>Game Writer</h2>\n<div>Dominic Charman</div>\n<div>Annabel King</div>\n<br>\n<h2>Scriptwriting Lead</h2>\n<div>Shannon Jackson</div>\n<br>\n<h2>Scriptwriting</h2>\n<div>Ian Bousher</div>\n<div>Annabel King</div>\n<div>James Stant</div>\n<div>Samantha Webb</div>\n<br>\n<h2>Additional Scriptwriting</h2>\n<div>Ben Sabin</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_10",
+      "source": "<h2>Head of Technical Animation</h2>\n<div>Thomas Morledge</div>\n<br>\n<h2>Head of Animation Code</h2>\n<div>Ollie Powell</div>\n<br>\n<h2>Animation Code Technical Lead</h2>\n<div>Michael Quandt</div>\n<br>\n<h2>Animation Pipeline Lead</h2>\n<div>Luke Maskell</div>\n<br>\n<h2>Principal Technical Animator</h2>\n<div>Nathan Lawrence</div>\n<br>\n<h2>Senior Technical Animator</h2>\n<div>Tasha Crozier</div>\n<br>\n<h2>Senior Animation Programmer</h2>\n<div>Addison Shore</div>\n<br>\n<h2>Graduate Animation Programmer</h2>\n<div>Sybran Aerts</div>\n<br>\n<h2>Animation Producer</h2>\n<div>Phoebe Johnston</div>\n<div>Sam De Roeck</div>\n<br>\n<h1>Rigging</h1>\n<br>\n<h2>Senior Rigger (Lead)</h2>\n<div>Carla Moy</div>\n<br>\n<h2>Principal Rigger</h2>\n<div>Tim Ridgarde</div>\n<br>\n<h2>Rigger</h2>\n<div>Isabelle Fenot</div>\n<div>Erin Stevenson</div>\n<div>Oliver Wesson</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_11",
+      "source": "<br>\n<h1>UI</h1>\n<br>\n<h2>Head of UI</h2>\n<div>Thomas Linthe</div>\n<br>\n<h2>Principal UI Designer (Lead)</h2>\n<div>Ariel Mallo</div>\n<br>\n<h2>UI Tech Lead</h2>\n<div>Josh Newland</div>\n<br>\n<h2>Principal UI Designer</h2>\n<div>Laura Mauterer</div>\n<br>\n<h2>Senior UI Designer</h2>\n<div>Danilo Enju Sato</div>\n<div>Connor Thompson</div>\n<br>\n<h2>UI Designer</h2>\n<div>Bastian Hagege</div>\n<div>Jason Ware</div>\n<div>Rob James</div>\n<br>\n<h2>Graduate UI Designer</h2>\n<div>Haaris Ehsan</div>\n<br>\n<h2>Principal UI Developer</h2>\n<div>James Thomas</div>\n<br>\n<h2>UI Developer</h2>\n<div>Martino Faconti</div>\n<div>Tom Franklin</div>\n<div>Leena Järvenpää</div>\n<div>Autumn Waller</div>\n<br>\n<h2>UI Systems Programmer</h2>\n<div>Sandra Fernandez Ferrer</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_12",
+      "source": "<br>\n<h1>Audio Design</h1>\n<br>\n<h2>Head of Audio Design</h2>\n<div>Matthew Florianz</div>\n<br>\n<h2>Principal Audio Designer (Lead)</h2>\n<div>Benjamin Scholey</div>\n<br>\n<h2>Senior Audio Designer</h2>\n<div>Roland Berdo</div>\n<div>Jonathan Shaw</div>\n<br>\n<h2>Audio Design Manager</h2>\n<div>Michael Maidment</div>\n<br>\n<h2>Audio Designer</h2>\n<div>Theo Breheny</div>\n<div>Matthew Burrows</div>\n<div>James Butchart</div>\n<div>Linus Johnsson</div>\n<div>Langa Manyoba</div>\n<div>Toby Misselbrook</div>\n<div>Jamie Miles</div>\n<div>Jake Morgan</div>\n<br>\n<h2>Music Designer</h2>\n<div>Annina Melissa</div>\n<br>\n<h2>Dialogue Manager</h2>\n<div>James Stant</div>\n<br>\n<h2>Senior Dialogue Designer</h2>\n<div>Will Marsh</div>\n<br>\n<h2>Dialogue Designer</h2>\n<div>Ellen Kate Malpas</div>\n<br>\n<h1>Audio Tech</h1>\n<br>\n<h2>Head of Audio Tech</h2>\n<div>Will Augar</div>\n<br>\n<h2>Audio Tech Manager</h2>\n<div>Robbie Chesters</div>\n<br>\n<h2>Senior Technical Audio Designer (Lead)</h2>\n<div>Andrew Hair</div>\n<br>\n<h2>Senior Technical Audio Designer</h2>\n<div>Gavin Chuong</div>\n<br>\n<h2>Technical Audio Designer</h2>\n<div>Konstantin Semionov</div>\n<br>\n<h2>Senior Audio Programmer</h2>\n<div>Ian Hawkins</div>\n<div>Dave Stevenson</div>\n<div>Philip Taylor</div>\n<br>\n<h2>Audio Programmer</h2>\n<div>Daniel Pezdirc</div>\n<br>\n<h2>Senior Audio Automation Engineer</h2>\n<div>Sam Doyle</div>\n<br>\n<h2>Audio Automation Engineer</h2>\n<div>Ben Hammond</div>\n<br>\n<h2>Full Audio Tester</h2>\n<div>Simon Bell</div>\n<br>\n<h1>Audio Production</h1>\n<br>\n<h2>Audio Production Manager</h2>\n<div>Alex Vincent</div>\n<br>\n<h2>Audio Producer</h2>\n<div>Alexandre Modolo</div>\n<br>\n<h2>Music Supervisor</h2>\n<div>Irma De Wind</div>\n<br>\n<h1>Music</h1>\n<br>\n<h2>Main Soundtrack</h2>\n<div>J.J. Ipsen</div>\n<br>\n<h2>Additional Music</h2>\n<div>Alastair McNamara</div>\n<div>Arthur Jeffes</div>\n<div>Boxed Ape</div>\n<div>Dan Millidge</div>\n<div>Drew Neumann</div>\n<div>Erasmus Talbot</div>\n<div>James Stant</div>\n<div>Jasper Scholma</div>\n<div>Jim Croft</div>\n<div>Jim Guthrie</div>\n<div>Joanna Pena</div>\n<div>Joris de Man</div>\n<div>Josh Croft</div>\n<div>Marcus Hedges</div>\n<div>Martin Landstrom</div>\n<div>Rasmus Faber</div>\n<div>Ross Fortune</div>\n<div>Ross Stack</div>\n<div>Russ Shaw</div>\n<div>Xiaotian Shi</div>\n<br>\n<h2>Trumpet, Trombone</h2>\n<div>Barnaby Dickinson</div>\n<br>\n<h2>Vocals</h2>\n<div>Josephine Carl</div>\n<div>Ledi Manurung</div>\n<br>\n<h1>Career Cast</h1>\n<br>\n<h2>Adriana Vega</h2>\n<div>Diana Bermudez</div>\n<br>\n<h2>Nana Betty</h2>\n<div>Eve Karpf</div>\n<br>\n<h2>Brad Newton</h2>\n<div>James MacNaughton</div>\n<br>\n<h2>Oswald B. Thompson</h2>\n<div>Lewis MacLeod</div>\n<br>\n<h2>Hank Brogan</h2>\n<div>Eric Meyers</div>\n<br>\n<h2>Kenta Suzuki</h2>\n<div>Matt McCooey</div>\n<br>\n<h2>Eugene Newton</h2>\n<div>George Weightman</div>\n<br>\n<h1>Performer Cast</h1>\n<br>\n<h2>Viking Performer Male</h2>\n<div>Kenny Blyth</div>\n<br>\n<h2>Bodhi</h2>\n<div>Peter Brooke</div>\n<br>\n<h2>Diver Female</h2>\n<div>Kelly Condron</div>\n<br>\n<h2>Bard Male</h2>\n<div>Craig Crosbie </div>\n<br>\n<h2>Diver Male</h2>\n<div>Steven Jobson</div>\n<br>\n<h2>Queen Splash</h2>\n<div>Elsie Lovelock</div>\n<br>\n<h2>King Coaster</h2>\n<div>Lewis MacLeod</div>\n<br>\n<h2>Viking Performer Female</h2>\n<div>Lizzie Mounter</div>\n<br>\n<h2>Bard Female</h2>\n<div>Rhiannon Moushall</div>\n<br>\n<h2>Saguaro Guitaro</h2>\n<div>Gabriel Porras</div>\n<br>\n<h2>Vesper Male</h2>\n<div>James Smillie</div>\n<br>\n<h2>Vesper Female</h2>\n<div>Bethan Dixon Bate</div>\n<br>\n<h2>Max Stormcloud Female</h2>\n<div>Dolores Reynals</div>\n<br>\n<h2>Max Stormcloud Male</h2>\n<div>Darrell Brown</div>\n<br>\n<h2>Crowd Cast</h2>\n<div>Akira Koieyama</div>\n<div>Andre James</div>\n<div>Anisa Sanusi</div>\n<div>Ben Venn</div>\n<div>Benjamin Faiers</div>\n<div>Cassius Flemyng</div>\n<div>Chanté Goodman</div>\n<div>Chris Sture</div>\n<div>Corey Harper</div>\n<div>Dédé Davi</div>\n<div>Dominic Lord</div>\n<div>Dorothy Croft</div>\n<div>Fearn Hilborn</div>\n<div>George Condron</div>\n<div>Haruka Kuroda</div>\n<div>Helen Musto</div>\n<div>Ittai Mann</div>\n<div>James Stant</div>\n<div>Jamie Smart</div>\n<div>Jasmine Moore</div>\n<div>Javier Ilsley</div>\n<div>Joanne Taylor</div>\n<div>Jonathan Ashby</div>\n<div>Josh Shepherd</div>\n<div>Laura Massey</div>\n<div>Lauren Martin</div>\n<div>Liesa Bauwens</div>\n<div>Lily May Stant</div>\n<div>Luke Ritson</div>\n<div>Marilena Gant</div>\n<div>Mark Steggall</div>\n<div>Matilda Condron</div>\n<div>Matthew Stant</div>\n<div>May Ilsley</div>\n<div>Paige Harvey</div>\n<div>Pernille Hansen</div>\n<div>Phoebe Croft</div>\n<div>Raj Ghatak</div>\n<div>Richard Newbold</div>\n<div>Rowan Marsh</div>\n<div>Rupert Croft</div>\n<div>Sally Morgan-Moore</div>\n<div>Sam Doyle</div>\n<div>Sarah Newbold</div>\n<div>Sravya Datla</div>\n<div>Thomas Grant</div>\n<div>Thomas Welleweerd</div>\n<div>Vivienne Rochester</div>\n<div>Zac Antonaci</div>\n<br>\n<h2>Staff Cast</h2>\n<div>Ana Paola Velasquez Barrera</div>\n<div>Bo de Vries</div>\n<div>Danielle Shardlow</div>\n<div>Edward Lewis</div>\n<div>Elodie Mondoloni</div>\n<div>Emma Rydström</div>\n<div>Felix Ilsley</div>\n<div>John Kelly</div>\n<div>Kane Davis</div>\n<div>Samantha Marsh</div>\n<div>Stephen Benedetti</div>\n<br>\n<h2>Special Thanks</h2>\n<div>Rudi Rennkamel</div>\n<div>DeladySigner</div>\n<div>Silvarret</div>\n<div>Nerdchacho</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_13",
+      "source": "<br>\n<h1>Liquid Violet - Voice Production</h1>\n<br>\n<h2>Head of Studio</h2>\n<div>Katie Young</div>\n<br>\n<h2>Technical Director</h2>\n<div>Michael Dunn</div>\n<br>\n<h2>Studio Manager </h2>\n<div>Emily Morgan</div>\n<br>\n<h2>Client Partner</h2>\n<div>Stephen Kelly</div>\n<br>\n<h2>Casting Director </h2>\n<div>Hannah McCarthy</div>\n<br>\n<h2>Lead Producer</h2>\n<div>Chris Hopkins</div>\n<br>\n<h2>Producer</h2>\n<div>Natalie Beran</div>\n<br>\n<h2>Associate Producer</h2>\n<div>Holly-Mae Hancock</div>\n<br>\n<h2>Voice Director</h2>\n<div>Damien Goodwin </div>\n<br>\n<h2>Lead Sound Engineer</h2>\n<div>Charlie Thomas</div>\n<br>\n<h2>Sound Engineer</h2>\n<div>Hayley Allen</div>\n<div>Felipe De Francisco Visser</div>\n<br>\n<h2>Technical Operations Lead</h2>\n<div>Jareth Turner</div>\n<br>\n<h2>Transfer Engineer</h2>\n<div>HuiYun Tay</div>\n<br>\n<h2>Studio Runner</h2>\n<div>Emily Scopece</div>\n<div>Eilisha McNally</div>\n<div>Greta Madle</div>\n<br>\n<h2>Freelance Runner</h2>\n<div>Borislava Stratieva</div>\n<br>\n<h2>Freelance Engineer </h2>\n<div>Ed Sutton</div>\n<br>\n<h2>Freelance Dialogue Editor</h2>\n<div>James Kirk</div>\n<br>\n<br>\n<h1>Voicefox</h1>\n<br>\n<h2>Director</h2>\n<div>Emily Dean</div>\n<br>\n<h1>Soho Voices (LittleSohoVoices)</h1>\n<br>\n<h2>Head Voice Over Agent</h2>\n<div>Kay Mayuya</div>\n<br>\n<br>\n<h1>Hobsons International</h1>\n<br>\n<h2>Voices Agent</h2>\n<div>Tania Edwards</div>\n<br>\n<br>\n<h1>Field Recordings - Rides Recording</h1>\n<br>\n<h2>Sound Effects Recording Artists</h2>\n<div>Watson Wu</div>\n<br>\n<h1>Field Recordings - King's Ely - Swimming Pool Recording</h1>\n<br>\n<h2>Chief Operating Officer</h2>\n<div>Mark Hart</div>\n<br>\n<h2>Domestic Bursar & Lettings Manager</h2>\n<div>Tara Baratt</div>\n<br>\n<br>\n<h1>QA</h1>\n<br>\n<h2>Head of QA</h2>\n<div>Kathryn Faiers</div>\n<div>Tom Miller</div>\n<br>\n<h2>Head of QA Support</h2>\n<div>Laura Massey</div>\n<br>\n<h2>QA Manager</h2>\n<div>Kieron Baker</div>\n<div>Tony Stride</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_14",
+      "source": "<h2>QA Project Lead</h2>\n<div>Ellis Watson</div>\n<div>Joe Webster</div>\n<div>Steven Williams</div>\n<br>\n<h2>QA Area Lead</h2>\n<div>Alex Cheng</div>\n<div>Taylor English</div>\n<div>Kit Hawes-Webb</div>\n<div>Michael Moursi</div>\n<div>James Orme</div>\n<div>James Thomas</div>\n<br>\n<h2>Senior Tester</h2>\n<div>Laurie Cooper</div>\n<div>Chris Catliff</div>\n<div>Amy Garnes</div>\n<div>Henry Hardy</div>\n<div>Chris Rawlins</div>\n<div>Phil Thomas</div>\n<br>\n<h2>Tester</h2>\n<div>Evan Ariss</div>\n<div>Dom Brown</div>\n<div>Callum Bueckardt</div>\n<div>Chris Catliff</div>\n<div>Demetri Charitou</div>\n<div>Michael Dinmore</div>\n<div>Christos Dounavis</div>\n<div>Ace Estacio</div>\n<div>Danny Gumbrell</div>\n<div>Ben Hendriksson</div>\n<div>Victoria Hobbs</div>\n<div>Steven Hooke</div>\n<div>Jenny Irvine</div>\n<div>Andrew Koulle</div>\n<div>Olly Lane</div>\n<div>Hollie Liz Smith</div>\n<div>Katie O'Hare</div>\n<div>Stanislav Yordanov</div>\n<br>\n<h2>Agile QA Lead</h2>\n<div>Jamie Burrows</div>\n<br>\n<h2>Senior Agile QA Tester</h2>\n<div>Jonathan Davies</div>\n<br>\n<h2>Agile QA Tester</h2>\n<div>Helen Broutsos</div>\n<div>Joshua Clarke</div>\n<div>Henry Hardy</div>\n<div>Mitch Hicks</div>\n<div>Tom Hully</div>\n<div>Sean Huntley</div>\n<div>Ant Lusmore</div>\n<div>Tom Mellamphy</div>\n<div>Liam Nightingale</div>\n<div>Adam Poulton</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_15",
+      "source": "<h2>Certification Operations Manager</h2>\n<div>Douglas Holloway</div>\n<br>\n<h2>Certification Operations</h2>\n<div>James Jungius</div>\n<div>Ben Randall</div>\n<div>Peter Watkins</div>\n<div>Alexanda Whitworth-Biehler</div>\n<br>\n<h2>QA Release Manager</h2>\n<div>Sarah Potter</div>\n<br>\n<h2>Release Team</h2>\n<div>Polina Gladkikh</div>\n<div>Tobias Hill</div>\n<br>\n<h2>QA Localisation Team Lead</h2>\n<div>Svitlana Brunt</div>\n<br>\n<h2>Localisation QA Area Lead</h2>\n<div>Dominic Charman</div>\n<br>\n<h2>Localisation QA Team</h2>\n<div>Thomas Evans</div>\n<div>Camila Marcos</div>\n<br>\n<h2>Compatibility Lead</h2>\n<div>Maik Kruger</div>\n<br>\n<h2>Compatibility Team</h2>\n<div>Adam Mortley</div>\n<div>Corey Bridge</div>\n<div>Daniel Humphreys</div>\n<div>Joleir Leonard</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_16",
+      "source": "<br>\n<h2>QA Online Team Lead</h2>\n<div>Nick Tuvey</div>\n<br>\n<h2>QA Online Team</h2>\n<div>Ryan Swan</div>\n<br>\n<h2>CID Engineering Lead</h2>\n<div>Phillip Smith</div>\n<br>\n<h1>Production Services</h1>\n<br>\n<h2>Head of Production Services</h2>\n<div>Luke Hale</div>\n<br>\n<h2>Senior User Research Producer</h2>\n<div>Lukasz Stawarz</div>\n<br>\n<h2>Assistant User Research Producer</h2>\n<div>Mark Brett</div>\n<br>\n<h1>Shared Technology Group</h1>\n<br>\n<h2>Animation Programming</h2>\n<div>John Gowers</div>\n<br>\n<h2>Audio Tools Programming</h2>\n<div>Ben Jones</div>\n<br>\n<h2>Automation Engineering</h2>\n<div>Ellie Arrowsmith</div>\n<div>Andrew Bean</div>\n<div>Tobias Herold</div>\n<div>Sean Huntley</div>\n<br>\n<h2>DevOps Engineering</h2>\n<div>Sebastian Barton</div>\n<div>David Channing</div>\n<div>Marc Di Luzio</div>\n<div>Will Duxson</div>\n<div>Nasha Hiramiya</div>\n<div>Matthew Hunter</div>\n<div>Paul Schramm</div>\n<div>Dhanuka Wickramasurendra</div>\n<br>\n<h2>Leadership</h2>\n<div>Dan Bartle</div>\n<div>Mags Donaldson</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_17",
+      "source": "<div>Hamish Goodall</div>\n<div>Veechi Jha</div>\n<div>Austin Kelmore</div>\n<div>Ivan Kolev</div>\n<div>Jon Lewis</div>\n<div>Owen Mc Carthy</div>\n<div>Thomas Miller</div>\n<div>Olga Novikova</div>\n<div>Phillip Oedekoven Smith</div>\n<div>Anthony Simpson</div>\n<div>Tasos Tzimorotas</div>\n<div>James Wallis</div>\n<br>\n<h2>Localisation Tools Programming</h2>\n<div>Tarek ElShennawy</div>\n<div>James Goodridge</div>\n<br>\n<h2>Render Programming</h2>\n<div>Sara Caballero-Bruno</div>\n<div>Olivier Candel</div>\n<div>Bhuwan Chand</div>\n<div>Chris Cox</div>\n<div>Gert Dhaenens</div>\n<div>George Loines</div>\n<div>Ittai Mann</div>\n<div>Neo Nemeth</div>\n<br>\n<h2>Systems Programming</h2>\n<div>Richard Bennett</div>\n<div>Ian Collinson</div>\n<div>Katherine Coutts</div>\n<div>Matt Cumber</div>\n<div>Amedeo Cuttica</div>\n<div>Oliver Faircliff</div>\n<div>Sandra Fernandez Ferrer</div>\n<div>Joseph Harkness</div>\n<div>Harry Hollands</div>\n<div>Ged Keaveney</div>\n<div>Stewart McCready</div>\n<div>Sam Parsons</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_18",
+      "source": "<div>Tomás Pinto</div>\n<div>Evelyn Prokofeva</div>\n<div>Nicholas Stearns</div>\n<div>Michael Stephens</div>\n<div>Arthur Tombs</div>\n<div>Iain Wallington</div>\n<br>\n<h2>Technical Functionality QA</h2>\n<div>Taylor English</div>\n<div>Alanna Paxton</div>\n<div>Nick Prosser</div>\n<div>James Wheadon</div>\n<br>\n<h2>Technical Writing</h2>\n<div>Ira Borodaiko</div>\n<div>Maja Syrylak</div>\n<br>\n<h2>Tools Programming</h2>\n<div>Tom Bloom</div>\n<div>Oscar Bristow</div>\n<div>Resul Çelik</div>\n<div>Will Conroy</div>\n<div>Nicky Fieu</div>\n<div>Niklas Fredriksson</div>\n<div>Ben Green</div>\n<div>Martin Krüger</div>\n<div>Paul Margrave</div>\n<div>Jens Petter</div>\n<div>Michael Sesbreño</div>\n<div>Lewis Smith</div>\n<div>Liam Smith</div>\n<div>Matthias Van Enis</div>\n<div>Julien Villers</div>\n<div>Lamar Walters</div>\n<br>\n<h2>Tools UI/UX Design</h2>\n<div>Marinthe de Bokx</div>\n<div>Cara Dowey</div>\n<div>Laurenora Swain</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_19",
+      "source": "<h1>Frontier Developments plc</h1>\n<br>\n<h2>President and Founder</h2>\n<div>David Braben</div>\n<br>\n<h2>Chief Executive Officer</h2>\n<div>Jonny Watts</div>\n<br>\n<h2>Chief Financial Officer</h2>\n<div>Alex Bevis</div>\n<br>\n<h2>Chief Operating Officer</h2>\n<div>James Dixon</div>\n<br>\n<h2>Senior Director of Projects</h2>\n<div>Piers Jackson</div>\n<br>\n<h2>Senior Director of Development</h2>\n<div>Oscar Cooper</div>\n<br>\n<h2>Director of Technology</h2>\n<div>Matt Simper</div>\n<br>\n<h2>Head of Gameplay</h2>\n<div>Andy Scott</div>\n<br>\n<h2>Executive Assistant</h2>\n<div>Karen Leahy</div>\n<br>\n<h1>Operations</h1>\n<br>\n<h2>Director of Operations</h2>\n<div>Paula Wells</div>\n<br>\n<h2>Customer Support & Operations Manager</h2>\n<div>Samuel Warren</div>\n<br>\n<h2>Operations Support</h2>\n<div>Angelo Cataldo</div>\n<br>\n<h2>Privacy Compliance Manager</h2>\n<div>Jamie Cottage</div>\n<br>\n<h1>Studio Communications and Events</h1>\n<br>\n<h2>Senior Communications & Engagement Manager</h2>\n<div>Emily Martin</div>\n<br>\n<h2>Studio Communications Associate</h2>\n<div>Jess Abineri</div>\n<br>\n<h2>Studio Events Assistant</h2>\n<div>Angela Richards</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_2",
+      "source": "<h1>Programming</h1>\n<br>\n<h2>Programming Team</h2>\n<div>David Armstrong</div>\n<div>Alexander Ashford</div>\n<div>Josh Atkins</div>\n<div>John Bichard</div>\n<div>Robert Chisholm</div>\n<div>Dominic Corner</div>\n<div>Jack Cox</div>\n<div>Simon Devenish</div>\n<div>Jodie Duff</div>\n<div>Craig Forrester</div>\n<div>Nick Jackson</div>\n<div>Ged Keaveney</div>\n<div>Zi Jian Sim</div>\n<div>James Kime</div>\n<div>Brian Law</div>\n<div>Ben Maddison</div>\n<div>Jack Moorin</div>\n<div>Alistair Murray</div>\n<div>Andrew Perry</div>\n<div>Daniel Ratcliffe</div>\n<div>Arron Rawstron</div>\n<div>Stephen Rymill</div>\n<div>Joseph Saliba</div>\n<div>Cameron Sands</div>\n<div>Andy Scott</div>\n<div>Edd Sherlock</div>\n<div>Libby Sidebottom</div>\n<div>Ben Skinner Cassidy</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_20",
+      "source": "<h1>Localisation</h1>\n<br>\n<h2>Head of Localisation</h2>\n<div>Tamara Tirják</div>\n<br>\n<h2>Senior Localisation Manager</h2>\n<div>Ekaterina Zaytseva</div>\n<br>\n<h2>Technical Localisation Manager</h2>\n<div>Minerva Fontes Torres</div>\n<br>\n<h2>Localisation Manager</h2>\n<div>Mathilde Bernard</div>\n<div>Antonino Citrolo</div>\n<div>Jessie Wen</div>\n<br>\n<h2>Localisation Co-ordinator</h2>\n<div>Nikolai Drignat</div>\n<div>Ariadne Alcalá Collazo</div>\n<br>\n<h2>Localisation Assistant</h2>\n<div>Amie Cawley Fox</div>\n<br>\n<h1>Publishing</h1>\n<br>\n<h2>Director of Publishing</h2>\n<div>Vince Newland</div>\n<br>\n<h2>Head of Brand Marketing</h2>\n<div>Gemma Hall</div>\n<br>\n<h2>Head of Product</h2>\n<div>Dan King</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_21",
+      "source": "<br>\n<h2>Senior Brand Manager</h2>\n<div>Robyn Rutter</div>\n<br>\n<h2>Brand Manager</h2>\n<div>Rachel Maarek</div>\n<br>\n<h2>Junior Brand Manager</h2>\n<div>Harry Philbrook</div>\n<br>\n<h2>Head of Community, PR and Communications</h2>\n<div>Arthur Tolmie</div>\n<br>\n<h2>Principal PR & Communications Lead</h2>\n<div>Gem Woolnough</div>\n<br>\n<h2>Lead Community Manager</h2>\n<div>Lauren May</div>\n<br>\n<h2>Senior Community Manager</h2>\n<div>Paul Crowther</div>\n<br>\n<h2>Community Manager</h2>\n<div>Phil Weeks</div>\n<div>Chantal Williams</div>\n<br>\n<h2>PR Manager</h2>\n<div>Alex Bolton</div>\n<div>Kelly Rist</div>\n<br>\n<h2>Senior Digital Content Producer</h2>\n<div>Adam Jinkerson</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_22",
+      "source": "<h2>Influencer Manager</h2>\n<div>Kat May</div>\n<div>Chris Owen</div>\n<br>\n<h2>Head of Digital Marketing</h2>\n<div>Ross Fairhurst</div>\n<br>\n<h2>Performance Marketing Manager</h2>\n<div>Mark Evenden</div>\n<br>\n<h2>SEO Manager</h2>\n<div>Neil Duncan</div>\n<br>\n<h2>Digital Marketing Assistant</h2>\n<div>Larissa Patience</div>\n<br>\n<h1>Commercial</h1>\n<br>\n<h2>Head of Commercial</h2>\n<div>Luke Powter</div>\n<br>\n<h2>Commercial Manager</h2>\n<div>Tom Moore</div>\n<br>\n<h2>Senior Platform Manager</h2>\n<div>Sam Mellors</div>\n<br>\n<h2>Senior Platform Analyst</h2>\n<div>Josh Bullen</div>\n<br>\n<h2>Platform Administrator</h2>\n<div>Matthew Dimond</div>\n<br>\n<h2>With Thanks To:</h2>\n<div>Chad Young</div>\n<div>Marilena Papacosta</div>\n<div>Steve Woodward</div>\n<div>Craig Laycock</div>\n<div>Andrew Marshall</div>\n<div>Tim Smith</div>\n<div>Jens Vaaler</div>\n<div>Lydiah Moon</div>\n<div>Angela Richards</div>\n<div>Hollie Bennett</div>\n<div>Mike Hamilton</div>\n<div>Joshua Eames</div>\n<div>Frederico Silva</div>\n<div>Nuno Constancia</div>\n<div>Nathan Mills</div>\n<div>Francesca Falcini</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_23",
+      "source": "<h1>Creative Services</h1>\n<br>\n<h2>Head of Creative Services</h2>\n<div>Tom Hawkins</div>\n<br>\n<h2>Executive Creative Services Producer</h2>\n<div>Fitsy Polson</div>\n<br>\n<h2>Senior Producer</h2>\n<div>Colleen Shoemaker</div>\n<br>\n<h2>Producer</h2>\n<div>Sophia Donovan-Spalding</div>\n<br>\n<h2>Creative Development Lead</h2>\n<div>Luke Ritson</div>\n<br>\n<h2>Design Team Lead</h2>\n<div>Kerry Mallett</div>\n<br>\n<h2>Principal Creative Designer</h2>\n<div>James Clark</div>\n<br>\n<h2>Senior Graphics Designer</h2>\n<div>Taylea Enver</div>\n<br>\n<h2>Creative Designer</h2>\n<div>Lucy Clark</div>\n<br>\n<h2>Principal Marketing Artist</h2>\n<div>Alik Sarkisyan</div>\n<br>\n<h2>Senior Marketing Artist</h2>\n<div>Nakshatra Soni</div>\n<br>\n<h2>Principal Motion Graphics Artist</h2>\n<div>Chris Taylor</div>\n<br>\n<h2>Motion Graphics Artist</h2>\n<div>Edward Piper</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_24",
+      "source": "<h2>Media Team Lead</h2>\n<div>Samantha Cox</div>\n<br>\n<h2>Principal Video Artist</h2>\n<div>James Prior</div>\n<div>Jamie Russell</div>\n<div>Kyle Walker</div>\n<br>\n<h2>Senior Video Artist</h2>\n<div>Elle Smart</div>\n<div>Josh Hughes</div>\n<br>\n<h2>Video Artist</h2>\n<div>Joe Griffiths</div>\n<div>Melissa Cox</div>\n<div>Rich Hutson</div>\n<div>Shaun Wright</div>\n<br>\n<h2>Creative Services Audio Manager</h2>\n<div>Jamie Lewis</div>\n<br>\n<h2>Creative Services Audio Designer</h2>\n<div>Yin Lee</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_25",
+      "source": "<h2>With Thanks To:</h2>\n<div>Hannah Leckey</div>\n<div>Thanos Thymis</div>\n<div>Jess Tranfield</div>\n<div>Jack Gracie</div>\n<div>Emma Clayton</div>\n<div>Sarah Sanders</div>\n<div>Yulia Grabuzova</div>\n<div>Harry Morris</div>\n<div>Terry O'Leary</div>\n<div>Anant Pandey</div>\n<div>Jack Marsden</div>\n<div>Emma Gach</div>\n<div>Kieran Wilson</div>\n<div>Bahar Gümüşdağ</div>\n<div>Salvador Sanchez</div>\n<div>Federica De Marchi</div>\n<div>Pablo Anuarbe</div>\n<div>Somers Ashton-Lewis</div>\n<div>Sam Marsden</div>\n<div>Aleks Radivilovic</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_26",
+      "source": "<br>\n<h1>Web and Business Systems</h1>\n<br>\n<h2>Head of Web and Business Systems</h2>\n<div>Ian Pettitt</div>\n<br>\n<h2>Senior Online Services Producer</h2>\n<div>Hayley Snelgrove</div>\n<br>\n<h2>Principal Web Developer</h2>\n<div>Noel Chapman</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_27",
+      "source": "<h2>Senior Web Developer</h2>\n<div>Mark Bishop</div>\n<div>Nick Fellows</div>\n<div>Steven Knibbs</div>\n<div>Robbie Rudge</div>\n<br>\n<h2>Web Developer</h2>\n<div>Tom Bennett</div>\n<div>Mihai Zsigmond</div>\n<br>\n<h2>Junior Web Developer</h2>\n<div>Phillip Liu-Burns</div>\n<br>\n<h2>Principal Digital Designer</h2>\n<div>Luc Pestille</div>\n<br>\n<h2>Web Designer</h2>\n<div>George Shipman</div>\n<br>\n<h2>Senior IT Application Support Specialist</h2>\n<div>Glen Banyard</div>\n<br>\n<h2>Application Support Specialist</h2>\n<div>Joe Wilson</div>\n<br>\n<h2>Senior DevOps Engineer</h2>\n<div>Henry Webb</div>\n<br>\n<h2>Senior Business Systems Developer</h2>\n<div>Sam Spark</div>\n<br>\n<h2>Business Systems Developer</h2>\n<div>Harry Watson</div>\n<br>\n<h1>Online Services</h1>\n<br>\n<h2>Server Engineering Lead</h2>\n<div>Gavin Chapman</div>\n<br>\n<h2>Senior Server Developer</h2>\n<div>Aleksey Hmelnitsky</div>\n<br>\n<h2>Server Developer</h2>\n<div>Callum Brooks</div>\n<div>Autumn Lamb</div>\n<div>Karl Minton\t</div>\n<br>\n<h2>Graduate Server Developer</h2>\n<div>Charlie Middlemiss</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_28",
+      "source": "<br>\n<h2>Principal Data Engineer</h2>\n<div>Jonathan Gough</div>\n<br>\n<h2>Data Engineer</h2>\n<div>Aaron Daisley</div>\n<br>\n<h2>Data Analyst</h2>\n<div>Stewart Wright</div>\n<br>\n<h2>Principal Integration Engineer</h2>\n<div>Dolphin Hawkins</div>\n<br>\n<h2>Senior Integration Engineer</h2>\n<div>Mohammad Khashashneh</div>\n<br>\n<h1>Customer and Technical Support</h1>\n<br>\n<h2>Customer Support Manager</h2>\n<div>Steve Fry</div>\n<div>Neil Whelan</div>\n<br>\n<h2>Lead Customer and Technical Support</h2>\n<div>Mike Foster</div>\n<div>Jo Mossman</div>\n<br>\n<h2>Senior Customer and Technical Support</h2>\n<div>Jon Magnusson</div>\n<div>Michael Robinson-Collier</div>\n<br>\n<br>\n<h2>Customer and Technical Support</h2>\n<div>Tony Baldock</div>\n<div>Jade Low</div>\n<div>Chris Mead</div>\n<div>Bohua Yang</div>\n<br>\n<h2>Graduate Customer and Technical Support</h2>\n<div>James Meldrum</div>\n<div>Jake Pachent</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_29",
+      "source": "<div>Mathilde Reinbold</div>\n<div>Dan Wilde</div>\n<br>\n<h2>Community Safety Lead</h2>\n<div>Luke Batchelor</div>\n<br>\n<h2>Community Safety Representative</h2>\n<div>Katie Franklin</div>\n<br>\n<h2>Graduate Community Safety Representative</h2>\n<div>Milo Giacalone</div>\n<br>\n<h1>Finance</h1>\n<br>\n<h2>Head of Financial Operations and Corporate Tax</h2>\n<div>Amanda Alsop</div>\n<br>\n<h2>Head of Financial Operations and Corporate Finance</h2>\n<div>Tom Skidmore</div>\n<br>\n<h2>Tax and Corporate Finance Manager</h2>\n<div>Vinye Goh</div>\n<br>\n<h2>Finance Manager</h2>\n<div>George White</div>\n<br>\n<h2>Management Accountant</h2>\n<div>Lisa Parfrey</div>\n<br>\n<h2>Commercial Accountant</h2>\n<div>Maria Hadjioannou</div>\n<br>\n<h2>Payables Manager</h2>\n<div>Stephen Bargh</div>\n<br>\n<h2>Finance Assistant</h2>\n<div>Helen Docherty</div>\n<div>Rob Harrington</div>\n<br>\n<h1>HR & Talent</h1>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_3",
+      "source": "<div>Bertie Taylor</div>\n<div>Jenny Yang</div>\n<div>Haobo \"Young\" Yang</div>\n<br>\n<h1>Render</h1>\n<br>\n<h2>Principal Render Programmer</h2>\n<div>Ben Hathaway</div>\n<div>Les Long</div>\n<br>\n<h2>Render Programmer</h2>\n<div>John Wigg</div>\n<br>\n<h1>Game Server</h1>\n<br>\n<h2>Head of Online</h2>\n<div>Dav Stott</div>\n<br>\n<h2>Engineering Manager</h2>\n<div>Dave Capper</div>\n<br>\n<h2>Senior Game Server Developer</h2>\n<div>Samantha Fry</div>\n<br>\n<h2>Game Server Developer</h2>\n<div>Dan O'Brien</div>\n<div>James Cox</div>\n<div>Marc Gagne</div>\n<br>\n<h2>Graduate Game Server Developer</h2>\n<div>Vincent Gibbs</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_30",
+      "source": "<br>\n<h2>Head of HR</h2>\n<div>Yvonne Dawes</div>\n<br>\n<h2>Senior HR Business Partner</h2>\n<div>Laura Nemecek</div>\n<br>\n<h2>HR Business Partner</h2>\n<div>Charlotte Foulger</div>\n<div>Luke Tracey</div>\n<br>\n<h2>Senior HR Advisor</h2>\n<div>Shawnee Hawkins</div>\n<div>Hannah Lant</div>\n<div>Gilly Levett</div>\n<div>Amy Ratcliffe</div>\n<br>\n<h2>HR Advisor</h2>\n<div>Ryan Cotton</div>\n<div>Lucy O'Grady</div>\n<div>Chloe Tomkins-Russell</div>\n<div>Sean Smith</div>\n<br>\n<h2>HR Assistant</h2>\n<div>Sophie Wreathall</div>\n<br>\n<h1>Recruitment</h1>\n<br>\n<h2>Head of Talent</h2>\n<div>Rob Senior</div>\n<br>\n<h2>Learning & Development Manager</h2>\n<div>Leigh Williams</div>\n<br>\n<h2>Talent Acquisition Partner</h2>\n<div>Declan Blayney</div>\n<div>Lee Mowatt</div>\n<br>\n<h2>Senior Talent Acquisition Advisor</h2>\n<div>Matt Dunlop</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_31",
+      "source": "<div>Yaz Harniman</div>\n<br>\n<h2>Talent Acquisition Advisor</h2>\n<div>Louis Arnold</div>\n<div>Helen Bloomfield</div>\n<div>Emma Hickford</div>\n<br>\n<h2>Onboarding Coordinator</h2>\n<div>Rose Nagel-Wells</div>\n<br>\n<h1>IT</h1>\n<br>\n<h2>Director of IT</h2>\n<div>Nick Tramontin</div>\n<br>\n<h2>Head of IT</h2>\n<div>Matthew Marian</div>\n<br>\n<h2>IT Infrastructure Manager</h2>\n<div>Dave Field</div>\n<br>\n<h2>IT Project Manager</h2>\n<div>Joél Sutherland</div>\n<br>\n<h2>Principal IT Infrastructure Engineer</h2>\n<div>David Fairey</div>\n<br>\n<h2>Senior IT Infrastructure Engineer</h2>\n<div>Rob Browning</div>\n<div>Rees Hewson</div>\n<div>Josh Purcell</div>\n<br>\n<h2>Senior IT Application Support Specialist</h2>\n<div>Glen Banyard</div>\n<br>\n<h2>IT Infrastructure Engineer</h2>\n<div>Ryan Smith</div>\n<div>Steven Mathews</div>\n<br>\n<h2>IT Support Manager</h2>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_32",
+      "source": "<div>Ben Faiers</div>\n<br>\n<h2>IT Support Engineer</h2>\n<div>Tom Atherton</div>\n<div>Ashley Holden</div>\n<div>Josh Horwood</div>\n<div>Edward Hyde</div>\n<div>Taylor Matheron</div>\n<div>Stefan Norwood-Gregory-Scrivener</div>\n<div>Quo Pham</div>\n<div>Ash Riches</div>\n<div>Ben Turner</div>\n<div>Liam Walters</div>\n<div>Michael Wing</div>\n<br>\n<h2>IT Deployment Lead</h2>\n<div>John Gadd</div>\n<br>\n<h2>IT Deployment Engineer</h2>\n<div>John Cullom</div>\n<div>Aaron Gotts</div>\n<br>\n<h2>Information Security Specialist</h2>\n<div>Phill Slusar</div>\n<br>\n<h2>Information Security Analyst</h2>\n<div>Gordon Rayner</div>\n<br>\n<h1>Legal</h1>\n<br>\n<h2>General Counsel and Company Secretary</h2>\n<div>Jessica Bourne</div>\n<br>\n<h2>Senior Legal Counsel</h2>\n<div>Jake Campbell</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_33",
+      "source": "<br>\n<h2>Legal Counsel</h2>\n<div>Tom Brazier</div>\n<br>\n<h2>Contracts Paralegal</h2>\n<div>Sadila Ahmed</div>\n<br>\n<h1>Procurement & Licensing</h1>\n<br>\n<h2>Head of Procurement</h2>\n<div>Liz Mitchell</div>\n<br>\n<h2>Senior Procurement Specialist</h2>\n<div>Beth Lawty</div>\n<br>\n<h2>Procurement Specialist</h2>\n<div>Anna Nuttall</div>\n<div>Surinder Sund</div>\n<br>\n<h2>Procurement Coordinator</h2>\n<div>Emma Morton</div>\n<div>Leigh Sharples</div>\n<br>\n<h2>Purchasing Coordinator</h2>\n<div>Katie Fisher</div>\n<br>\n<h2>Licensing Executive</h2>\n<div>Mandy Johnson</div>\n<br>\n<h2>Licensing Supervisor</h2>\n<div>Eliza Rathbone</div>\n<br>\n<h1>Site Team</h1>\n<br>\n<h2>Head of Health, Safety and Facilities</h2>\n<div>Mark Bird</div>\n<br>\n<h2>Health and Safety Advisor</h2>\n<div>Adam Malins</div>\n<div>Hermanus du Preez</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_34",
+      "source": "<br>\n<h2>Senior Maintenance Engineer</h2>\n<div>Mark Holmes</div>\n<br>\n<h2>Maintenance Technician</h2>\n<div>Adam Cooke</div>\n<div>Simon Rudderham</div>\n<div>Paul Spaxman</div>\n<br>\n<h2>Workplace Coordinator</h2>\n<div>Meriel Gooch-Morgan</div>\n<br>\n<h2>Facilities Manager</h2>\n<div>Anna Chaplin</div>\n<br>\n<h2>Facilities Support Assistant</h2>\n<div>Alex Bray</div>\n<div>Abi Carter</div>\n<br>\n<h2>Receptionist</h2>\n<div>Chiara Hustin</div>\n<br>\n<h2>Security Officer</h2>\n<div>Alex Farrell</div>\n<br>\n<h2>Catering Manager</h2>\n<div>Diane Spreadborough</div>\n<br>\n<h2>Chef Manager</h2>\n<div>Yossi Galiko</div>\n<br>\n<h2>Chef de Partie</h2>\n<div>Franco Lorusso</div>\n<br>\n<h2>Chef</h2>\n<div>Linda Egriová</div>\n<br>\n<h2>Sous Chef</h2>\n<div>Jamie Scott</div>\n<div>Memory Chingosho</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_35",
+      "source": "<br>\n<h2>Catering Assistant</h2>\n<div>Laura Burley</div>\n<br>\n<h1>Art by Artery</h1>\n<br>\n<h2>CEO</h2>\n<div>Tamás Bakó</div>\n<br>\n<h2>CTO</h2>\n<div>Ádám Takács</div>\n<br>\n<h2>COO</h2>\n<div>István Lovász</div>\n<br>\n<h2>Head of Production</h2>\n<div>Péter Balogh</div>\n<br>\n<h2>Project Management</h2>\n<div>Viktória Illés</div>\n<br>\n<h2>Lead Supervisor</h2>\n<div>Attila Ádám</div>\n<br>\n<h2>Art Leads</h2>\n<div>Sándor Bagó</div>\n<div>Krisztián Beke</div>\n<div>Dávid Eke</div>\n<div>Tibor Orsós</div>\n<br>\n<h2>Artists</h2>\n<div>Tamás Gász</div>\n<div>Péter Hanzsér</div>\n<div>Krisztián Kroboth</div>\n<div>Zoltán Maróti</div>\n<div>Zoltán Tóth</div>\n<div>Péter Vatamány</div>\n<br>\n<h1>Art by Mindwalk</h1>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_36",
+      "source": "<h2>Studio Head</h2>\n<div>Zhang Jie</div>\n<br>\n<h2>Studio Environment Head</h2>\n<div>Zhang Hengyu</div>\n<br>\n<h2>Branch Studio Head</h2>\n<div>Wang Hao</div>\n<br>\n<h2>Account Manager</h2>\n<div>Wang Qi</div>\n<br>\n<h2>Project Manager</h2>\n<div>Elfy Liu</div>\n<div>Chili Ke</div>\n<br>\n<h2>Lead</h2>\n<div>Li Xiaocheng</div>\n<br>\n<h2>Artist</h2>\n<div>Sun Hao</div>\n<div>Liu Simeng</div>\n<br>\n<h1>Art by Redhot</h1>\n<br>\n<h2>Operation Head</h2>\n<div>Leo Ling</div>\n<br>\n<h2>Producer</h2>\n<div>Alex You</div>\n<div>Jia Zhan</div>\n<div>Tianhao Hu</div>\n<br>\n<h2>Art Director</h2>\n<div>Jingyuan Hong</div>\n<div>Xiangzi Luo</div>\n<br>\n<h2>Team Lead</h2>\n<div>Wei Chen</div>\n<div>Yujie Chen</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_37",
+      "source": "<div>Zhongliang Wang</div>\n<br>\n<h2>Artist</h2>\n<div>Zi Chen</div>\n<div>Xuewei Cui</div>\n<div>Jiaxu Guo</div>\n<div>Peiwen Li</div>\n<div>Yawen Liu</div>\n<div>Yangyang Liu</div>\n<div>Yaoyao Ma</div>\n<div>Duowen Wang</div>\n<div>Xinying Wang</div>\n<div>Zhongyan Wang</div>\n<div>Yao Yao</div>\n<div>Donglin Zhao</div>\n<div>Wenbo Zhao</div>\n<br>\n<h1>Animation by Lakshya</h1>\n<br>\n<h1>Studio Management</h1>\n<br>\n<h2>CEO</h2>\n<div>Manvendra Shukul</div>\n<br>\n<h2>Studio Director</h2>\n<div>Rob Olson</div>\n<br>\n<h2>Production Head</h2>\n<div>Anando Banerjee</div>\n<br>\n<h2>Studio Project Director</h2>\n<div>Manish Bhandari</div>\n<br>\n<h2>Studio Art Director</h2>\n<div>Anupam Thapliyal </div>\n<br>\n<h2>Studio Director  - Bengaluru</h2>\n<div>Raju Patil</div>\n<br>\n<h2>Studio Head - Pune</h2>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_38",
+      "source": "<div>Mayank Rajpoot</div>\n<br>\n<h2>Director of Business Development</h2>\n<div>Arjun Agnihotri</div>\n<br>\n<h2>Director of Customer Relations</h2>\n<div>Mukund Vasishta</div>\n<br>\n<h1>Project Management</h1>\n<br>\n<h2>Project Director</h2>\n<div>Uday Joshi</div>\n<br>\n<h2>Senior Project Manager</h2>\n<div>Rachit Misra</div>\n<br>\n<h2>Associate Project Manager</h2>\n<div>Ravinder Kumar Saini</div>\n<br>\n<h2>Project Co-ordinator</h2>\n<div>Debarati Paul</div>\n<br>\n<h1>Art Management</h1>\n<br>\n<h2>Animation Director</h2>\n<div>Lee Dowsett</div>\n<br>\n<h2>Senior Animation Lead</h2>\n<div>Karan Varma</div>\n<br>\n<h2>Animation Lead Level-2</h2>\n<div>Manish Malik</div>\n<br>\n<h2>Associate Animation Lead</h2>\n<div>Sanjay Lokhare</div>\n<br>\n<h2>Reviewer</h2>\n<div>Sindhu Tyagi</div>\n<br>\n<h1>Art</h1>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_39",
+      "source": "<br>\n<h2>Artist</h2>\n<div>Badal</div>\n<div>Nikhil Bhadviya</div>\n<div>Anandita Dharmadhikari</div>\n<div>Venu Gadde</div>\n<div>Dhruv Jitenkumar Pattni</div>\n<div>Acshay Kumar</div>\n<div>Akash Kumar</div>\n<div>Pramod Malviya</div>\n<div>Vinay Nandal</div>\n<div>Venkatesh Pathipati</div>\n<div>Ankit Singh</div>\n<div>Gagandeep Singh</div>\n<div>Jasmeet Singh</div>\n<div>Dilip Verma</div>\n<br>\n<h1>Technical Review</h1>\n<br>\n<h2>QC Artist</h2>\n<div>Ashu</div>\n<div>Ajit Singh Bhandari</div>\n<div>Kanchan Singh Bisht</div>\n<br>\n<br>\n<h1>Localisation by Local Heroes Worldwide B.V.</h1>\n<br>\n<h2>Localization Project Manager</h2>\n<div>Iris Kuppen</div>\n<div>Jelle Kihaishii-de Vaal</div>\n<br>\n<h1>Locsmiths - Brazilian Portuguese</h1>\n<br>\n<h2>Project Manager</h2>\n<div>Amanda do Prado</div>\n<div>Leonardo Orloski</div>\n<br>\n<h2>Translator</h2>\n<div>Caio Uliana</div>\n<div>Cristhian Herrera</div>\n<div>Juliana Moraes</div>\n<div>Thierry Carvalho Banhete</div>\n<br>\n<h2>Editor</h2>\n<div>Fábio Ludwig</div>\n<div>Murilo Martins</div>\n<br>\n<h1>QLOC S.A. - Czech</h1>\n<br>\n<h2>Project Manager</h2>\n<div>Paulina Bacia-Banaszek</div>\n<br>\n<h2>Translator</h2>\n<div>Filip Ženíšek</div>\n<br>\n<h2>Editor</h2>\n<div>Adam Hudec</div>\n<br>\n<h1>The Translation Fource - Dutch</h1>\n<br>\n<h2>Translator</h2>\n<div>Rutger Smit</div>\n<div>Sandra Vos</div>\n<br>\n<h2>Editor</h2>\n<div>René van Vemde</div>\n<br>\n<h1>Localize It! - Italian</h1>\n<br>\n<h2>Project Manager, Translator & Editor</h2>\n<div>Elena Zaffaroni</div>\n<br>\n<h2>Translator</h2>\n<div>Beatrice Ceruti</div>\n<div>Mirella Soffio</div>\n<br>\n<h2>Translator & Editor</h2>\n<div>Gaia Talamini</div>\n<br>\n<h1>Albion Localisations - Polish</h1>\n<br>\n<h2>Project Manager & Editor</h2>\n<div>Marcin Bojko</div>\n<br>\n<h2>Translator</h2>\n<div>Aleksandra Lubińska</div>\n<div>Michał Iwańczuk</div>\n<br>\n<h1>Cowbay Entertainment - Traditional Chinese</h1>\n<br>\n<h2>Project Manager & Editor</h2>\n<div>Sean Chen</div>\n<br>\n<h2>Translator</h2>\n<div>Tien-Fu Lan</div>\n<div>Shih-Keng Chang</div>\n<div>Ming Wu</div>\n<br>\n<h2>Reviewer</h2>\n<div>Chuan Lee</div>\n<br>\n<br>\n<h1>Localisation by Keywords Studios</h1>\n<br>\n<h2>Localisation QA</h2>\n<div>Keywords Studios Montréal</div>\n<br>\n<h2>Project Manager</h2>\n<div>Thomas Courtonne</div>\n<br>\n<h2>Test Lead</h2>\n<div>Celso Lopes</div>\n<div>Michael Pawel</div>\n<br>\n<h2>French LQA Tester</h2>\n<div>Lazaro Herrera</div>\n<br>\n<h2>Italian LQA Tester</h2>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_4",
+      "source": "<h1>Art</h1>\n<br>\n<h2>Head of Art</h2>\n<div>Jonathan Bottone</div>\n<div>David Hilborn</div>\n<br>\n<h2>Art Director</h2>\n<div>Dean Searle</div>\n<div>Peter Giles</div>\n<br>\n<h2>Principal Artist (Lead)</h2>\n<div>Fearn Hilborn</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_40",
+      "source": "<div>Luca Chiari</div>\n<br>\n<h2>German LQA Tester</h2>\n<div>Hans Schumacher</div>\n<br>\n<h2>Spanish LQA Tester</h2>\n<div>Germán Zamora</div>\n<br>\n<h2>Brazilian Portuguese LQA Tester</h2>\n<div>Evandro Souza</div>\n<br>\n<h2>Polish LQA Tester</h2>\n<div>Ewa Kochan</div>\n<br>\n<h2>Dutch LQA Tester</h2>\n<div>Hilko Appels</div>\n<div>Lotte Inkenhaag</div>\n<br>\n<h2>Czech LQA Tester</h2>\n<div>Petr Vrana</div>\n<div>Stanislava Laurinova</div>\n<br>\n<h2>Japanese LQA Tester</h2>\n<div>Tsubasa Takayanagi</div>\n<br>\n<h2>Korean LQA Tester</h2>\n<div>Sanghwa Han</div>\n<br>\n<h1>Lionbridge Games</h1>\n<br>\n<h2>Account Director</h2>\n<div>Thomas Buck</div>\n<br>\n<h1>LOCALIZATION (Barcelona)</h1>\n<br>\n<h2>Site Manager</h2>\n<div>Iina Sainio</div>\n<br>\n<h2>Program Manager</h2>\n<div>Enrique García Treviño</div>\n<br>\n<h2>Project Manager</h2>\n<div>Víctor Agenjo Sánchez</div>\n<br>\n<h2>Global Language Lead</h2>\n<div>Leo Ibanez</div>\n<br>\n<h1>German Translation Team</h1>\n<br>\n<h2>Translators</h2>\n<div>Nils Möckel</div>\n<div>Jan Trüper</div>\n<div>Marcel Schulz</div>\n<div>Ansgar Hastenpflug</div>\n<div>Bernhard Trecksel</div>\n<br>\n<h2>Editors</h2>\n<div>Philip Dietrich</div>\n<div>Martin Böcking</div>\n<div>Dominik Langer</div>\n<br>\n<h1>Spanish Translation Team</h1>\n<br>\n<h2>Translators</h2>\n<div>Aitor Aznar Orbea</div>\n<div>Lucía Collazo Soto</div>\n<div>Ramón Pouso Dios</div>\n<br>\n<h2>Editors</h2>\n<div>Sonia Alonso Santos</div>\n<div>Rubén Saavedra Álvarez</div>\n<div>Marta María Pérez Puerta</div>\n<br>\n<h1>French Translation Team</h1>\n<br>\n<h2>Translators</h2>\n<div>Antoine Gaudin</div>\n<div>Collin Fort</div>\n<div>Lise Capitan</div>\n<div>Marie Gros</div>\n<div>Monia Kim</div>\n<br>\n<h2>Editors</h2>\n<div>Antoine Gaudin</div>\n<div>Lise Capitan</div>\n<div>Pierrick Fleuriot</div>\n<br>\n<h1>Japanese Translation Team</h1>\n<br>\n<h2>Translators</h2>\n<div>Chi Ichikawa</div>\n<div>Kaori Komoriya</div>\n<div>Kosuke Takeda</div>\n<div>Kosuke Yamashita</div>\n<div>Go Endo</div>\n<div>Makoto Shimo</div>\n<br>\n<h2>Editors</h2>\n<div>Sho Yorimoto</div>\n<div>Tsumagari, Shotaro</div>\n<br>\n<h1>Chinese (Simplified) Translation Team</h1>\n<br>\n<h2>Translators</h2>\n<div>Astrid Du</div>\n<div>Kan Liu</div>\n<div>Megmeng</div>\n<div>Ruiyuan Li</div>\n<div>Ruohan Ye</div>\n<div>Yuxuan Qu</div>\n<br>\n<h2>Editors</h2>\n<div>Bernard Wiseman</div>\n<div>Kan Sun</div>\n<div>Tianning Wang</div>\n<br>\n<h1>Korean Translation Team</h1>\n<br>\n<h2>Translators</h2>\n<div>Thomas Oh</div>\n<div>Kim Dong Woo</div>\n<div>Kam Min Seok</div>\n<br>\n<h2>Editors</h2>\n<div>Lee Jae Hun</div>\n<br>\n<h1>German Linguistic Coordinators (Internal)</h1>\n<br>\n<h2>Linguistic Coordinators</h2>\n<div>Anne Westphal</div>\n<div>Moritz Kneuer</div>\n<br>\n<h1>French Linguistic Coordinators (Internal)</h1>\n<br>\n<h2>Linguistic Coordinators</h2>\n<div>Caroline Agudo</div>\n<div>Pierrick Fleuriot</div>\n<br>\n<h1>Chinese (Simplified) Linguistic Coordinators (Internal)</h1>\n<br>\n<h2>Project Manager</h2>\n<div>Geng Niankun</div>\n<br>\n<h2>Language Lead</h2>\n<div>Ma Yangyang</div>\n<br>\n<h1>Korean Linguistic Coordinators (Internal)</h1>\n<br>\n<h2>Language Lead</h2>\n<div>Lee Jiye</div>\n<div>Suna Choi</div>\n<br>\n<h1>VO Team (Barcelona)</h1>\n<br>\n<h2>Site Manager</h2>\n<div>Iina Sainio</div>\n<br>\n<h2>Program Manager</h2>\n<div>Víctor Agenjo Sánchez</div>\n<br>\n<h1>German VO Team</h1>\n<br>\n<h2>Audio Manager</h2>\n<div>Max Schäfer</div>\n<br>\n<h2>Audio Lead</h2>\n<div>David Sielaff</div>\n<br>\n<h2>Audio Production Assistant</h2>\n<div>Hanna Kopel</div>\n<br>\n<h2>Audio Engineer</h2>\n<div>Mi Nguyen</div>\n<br>\n<h2>Post-production Engineer</h2>\n<div>Christoph Schwarzer</div>\n<br>\n<h2>Booking Agent</h2>\n<div>Dirk Lewtschenko</div>\n<br>\n<h1>German Voice Talents & AD (Barcelona)</h1>\n<br>\n<h2>AD</h2>\n<div>Matthias Busch</div>\n<br>\n<h2>Nana Betty</h2>\n<div>Karin David</div>\n<br>\n<h2>Adriana Vega</h2>\n<div>Maria Burghardt</div>\n<br>\n<h2>Hank Brogan</h2>\n<div>Frank Röth</div>\n<br>\n<h2>Brad Newton</h2>\n<div>Christopher Arndt</div>\n<br>\n<h2>Eugene Newton</h2>\n<div>Vincent Fallow</div>\n<br>\n<h2>Oswald Thompson</h2>\n<div>Joshy Peters</div>\n<br>\n<h2>Kenta Suzuki</h2>\n<div>Jan Makino</div>\n<br>\n<h1>Spanish (Spain) VO Team</h1>\n<br>\n<h2>Audio Lead</h2>\n<div>David Rodríguez Feria</div>\n<div>Mario Pérez de Gea</div>\n<br>\n<h2>Audio Production Assistant</h2>\n<div>Irene Martínez Anta</div>\n<br>\n<h2>Audio Engineer</h2>\n<div>Xavir Mir Aliè</div>\n<div>Mario Sánchez Molina</div>\n<br>\n<h1>Spanish (Spain) Voice Talents & AD (Barcelona)</h1>\n<br>\n<h2>AD</h2>\n<div>Hermógenes Alonso</div>\n<br>\n<h2>Nana Betty</h2>\n<div>Marta Colomer</div>\n<br>\n<h2>Adriana Vega</h2>\n<div>Catalina Azlate</div>\n<br>\n<h2>Hank Brogan</h2>\n<div>Hermógenes Alonso</div>\n<br>\n<h2>Brad Newton</h2>\n<div>Mario Otero</div>\n<br>\n<h2>Eugene Newton</h2>\n<div>Miguel Antelo</div>\n<br>\n<h2>Oswald Thompson</h2>\n<div>Fernando de Luis</div>\n<br>\n<h2>Kenta Suzuki</h2>\n<div>Jordi Navarro</div>\n<br>\n<h1>French (France) VO Team</h1>\n<br>\n<h2>Audio Lead</h2>\n<div>Nicolas Franceschinel</div>\n<br>\n<h2>Audio Engineer</h2>\n<div>Bastien Cohen</div>\n<br>\n<h1>French (France) Voice Talents & AD (Barcelona)</h1>\n<br>\n<h2>AD</h2>\n<div>Camille MEENS</div>\n<br>\n<h2>Nana Betty</h2>\n<div>Brigitte GUEDJ</div>\n<br>\n<h2>Adriana Vega</h2>\n<div>Kaïna BLADA</div>\n<br>\n<h2>Hank Brogan</h2>\n<div>Frédéric Souterelle</div>\n<br>\n<h2>Brad Newton</h2>\n<div>Rémi GUTTON</div>\n<br>\n<h2>Eugene Newton</h2>\n<div>Mathias KOZLOWSKI</div>\n<br>\n<h2>Oswald Thompson</h2>\n<div>Jean-François AUPIED</div>\n<br>\n<h2>Kenta Suzuki</h2>\n<div>Stéphane FOURREAU</div>\n<br>\n<h1>Chinese (Simplified) VO Team</h1>\n<br>\n<h2>Audio Lead</h2>\n<div>Zhang Chun Min</div>\n<br>\n<h2>Audio Engineer</h2>\n<div>Liu Zhu Jin</div>\n<br>\n<h1>Chinese (Simplified) Voice Talents & AD (Barcelona)</h1>\n<br>\n<h2>AD</h2>\n<div>Chen Wei</div>\n<br>\n<h2>Nana Betty</h2>\n<div>Wu Xiang Tong</div>\n<br>\n<h2>Adriana Vega</h2>\n<div>Zhang Qi</div>\n<br>\n<h2>Hank Brogan</h2>\n<div>Liu Bei Chen</div>\n<br>\n<h2>Brad Newton</h2>\n<div>Cao Zhen</div>\n<br>\n<h2>Eugene Newton</h2>\n<div>Xu Xiang</div>\n<br>\n<h2>Oswald Thompson</h2>\n<div>Wang Yu Hang</div>\n<br>\n<h2>Kenta Suzuki</h2>\n<div>Liang Da Wei</div>\n<br>\n<h1>Korean VO Team</h1>\n<br>\n<h2>Audio Director</h2>\n<div>Michael Kong</div>\n<br>\n<h2>Audio Project Manager</h2>\n<div>Jinhwa Song</div>\n<br>\n<h2>Audio Engineer</h2>\n<div>Chansoon Hwang</div>\n<br>\n<h2>Script Adapter</h2>\n<div>Nayoung Hwang</div>\n<div>Minjin Kim</div>\n<br>\n<h1>Korean Voice Talents & AD (Barcelona)</h1>\n<br>\n<h2>AD</h2>\n<div>Inwook Yi</div>\n<br>\n<h2>Nana Betty</h2>\n<div>Hyunjung Um</div>\n<br>\n<h2>Adriana Vega</h2>\n<div>Arong Kim</div>\n<br>\n<h2>Hank Brogan</h2>\n<div>Janghyeok Ahn</div>\n<br>\n<h2>Brad Newton</h2>\n<div>Jinhong Kim</div>\n<br>\n<h2>Eugene Newton</h2>\n<div>Seunghoon Seok</div>\n<br>\n<h2>Oswald Thompson</h2>\n<div>Yeongchan Kim</div>\n<br>\n<h2>Kenta Suzuki</h2>\n<div>Sinwoo Kim</div>\n<br>\n<h1>Japanese VO Team</h1>\n<br>\n<h2>Audio Lead</h2>\n<div>Ryo Narigasawa</div>\n<br>\n<h2>Audio Project Manager</h2>\n<div>Ryo Narigasawa</div>\n<br>\n<h2>Audio Engineer</h2>\n<div>Ryo Narigasawa</div>\n<br>\n<h2>Audio Director</h2>\n<div>Shiori Nishitoba</div>\n<br>\n<h1>Japanese Voice Talents & AD (Barcelona)</h1>\n<br>\n<h2>AD</h2>\n<div>Yuki Amezawa</div>\n<div>Shaun Ono</div>\n<br>\n<h2>Nana Betty</h2>\n<div>Sayuri Sadaoka</div>\n<br>\n<h2>Adriana Vega</h2>\n<div>Haruna Kuramoto</div>\n<br>\n<h2>Hank Brogan</h2>\n<div>Akira Harada</div>\n<br>\n<h2>Brad Newton</h2>\n<div>Shimpei Harano</div>\n<br>\n<h2>Eugene Newton</h2>\n<div>Ryota Asari</div>\n<br>\n<h2>Oswald Thompson</h2>\n<div>Naomi Kusumi</div>\n<br>\n<h2>Kenta Suzuki</h2>\n<div>Koji Kawakami</div>\n<br>\n<h1>Spanish ( LATAM) VO Team</h1>\n<br>\n<h2>Audio Project Manager</h2>\n<div>Alejandra Oseguera</div>\n<br>\n<h2>Audio Lead</h2>\n<div>Mauricio López</div>\n<br>\n<h2>Audio Engineer</h2>\n<div>Mauricio López</div>\n<br>\n<h1>Spanish (LATAM) Voice Talents & AD (Barcelona)</h1>\n<br>\n<h2>AD</h2>\n<div>Jorge Roig Jr</div>\n<br>\n<h2>Adriana Vega</h2>\n<div>Catalina Alzate</div>\n<br>\n<h1>Legal</h1>\n<br>\n<div>Planet Coaster 2 © 2024-2025 Frontier Developments plc. Frontier, the Frontier logo, Planet Coaster, the Planet Coaster 2 logo, Cobra, and the Cobra logo, are trade marks of Frontier Developments plc, variably registered around the world. All rights reserved.</div>\n<br>\n<div>The use of this game is subject to Frontier’s End User Licence Agreement, available at https://www.frontier.co.uk/legal/eula.</div>\n<br>\n<div>Portions of this software utilize SpeedTree® technology (©2024 provided by Unity Technologies SF). All rights reserved.</div>\n<br>\n<div>Uses Oodle. Copyright © 2008-2024 by Epic Game Tools LLC.</div>\n<br>\n<div>Uses Coherent Labs user interface technology. Copyright © 2012-2024 Coherent Labs. All rights reserved.</div>\n<br>\n<div>Powered by Wwise © 2006-2024 Audiokinetic Inc. All rights reserved.</div>\n<br>\n<div>Use Simplygon®, Copyright © - 2024 Microsoft. All rights reserved.</div>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_5",
+      "source": "<h1>Concept Art</h1>\n<br>\n<h2>Concept Artist (Lead)</h2>\n<div>Andrej Horoschun\t</div>\n<br>\n<h2>Principal Concept Artist</h2>\n<div>Yann Blomquist</div>\n<br>\n<h2>Senior Concept Artist</h2>\n<div>Martin Ferenczi-Houlden</div>\n<div>Emma Haephrati\t</div>\n<div>Nicholas Tagney</div>\n<br>\n<h2>Concept Artist</h2>\n<div>Josh Matamoros Gallegos</div>\n<div>Ignat Komitov</div>\n<div>Connor Laffey</div>\n<div>Bryan van der Linden</div>\n<div>Jessica Piatti</div>\n<br>\n<h1>Character Art</h1>\n<br>\n<h2>Principal Artist (Lead)</h2>\n<div>Tom Carruthers</div>\n<br>\n<h2>Principal Artist</h2>\n<div>Stefan Scheffers</div>\n<br>\n<h2>Senior Artist</h2>\n<div>Lua Garo</div>\n<div>Maruf Nasir</div>\n<br>\n<h2>Artist</h2>\n<div>Bavo Mispelaere</div>\n<div>Lewis Ingall</div>\n<div>Michael Brook</div>\n<br>\n<h1>Ride Art</h1>\n<br>\n<h2>Principal Artist (Lead)</h2>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_6",
+      "source": "<div>Daniel Hitchen</div>\n<br>\n<h2>Senior Artist</h2>\n<div>Gary Crawford</div>\n<div>Dan Grebby</div>\n<div>Jon Millidge</div>\n<div>James Mitchell</div>\n<div>Jack Sharpe</div>\n<br>\n<h2>Artist</h2>\n<div>Connor Burns</div>\n<div>Jake Cooper</div>\n<div>Janet Simeonova</div>\n<div>Joe Edwards</div>\n<div>Kate Price</div>\n<div>Rory Durno</div>\n<br>\n<h1>Scenery Art</h1>\n<br>\n<h2>Principal Artist (Lead)</h2>\n<div>Anthony Almeida-Vega</div>\n<div>Danielle Shardlow</div>\n<br>\n<h2>Principal Artist</h2>\n<div>Carolyn Bailey</div>\n<div>James Wilkins</div>\n<br>\n<h2>Senior Artist</h2>\n<div>Lauren Duke</div>\n<div>Marko Kovacevic</div>\n<br>\n<h2>Artist</h2>\n<div>Dani Baldachino</div>\n<div>Sam Carman</div>\n<div>Morgan Jones</div>\n<div>Matthias Kimpe</div>\n<div>Kristel Konstantinova</div>\n<div>Daniil Nikulcha</div>\n<div>Elvin Ozsahin</div>\n<div>Matthias Schmitz</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_7",
+      "source": "<h2>Graduate Artist</h2>\n<div>Sara Lind</div>\n<div>Tom Lawler</div>\n<br>\n<h1>Environment Art</h1>\n<br>\n<h2>Principal Artist (Lead)</h2>\n<div>Florian Sollaneck</div>\n<br>\n<h2>Principal Artist</h2>\n<div>Alex Mourant</div>\n<div>Kris Paulsen</div>\n<div>Radek Walachnia</div>\n<br>\n<h2>Senior Artist</h2>\n<div>Ciaran Begley</div>\n<div>Christopher Martin</div>\n<br>\n<h2>Artist</h2>\n<div>Dipesh Patel</div>\n<div>Jamie Macleod</div>\n<br>\n<h2>Graduate Artist</h2>\n<div>Mikolaj Bakowski</div>\n<div>Rad Karbowski</div>\n<br>\n<h1>Material Art</h1>\n<br>\n<h2>Material Art Area Lead</h2>\n<div>Luke Darby</div>\n<br>\n<h2>Senior Material Artist</h2>\n<div>Kevin Mellier</div>\n<br>\n<h2>Material Artist</h2>\n<div>Niki Marinov</div>\n<div>Daniel Olondriz Rosique</div>\n<div>Alfie Summers</div>\n<br>\n<h1>Technical Art</h1>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_8",
+      "source": "<br>\n<h2>Director of Pipeline</h2>\n<div>Matt Dickinson</div>\n<br>\n<h2>Head of Technical Art (Lead)</h2>\n<div>Malcolm Kelly</div>\n<br>\n<h2>Principal Technical Artist</h2>\n<div>Kritter Griffin</div>\n<br>\n<h2>Senior Technical Artist</h2>\n<div>Dominic Noble</div>\n<br>\n<h2>Principal Pipeline Artist (Lead)</h2>\n<div>Liesa Bauwens</div>\n<br>\n<h2>Principal Pipeline Artist</h2>\n<div>Jess Van Der Tak</div>\n<br>\n<h2>Pipeline Artists</h2>\n<div>Sabina Piasecka</div>\n<br>\n<h2>Principal Shader Artist</h2>\n<div>Hywel Thomas</div>\n<br>\n<h2>Technical Artist</h2>\n<div>Arran Bidwell</div>\n<div>Aleksandr Kopii</div>\n<br>\n<h2>Python TD</h2>\n<div>Tasos Voutsinas</div>\n<br>\n<h1>VFX & Lighting</h1>\n<br>\n<h2>Head of VFX</h2>\n<div>James Avery</div>\n<br>\n<h2>Senior VFX Artist (Lead)</h2>\n<div>Selena McCabe</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_chunk_9",
+      "source": "<h2>Graduate VFX Artist</h2>\n<div>Michele De Donno</div>\n<br>\n<h2>Lighting Artist</h2>\n<div>Arianna Fusetti</div>\n<div>James Gunn</div>\n<br>\n<h1>Outsource Art and Animation</h1>\n<br>\n<h2>Head of Outsource</h2>\n<div>Michael Frost</div>\n<br>\n<h2>Senior Outsource Producer</h2>\n<div>Rupesh Mishra</div>\n<br>\n<h2>Outsource Support</h2>\n<div>Metin Kolsuk</div>\n<br>\n<h2>Senior Benchmark Artist</h2>\n<div>Daljit Singh</div>\n<br>\n<h1>Animation</h1>\n<br>\n<h2>Director of Art and Animation</h2>\n<div>Nick Rodgers</div>\n<br>\n<h2>Head of Animation</h2>\n<div>Chris Marsh</div>\n<br>\n<h2>Principal Animator (Lead)</h2>\n<div>Josh Shepherd</div>\n<br>\n<h2>Principal Animator</h2>\n<div>Fabian Pianzola</div>\n<div>Tim West</div>\n<div>Danny Wong</div>\n<br>\n<h2>Senior Animator</h2>\n<div>Elisa Capretto</div>\n<div>Lelio Casari</div>\n<div>Richard Dai</div>\n<div>Sakuna Kotchanin</div>\n<div>Jean Lee</div>\n<div>Gary Priest</div>\n<div>Cheng Weng Kee</div>\n<br>\n<h2>Animator</h2>\n<div>Paolo Costa</div>\n<div>Klara Dahlner Lindskoug</div>\n<div>Skye Edwards</div>\n<div>Phoebe Hunt</div>\n<div>Pedro Lewis</div>\n<div>Paulina Pütz</div>\n<div>Anna Sigfridsson</div>\n<div>Wenli Soon</div>\n<br>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_creditstext",
+      "source": "{Chunk_1}\n{Chunk_2}\n{Chunk_3}\n{Chunk_4}\n{Chunk_5}\n{Chunk_6}\n{Chunk_7}\n{Chunk_8}\n{Chunk_9}\n{Chunk_10}\n{Chunk_11}\n{Chunk_12}\n{Chunk_13}\n{Chunk_14}\n{Chunk_15}\n{Chunk_16}\n{Chunk_17}\n{Chunk_18}\n{Chunk_19}\n{Chunk_20}\n{Chunk_21}\n{Chunk_22}\n{Chunk_23}\n{Chunk_24}\n{Chunk_25}\n{Chunk_26}\n{Chunk_27}\n{Chunk_28}\n{Chunk_29}\n{Chunk_30}\n{Chunk_31}\n{Chunk_32}\n{Chunk_33}\n{Chunk_34}\n{Chunk_35}\n{Chunk_36}\n{Chunk_37}\n{Chunk_38}\n{Chunk_39}\n{Chunk_40}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_locstringlist",
+      "source": "Chunk_1,\nChunk_2,\nChunk_3,\nChunk_4,\nChunk_5,\nChunk_6,\nChunk_7,\nChunk_8,\nChunk_9,\nChunk_10,\nChunk_11,\nChunk_12,\nChunk_13,\nChunk_14,\nChunk_15,\nChunk_16,\nChunk_17,\nChunk_18,\nChunk_19,\nChunk_20,\nChunk_21,\nChunk_22,\nChunk_23,\nChunk_24,\nChunk_25,\nChunk_26,\nChunk_27,\nChunk_28,\nChunk_29,\nChunk_30,\nChunk_31,\nChunk_32,\nChunk_33,\nChunk_34,\nChunk_35,\nChunk_36,\nChunk_37,\nChunk_38,\nChunk_39,\nChunk_40",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_pause",
+      "source": "Pause",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_resume",
+      "source": "Resume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "credits_togglespeed",
+      "source": "Toggle Speed",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_01_title",
+      "source": "Stone Shell Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_02_title",
+      "source": "Red Swirly Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_03_title",
+      "source": "Rustic Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_04_title",
+      "source": "Sandstone Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_05_title",
+      "source": "Asphalt Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_06_title",
+      "source": "Gravel Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_07_title",
+      "source": "Blue Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_08_title",
+      "source": "Brick Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_09_title",
+      "source": "Mosaic Wooden Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_101_title",
+      "source": "Natural Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_102_title",
+      "source": "Sandy Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_10_title",
+      "source": "Jazzy Mosaic Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_11_title",
+      "source": "Blue Swirly Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_12_title",
+      "source": "Square Flagstones Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_13_title",
+      "source": "Vinyl Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_14_title",
+      "source": "Cobblestone Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_15_title",
+      "source": "Vertical Wooden Plank Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_16_title",
+      "source": "Horizontal Wooden Plank Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_path_invisible_title",
+      "source": "Invisible Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_pool_01_title",
+      "source": "Small Tile Pool",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_pool_02_title",
+      "source": "Small Tile Pool",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_pool_03_title",
+      "source": "Concrete Pool",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_pool_04_title",
+      "source": "Medium Tile Pool",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_pool_05_title",
+      "source": "Large Marble Tile Pool",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_pooledge_01_title",
+      "source": "Grey Tiled Pool Edge",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_pooledge_02_title",
+      "source": "White Tiled Pool Edge",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_pooledge_03_title",
+      "source": "Wood Plank Pool Edge",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_pooledge_04_title",
+      "source": "Terracotta Tile Pool Edge",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_pooledge_05_title",
+      "source": "Sandstone Pool Edge",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_queue_01_title",
+      "source": "Vinyl Queue Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_queue_02_title",
+      "source": "Blue Queue Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_queue_03_title",
+      "source": "Rustic Queue Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_queue_04_title",
+      "source": "Brick Queue Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_queue_05_title",
+      "source": "Vertical Wooden Queue Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_queue_06_title",
+      "source": "Horizontal Wooden Queue Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_queue_07_title",
+      "source": "Arrow Queue Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_queue_invisible_title",
+      "source": "Invisible Queue",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_railing_01_title",
+      "source": "Painted Metal Railing",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_railing_02_title",
+      "source": "Polished Wood Railing",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_railing_03_title",
+      "source": "Metal Coaster Railing",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_railing_04_title",
+      "source": "Wooden Beam Railing",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_railing_05_title",
+      "source": "Metal Park Railing",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "pathresource_staffpath_01_title",
+      "source": "Staff Path",
+      "context": "",
+      "max_length": null
+    }
+  ]
+}

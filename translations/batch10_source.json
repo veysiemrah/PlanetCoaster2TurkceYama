@@ -1,0 +1,868 @@
+{
+  "items": [
+    {
+      "key": "naturescene_01",
+      "source": "Nature Scene 1",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_01_desc",
+      "source": "Nature scene",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_02",
+      "source": "Nature Scene 2",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_02_desc",
+      "source": "Nature scene",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_03",
+      "source": "Nature Scene 3",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_03_desc",
+      "source": "Nature scene",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_04",
+      "source": "Nature Scene 4",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_04_desc",
+      "source": "Nature scene",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_05",
+      "source": "Nature Scene 5",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_05_desc",
+      "source": "Nature scene",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_06",
+      "source": "Nature Scene 6",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_06_desc",
+      "source": "Nature scene ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_07",
+      "source": "Nature Scene 7",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_07_desc",
+      "source": "Nature scene ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_08",
+      "source": "Nature Scene 8",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_08_desc",
+      "source": "Nature scene ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_09",
+      "source": "Nature Scene 9",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_09_desc",
+      "source": "Nature scene ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_10",
+      "source": "Nature Scene 10",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_10_desc",
+      "source": "Nature scene ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_11",
+      "source": "Nature Scene 11",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_11_desc",
+      "source": "Nature scene ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_12",
+      "source": "Nature Scene 12",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_12_desc",
+      "source": "Nature scene",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_13",
+      "source": "Nature Scene 13",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_13_desc",
+      "source": "Nature scene",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_14",
+      "source": "Nature Scene 14",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_14_desc",
+      "source": "Nature scene",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_15",
+      "source": "Nature Scene 15",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "naturescene_15_desc",
+      "source": "Nature scene",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_aquaticcorrugated",
+      "source": "Aquatic Corrugated",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_aquaticmetalbevelled",
+      "source": "Aquatic Metal Bevelled",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_fairytalecastle",
+      "source": "Fairytale Castle",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_festive_gingerbread",
+      "source": "Festive Gingerbread",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_limeplaster",
+      "source": "Lime Plaster",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_mythologymarble",
+      "source": "Mythology Marble",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_mythologystonemarket",
+      "source": "Mythology Stone Market",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_mythologystoneruin",
+      "source": "Mythology Stone Ruin",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_planetbreezeblock",
+      "source": "Planet Breeze Block",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_planetbrick",
+      "source": "Planet Brick",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_planetmodernwood",
+      "source": "Planet Modern Wood",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_planetpanel",
+      "source": "Planet Panel",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_planetroughconcrete",
+      "source": "Planet Rough Concrete",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_planetwoodenbeam",
+      "source": "Planet Wooden Beam",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_resortbamboo",
+      "source": "Resort Bamboo",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_resortplaster",
+      "source": "Resort Plaster",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_resortwoodenwall",
+      "source": "Resort Wooden Wall",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_sandstone",
+      "source": "Pirate Sandstone",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_scifimetalalloy",
+      "source": "Sci-Fi Metal Alloy",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_sorcery_keep",
+      "source": "Keep Stone",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_sorcery_town",
+      "source": "Townhouse Brick",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_stucco",
+      "source": "Stucco",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_toybox_cardboard",
+      "source": "Toybox Cardboard",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_vikingstone",
+      "source": "Viking Stone",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_vikingwooden",
+      "source": "Viking Wooden",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_westernclassicbrick",
+      "source": "Western Classic Brick",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_westernwoodbatten",
+      "source": "Western Wood Batten",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "filter_wallset_westernwoodplank",
+      "source": "Western Wood Plank",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_ar",
+      "source": "Arabic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_bg",
+      "source": "Bulgarian",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_cs",
+      "source": "Czech",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_da",
+      "source": "Danish",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_de",
+      "source": "German",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_el",
+      "source": "Greek",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_en",
+      "source": "English",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_es",
+      "source": "Spanish",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_fi",
+      "source": "Finnish",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_fr",
+      "source": "French",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_hu",
+      "source": "Hungarian",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_it",
+      "source": "Italian",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_ja",
+      "source": "Japanese",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_ko",
+      "source": "Korean",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_nl",
+      "source": "Dutch",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_no",
+      "source": "Norwegian",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_other",
+      "source": "Other",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_pl",
+      "source": "Polish",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_pt",
+      "source": "Portuguese",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_pt-br",
+      "source": "Portuguese Brazil",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_ro",
+      "source": "Romanian",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_ru",
+      "source": "Russian",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_sv",
+      "source": "Swedish",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_th",
+      "source": "Thai",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_tr",
+      "source": "Turkish",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_uk",
+      "source": "Ukrainian",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_zh-hans",
+      "source": "Simplified Chinese",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newsletterlanguage_zh-hant",
+      "source": "Traditional Chinese",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_basemonthlycost",
+      "source": "Base Daily Cost",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_contains",
+      "source": "Contains",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_containsdesc",
+      "source": "Menu items are made up of ingredients. Adding extra ingredients will make a menu item more appealing, but will also increase the shop's running costs and potentially cater to fewer guests' dietary preferences.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_containsrestaurant",
+      "source": "Contains",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_containsrestaurantdesc",
+      "source": "Changing or adding ingredients can make a menu item more appealing and increase guest satisfaction, but may also increase the shop's running cost and potentially cater to fewer guests' dietary restrictions.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_costsforitem",
+      "source": "Costs For Menu Item",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_extras",
+      "source": "Extras",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_extrasmonthlycost",
+      "source": "Extras Daily Cost",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_extrastockcost",
+      "source": "Extra Stock Cost",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_forsale",
+      "source": "For Sale",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_guestdietarydesc",
+      "source": "Each ingredient can satisfy a guest to increase their happiness, but may put off guests with a relevant dietary restriction.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_guestdietarysatisfaction",
+      "source": "Guest Dietary Satisfaction",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_guestdietcoverage",
+      "source": "Guest Diet Coverage",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_guestfoodsatisfaction",
+      "source": "Guest Food Satisfaction",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_guesthungersatisfaction",
+      "source": "Guest Drink Satisfaction",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_gueststhatcanconsume",
+      "source": "Guests that can consume this item",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_increasesguestsatisfaction",
+      "source": "Increases Guest Satisfaction",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_ingredientcost",
+      "source": "Ingredient Cost",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_ingredients",
+      "source": "Ingredients",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_monthlystockcost",
+      "source": "Monthly Stock Cost",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_nodescription",
+      "source": "There is no description available for this product.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_notforsale",
+      "source": "Not For Sale",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_notonmenu",
+      "source": "Not on menu",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_onmenu",
+      "source": "On Menu",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_showmerch",
+      "source": "Show Merchandise",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_stockcost",
+      "source": "Stock Cost Per Item Sold",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_syncacrossshops",
+      "source": "Sync across shops",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_totalmonthlycost",
+      "source": "Total Daily Cost",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shop_totalstockcost",
+      "source": "Total Stock Cost",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_bodyflume",
+      "source": "Body Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_bodyflume_desc",
+      "source": "A curved flume with a variety of bowls and loops, and no need for a mat or raft!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_bodyslide",
+      "source": "Body Slide",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_bodyslide_desc",
+      "source": "A simple water slide with high angle slopes for guests to enjoy.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_bodyslidewide",
+      "source": "Body Slide Wide",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_bodyslidewide_desc",
+      "source": "A wider water slide with high angle slopes for guests to enjoy.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_innertubeflume",
+      "source": "Inner Tube Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_innertubeflume_desc",
+      "source": "A flume for guests to slide down on an inflatable rubber ring.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_innertubeflumedouble",
+      "source": "Double Inner Tube Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_innertubeflumedouble_desc",
+      "source": "A flume for two guests to slide down on a double inflatable rubber ring.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_matflume",
+      "source": "Mat Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_matflume_desc",
+      "source": "A flume for guests to slide down on a mat.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_model_bodyflume",
+      "source": "Body Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_model_bodyslide",
+      "source": "Body Slide",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_model_halfpipeslide",
+      "source": "Half Pipe Slide",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_model_innertubeflume",
+      "source": "Inner Tube Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_model_innertubeflumedouble",
+      "source": "Double Inner Tube Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_model_matflume",
+      "source": "Mat Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_model_narrowlogflume",
+      "source": "Narrow Log Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_model_raftflume",
+      "source": "Raft Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_model_riverrapids",
+      "source": "River Rapids",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_model_widelogflume",
+      "source": "Wide Log Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_model_wideslide",
+      "source": "Wide Slide",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_raftflume",
+      "source": "Raft Flume",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_raftflume_desc",
+      "source": "A flume for guests to slide down on a raft.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_riverrapids",
+      "source": "River Rapids",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_riverrapids_desc",
+      "source": "A classic water ride where riders sit in circular rafts and travel along flowing sections of water.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_testslide",
+      "source": "TEST SLIDE TO BE DELETED!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "water_testslide_desc",
+      "source": "TEST SLIDE TO BE DELETED!",
+      "context": "",
+      "max_length": null
+    }
+  ]
+}

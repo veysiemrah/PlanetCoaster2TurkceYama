@@ -1,0 +1,970 @@
+{
+  "items": [
+    {
+      "key": "challenges_buildcoaster_label",
+      "source": "Coaster Challenge",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_complete",
+      "source": "{ChallengeType} Complete!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_delete",
+      "source": "Delete this Challenge",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_empty",
+      "source": "No active Challenge",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storybuildcoaster_averagespeed",
+      "source": "Coaster Average Speed:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storybuildcoaster_cycletime",
+      "source": "Coaster Runtime:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storybuildcoaster_excitement",
+      "source": "Coaster Excitement:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storybuildcoaster_length",
+      "source": "Coaster Length:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storybuildcoaster_maxdrop",
+      "source": "Coaster Drop:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storybuildcoaster_maxspeed",
+      "source": "Coaster Speed:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storybuildcoaster_numairtime",
+      "source": "Coaster Airtime Moments:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storybuildcoaster_numinversions",
+      "source": "Coaster Inversions:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storybuildcoaster_totalairtime",
+      "source": "Coaster Total Airtime Seconds:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storycashprofitall",
+      "source": "Monthly Profit:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storycashprofitcoasters",
+      "source": "Monthly Coasters Profit:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storycashprofitrides",
+      "source": "Monthly Ride Profit:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storycashprofitshopsfacilities",
+      "source": "Monthly Shops / Facilities Profit:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storycatchpickpockets",
+      "source": "Pickpockets Caught:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyfireworksdisplay",
+      "source": "Guests Looking at Fireworks:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyguesthappiness",
+      "source": "Average Guest Happiness:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyguesthappiness_needguests",
+      "source": "Required Guests:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storykeeptheftvictimslow",
+      "source": "Theft Victims:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storymonthcountdown",
+      "source": "Months Left:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storymonthspassed",
+      "source": "Months Where Targets Were Met:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storymonthtimer",
+      "source": "Month Progress:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storynostaffleavecurrent",
+      "source": "Hired {StaffTypes}:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storynostaffleaveprogress",
+      "source": "Month Progress:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyparkratingall",
+      "source": "Park Rating:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyparkratingbalance",
+      "source": "Park Balance Bonus:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyparkratingrides",
+      "source": "Ride Rating:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyparkratingscenery",
+      "source": "Scenery Rating:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storypercentage",
+      "source": "{Value:float:decimalPlaces=0}%/{Target:float:decimalPlaces=0}%",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyridequeuescenerycurrent",
+      "source": "Current Average:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyridequeuesceneryridecount",
+      "source": "Open Rides and Ride Stations:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storystaffhappiness",
+      "source": "Challenges_StoryStaffHappiness",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyvalueandtarget",
+      "source": "{Value:float:decimalPlaces=0} / {Target:float:decimalPlaces=0}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyvalueandtarget2dp",
+      "source": "{Value:float:decimalPlaces=0} / {Target:float:decimalPlaces=0}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyvalueandtargetcurr",
+      "source": "{Value:currency}/{Target:currency}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyvalueandtargetformatted",
+      "source": "{Value} / {Target}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyvalueandtargetint",
+      "source": "{Value:int} / {Target:int}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenges_storyvalueandtargetmonths",
+      "source": "{Value:float:decimalPlaces=0} / {Target:float:decimalPlaces=0} months",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_browserrotate",
+      "source": "Select Browser / Rotate Object",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_cameraholdmove",
+      "source": "(Hold) Move",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_cameraholdrotate",
+      "source": "(Hold) Rotate",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_cameramove",
+      "source": "Move",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_camerarotate",
+      "source": "Rotate",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_camerascrollzoom",
+      "source": "(Scroll) Zoom",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_camerazoom",
+      "source": "Zoom",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_cancel",
+      "source": "Back",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_changespeed",
+      "source": "Cycle Speed",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_confirm",
+      "source": "Confirm Selection",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_empty",
+      "source": "",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_hold",
+      "source": "(Hold)",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_holdplus",
+      "source": "(Hold) +",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_holdslopestairs",
+      "source": "(Hold) Build Slopes/Stairs",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_lookaround",
+      "source": "Look Around",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_managementoptions",
+      "source": "Select Management Options",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_multiselect",
+      "source": "(Hold) Open Multi-Select",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_multiselectadd",
+      "source": "Multi-Select",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_navmenu",
+      "source": "Navigate Menu",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_or",
+      "source": "or",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_parkmanagement",
+      "source": "Open Park Management",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_pause",
+      "source": "Pause",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_pickup",
+      "source": "Pick Up Staff",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_place",
+      "source": "Place",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_plus",
+      "source": "+",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_radial",
+      "source": "Radial Menu",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_raiselower",
+      "source": "Raise / Lower Object",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_redo",
+      "source": "Redo",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_remove",
+      "source": "Delete Selection",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_removetap",
+      "source": "(tap) Delete Selection",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_ridecamera",
+      "source": "Open Ride Camera",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_rotate",
+      "source": "Rotate Object",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_select",
+      "source": "Select",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_selectbrowser",
+      "source": "Select Browser",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_selectguest",
+      "source": "Select Guest",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_selectpathbrowser",
+      "source": "Select Path Browser",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_selectride",
+      "source": "Select Ride",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_selectstaffroom",
+      "source": "Select Staff Building",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_slopestairs",
+      "source": "Build Slopes/Stairs",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_switchtabs",
+      "source": "Switch Tabs",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "hint_undo",
+      "source": "Undo",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_at",
+      "source": "Austria",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_au",
+      "source": "Australia",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_be",
+      "source": "Belgium",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_bg",
+      "source": "Bulgaria",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_br",
+      "source": "Brazil",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_ca",
+      "source": "Canada",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_ch",
+      "source": "Switzerland",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_cn",
+      "source": "China",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_cz",
+      "source": "Czech Republic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_de",
+      "source": "Germany",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_es",
+      "source": "Spain",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_fi",
+      "source": "Finland",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_fr",
+      "source": "France",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_gb",
+      "source": "United Kingdom",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_gr",
+      "source": "Greece",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_hk",
+      "source": "Hong Kong",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_hu",
+      "source": "Hungary",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_id",
+      "source": "Indonesia",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_ie",
+      "source": "Ireland",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_il",
+      "source": "Israel",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_in",
+      "source": "India",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_it",
+      "source": "Italy",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_jp",
+      "source": "Japan",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_kr",
+      "source": "South Korea",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_mx",
+      "source": "Mexico",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_my",
+      "source": "Malaysia",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_nl",
+      "source": "Netherlands",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_no",
+      "source": "Norway",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_nz",
+      "source": "New Zealand",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_other",
+      "source": "Other",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_ph",
+      "source": "Philippines",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_pl",
+      "source": "Poland",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_pr",
+      "source": "Puerto Rico",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_pt",
+      "source": "Portugal",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_ro",
+      "source": "Romania",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_ru",
+      "source": "Russia",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_se",
+      "source": "Sweden",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_th",
+      "source": "Thailand",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_tr",
+      "source": "Turkey",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_ua",
+      "source": "Ukraine",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettercountry_us",
+      "source": "United States",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_custom_blank_grey",
+      "source": "Blank Grey",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_cosmiccow_square",
+      "source": "Cosmic Cow Milkshakes - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_cosmiccow_wide",
+      "source": "Cosmic Cow Milkshakes",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_gulpee_square",
+      "source": "Gulpee Soda - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_gulpee_wide",
+      "source": "Gulpee Soda",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_lattelove_square",
+      "source": "Latte Love - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_lattelove_wide",
+      "source": "Latte Love",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_pipshotjuice_square",
+      "source": "Pipshot Juice - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_pipshotjuice_wide",
+      "source": "Pipshot Juice",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_slushhour_square",
+      "source": "Slush Hour - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_slushhour_wide",
+      "source": "Slush Hour",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_sodalightful_square",
+      "source": "Soda Lightful - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_drink_sodalightful_wide",
+      "source": "Soda Lightful",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_enteringhyperspace",
+      "source": "Entering Hyperspace",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_chiefbeef_square",
+      "source": "Chief Beef - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_chiefbeef_wide",
+      "source": "Chief Beef",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_gelatobros_square",
+      "source": "Gelato Bros - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_gelatobros_wide",
+      "source": "Gelato Bros",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_hayasushi_square",
+      "source": "Haya Sushi - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_hayasushi_wide",
+      "source": "Haya Sushi",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_hotdogsquad_square",
+      "source": "Hotdog Squad - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_hotdogsquad_wide",
+      "source": "Hotdog Squad",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_pizzapen_square",
+      "source": "Pizza Pen - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_pizzapen_wide",
+      "source": "Pizza Pen",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_vivalavegan_square",
+      "source": "Viva La Vegan - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_food_vivalavegan_wide",
+      "source": "Viva La Vegan",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_gasgiant",
+      "source": "Gas Giant",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_inhyperspace",
+      "source": "In Hyperspace",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_none",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_souvenir_hatsfantastic_square",
+      "source": "Hats Fantastic - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_souvenir_hatsfantastic_wide",
+      "source": "Hats Fantastic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_souvenir_justamomento_square",
+      "source": "Just A Momento - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_souvenir_justamomento_wide",
+      "source": "Just A Momento",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_souvenir_loonybloons_square",
+      "source": "Loony Blooons - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_souvenir_loonybloons_wide",
+      "source": "Loony Blooons",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_souvenir_splashemporium_square",
+      "source": "Splash Emporium - Square",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_souvenir_splashemporium_wide",
+      "source": "Splash Emporium",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presettexture_starfield",
+      "source": "Star Field",
+      "context": "",
+      "max_length": null
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+Toplam: 30
+---
+KEY: vo_adrianavega_buildingthebifrost_intro_010
+EN:  Oh, good, you're here! I've got some great news for you! [sentiment=Happy]
+TR:  Oh, iyi ki geldin! Sana harika haberlerim var! [sentiment=Happy]
+---
+KEY: vo_adrianavega_chapter2_080
+EN:  Oh, I'm so pleased! I can't wait to see what we will achieve together! íAdios! [sentiment=Happy]
+TR:  Oh, ne kadar sevindim! Birlikte neler ba■araca­²m²z² g÷rmek iin sab²rs²zlan²yorum! íAdios! [sentiment=Happy]
+---
+KEY: vo_adrianavega_labyrinthsecrets_silver_040
+EN:  Oh, underground? No, they escaped years ago. [sentiment=Confident]
+TR:  Oh, yeralt²nda m²? Hay²r, y²llar ÷nce kat²lar. [sentiment=Confident]
+---
+KEY: vo_adrianavega_lazyriverland_bronze_060
+EN:  Oh, I couldn't possibly. There's too much happening with the park to- [sentiment=Shocked]
+TR:  Oh, ben giremem ki. Parkta bu kadar ■ey olurken- [sentiment=Shocked]
+---
+KEY: vo_adrianavega_lostmonument_intro_080
+EN:  Oh, um, yes! That's exactly right. Sorry, I'm just not used to anyone really knowing who they are... [sentiment=Shocked]
+TR:  Oh, evet! Kesinlikle ÷yle. Íz³r dilerim, kimsenin gerekten kim olduklar²n² bilmesine al²■k²n de­ilim... [sentiment=Shocked]
+---
+KEY: vo_bradnewton_coastercanyon_intro_110
+EN:  Oh, woah, no pressure thenà Well, uh, let's do this thing! [sentiment=Happy]
+TR:  Oh, vay be, hi bask² yok o zaman... Neyse, haydi ba■layal²m! [sentiment=Happy]
+---
+KEY: vo_bradnewton_twinpeaks_outro_050
+EN:  Oh yeah, the agent! I bet they're feeling pretty silly now, eh, Hank? [sentiment=Confident]
+TR:  Oh evet, ajan! Ìimdi kendini baya­² aptal hissediyordur, de­il mi Hank? [sentiment=Confident]
+---
+KEY: vo_bradnewton_vomitworld_bronze_010
+EN:  Oh woah-ho-ho, these guests really are thrill seekers! [sentiment=Happy]
+TR:  Oh vay-hay-hay, bu ziyaretiler gerekten adrenalin d³■k³n³! [sentiment=Happy]
+---
+KEY: vo_eugenenewton_lazyriverland_intro_090
+EN:  Oh, are you sure? Then... what should I do? [sentiment=Fear]
+TR:  Oh, emin misin? Peki... ben ne yapmal²y²m o zaman? [sentiment=Fear]
+---
+KEY: vo_eugenenewton_tutorial1_bronze_120
+EN:  Oh, Oswald. I do wish you'd stop telling people that... although that does remind me, I must buy some more polish for that trophy. It was looking rather dull the last time I was cuddling it. [sentiment=Neutral]
+TR:  Oh Oswald. Ke■ke insanlara bunu s÷ylemekten vazgesen... her ne kadar bu kupa iin biraz daha cilalay²c² almam gerekti­ini hat²rlatsa da. Son g÷r³■³mde biraz donuk g÷r³n³yordu. [sentiment=Neutral]
+---
+KEY: vo_eugenenewton_tutorial1_bronze_240
+EN:  Oh, and remember to open the ride like you did earlier on. But actuallyà (ponders) that would make it B-E-E-P-A-O, wouldn't it? Hmm, doesn't have the same ring to it. [sentiment=Neutral]
+TR:  Oh, ve bini■i daha ÷nce yapt²­²n gibi amay² unutma. Ama asl²nda... (d³■³n³r) bu onu B-G-Ã-Y-G-A yapar, de­il mi? Hmm, pek ak²lda kalm²yor. [sentiment=Neutral]
+---
+KEY: vo_eugenenewton_tutorial1_bronze_240_alt
+EN:  Oh, and remember to open the ride like you did earlier on. [sentiment=Neutral]
+TR:  Oh, ve bini■i daha ÷nce yapt²­²n gibi amay² unutma. [sentiment=Neutral]
+---
+KEY: vo_eugenenewton_tutorial1_bronze_240_alt3
+EN:  Oh, and don't forget to open the ride! Actuallyà (ponders) that would make it B-E-E-P-O, wouldn't it? Hmm... doesn't have the same ring to it. [sentiment=Fear]
+TR:  Oh, ve bini■i amay² unutma! Asl²nda... (d³■³n³r) bu onu B-G-Ã-Y-A yapar, de­il mi? Hmm... pek ak²lda kalm²yor. [sentiment=Fear]
+---
+KEY: vo_nanabetty_archipelago_gold_070
+EN:  Oh, (innocent chuckle) yes, I was just saying the same thing myself... but I must be going- [sentiment=Happy]
+TR:  Oh, (masum bir k²k²rdamayla) evet, ben de ayn² ■eyi s÷yl³yordum... ama gitmem laz²m- [sentiment=Happy]
+---
+KEY: vo_nanabetty_chapter4_010
+EN:  Oh my dearies, what you have achieved so far is nothing short of extraordinary! And now, you find yourselves on the cusp of joining the Nana Betty family.  [sentiment=Happy]
+TR:  Oh canlar²m, ■imdiye kadar ba■ard²klar²n²z ola­an³st³! Ve ■imdi Nana Betty ailesine kat²lman²n e■i­indesiniz. [sentiment=Happy]
+---
+KEY: vo_nanabetty_gardenpark_gold_050
+EN:  Oh, yes. (Chuckle) I was just saying how brilliantly you've all been doing. [sentiment=Happy]
+TR:  Oh, evet. (K²k²rdar) Hepinizin ne kadar g³zel i■ ²kard²­²n² s÷yl³yordum. [sentiment=Happy]
+---
+KEY: vo_nanabetty_gardenpark_outro_090
+EN:  Oh, (Awkward Laugh) just a little inside joke, that's all. Oh, what a little devil, ey? (Chuckles) [sentiment=Confused]
+TR:  Oh, (Beceriksiz Kahkaha) sadece k³³k bir i espri, hepsi bu. Oh, ne ■eytan misin! (K²k²rdar) [sentiment=Confused]
+---
+KEY: vo_nanabetty_planningpermissionfailure_gold_090
+EN:  Oh, thank you deary, you're ever so kind. [sentiment=Happy]
+TR:  Oh, te■ekk³r ederim can²m, ok naziksin. [sentiment=Happy]
+---
+KEY: vo_nanabetty_planningpermissionfailure_intro_090
+EN:  Oh, I try to visit often. I have a soft spot in my heart for this place, I tell you. [sentiment=Happy]
+TR:  Oh, s²k s²k u­ramaya al²■²r²m. Bu yerin kalbimde ÷zel bir yeri var, gerekten. [sentiment=Happy]
+---
+KEY: vo_nanabetty_planningpermissionfailure_silver_060
+EN:  Oh (chuckle) so it is. Oh, please forgive an old woman's eyes. They aren't what they used to be.  [sentiment=Happy]
+TR:  Oh (k²k²rdar) ÷yle mi. Oh, ya■l² kad²n²n g÷zlerini ba­²■lay²n. Eskisi gibi g÷remiyorlar art²k. [sentiment=Happy]
+---
+KEY: vo_oswaldthompson_coastline_intro_110
+EN:  Oh, donÆt you worry. WhatÆs a little debt between friends? [sentiment=Happy]
+TR:  Oh, merak etmeyin. Dostlar aras²nda biraz bor ne ki? [sentiment=Happy]
+---
+KEY: vo_oswaldthompson_duellingparks_gold_040
+EN:  Oh, he'll come around. All that anger doesn't disappear with the snap of your fingers. All we can do is keep showing him that we're not the people he thinks we are. [sentiment=Neutral]
+TR:  Oh, zamanla yumu■ar. Parmaklar² ²tlatmakla o ÷fke gitmez. Tek yapabilece­imiz, sand²­² insanlar olmad²­²m²z² g÷stermeye devam etmek. [sentiment=Neutral]
+---
+KEY: vo_oswaldthompson_duellingparks_outro_050
+EN:  Oh, 'perfect'? You'll make me blush! [sentiment=Happy]
+TR:  Oh, 'm³kemmel' mi? Y³z³m k²zar²yor! [sentiment=Happy]
+---
+KEY: vo_oswaldthompson_duellingparks_silver_020
+EN:  Oh, we're not going anywhere! I know we haven't always seen eye to eye, but if there's one thing I've learned with my years, it's that the client is always right. [sentiment=Confident]
+TR:  Oh, hibir yere gitmiyoruz! Her zaman ayn² fikirde olmasak da, y²llar²m²n bana ÷­retti­i ■u: m³■teri her zaman hakl²d²r. [sentiment=Confident]
+---
+KEY: vo_oswaldthompson_epilogue_010
+EN:  Oh, good! You made it! I gathered you all here today as Hank has some BIG news he'd like to share! [sentiment=Neutral]
+TR:  Oh, iyi! Geldiniz! Hank'in payla■mak istedi­i B▄Y▄K bir haberi oldu­undan hepinizi burada toplad²m! [sentiment=Neutral]
+---
+KEY: vo_oswaldthompson_planningpermissionfailure_intro_080
+EN:  Oh, Nana Betty, it is an honour! What brings you to this neck of the woods today? [sentiment=Neutral]
+TR:  Oh, Nana Betty, ne b³y³k onur! Bug³n bu tarafa ne getirdi sizi? [sentiment=Neutral]
+---
+KEY: vo_oswaldthompson_planningpermissionfailure_intro_110
+EN:  Oh, your kindness is always unmatched, but you needn't go out of your way. We have it all in hand here at Coaster Coast! [sentiment=Happy]
+TR:  Oh, iyili­iniz e■siz; ama kendinizi zahmet ettirmeyin. Her ■ey Coaster Coast'ta ÷z³l³r! [sentiment=Happy]
+---
+KEY: vo_oswaldthompson_tutorial1_gold_240
+EN:  Oh, (chuckles) gets him every time... [sentiment=Happy]
+TR:  Oh, (k²k²rdar) her seferinde yakalan²yor... [sentiment=Happy]
+---
+KEY: vo_oswaldthompson_tutorial1_outro_150
+EN:  Oh ho, that is a beauty! Terrific work, you two! This is a coaster that truly deserves a place in the spotlight, so how about we put together an Advertisement to mark the occasion, hmm? Head to the Advertising tab in the Park Management menu, and let's show the world what the park has to offer! [sentiment=Happy]
+TR:  Oh ho, bu bir ■aheser! Siz ikiniz muhte■em i■ ²kard²n²z! Bu, gerekten ²■²klar² hak eden bir h²z treni; haydi bunu ilan etmek iin bir Reklam haz²rlayal²m, di mi? Park Y÷netimi men³s³ndeki Reklam sekmesine gidin; d³nyaya park²n sunduklar²n² g÷sterelim! [sentiment=Happy]
+---
+KEY: vo_oswaldthompson_tutorial1_silver_040
+EN:  Oh, Eugene, you needn't always push for perfection. Right now, our duty is to these fine Planconians and their basic needs.  [sentiment=Confident]
+TR:  Oh Eugene, her zaman m³kemmeliyetili­e gerek yok. Ìu an g÷revimiz, bu g³zel Plankonyal²lara ve temel ihtiyalar²na bakmak. [sentiment=Confident]

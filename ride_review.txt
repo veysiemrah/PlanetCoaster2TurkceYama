@@ -1,0 +1,487 @@
+=== 360 Power ===
+  fr_360power                                             -> 360 Power
+  techtreelabel_360power                                  -> 360 Güç
+=== Accelerator Coaster ===
+  techtreelabel_acceleratorcoaster                        -> Hızlandırıcı Hız Treni
+=== Adults and Teens Only ===
+  tag_coaster_ride_teenadult                              -> Yalnızca Yetişkin ve Gençler
+=== Alternate Lift ===
+  tag_coaster_ride_alternatelift                          -> Alternatif Kaldırma
+=== Animal ===
+  techtreelabel_animal                                    -> Hayvan
+=== Antique Powered Cars ===
+  powered_model_antiquepoweredcars                        -> Antika Motorlu Arabalar
+  powered_ptr_lunaautos                                   -> Antika Motorlu Arabalar
+=== Antique Water Coaster ===
+  techtreelabel_antiquewatercoaster                       -> Antika Su Hız Treni
+=== Anton ===
+  techtreelabel_anton                                     -> Anton
+=== Aquatic Buoyancy ===
+  aq_flatride_buoyancy                                    -> Aquatic Buoyancy
+  techtreelabel_aquaticbuoyancy                           -> Su Kaldırma Kuvveti
+=== Aquatic Collider ===
+  aq_flatride_collider                                    -> Aquatic Collider
+  techtreelabel_aquaticcollider                           -> Su Çarpıştırıcısı
+=== Aquatic Forge ===
+  aq_flatride_forge                                       -> Aquatic Forge
+  techtreelabel_aquaticforge                              -> Su Dövme Ocağı
+=== Aquatic Hammer Swing ===
+  aq_flatride_hammerswing                                 -> Aquatic Hammer Swing
+  techtreelabel_aquatichammerswing                        -> Su Eğlence Birimi Sallantısı
+=== Aquatic Monsoon Chute ===
+  aq_flatride_monsoonchute                                -> Aquatic Monsoon Chute
+  techtreelabel_aquaticmonsoonchute                       -> Su Muson Kanalı
+=== Aquatic Teacups ===
+  aq_flatride_teacups                                     -> Aquatic Teacups
+  techtreelabel_aquaticteacups                            -> Su Çay Fincanları
+=== Aquatic Tiny Eye ===
+  aq_flatride_tinyeye                                     -> Aquatic Tiny Eye
+  techtreelabel_aquatictinyeye                            -> Su Tiny Eye
+=== Backfire ===
+  techtreelabel_backfire                                  -> Geri Ateş
+=== Behemoth Swing 360 ===
+  fr_behemothswing360                                     -> Behemoth Swing 360
+  techtreelabel_behemothswing360                          -> Behemoth 360 Sallantı
+=== Big Wheel ===
+  fr_bigwheel                                             -> Büyük Dönme Dolap
+  techtreelabel_bigwheel                                  -> Dönme Dolap
+=== Boardslide ===
+  fr_boardslide                                           -> Boardslide
+  techtreelabel_boardslide                                -> Tahta Kayış
+=== Body Flume ===
+  water_bodyflume                                         -> Vücut Kanal Kaydırağı
+  water_model_bodyflume                                   -> Vücut Kanal Kaydırağı
+=== Body Slide ===
+  water_bodyslide                                         -> Vücut Kaydırağı
+  water_model_bodyslide                                   -> Vücut Kaydırağı
+=== Body Slide Wide ===
+  water_bodyslidewide                                     -> Geniş Vücut Kaydırağı
+=== Boomerang ===
+  techtreelabel_boomerang                                 -> Bumerang
+=== Bumpin' Derby ===
+  fr_bumpinderby                                          -> Bumpin' Derby
+  techtreelabel_bumpinderby                               -> Çarpışma Derbisi
+=== Buoyancy ===
+  fr_buoyancy                                             -> Buoyancy
+  techtreelabel_buoyancy                                  -> Kaldırma Kuvveti
+=== Cable Car ===
+  techtreelabel_cablecar                                  -> Teleferik
+  transport_model_cablecar                                -> Teleferik
+  transport_tr_gondola                                    -> Teleferik
+=== Cable Lift ===
+  tag_coaster_ride_cablelift                              -> Kablo Kaldırma
+=== Can Invert ===
+  tag_coaster_ride_caninvert                              -> Ters Dönebilir
+=== Can Part Invert ===
+  tag_coaster_ride_partinvert                             -> Kısmen Ters Dönebilir
+=== Cannot Invert ===
+  tag_coaster_ride_noninvert                              -> Ters Dönemez
+=== Chain Lift ===
+  tag_coaster_ride_chainlift                              -> Zincir Kaldırma
+=== Chair-O-Plane ===
+  fr_chairoplane                                          -> Chair-O-Plane
+  techtreelabel_chairoplane                               -> Uçan Sandalye
+=== Chairlift ===
+  transport_model_chairlift                               -> Sandalyeli Teleferik
+=== City Peninsula ===
+  techtreelabel_citypeninsula                             -> Şehir Yarımadası
+=== Cloud Surfer ===
+  techtreelabel_cloudsurfer                               -> Bulut Sörfçüsü
+=== Collider ===
+  fr_collider                                             -> Collider
+  techtreelabel_collider                                  -> Çarpıştırıcı
+=== Conlan ===
+  techtreelabel_conlan                                    -> Conlan
+=== Crazy Mouse ===
+  techtreelabel_crazymouse                                -> Deli Fare
+=== Dart Kinetics ===
+  techtreelabel_dartkinetics                              -> Dart Kinetik
+=== Dazer ===
+  techtreelabel_dazer                                     -> Dazer
+=== Deep Sea Continental ===
+  techtreelabel_deepseacontinental                        -> Derin Deniz Kıtası
+=== Dive ===
+  techtreelabel_dive                                      -> Dalış
+=== Double Inner Tube Flume ===
+  techtreelabel_doubleinnertubeflume                      -> Çift İç Tüp Kaydırağı
+  water_innertubeflumedouble                              -> Çift Lastik Halkalı Kaydırak
+  water_model_innertubeflumedouble                        -> Çift Lastik Halkalı Kaydırak
+=== Drive Tyre Lift ===
+  tag_coaster_ride_drivetyrelift                          -> Tahrik Lastiği Kaldırma
+=== Eddie Fun Mitchell Company ===
+  techtreelabel_eddiefunmitchellcompany                   -> Eddie Fun Mitchell Şirketi
+=== FD Enterprises ===
+  techtreelabel_fdenterprises                             -> FD Enterprises
+=== FD Vision ===
+  techtreelabel_bigmsrides                                -> FD Vision
+  techtreelabel_fdvision                                  -> FD Vision
+=== Family Train ===
+  powered_model_familytrain                               -> Aile Treni
+  powered_ptr_familytrain                                 -> Aile Treni
+  techtreelabel_familytrain                               -> Aile Treni
+=== Flight Of The Condor ===
+  techtreelabel_flightofthecondor                         -> Kondorun Uçuşu
+=== Floorless ===
+  techtreelabel_floorless                                 -> Tabansız
+=== For All Ages ===
+  tag_coaster_ride_allages                                -> Her Yaşa Uygun
+=== Forge ===
+  fr_forge                                                -> Forge
+  techtreelabel_forge                                     -> Dövme Ocağı
+=== Frenzy Frill ===
+  fr_frenzyfrill                                          -> Frenzy Frill
+  techtreelabel_frenzyfrill                               -> Çılgın Kanat
+=== Friction Wheel Launch ===
+  tag_coaster_ride_frictionwheellaunch                    -> Sürtünme Tekerlekli Fırlatma
+=== Friction Wheel Lift ===
+  tag_coaster_ride_frictionwheellift                      -> Sürtünme Tekerlekli Kaldırma
+=== Full Flight ===
+  fr_fullflight                                           -> Full Flight
+  techtreelabel_fullflight                                -> Tam Uçuş
+=== Ghost Train ===
+  powered_model_ghosttrain                                -> Hayalet Treni
+  powered_ptr_hoax                                        -> Hayalet Treni
+  techtreelabel_ghosttrain                                -> Hayalet Treni
+=== Giant Inverted Boomerang ===
+  techtreelabel_giantinvertedboomerang                    -> Dev Ters Bumerang
+=== Giovanni ===
+  techtreelabel_giovanni                                  -> Giovanni
+=== Go Kart ===
+  powered_model_gokart                                    -> Go-Kart
+  powered_ptr_speed                                       -> Go-Kart
+  techtreelabel_gokart                                    -> Go-Kart
+=== Grand Carousel ===
+  fr_grandcarousel                                        -> Büyük Atlıkarınca
+=== Grand Coasters Worldwide ===
+  techtreelabel_grandcoastersworldwide                    -> Grand Coasters Worldwide
+=== Groundswell ===
+  techtreelabel_groundswell                               -> Yer Dalgası
+=== Half Pipe Slide ===
+  water_model_halfpipeslide                               -> Yarım Boru Kaydırağı
+=== Hammer Swing ===
+  fr_hswing                                               -> Hammer Swing
+  techtreelabel_hammerswing                               -> Çekiç Sallantısı
+=== Hellion Ring ===
+  fr_hellionring                                          -> Hellion Ring
+  techtreelabel_hellionring                               -> Şeytan Halkası
+=== Helter Skelter ===
+  fr_helterskelter                                        -> Helter Skelter
+  techtreelabel_helterskelter                             -> Helter Skelter
+=== High Peaks Construction ===
+  techtreelabel_highpeaksconstruction                     -> High Peaks Construction
+=== Hopper ===
+  techtreelabel_hopper                                    -> Zıplayıcı
+=== Hydraulic Launch ===
+  tag_coaster_ride_hydrlaunch                             -> Hidrolik Fırlatma
+=== Hyperspin ===
+  fr_hyperspin                                            -> Hyperspin
+  techtreelabel_hyperspin                                 -> Hiper Dönüş
+=== Impulsion ===
+  techtreelabel_impulsion                                 -> İmpuls
+=== Inner Tube Flume ===
+  techtreelabel_innertubeflume                            -> İç Tüp Kaydırağı
+  water_innertubeflume                                    -> Lastik Halkalı Kaydırak
+  water_model_innertubeflume                              -> Lastik Halkalı Kaydırak
+=== Insanity ===
+  fr_insanity                                             -> Insanity
+  techtreelabel_insanity                                  -> Delilik
+=== Inverted Powered - 4 Seater ===
+  powered_model_invertedpowered4seat                      -> Ters Motorlu - 4 Kişilik
+=== Inverter ===
+  techtreelabel_inverter                                  -> Çevirici
+=== Iron Claw ===
+  fr_ironclaw                                             -> Iron Claw
+=== Junior Coaster ===
+  techtreelabel_juniorcoaster                             -> Küçük Hız Treni
+=== K.H Norter ===
+  techtreelabel_khnorter                                  -> K.H Norter
+=== Kick-Flip ===
+  fr_kickflip                                             -> Kick-Flip
+=== Kingdom Isle ===
+  techtreelabel_kingdomisle                               -> Kingdom Isle
+=== Knotted ===
+  techtreelabel_knotted                                   -> Düğümlü
+=== LSM ===
+  tag_coaster_ride_lsm                                    -> LSM
+=== Lift ===
+  transport_model_lift                                    -> Asansör
+=== Limitless ===
+  techtreelabel_limitless                                 -> Sınırsız
+=== Linear Induction Motor ===
+  tag_coaster_ride_linindmotor                            -> Lineer İndüksiyon Motoru
+=== Linear Syncronous Motor ===
+  tag_coaster_ride_linsynmotor                            -> Lineer Senkronize Motor
+=== Looping ===
+  techtreelabel_looping                                   -> Looping
+=== Looping Shuttle ===
+  techtreelabel_loopingshuttle                            -> Looping Mekik
+=== Masha ===
+  techtreelabel_masha                                     -> Masha
+=== Mat Flume ===
+  techtreelabel_matflume                                  -> Paspas Kaydırağı
+  water_matflume                                          -> Minderli Kaydırak
+  water_model_matflume                                    -> Minderli Kaydırak
+=== Mecha Roller ===
+  fr_mecharoller                                          -> Mecha Roller
+  techtreelabel_mecharoller                               -> Mekanik Roller
+=== Minder ===
+  techtreelabel_minder                                    -> Gözetci
+=== Mine Train ===
+  techtreelabel_minetrain                                 -> Maden Treni
+=== Monorail ===
+  techtreelabel_monorail                                  -> Monoray
+  transport_lightline                                     -> Monoray
+  transport_model_monorail                                -> Monoray
+=== Monsoon Chute ===
+  fr_monsoonchute                                         -> Monsoon Chute
+  techtreelabel_monsoonchute                              -> Muson Kanalı
+=== Monte Leone ===
+  fr_weisshorn                                            -> Monte Leone
+=== Mountain Descent ===
+  techtreelabel_mountaindescent                           -> Dağ İnişi
+=== Movement Construction ===
+  techtreelabel_movementconstruction                      -> Hareket İnşaatı
+=== Multi-Axis Dark Ride ===
+  powered_model_multiaxisdark                             -> Çok Eksenli Kapalı Eğlence Birimi
+=== Murphy Rides ===
+  techtreelabel_murphyrides                               -> Murphy Rides
+=== Murphy and Son ===
+  techtreelabel_murphyandson                              -> Murphy ve Oğlu
+=== Mythology Boardslide ===
+  my_flatride_boardslide                                  -> Mythology Boardslide
+  techtreelabel_mythologyboardslide                       -> Mitoloji Tahta Kayış
+=== Mythology Overpower ===
+  my_flatride_overpower                                   -> Mythology Overpower
+=== Mythology Parallelogram ===
+  my_flatride_parallelogram                               -> Mythology Parallelogram
+=== Mythology Synchronise ===
+  my_flatride_clockwork                                   -> Mythology Synchronise
+=== Mythology Teacups ===
+  my_flatride_teacups                                     -> Mythology Teacups
+=== Mythology The Cube ===
+  my_flatride_thecube                                     -> Mythology The Cube
+=== Mythology The Cube 02 ===
+  my_flatride_thecube_02                                  -> Mythology The Cube 02
+=== Narrow Log Flume ===
+  techtreelabel_narrowlogflume                            -> Dar Tomruk Kaydırağı
+  water_model_narrowlogflume                              -> Dar Kütük Kızağı
+=== Outamax ===
+  techtreelabel_outamax                                   -> Outamax
+=== Outback ===
+  techtreelabel_outback                                   -> Outback
+=== Overpower ===
+  fr_overpower                                            -> Overpower
+  techtreelabel_overpower                                 -> Aşırı Güç
+=== Parallelogram ===
+  fr_parallelogram                                        -> Parallelogram
+  techtreelabel_parallelogram                             -> Paralelkenar
+=== Pathos III ===
+  fr_pathosiii                                            -> Pathos III
+=== Pearl Rides ===
+  techtreelabel_pearlrides                                -> Pearl Rides
+=== Planet Coaster Sun Flare ===
+  pc_flatride_sunflare                                    -> Planet Coaster Sun Flare
+  techtreelabel_planetcoastersunflare                     -> Planet Coaster Güneş Parlaması
+=== Planet Coaster Synchronise ===
+  pc_flatride_clockwork                                   -> Planet Coaster Synchronise
+=== Planet Coaster Teacups ===
+  pc_flatride_teacups                                     -> Planet Coaster Teacups
+=== Planet Coaster Wild Blue ===
+  pc_flatride_wildblue                                    -> Planet Coaster Wild Blue
+  techtreelabel_planetcoasterwildblue                     -> Planet Coaster Wild Blue
+=== Pneumatic Launch ===
+  tag_coaster_ride_pneumaticlaunch                        -> Pnömatik Fırlatma
+=== Polarity ===
+  fr_polarity                                             -> Polarity
+  techtreelabel_polarity                                  -> Kutupluluk
+=== Pony Trek ===
+  powered_model_ponytrek                                  -> Midilli Yürüyüşü
+=== Powa ===
+  techtreelabel_powa                                      -> Powa
+=== Powered Automated Vehicle ===
+  powered_model_poweredautomated                          -> Motorlu Otomatik Araç
+  powered_ptr_tracker                                     -> Motorlu Otomatik Araç
+  techtreelabel_poweredautomatedvehicle                   -> Motorlu Otomatik Araç
+=== Powered Rotating Ride ===
+  powered_model_poweredrotating                           -> Motorlu Döner Eğlence Birimi
+=== Premium Rides ===
+  techtreelabel_premiumrides                              -> Premium Rides
+=== Radius ===
+  fr_radius                                               -> Radius
+  techtreelabel_radius                                    -> Yarıçap
+=== Raft Flume ===
+  techtreelabel_raftflume                                 -> Sal Kaydırağı
+  techtreelabel_raftflumeblueprint                        -> Sal Kaydırağı
+  water_model_raftflume                                   -> Sallı Kaydırak
+  water_raftflume                                         -> Sallı Kaydırak
+=== Resort Boardslide ===
+  re_flatride_boardslide                                  -> Resort Boardslide
+  techtreelabel_resortboardslide                          -> Resort Tahta Kayış
+=== Resort Forge ===
+  re_flatride_forge                                       -> Resort Forge
+  techtreelabel_resortforge                               -> Resort Dövme Ocağı
+=== Resort Monsoon Chute ===
+  re_flatride_monsoonchute                                -> Resort Muson Şutü
+  techtreelabel_resortmonsoonchute                        -> Resort Muson Kanalı
+=== Resort Polarity ===
+  re_flatride_polarity                                    -> Resort Polarity
+  techtreelabel_resortpolarity                            -> Resort Kutupluluk
+=== Resort Teacups ===
+  re_flatride_teacups                                     -> Resort Çay Fincanları
+  techtreelabel_resortteacups                             -> Resort Çay Fincanları
+=== Resort Tiny Eye ===
+  re_flatride_tinyeye                                     -> Resort Tiny Eye
+  techtreelabel_resorttinyeye                             -> Resort Tiny Eye
+=== Resurgence ===
+  fr_resurgence                                           -> Resurgence
+  techtreelabel_resurgence                                -> Diriliş
+=== Reverse Start ===
+  tag_coaster_ride_reversestart                           -> Geri Başlangıç
+=== River Rapids ===
+  techtreelabel_riverrapids                               -> Nehir Akıntıları
+  water_model_riverrapids                                 -> Nehir Akıntısı
+  water_riverrapids                                       -> Nehir Akıntısı
+=== Rotating Coaster ===
+  techtreelabel_rotatingcoaster                           -> Döner Hız Treni
+=== Rowdy Mouse ===
+  techtreelabel_rowdymouse                                -> Gürültücü Fare
+=== SLV ===
+  tag_coaster_slv                                         -> SLV
+=== Shuttle Launch ===
+  tag_coaster_ride_shuttlelaunch                          -> Mekik Fırlatma
+=== Side Friction ===
+  techtreelabel_wooden_sidefriction                       -> Yan Sürtünme
+=== Single Rail ===
+  techtreelabel_singlerail                                -> Tek Ray
+=== Single-Decker Bus ===
+  transport_tr_singledeckbus                              -> Tek Katlı Otobüs
+=== Singularity ===
+  techtreelabel_singularity                               -> Tekillik
+=== Sit Down Powered - 4 Seater ===
+  powered_model_sitdownpowered4seat                       -> Oturaklı Motorlu - 4 Kişilik
+=== Sky Beam ===
+  fr_skybeam                                              -> Sky Beam
+  techtreelabel_skybeam                                   -> Gökyüzü Işını
+=== Sky Watcher ===
+  fr_skywatcher                                           -> Sky Watcher
+  techtreelabel_skywatcher                                -> Gökyüzü Gözetcisi
+=== Soarer ===
+  techtreelabel_soarer                                    -> Süzülen
+=== Solar Panel Large ===
+  techtreelabel_solarpanellarge                           -> Büyük Güneş Paneli
+=== Solar Panel Small ===
+  techtreelabel_solarpanelsmall                           -> Küçük Güneş Paneli
+=== Spinning Coaster ===
+  techtreelabel_spinningcoaster                           -> Dönen Hız Treni
+=== Spinning Wild Mouse ===
+  techtreelabel_spinningwildmouse                         -> Dönen Vahşi Fare
+=== Spiralizer ===
+  techtreelabel_spiralizer                                -> Spiral Yapıcı
+=== Splash Coaster ===
+  techtreelabel_splashcoaster                             -> Sıçrayan Hız Treni
+=== Splashdown ===
+  techtreelabel_splashdown                                -> Suya İniş
+=== Splintery ===
+  techtreelabel_thorn                                     -> Diken
+=== Standup ===
+  techtreelabel_standup                                   -> Ayakta
+=== Star Loop ===
+  techtreelabel_starloop                                  -> Yıldız Looping
+=== Star Wheel ===
+  fr_starwheel                                            -> Star Wheel
+  techtreelabel_starwheel                                 -> Yıldız Çarkı
+=== Steam Boat ===
+  techtreelabel_steamboat                                 -> Buharlı Gemi
+  transport_model_steamboat                               -> Buharlı Tekne
+  transport_tr_landahoy                                   -> Buharlı Tekne
+=== Steam Train Railroad ===
+  techtreelabel_steamtrainrailroad                        -> Buharlı Tren Demiryolu
+  transport_ironhorse                                     -> Buharlı Tren Demiryolu
+  transport_model_steamtrain                              -> Buharlı Tren Demiryolu
+=== Sun Dial ===
+  fr_sundial                                              -> Sun Dial
+  techtreelabel_sundial                                   -> Güneş Saati
+=== Sun Flare ===
+  fr_sflare                                               -> Sun Flare
+  fr_sunflare                                             -> Sun Flare
+  techtreelabel_sunflare                                  -> Güneş Parlaması
+=== Swift Transport ===
+  techtreelabel_swifttransport                            -> Hızlı Ulaşım
+=== Swinging Mine Train ===
+  techtreelabel_swingingminetrain                         -> Sallanan Maden Treni
+=== Synchronise ===
+  fr_clockwork                                            -> Synchronise
+  techtreelabel_synchronise                               -> Senkronize
+=== TEST SLIDE TO BE DELETED! ===
+  water_testslide                                         -> TEST KAYDIRAĞI SİLİNECEK!
+=== Teacups ===
+  fr_teacups                                              -> Teacups
+  techtreelabel_teacups                                   -> Çay Fincanları
+=== The Cube ===
+  fr_cube                                                 -> The Cube
+=== The Driller ===
+  techtreelabel_thedriller                                -> Matkap
+=== The Screaminator ===
+  fr_screaminator                                         -> The Screaminator
+  techtreelabel_thescreaminator                           -> Çığlık Makinesi
+=== The Void ===
+  techtreelabel_thevoid                                   -> Boşluk
+=== Tilt Coaster ===
+  techtreelabel_tiltcoaster                               -> Eğik Hız Treni
+=== Tiny Eye ===
+  fr_tinyeye                                              -> Tiny Eye
+  techtreelabel_tinyeye                                   -> Tiny Eye
+=== Track Can Invert ===
+  tag_coaster_ride_trackinvert                            -> Ray Ters Dönebilir
+=== Twin Loops ===
+  techtreelabel_twinloops                                 -> İkiz Looping
+=== Twisted Arc ===
+  techtreelabel_twistedarc                                -> Bükülmüş Yay
+=== Underground Well ===
+  techtreelabel_undergroundwell                           -> Yeraltı Kuyusu
+=== Upswing ===
+  fr_upswing                                              -> Upswing
+=== Vanguard ===
+  techtreelabel_vanguard                                  -> Öncü
+=== Vector ===
+  techtreelabel_vector                                    -> Vektör
+=== Velocity ===
+  techtreelabel_velocity                                  -> Hız
+=== Vertical Chain Lift ===
+  tag_coaster_ride_verchainlift                           -> Dikey Zincir Kaldırma
+=== Viking Mecha Roller ===
+  vi_flatride_mecharoller                                 -> Viking Mecha Roller
+=== Viking Sky Beam ===
+  techtreelabel_vikingskybeam                             -> Viking Gökyüzü Işını
+  vi_flatride_skybeam                                     -> Viking Gökyüzü Işını
+=== Viking Teacups ===
+  vi_flatride_teacups                                     -> Viking Çay Fincanları
+=== Viking Upswing ===
+  vi_flatride_upswing                                     -> Viking Upswing
+=== Water ===
+  tag_coaster_ride_water                                  -> Su
+=== Water Coaster ===
+  techtreelabel_watercoaster                              -> Su Hız Treni
+=== Water Tower ===
+  techtreelabel_watertower                                -> Su Kulesi
+=== Wave Coaster ===
+  techtreelabel_wavecoaster                               -> Dalga Hız Treni
+=== Weisshorn ===
+  techtreelabel_monteleone                                -> Weisshorn
+=== Whitelake Amusement Shore ===
+  techtreelabel_whitelakeamusementshore                   -> Whitelake Eğlence Kıyısı
+=== Wide Log Flume ===
+  water_model_widelogflume                                -> Geniş Kütük Kızağı
+=== Wide Slide ===
+  water_model_wideslide                                   -> Geniş Kaydırak
+=== Wild Blue ===
+  fr_wildblue                                             -> Wild Blue
+  techtreelabel_wildblue                                  -> Vahşi Mavi
+=== Wild Mouse ===
+  techtreelabel_wooden_wildmouse                          -> Vahşi Fare
+=== Wing ===
+  techtreelabel_wing                                      -> Kanat
+=== Wooden ===
+  techtreelabel_wooden                                    -> Ahşap
+=== Zephyr ===
+  techtreelabel_zephyr                                    -> Zefir

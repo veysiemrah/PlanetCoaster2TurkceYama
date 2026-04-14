@@ -1,0 +1,832 @@
+{
+  "items": [
+    {
+      "key": "keplerrequesterror_accountalreadyexists_desc",
+      "source": "This email address is already registered",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_accountalreadyexists_title",
+      "source": "Account Already Exists",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_accountalreadylinked_desc",
+      "source": "This Frontier account was previously linked to a different platform account. Please sign in with that account.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_accountalreadylinked_title",
+      "source": "Account Already Linked",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_accountlinkfailed_desc",
+      "source": "The account linking process has failed. Please try again later.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_accountlinkfailed_title",
+      "source": "Account Linking Failed",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_authlinkexists_desc",
+      "source": "An account with these details already exists.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_authlinkexists_title",
+      "source": "Account Already Exists",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_cancelled_desc",
+      "source": "The process was cancelled before completing.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_cancelled_title",
+      "source": "Cancelled",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_displaynamerejected_desc",
+      "source": "The Display Name you entered has been rejected. Use a different Display Name and try again.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_displaynamerejected_title",
+      "source": "Display Name Rejected",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_emailsendfailure_desc",
+      "source": "The email sending service is busy. Please try again later.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_emailsendfailure_title",
+      "source": "Email Send Failure",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_externalaccountalreadylinked_desc",
+      "source": "This Frontier account was previously linked to a different platform account. Please either create a new Frontier account, or unlink the other platform account by going to frontierstore.net, “My Account”, then “Third Party Accounts”.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_externalaccountalreadylinked_title",
+      "source": "Frontier Account Already Linked",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_insufficientpermission_desc",
+      "source": "You do not have permission to perform this action.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_insufficientpermission_title",
+      "source": "Insufficient Permission",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_invalidauth_desc",
+      "source": "We have been unable to authorise your account information. Please check your details and try again later.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_invalidauth_title",
+      "source": "Check Account Details",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_invalidemail_desc",
+      "source": "The email entered was not valid. Please check your email address and try again.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_invalidemail_title",
+      "source": "Invalid Email",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_invalidpassword_desc",
+      "source": "The password entered was not valid. Please check your password and try again.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_invalidpassword_title",
+      "source": "lnvalid Password",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_nofrontierlink_desc",
+      "source": "No Frontier account has been linked. Please link a Frontier account to continue.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_nofrontierlink_title",
+      "source": "Frontier Account Not Linked",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_notacceptedeula_desc",
+      "source": "The game cannot be played unless the EULA is accepted.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_notacceptedeula_title",
+      "source": "EULA",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_offline_desc",
+      "source": "Cannot connect to the server. Please check your internet connection and try again.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_offline_title",
+      "source": "Check Internet Connection",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_servicebusy_desc",
+      "source": "This service is currently busy. Please try again later.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_servicebusy_title",
+      "source": "Service Busy",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_unknownerror_desc",
+      "source": "This process has encountered an error. Please try again later.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_unknownerror_title",
+      "source": "Error",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_useraccountbanned_desc",
+      "source": "This account has been banned, or had its access restricted, and cannot be used.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterror_useraccountbanned_title",
+      "source": "Account Restricted",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplaceafterbottom",
+      "source": "Can only be placed directly after a Chain Lift Hill Base.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplaceaftermid",
+      "source": "Can only be placed directly after a Chain Lift Hill Base or Mid-Section.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplaceafterstart",
+      "source": "Can only be placed directly after a Horizontal Chain Pull.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplaceafterstation",
+      "source": "Can only be placed on track in-front of the station.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplacebehindreversebottom",
+      "source": "Can only be placed directly behind a Reverse Cable Lift Hill Base.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplacebehindreversemid",
+      "source": "Can only be placed directly behind a Reverse Cable Lift Base or Mid-Section.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplacebehindreversestart",
+      "source": "Can only be placed directly behind a Reverse Horizontal Cable Pull.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplacebehindstation",
+      "source": "Can only be placed directly behind the station or existing Reverse Horizontal Cable Pull sections.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_bullwheel",
+      "source": "Only one Bull Wheel Cap can be placed. It must be next to a station.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplace",
+      "source": "Cannot place here.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplacebobsledhalfpipe",
+      "source": "Cannot be placed after a Bobsled Transfer piece.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplacebobsledtransfer",
+      "source": "Can only be placed after a Bobsled Halfpipe and must be placed on flat, unbanked track.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplacedualgatestation",
+      "source": "Cannot place dual-gate station, this ride already has a single-gate station.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceonbanked",
+      "source": "Can only be placed on unbanked track.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceonbankedorsloped",
+      "source": "Can only be placed on flat and unbanked track.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceoncurvedorbanked",
+      "source": "Can only be placed on straight and unbanked track.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceoncurvedorbankedoroverlysloped",
+      "source": "Can only be placed on straight and unbanked track that is flat or has a gentle slope.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceoncurvedorbankedorsloped",
+      "source": "Can only be placed on straight, unbanked and flat track.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceoncurvedorbankedorslopedpast90",
+      "source": "Can only be placed on straight and unbanked track that isn't sloped past -90° or 90°.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceoncurvedorbankedorupwardsloped",
+      "source": "Can only be placed on straight, unbanked and downward sloping track.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplacesinglegateentrystation",
+      "source": "Cannot place single-gate entry station, this ride already has one.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplacesinglegateexitstation",
+      "source": "Cannot place single-gate exit station, this ride already has one.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_cannotplacesinglegatestation",
+      "source": "Cannot place single-gate station, this ride already has a dual-gate station.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_canonlyplaceafterchainliftstart",
+      "source": "Can only be placed after a chain lift start.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_canonlyplaceafterchainliftstartormidsection",
+      "source": "Can only be placed after a chain lift start or chain lift mid-section.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_canonlyplacenexttostationofsametype",
+      "source": "Can only be placed directly next to existing station of the same type.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_drivewheel",
+      "source": "Only one Drive Station Wheel can be placed. It must be next to a station.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplaceafterbottom",
+      "source": "Can only be placed directly after a Cable Lift Tower Base.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplaceaftermid",
+      "source": "Can only be placed directly after a Cable Lift Mid-Section.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplaceafterstart",
+      "source": "Can only be placed directly after a Horizontal Cable Pull.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplaceafterstation",
+      "source": "Can only be placed on track in-front of the station that's also not banked or sloped.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplacebehindreversebottom",
+      "source": "Can only be placed directly above a Reverse Cable Lift Tower Base.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplacebehindreversemid",
+      "source": "Can only be placed directly above a Reverse Cable Lift Mid-Section.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplacebehindreversestart",
+      "source": "Can only be placed directly behind a Reverse Horizontal Cable Pull.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplacebehindstation",
+      "source": "Can only be placed directly behind the station or existing Reverse Horizontal Cable Pull sections.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_adobe",
+      "source": "Adobe",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_bavarian",
+      "source": "Bavarian",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_brick",
+      "source": "Brick - Modern",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_castle",
+      "source": "Castle",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_classical",
+      "source": "Classical",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_concrete",
+      "source": "Concrete",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_diner",
+      "source": "Diner",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_fibreglass",
+      "source": "Fibreglass",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_futuristic",
+      "source": "Futuristic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_glass",
+      "source": "Glass",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_industrial",
+      "source": "Industrial",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_limeplaster",
+      "source": "Lime Plaster",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_limestone",
+      "source": "Limestone",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_metal",
+      "source": "Metal",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_modern",
+      "source": "Modern",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_moorish",
+      "source": "Moorish",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_oldbrick",
+      "source": "Brick - Classic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_oldwest",
+      "source": "Old West",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_plastic",
+      "source": "Vinyl Plastic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_qindynasty",
+      "source": "Qin Dynasty",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_renaissance",
+      "source": "Renaissance",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_renderwalls",
+      "source": "Stucco",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_roughbrick",
+      "source": "Brick - Rough",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_rustic",
+      "source": "Rustic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_stonewalls",
+      "source": "Sandstone",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_taishoroman",
+      "source": "Taisho Roman",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_thatch",
+      "source": "Thatch",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_tileflat",
+      "source": "Tile - Flat",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_tileridge",
+      "source": "Tile - Ridge",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_victorian",
+      "source": "Victorian",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_westernwood",
+      "source": "Wood - Plank",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_wooden",
+      "source": "Wood - Modern",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_woodenslat",
+      "source": "Wood - Batten",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "set_woodtile",
+      "source": "Wood - Tile",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_cashvalue",
+      "source": "This challenge measures how much money a park has in the bank! This is calculated at the End of Day Report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_dailycoasterriders",
+      "source": "This challenge measures a park's daily number of coaster rides enjoyed by guests. This is calculated at the End of Day Report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_dailyflumeriders",
+      "source": "This challenge measures a park's daily number of flume rides enjoyed by guests. This is calculated at the End of Day Report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_dailyincome",
+      "source": "This challenge is scored on the total daily income a park generates! This is calculated at the End of Day Report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_dailyincomeattractions",
+      "source": "This challenge measures a park's daily income from attraction tickets, including coasters, tracked rides and flat rides. This is calculated at the End of Day Report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_dailyincomeshops",
+      "source": "This challenge measures a park's daily income from shops, including food and drink, souvenirs, and from guest services. This is calculated at the End of Day Report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_dailyprofitprioritypass",
+      "source": "This challenge measures a park's daily profits from Priority Passes, minus any refunds. This is calculated at the End of Day report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_guestservicesprofit",
+      "source": "This challenge measures a park's daily profits from Guest Services. This is calculated at the End of Day report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_modularsouvenirprofit",
+      "source": "This challenge measures a park's daily profits from Modular Souvenir Shops. This is calculated at the End of Day report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_parkrating",
+      "source": "This challenge measures a park's rating!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_pickpocketscaught",
+      "source": "This challenge measures a park's daily number of pickpockets caught by park security. This is calculated at the End of Day Report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_restaurantincome",
+      "source": "This challenge measures a park's daily income from Restaurants. This is calculated at the End of Day Report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_restaurantprofits",
+      "source": "This challenge measures a park's daily profits from Restaurants. This is calculated at the End of Day Report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_ridephotoprofit",
+      "source": "This challenge measures a park's daily profits from Ride Photo Kiosks. This is calculated at the End of Day report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_ridestakenprofit",
+      "source": "This challenge measures a park's daily profits from all kinds of coasters, theme park and water rides. This is calculated at the End of Day report.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_description_season_rewardpoints",
+      "source": "[PH] This challenge measures how many points the franchise has earned over the course of the current season.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_cashvalue",
+      "source": "Total Cash",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_dailycoasterriders",
+      "source": "Daily Coaster Riders",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_dailyflumeriders",
+      "source": "Daily Flume Riders",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_dailyincome",
+      "source": "Total Daily Income",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_dailyincomeattractions",
+      "source": "Daily Income From Attractions",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_dailyincomeshops",
+      "source": "Daily Income From Shops",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_dailyprofitprioritypass",
+      "source": "Daily Profit from Priority Pass",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_guestservicesprofit",
+      "source": "Daily Guest Services Profits",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_modularsouvenirprofit",
+      "source": "Daily Modular Souvenir Shop Profits",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_parkrating",
+      "source": "Park Rating",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_pickpocketscaught",
+      "source": "Daily Pickpockets Caught",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_restaurantincome",
+      "source": "Daily Income from Restaurants",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_restaurantprofits",
+      "source": "Daily Profits from Restaurants",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_ridephotoprofit",
+      "source": "Daily Ride Photos Profits",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_ridestakenprofit",
+      "source": "Daily Ride Profits",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_name_season_rewardpoints",
+      "source": "[PH] Season Franchise Points",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challenge_preset_challenge_desc",
+      "source": "Put your park building prowess to the test. Choose a difficulty level and rise up to the challenge!\n\n- Full Cash and Economy\n- Full Research\n- Full Power Management\n- Full Water Management\n- Full Staff Management\n- Full Guest Management",
+      "context": "",
+      "max_length": null
+    }
+  ]
+}

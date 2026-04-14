@@ -1,0 +1,970 @@
+{
+  "items": [
+    {
+      "key": "trackedit_addtesttrain",
+      "source": "Add Test Train",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_anglesnap",
+      "source": "Angle Snap",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_attachcamera",
+      "source": "Attach Camera",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_autocompletetooltip",
+      "source": "Auto Complete current design",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_autotunnel",
+      "source": "Auto Tunnel",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_banking",
+      "source": "Banking",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_banking_angleindicator",
+      "source": "{Value:float:decimalPlaces=2}º",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_build",
+      "source": "Build [{#LogicalButton.TrackEdit_Build#}]",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_delete",
+      "source": "Delete [{#LogicalButton.TrackEdit_Delete#}]",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_elevation",
+      "source": "Elevation",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_heightmarkers",
+      "source": "Height Markers",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_heightmarkers_off",
+      "source": "Off",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_heightmarkers_sealevel",
+      "source": "Sea Level",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_heightmarkers_terrainrelative",
+      "source": "Terrain Relative",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_keepcurve",
+      "source": "Keep Curve",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_length",
+      "source": "Length",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_nextselectiontooltip",
+      "source": "Move selection to next piece",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_pieceselection",
+      "source": "Piece selection",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_previousselectiontooltip",
+      "source": "Move selection to previous piece",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_redo",
+      "source": "Redo",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_removetrains",
+      "source": "Remove Trains",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_rolloffset",
+      "source": "Bank Pivot Height",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_scale",
+      "source": "Scale",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_smooth",
+      "source": "Smooth",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_title",
+      "source": "Track Options",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_trackrelativehandles",
+      "source": "Track Relative Controls",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_turn",
+      "source": "Turn",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackedit_undo",
+      "source": "Undo",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_acceptfriendrequest",
+      "source": "Accept friend request",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_accountid",
+      "source": "Unfriend Player",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_addtofrontierfriends",
+      "source": "Add to Planet Coaster 2 Friends",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_cancelrequest",
+      "source": "Cancel request",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_emptyfriendlist",
+      "source": "<p><span class='FriendsHub_feedbackHead'>Your Friends List is empty.</span>\n<span class='FriendsHub_feedbackBody'>\n• Try searching for players to find people to collaborate with.</span></p>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_frontier_noresultsfounddesc",
+      "source": "<p><span class='FriendsHub_feedbackHead'>No Results Found.</span>\n<span class='FriendsHub_feedbackBody'>\n• Please check for spelling mistakes.\n• Ensure you are searching for a Planet Coaster Profile name.</span></p>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_frontierfriends",
+      "source": "Planet Coaster 2 Friends",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_frontierfriends_desc",
+      "source": "Search your Planet Coaster 2 friends list.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_frontierfriends_title",
+      "source": "Select a Planet Coaster 2 Friend",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_lastactive",
+      "source": "Unfriend Player",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_none_noresultsfounddesc",
+      "source": "<p><span class='FriendsHub_feedbackHead'>No Results Found.</span>\n<span class='FriendsHub_feedbackBody'>\n• Please check for spelling mistakes.\n• Ensure you are searching for a Planet Coaster Profile name.</span></p>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_noresultsfound",
+      "source": "No Results Found ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_platform",
+      "source": "Unfriend Player",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_platform_noresultsfounddesc",
+      "source": "<p><span class='FriendsHub_feedbackHead'>No Results Found.</span>\n<span class='FriendsHub_feedbackBody'>\n• Please check for spelling mistakes.\n• Ensure you are searching for a Platform Account name.\n• Offline players will not appear in this list.</span></p>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_platformfriends",
+      "source": "Platform Friends",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_platformfriends_desc",
+      "source": "Browse platform friends currently playing Planet Coaster 2.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_platformfriends_title",
+      "source": "Select a Platform Friend",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_recievedrequest",
+      "source": "Friend request",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_search",
+      "source": "Search",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_searchplayers",
+      "source": "Search Players",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_searchplayers_desc",
+      "source": "Find more Planet Coaster 2 friends.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_searchplayers_title",
+      "source": "Search for New Friends",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_sendfriendrequest",
+      "source": "Send friend request",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_sentrequest",
+      "source": "Request sent",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_stats",
+      "source": "Stats",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_unfriendplayer",
+      "source": "Unfriend Player",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "friendshub_viewprofile",
+      "source": "View Profile",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_1",
+      "source": "Jan",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_10",
+      "source": "Oct",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_11",
+      "source": "Nov",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_12",
+      "source": "Dec",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_2",
+      "source": "Feb",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_3",
+      "source": "Mar",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_4",
+      "source": "Apr",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_5",
+      "source": "May",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_6",
+      "source": "Jun",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_7",
+      "source": "Jul",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_8",
+      "source": "Aug",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_9",
+      "source": "Sep",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_1",
+      "source": "January",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_10",
+      "source": "October",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_11",
+      "source": "November",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_12",
+      "source": "December",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_2",
+      "source": "February",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_3",
+      "source": "March",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_4",
+      "source": "April",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_5",
+      "source": "May",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_6",
+      "source": "June",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_7",
+      "source": "July",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_8",
+      "source": "August",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_long_9",
+      "source": "September",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_value",
+      "source": "{Value:float:decimalPlaces=0} month",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_value_ago",
+      "source": "{Value:float:decimalPlaces=0} month ago",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "month_value_left",
+      "source": "{Value:float:decimalPlaces=0} month left",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career",
+      "source": "Career",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_arch",
+      "source": "Is in Paradise Lost",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_buil",
+      "source": "Is in Building the Bifröst",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_cany",
+      "source": "Is in Coaster Chasm",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_coas",
+      "source": "Is in A Shore Thing",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_duel",
+      "source": "Is in Double Trouble",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_ecop",
+      "source": "Is in Just The Thicket",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_gard",
+      "source": "Is in The Garden of Edith",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_junk",
+      "source": "Is in Junkyard Park",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_laby",
+      "source": "Is in Labyrinth Secrets",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_lazy",
+      "source": "Is in Lazy River Styx",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_lost",
+      "source": "Is in Parks and Restoration",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_masc",
+      "source": "Is in Mascot Madness",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_natu",
+      "source": "Is in Fabled Fjord",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_pest",
+      "source": "Is in Pest Problem",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_plan",
+      "source": "Is in Farmland Fiasco",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_priv",
+      "source": "Is in Private Park",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_spli",
+      "source": "Is in The Brothers Swimm",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_swam",
+      "source": "Is in Swamp Scenario",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_tiny",
+      "source": "Is in Sky's The Limit",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_tutb",
+      "source": "Is in Keys to the Coaster",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_tutw",
+      "source": "Is in In The Swim of Things",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_twin",
+      "source": "Is in Summit Awesome",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_career_c0_vomi",
+      "source": "Is in Thrills'n'Spills",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_challenge",
+      "source": "Challenge",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_franchise",
+      "source": "Franchise",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "presence_sandbox",
+      "source": "Sandbox",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_cableandchainlift",
+      "source": "Cable and Chain Lifts",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_cabledriven",
+      "source": "Cable Driven",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_cablelift",
+      "source": "Cable Lift",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_caninvert",
+      "source": "Can Invert",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_cannotinvert",
+      "source": "Cannot Invert",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_canpartiallyinvert",
+      "source": "Can Partially Invert",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_chainanddrivetyrelift",
+      "source": "Chain and Drive Tyre Lifts",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_chainlift",
+      "source": "Chain Lift",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_chainliftandlinearinductionmotor",
+      "source": "Chain Lift and LSM",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_compressedairlaunch",
+      "source": "Compressed Air Launch",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_conveyerbeltlift",
+      "source": "Conveyer Belt Lift",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_foradultsandteensonly",
+      "source": "For Adults and Teens Only",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_foreveryone",
+      "source": "For All Ages",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_frictionwheellift",
+      "source": "Friction Wheel Lift",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_hydrauliclaunch",
+      "source": "Hydraulic Launch",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_interactive",
+      "source": "Interactive",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_liftwithcatchcar",
+      "source": "Lift With Catch Car",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_linearinductionmotor",
+      "source": "Linear Induction Motor",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_linearsyncronousmotor",
+      "source": "Linear Syncronous Motor",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_pneumaticlaunch",
+      "source": "Pneumatic Launch",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_poweredcar",
+      "source": "Powered Car",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_poweredtrain",
+      "source": "Powered Train",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_poweredvehicle",
+      "source": "Powered Vehicle",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_stockcoastercar",
+      "source": "Multiple Car Styles",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_trackinvertsridersdont",
+      "source": "Track Inverts, Riders Don't",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_verticalchainlift",
+      "source": "Vertical Chain Lift",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackfeature_verticalchainliftandlinearsyncronousmotor",
+      "source": "Vertical Chain Lift and LSM",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_am_am",
+      "source": "{Value:int}am - {Target:int}am",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_am_pm",
+      "source": "{Value:int}am - {Target:int}pm",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_days",
+      "source": "{days:int} days",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_days_singular",
+      "source": "1 day",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_days_zero",
+      "source": "< 1 day",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_hours",
+      "source": "{Value:int} hours",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_hours_minutes",
+      "source": "{Hour}, {Minute}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_hours_minutes_h",
+      "source": "{Hours:int}:{Minutes:int:minDigits=2}h",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_hours_minutes_seconds",
+      "source": "{Hours:int:minDigits=2}:{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_hours_minutes_seconds_decimal",
+      "source": "{Hours:int:minDigits=2}:{Minutes:int:minDigits=2}:{Seconds:int:decimalPlaces=3}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_hours_singular",
+      "source": "1 hour",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_minutes",
+      "source": "{Value:int} minutes",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_minutes_seconds",
+      "source": "{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_minutes_seconds_decimal",
+      "source": "{Minutes:int:minDigits=1}:{Seconds:int:decimalPlaces=3}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_minutes_singular",
+      "source": "1 minute",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_months",
+      "source": "{Months:int} months",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_months_and_years",
+      "source": "{Years}, {Months}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_months_range",
+      "source": "{Min:int} - {Max:int} months",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_months_singular",
+      "source": "1 month",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_months_zero",
+      "source": "< 1 month",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_pm_pm",
+      "source": "{Value:int}pm - {Target:int}pm",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_separator",
+      "source": ":",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_years",
+      "source": "{Years:int} years",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_years_singular",
+      "source": "1 year",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "time_years_zero",
+      "source": "< 1 year",
+      "context": "",
+      "max_length": null
+    }
+  ]
+}

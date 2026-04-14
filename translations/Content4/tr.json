@@ -9,419 +9,419 @@
   "strings": {
     "blueprint_aq_shop_restaurant": {
       "source": "Aquatic Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sualtı Restoranı",
+      "status": "translated",
+      "context": "Sualtı temalı restoran şablonu adı.",
       "max_length": null,
-      "category": ""
+      "category": "blueprint_names"
     },
     "blueprint_aq_shop_restaurant_desc": {
       "source": "Aquatic themed Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sualtı temalı bir restoran.",
+      "status": "translated",
+      "context": "Sualtı restoranı şablonunun açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "blueprint_my_shop_restaurant": {
       "source": "Mythology Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Mitoloji Restoranı",
+      "status": "translated",
+      "context": "Mitoloji temalı restoran şablonu adı.",
       "max_length": null,
-      "category": ""
+      "category": "blueprint_names"
     },
     "blueprint_my_shop_restaurant_desc": {
       "source": "Mythology themed Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Mitoloji temalı bir restoran.",
+      "status": "translated",
+      "context": "Mitoloji restoranı şablonunun açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "blueprint_nat_shop_restaurant": {
       "source": "Outdoor Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Açık Hava Restoranı",
+      "status": "translated",
+      "context": "Doğa/açık hava temalı restoran şablonu adı.",
       "max_length": null,
-      "category": ""
+      "category": "blueprint_names"
     },
     "blueprint_nat_shop_restaurant_desc": {
       "source": "Outdoor style Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Açık hava tarzında bir restoran.",
+      "status": "translated",
+      "context": "Açık hava restoranı şablonunun açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "blueprint_pc_shop_restaurant": {
       "source": "Planet Coaster Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Planet Coaster Restoranı",
+      "status": "translated",
+      "context": "Planet Coaster temalı restoran şablonu adı (marka adı korunur).",
       "max_length": null,
-      "category": ""
+      "category": "blueprint_names"
     },
     "blueprint_pc_shop_restaurant_desc": {
       "source": "Planet Coaster themed Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Planet Coaster temalı bir restoran.",
+      "status": "translated",
+      "context": "Planet Coaster restoranı şablonunun açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "blueprint_re_shop_restaurant": {
       "source": "Resort Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Tatil Köyü Restoranı",
+      "status": "translated",
+      "context": "Tatil köyü temalı restoran şablonu adı.",
       "max_length": null,
-      "category": ""
+      "category": "blueprint_names"
     },
     "blueprint_re_shop_restaurant_desc": {
       "source": "Resort themed Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Tatil köyü temalı bir restoran.",
+      "status": "translated",
+      "context": "Tatil köyü restoranı şablonunun açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "blueprint_vi_shop_restaurant": {
       "source": "Viking Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Viking Restoranı",
+      "status": "translated",
+      "context": "Viking temalı restoran şablonu adı.",
       "max_length": null,
-      "category": ""
+      "category": "blueprint_names"
     },
     "blueprint_vi_shop_restaurant_desc": {
       "source": "Viking themed Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Viking temalı bir restoran.",
+      "status": "translated",
+      "context": "Viking restoranı şablonunun açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "blueprint_ws_shop_restaurant": {
       "source": "Western Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Vahşi Batı Restoranı",
+      "status": "translated",
+      "context": "Vahşi Batı temalı restoran şablonu adı.",
       "max_length": null,
-      "category": ""
+      "category": "blueprint_names"
     },
     "blueprint_ws_shop_restaurant_desc": {
       "source": "Western themed Restaurant",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Vahşi Batı temalı bir restoran.",
+      "status": "translated",
+      "context": "Vahşi Batı restoranı şablonunun açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "buildingpartname_facility_restaurant_kitchen": {
       "source": "Restaurant Kitchen",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Restoran Mutfağı",
+      "status": "translated",
+      "context": "Restoran binasının mutfak bölümü bina parçası adı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_attachments_mouse_01": {
       "source": "Coaster Attachment - Mouse",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hız Treni Aksesuarı - Fare",
+      "status": "translated",
+      "context": "Crazy Mouse tipi hız trenine takılan fare figürü aksesuarı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_attachments_mouse_02": {
       "source": "Coaster Attachment - Mouse Tail",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hız Treni Aksesuarı - Fare Kuyruğu",
+      "status": "translated",
+      "context": "Crazy Mouse tipi hız trenine takılan fare kuyruğu aksesuarı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_attachments_stingray_large": {
       "source": "Coaster Attachment - Manta Ray Large",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hız Treni Aksesuarı - Vatoz (Büyük)",
+      "status": "translated",
+      "context": "Stingray tipi hız trenine takılan büyük vatoz figürü aksesuarı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_attachments_stingray_small": {
       "source": "Coaster Attachment - Manta Ray Small",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hız Treni Aksesuarı - Vatoz (Küçük)",
+      "status": "translated",
+      "context": "Stingray tipi hız trenine takılan küçük vatoz figürü aksesuarı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_diningbooth": {
       "source": "Dining Table - Booth",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Yemek Masası - Bölmeli",
+      "status": "translated",
+      "context": "Restoran içindeki kabin/bölmeli yemek masası bina parçası.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_diningtablechairs": {
       "source": "Dining Table - Round",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Yemek Masası - Yuvarlak",
+      "status": "translated",
+      "context": "Restoran içindeki yuvarlak yemek masası bina parçası.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "coaster_cc_manicmousestock": {
-      "source": "Spinning Manic Mouse (Standard)",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "source": "Spinning Manic Mouse (Standard)",
+      "translation": "Dönen Çılgın Fare (Standart)",
+      "status": "translated",
+      "context": "Spinning Manic Mouse hız treni tipi model adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_cc_stingraystock": {
       "source": "Inverted - Flying (Standard)",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Ters Dönük - Uçuş (Standart)",
+      "status": "translated",
+      "context": "Stingray hız treni tipi model adı. Ters asılı uçuş pozisyonu.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "fr_scizzer": {
       "source": "Scizzer",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Scizzer",
+      "status": "translated",
+      "context": "Flat ride adı — özel isim, korunur.",
       "max_length": null,
-      "category": ""
+      "category": "ride_names"
     },
     "fr_scizzer_desc": {
       "source": "Dazzling lights and dizzying delights spin this ride into the hearts of guests everywhere!",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Işıl ışıl ışıklar ve baş döndüren dansıyla her ziyaretçinin kalbine kazınan bir eğlence!",
+      "status": "translated",
+      "context": "Scizzer flat ride'ının açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "fr_scizzer_prefix": {
       "source": "Scizzer",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Scizzer",
+      "status": "translated",
+      "context": "Ride önek adı — özel isim, korunur.",
       "max_length": null,
-      "category": ""
+      "category": "ride_names"
     },
     "sequence_fr_scizzer_loopfast": {
       "source": "Spin Fast",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hızlı Dönüş",
+      "status": "translated",
+      "context": "Scizzer ride'ı için hızlı dönüş sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_scizzer_loopnormal": {
       "source": "Spin",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Dönüş",
+      "status": "translated",
+      "context": "Scizzer ride'ı için normal dönüş sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_scizzer_reverseloopfast": {
       "source": "Reverse Spin Fast",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hızlı Ters Dönüş",
+      "status": "translated",
+      "context": "Scizzer ride'ı için hızlı ters dönüş sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_scizzer_reverseloopnormal": {
       "source": "Reverse Spin",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Ters Dönüş",
+      "status": "translated",
+      "context": "Scizzer ride'ı için normal ters dönüş sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "shopitem_extra_restaurant_artificialingredients": {
       "source": "Artificial Ingredients",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Yapay Malzemeler",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi/alerjen etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_caffeine": {
       "source": "Caffeine",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Kafein",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi/alerjen etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_dairy": {
       "source": "Dairy",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Süt Ürünü",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi/alerjen etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_egg": {
       "source": "Egg",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Yumurta",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi/alerjen etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_fish": {
       "source": "Fish",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Balık",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi/alerjen etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_fruit": {
       "source": "Fruit",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Meyve",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_gluten": {
       "source": "Gluten",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Gluten",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi/alerjen etiketi — teknik terim, korunur.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_legumes": {
       "source": "Legumes",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Baklagil",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_meat": {
       "source": "Meat",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Et",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_nuts": {
       "source": "Nuts",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Kuruyemiş",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi/alerjen etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_plants": {
       "source": "Plants",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Bitkisel",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_rice": {
       "source": "Rice",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Pirinç",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_salt": {
       "source": "Salt",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Tuz",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_shellfish": {
       "source": "Shellfish",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Kabuklu Deniz Ürünü",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi/alerjen etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_spice": {
       "source": "Spice",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Baharat",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_extra_restaurant_sugar": {
       "source": "Sugar",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Şeker",
+      "status": "translated",
+      "context": "Restoran yemek malzemesi etiketi.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_restaurant_meal_clubs": {
       "source": "Club Sandwich",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Club Sandviç",
+      "status": "translated",
+      "context": "Restoran menüsündeki yemek adı.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_restaurant_meal_curry": {
       "source": "Curry",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Köri",
+      "status": "translated",
+      "context": "Restoran menüsündeki yemek adı.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_restaurant_meal_lasagna": {
       "source": "Lasagna",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Lazanya",
+      "status": "translated",
+      "context": "Restoran menüsündeki yemek adı.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "shopitem_restaurant_meal_salad": {
       "source": "Salad",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Salata",
+      "status": "translated",
+      "context": "Restoran menüsündeki yemek adı.",
       "max_length": null,
-      "category": ""
+      "category": "shop_items"
     },
     "train_cc_manicmousestock": {
       "source": "Pearl Rides <b>Spinning Manic Mouse (Standard)</b>",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Pearl Rides <b>Dönen Çılgın Fare (Standart)</b>",
+      "status": "translated",
+      "context": "Tren model adı — 'Pearl Rides' marka adı korunur, HTML <b> tag'i korunur.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "train_cc_stingraystock": {
       "source": "Valais & Nidwalden <b>Inverted - Flying (Standard)</b>",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Valais & Nidwalden <b>Ters Dönük - Uçuş (Standart)</b>",
+      "status": "translated",
+      "context": "Tren model adı — 'Valais & Nidwalden' marka adı korunur, HTML <b> tag'i korunur.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     }
   }
 }

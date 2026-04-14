@@ -1,0 +1,874 @@
+{
+  "items": [
+    {
+      "key": "frontendmenu_update9popup_desc",
+      "source": "Update 8 is here, and it's ready for the season with the returning Festive Scenery pack, and new Adverse Weather! Keep your guests sheltered from frightening Thunderstorms, and put down a heater or two to stop your pools freezing over once the Snow starts falling! Check the Planet Coaster website for full Update Notes.\n\nThe Toybox Pack is now available, and it's bringing two new coasters: the exhilarating Vector New-Gen Inverting Suspended, and the fantastic F&N Thriller Industries Kid Coaster! Also included are three playful new flat rides: the Airdrop, Highroll and the totally tubular WaveSim! Crank the fun up to the max with heroic new entertainer Max Stormcloud, and get creative with all the arts, crafts, and classic toys bursting out of the Toybox Scenery pack. Some self-assembly required. The Toybox pack, available now! Wippi yalapler!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_update9popup_subtitle",
+      "source": "Update 8 has been installed",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_update9popup_title",
+      "source": "Welcome to Update 8 and the Toybox Pack!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_updatepopup_desc",
+      "source": "Placeholder Description",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_updatepopup_subtitle",
+      "source": "Placeholder Subtitle",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_updatepopup_title",
+      "source": "Placeholder Title",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_upload",
+      "source": "Upload Creation",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_uploaddescription",
+      "source": "Upload your own creation to the Workshop!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_uploadtoworkshop",
+      "source": "Upload to Frontier Workshop",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_user",
+      "source": "{Name}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_useraway",
+      "source": "Away",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_userbusy",
+      "source": "Busy",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_userdescription",
+      "source": "{Description}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_useringame",
+      "source": "Playing Planet Coaster 2",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_username",
+      "source": "{Name}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_useroffline",
+      "source": "Disconnected",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_useronline",
+      "source": "Online",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_userscenario",
+      "source": "Played Scenarios",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_viewindownloads",
+      "source": "View in Downloads",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_viewinfranchise",
+      "source": "View in Franchise",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_viewinworkshop",
+      "source": "View in Frontier Workshop",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_viewsteamprofile",
+      "source": "View All Uploads",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_viewwegameprofile",
+      "source": "View All Uploads",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_vipeditor_infolabel",
+      "source": "Create a guest to visit other players' parks.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_vipeditor_infotitle",
+      "source": "Create your VIP Single Ticket!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_vipeditorbutton",
+      "source": "Edit VIP ticket(s)",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_vipeditorpromptdetail",
+      "source": "Select a ticket to edit",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_visitors",
+      "source": "Visitors",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_visitpark",
+      "source": "Visit Park",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_welcome",
+      "source": "Welcome!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_welcomewindowbuttonlabel",
+      "source": "Create my Avatar!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_welcomewindowlabel",
+      "source": "Thank you for joining us, you're just a few small steps away from experiencing the world of Planet Coaster!\n\nFirst we'll create an avatar of yourself to represent your amazing creations among the Planet Coaster community.\n\nMake sure to create someone your friends will recognise!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_welcomewindowtitle",
+      "source": "Welcome to Planet Coaster 2!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_whatsnew",
+      "source": "What's New?",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_whatsnewdescription",
+      "source": "Coming Soon!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_workshop",
+      "source": "Workshop",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_workshopdescription",
+      "source": "Download amazing creations, or upload blueprints and parks for other players to enjoy!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_workshopitemdesc",
+      "source": "{Name}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_workshopitemname",
+      "source": "{Name}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_workshopprofile",
+      "source": "Workshop Profile",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_workshopprofiledescription",
+      "source": "See how other players see you in the Workshop, and view your uploaded creations.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_workshoptype_blueprint",
+      "source": "Blueprint",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "frontendmenu_workshoptype_park",
+      "source": "Shared Park",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build",
+      "source": "Build",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_coasters",
+      "source": "Coasters",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_facilities",
+      "source": "Facilities",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_flatrides",
+      "source": "Flat Rides",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_paths",
+      "source": "Paths",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_rides",
+      "source": "Rides",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_scenery",
+      "source": "Scenery",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_scenery_development",
+      "source": "Development",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_scenery_modular",
+      "source": "Modular",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_scenery_nature",
+      "source": "Nature",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_scenery_props",
+      "source": "Props",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_scenery_standalone",
+      "source": "Standalone",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_scenery_test",
+      "source": "Test",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_scenery_walldecorations",
+      "source": "Wall Decorations",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_build_terrain",
+      "source": "Terrain",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_confirm_confirm",
+      "source": "Confirm",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_confirm_header",
+      "source": "Keep these changes?",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_confirm_label",
+      "source": "Reverting in {Value:int}...",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_confirm_revert",
+      "source": "Revert",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_manage",
+      "source": "Manage",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_manage_finance",
+      "source": "Finance",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_manage_guests",
+      "source": "Guests",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_manage_staff",
+      "source": "Staff",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu",
+      "source": "Menu",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_load",
+      "source": "Load Park",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_quit",
+      "source": "Quit Planet Coaster 2",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_quit_confirmheader",
+      "source": "Quit Planet Coaster 2",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_quit_confirmlabel",
+      "source": "Quit Planet Coaster 2?  You will lose any unsaved changes.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_quitpark_confirmcancel",
+      "source": "Cancel",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_quitpark_confirmok",
+      "source": "OK",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen",
+      "source": "Exit to Main Menu",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_career_confirmheader",
+      "source": "Exit to Career Menu",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_career_confirmlabel",
+      "source": "Exit to Career Menu?  You will lose any unsaved changes.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_confirmheader",
+      "source": "Exit to Main Menu",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_confirmlabel",
+      "source": "Exit to Main Menu?  You will lose any unsaved changes.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_franchise_confirmheader",
+      "source": "Exit to Franchise Menu",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_franchise_confirmlabel",
+      "source": "Exit to Franchise Menu?  You will lose any unsaved changes.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_menu_save",
+      "source": "Save Park",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "mainmenu_settings",
+      "source": "Settings",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_crowdvolume",
+      "source": "Sound Effects - Crowd",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_crowdvolume_desc",
+      "source": "Use the slider to increase/decrease the volume of crowds in your parks.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_dialogueisolation",
+      "source": "Dialogue Isolation",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_dialogueisolation_desc",
+      "source": "Mute all other audio when Narrative Dialogue is playing",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_desc",
+      "source": "Select an audio mix optimised for different setups.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_headphones",
+      "source": "Headphones",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_headphones_desc",
+      "source": "Optimise the audio mix for Headphones.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_hifispeaker",
+      "source": "Hi-Fi and Surround Speakers",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_hifispeaker_desc",
+      "source": "Optimise the audio mix for HiFi and Surround setups.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_quiet",
+      "source": "Late Night (Quiet)",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_quiet_desc",
+      "source": "Loud sounds are quieter, and quiet sounds are louder. An audio mix optimised for playing at a low volume.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_soundbar",
+      "source": "Soundbar",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_soundbar_desc",
+      "source": "Optimise the audio mix for clarity on a soundbar setup.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_title",
+      "source": "Audio Mastering",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_tvspeaker",
+      "source": "TV Speakers",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_masteringchoice_tvspeaker_desc",
+      "source": "Optimise the audio mix for television speakers.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_monomode",
+      "source": "Mono Mode",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_monomode_desc",
+      "source": "Use a mono audio mix that sounds the same for both ears.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_playtestaudio",
+      "source": "Play Test Audio",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_audio_playtestaudio_desc",
+      "source": "Play a set of sounds to test your audio settings. The Test Audio includes music, voice, and SFX.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_rebindmodaldesc",
+      "source": "Press the button you want to remap.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_remappingerror",
+      "source": "Remapping Issue",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_remappingerror_details",
+      "source": "There was an issue remapping that action.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_remappingerror_detailsswapbinding",
+      "source": "<p class=\"controllerInput\">{LogicalInputIconFirst} is currently bound to: <span class='boldTextBrown'>{InputString}</span>\nDo you want to bind <span class='boldTextBrown'>{InputString}</span> to {LogicalInputIconSecond} instead?</p>",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_remappingerror_detailstoomanyinputs",
+      "source": "Invalid button combination for remapping.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_remappingerror_detailsunbindable",
+      "source": "This button is not available for remapping.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_remappingerror_none",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_restoredefaults",
+      "source": "Restore Defaults",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_restoredefaults_remapping",
+      "source": "Are you sure you want to discard any changes and restore the default Control Mappings?",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_restoredialogtitle",
+      "source": "Restore Defaults?",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "settings_swap",
+      "source": "Swap",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_blocksection_0",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_blocksection_1",
+      "source": "Left",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_blocksection_2",
+      "source": "Right",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_blocksection_3",
+      "source": "Both",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_booster_0",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_booster_1",
+      "source": "Left",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_booster_2",
+      "source": "Right",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_booster_3",
+      "source": "Both",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_brakes_0",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_brakes_1",
+      "source": "Left",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_brakes_2",
+      "source": "Right",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_brakes_3",
+      "source": "Both",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_lsm_0",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_lsm_1",
+      "source": "Left",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_lsm_2",
+      "source": "Right",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_lsm_3",
+      "source": "Both",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_lsm_holdingsection_0",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_lsm_holdingsection_1",
+      "source": "Left",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_lsm_holdingsection_2",
+      "source": "Right",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_lsm_holdingsection_3",
+      "source": "Both",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_magnetic_brakes_0",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_magnetic_brakes_1",
+      "source": "Left",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_magnetic_brakes_2",
+      "source": "Right",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_magnetic_brakes_3",
+      "source": "Both",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_spline_0",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_spline_1",
+      "source": "Left",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_spline_2",
+      "source": "Right",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_spline_3",
+      "source": "Both",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_trim_brakes_magnetic_0",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_trim_brakes_magnetic_1",
+      "source": "Left",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_trim_brakes_magnetic_2",
+      "source": "Right",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "optioncatwalkfour_trim_brakes_magnetic_3",
+      "source": "Both",
+      "context": "",
+      "max_length": null
+    }
+  ]
+}

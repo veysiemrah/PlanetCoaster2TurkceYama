@@ -1,0 +1,648 @@
+{
+  "items": [
+    {
+      "key": "trackedit_addtesttrain",
+      "translation": "Test Treni Ekle"
+    },
+    {
+      "key": "trackedit_anglesnap",
+      "translation": "Açı Yakalama"
+    },
+    {
+      "key": "trackedit_attachcamera",
+      "translation": "Kamera Bağla"
+    },
+    {
+      "key": "trackedit_autocompletetooltip",
+      "translation": "Mevcut tasarımı otomatik tamamla"
+    },
+    {
+      "key": "trackedit_autotunnel",
+      "translation": "Otomatik Tünel"
+    },
+    {
+      "key": "trackedit_banking",
+      "translation": "Yatırma"
+    },
+    {
+      "key": "trackedit_banking_angleindicator",
+      "translation": "{Value:float:decimalPlaces=2}º"
+    },
+    {
+      "key": "trackedit_build",
+      "translation": "İnşa Et [{#LogicalButton.TrackEdit_Build#}]"
+    },
+    {
+      "key": "trackedit_delete",
+      "translation": "Sil [{#LogicalButton.TrackEdit_Delete#}]"
+    },
+    {
+      "key": "trackedit_elevation",
+      "translation": "Yükselti"
+    },
+    {
+      "key": "trackedit_heightmarkers",
+      "translation": "Yükseklik İşaretleri"
+    },
+    {
+      "key": "trackedit_heightmarkers_off",
+      "translation": "Kapalı"
+    },
+    {
+      "key": "trackedit_heightmarkers_sealevel",
+      "translation": "Deniz Seviyesi"
+    },
+    {
+      "key": "trackedit_heightmarkers_terrainrelative",
+      "translation": "Araziye Göre"
+    },
+    {
+      "key": "trackedit_keepcurve",
+      "translation": "Virajı Koru"
+    },
+    {
+      "key": "trackedit_length",
+      "translation": "Uzunluk"
+    },
+    {
+      "key": "trackedit_nextselectiontooltip",
+      "translation": "Seçimi bir sonraki parçaya taşı"
+    },
+    {
+      "key": "trackedit_pieceselection",
+      "translation": "Parça seçimi"
+    },
+    {
+      "key": "trackedit_previousselectiontooltip",
+      "translation": "Seçimi bir önceki parçaya taşı"
+    },
+    {
+      "key": "trackedit_redo",
+      "translation": "Yinele"
+    },
+    {
+      "key": "trackedit_removetrains",
+      "translation": "Trenleri Kaldır"
+    },
+    {
+      "key": "trackedit_rolloffset",
+      "translation": "Yatırma Pivot Yüksekliği"
+    },
+    {
+      "key": "trackedit_scale",
+      "translation": "Ölçek"
+    },
+    {
+      "key": "trackedit_smooth",
+      "translation": "Pürüzsüzleştir"
+    },
+    {
+      "key": "trackedit_title",
+      "translation": "Ray Seçenekleri"
+    },
+    {
+      "key": "trackedit_trackrelativehandles",
+      "translation": "Raya Göre Kontroller"
+    },
+    {
+      "key": "trackedit_turn",
+      "translation": "Dönüş"
+    },
+    {
+      "key": "trackedit_undo",
+      "translation": "Geri Al"
+    },
+    {
+      "key": "friendshub_acceptfriendrequest",
+      "translation": "Arkadaşlık isteğini kabul et"
+    },
+    {
+      "key": "friendshub_accountid",
+      "translation": "Arkadaşlıktan Çıkar"
+    },
+    {
+      "key": "friendshub_addtofrontierfriends",
+      "translation": "Planet Coaster 2 Arkadaşlarına Ekle"
+    },
+    {
+      "key": "friendshub_cancelrequest",
+      "translation": "İsteği iptal et"
+    },
+    {
+      "key": "friendshub_emptyfriendlist",
+      "translation": "<p><span class='FriendsHub_feedbackHead'>Arkadaş Listen boş.</span>\n<span class='FriendsHub_feedbackBody'>\n• Birlikte çalışabileceğin kişileri bulmak için oyuncu aramayı dene.</span></p>"
+    },
+    {
+      "key": "friendshub_frontier_noresultsfounddesc",
+      "translation": "<p><span class='FriendsHub_feedbackHead'>Sonuç bulunamadı.</span>\n<span class='FriendsHub_feedbackBody'>\n• Lütfen yazım hatalarını kontrol et.\n• Planet Coaster Profili adını aradığından emin ol.</span></p>"
+    },
+    {
+      "key": "friendshub_frontierfriends",
+      "translation": "Planet Coaster 2 Arkadaşları"
+    },
+    {
+      "key": "friendshub_frontierfriends_desc",
+      "translation": "Planet Coaster 2 arkadaş listeni ara."
+    },
+    {
+      "key": "friendshub_frontierfriends_title",
+      "translation": "Bir Planet Coaster 2 Arkadaşı Seç"
+    },
+    {
+      "key": "friendshub_lastactive",
+      "translation": "Arkadaşlıktan Çıkar"
+    },
+    {
+      "key": "friendshub_none_noresultsfounddesc",
+      "translation": "<p><span class='FriendsHub_feedbackHead'>Sonuç bulunamadı.</span>\n<span class='FriendsHub_feedbackBody'>\n• Lütfen yazım hatalarını kontrol et.\n• Planet Coaster Profili adını aradığından emin ol.</span></p>"
+    },
+    {
+      "key": "friendshub_noresultsfound",
+      "translation": "Sonuç Bulunamadı "
+    },
+    {
+      "key": "friendshub_platform",
+      "translation": "Arkadaşlıktan Çıkar"
+    },
+    {
+      "key": "friendshub_platform_noresultsfounddesc",
+      "translation": "<p><span class='FriendsHub_feedbackHead'>Sonuç bulunamadı.</span>\n<span class='FriendsHub_feedbackBody'>\n• Lütfen yazım hatalarını kontrol et.\n• Platform Hesap adını aradığından emin ol.\n• Çevrimdışı oyuncular bu listede görünmeyecek.</span></p>"
+    },
+    {
+      "key": "friendshub_platformfriends",
+      "translation": "Platform Arkadaşları"
+    },
+    {
+      "key": "friendshub_platformfriends_desc",
+      "translation": "Şu anda Planet Coaster 2 oynayan platform arkadaşlarına göz at."
+    },
+    {
+      "key": "friendshub_platformfriends_title",
+      "translation": "Bir Platform Arkadaşı Seç"
+    },
+    {
+      "key": "friendshub_recievedrequest",
+      "translation": "Arkadaşlık isteği"
+    },
+    {
+      "key": "friendshub_search",
+      "translation": "Ara"
+    },
+    {
+      "key": "friendshub_searchplayers",
+      "translation": "Oyuncu Ara"
+    },
+    {
+      "key": "friendshub_searchplayers_desc",
+      "translation": "Daha fazla Planet Coaster 2 arkadaşı bul."
+    },
+    {
+      "key": "friendshub_searchplayers_title",
+      "translation": "Yeni Arkadaş Ara"
+    },
+    {
+      "key": "friendshub_sendfriendrequest",
+      "translation": "Arkadaşlık isteği gönder"
+    },
+    {
+      "key": "friendshub_sentrequest",
+      "translation": "İstek gönderildi"
+    },
+    {
+      "key": "friendshub_stats",
+      "translation": "İstatistikler"
+    },
+    {
+      "key": "friendshub_unfriendplayer",
+      "translation": "Arkadaşlıktan Çıkar"
+    },
+    {
+      "key": "friendshub_viewprofile",
+      "translation": "Profili Görüntüle"
+    },
+    {
+      "key": "month_1",
+      "translation": "Oca"
+    },
+    {
+      "key": "month_10",
+      "translation": "Eki"
+    },
+    {
+      "key": "month_11",
+      "translation": "Kas"
+    },
+    {
+      "key": "month_12",
+      "translation": "Ara"
+    },
+    {
+      "key": "month_2",
+      "translation": "Şub"
+    },
+    {
+      "key": "month_3",
+      "translation": "Mar"
+    },
+    {
+      "key": "month_4",
+      "translation": "Nis"
+    },
+    {
+      "key": "month_5",
+      "translation": "May"
+    },
+    {
+      "key": "month_6",
+      "translation": "Haz"
+    },
+    {
+      "key": "month_7",
+      "translation": "Tem"
+    },
+    {
+      "key": "month_8",
+      "translation": "Ağu"
+    },
+    {
+      "key": "month_9",
+      "translation": "Eyl"
+    },
+    {
+      "key": "month_long_1",
+      "translation": "Ocak"
+    },
+    {
+      "key": "month_long_10",
+      "translation": "Ekim"
+    },
+    {
+      "key": "month_long_11",
+      "translation": "Kasım"
+    },
+    {
+      "key": "month_long_12",
+      "translation": "Aralık"
+    },
+    {
+      "key": "month_long_2",
+      "translation": "Şubat"
+    },
+    {
+      "key": "month_long_3",
+      "translation": "Mart"
+    },
+    {
+      "key": "month_long_4",
+      "translation": "Nisan"
+    },
+    {
+      "key": "month_long_5",
+      "translation": "Mayıs"
+    },
+    {
+      "key": "month_long_6",
+      "translation": "Haziran"
+    },
+    {
+      "key": "month_long_7",
+      "translation": "Temmuz"
+    },
+    {
+      "key": "month_long_8",
+      "translation": "Ağustos"
+    },
+    {
+      "key": "month_long_9",
+      "translation": "Eylül"
+    },
+    {
+      "key": "month_value",
+      "translation": "{Value:float:decimalPlaces=0} ay"
+    },
+    {
+      "key": "month_value_ago",
+      "translation": "{Value:float:decimalPlaces=0} ay önce"
+    },
+    {
+      "key": "month_value_left",
+      "translation": "{Value:float:decimalPlaces=0} ay kaldı"
+    },
+    {
+      "key": "presence_career",
+      "translation": "Kariyer"
+    },
+    {
+      "key": "presence_career_c0_arch",
+      "translation": "Kayıp Cennet içinde"
+    },
+    {
+      "key": "presence_career_c0_buil",
+      "translation": "Bifröst'ü İnşa Etmek içinde"
+    },
+    {
+      "key": "presence_career_c0_cany",
+      "translation": "Hız Yarığı içinde"
+    },
+    {
+      "key": "presence_career_c0_coas",
+      "translation": "Kıyı Meselesi içinde"
+    },
+    {
+      "key": "presence_career_c0_duel",
+      "translation": "Çifte Dert içinde"
+    },
+    {
+      "key": "presence_career_c0_ecop",
+      "translation": "Tam Orman içinde"
+    },
+    {
+      "key": "presence_career_c0_gard",
+      "translation": "Edith'in Bahçesi içinde"
+    },
+    {
+      "key": "presence_career_c0_junk",
+      "translation": "Hurdalık Parkı içinde"
+    },
+    {
+      "key": "presence_career_c0_laby",
+      "translation": "Labirent Sırları içinde"
+    },
+    {
+      "key": "presence_career_c0_lazy",
+      "translation": "Tembel Styx Nehri içinde"
+    },
+    {
+      "key": "presence_career_c0_lost",
+      "translation": "Parklar ve Restorasyon içinde"
+    },
+    {
+      "key": "presence_career_c0_masc",
+      "translation": "Maskot Çılgınlığı içinde"
+    },
+    {
+      "key": "presence_career_c0_natu",
+      "translation": "Efsanevi Fiyort içinde"
+    },
+    {
+      "key": "presence_career_c0_pest",
+      "translation": "Haşere Sorunu içinde"
+    },
+    {
+      "key": "presence_career_c0_plan",
+      "translation": "Çiftlik Çılgınlığı içinde"
+    },
+    {
+      "key": "presence_career_c0_priv",
+      "translation": "Özel Park içinde"
+    },
+    {
+      "key": "presence_career_c0_spli",
+      "translation": "Swimm Kardeşler içinde"
+    },
+    {
+      "key": "presence_career_c0_swam",
+      "translation": "Bataklık Senaryosu içinde"
+    },
+    {
+      "key": "presence_career_c0_tiny",
+      "translation": "Sınır Tanımaz içinde"
+    },
+    {
+      "key": "presence_career_c0_tutb",
+      "translation": "Hız Treninin Anahtarları içinde"
+    },
+    {
+      "key": "presence_career_c0_tutw",
+      "translation": "İşlerin İçinde"
+    },
+    {
+      "key": "presence_career_c0_twin",
+      "translation": "Zirvenin Harikası içinde"
+    },
+    {
+      "key": "presence_career_c0_vomi",
+      "translation": "Heyecan Dolu içinde"
+    },
+    {
+      "key": "presence_challenge",
+      "translation": "Görev"
+    },
+    {
+      "key": "presence_franchise",
+      "translation": "Franchise"
+    },
+    {
+      "key": "presence_sandbox",
+      "translation": "Serbest Mod"
+    },
+    {
+      "key": "trackfeature_cableandchainlift",
+      "translation": "Kablo ve Zincir Asansörler"
+    },
+    {
+      "key": "trackfeature_cabledriven",
+      "translation": "Kablo Tahrikli"
+    },
+    {
+      "key": "trackfeature_cablelift",
+      "translation": "Kablo Asansör"
+    },
+    {
+      "key": "trackfeature_caninvert",
+      "translation": "Takla Atabilir"
+    },
+    {
+      "key": "trackfeature_cannotinvert",
+      "translation": "Takla Atamaz"
+    },
+    {
+      "key": "trackfeature_canpartiallyinvert",
+      "translation": "Kısmen Takla Atabilir"
+    },
+    {
+      "key": "trackfeature_chainanddrivetyrelift",
+      "translation": "Zincir ve Sürücü Lastik Asansörler"
+    },
+    {
+      "key": "trackfeature_chainlift",
+      "translation": "Zincir Asansör"
+    },
+    {
+      "key": "trackfeature_chainliftandlinearinductionmotor",
+      "translation": "Zincir Asansör ve LSM"
+    },
+    {
+      "key": "trackfeature_compressedairlaunch",
+      "translation": "Sıkıştırılmış Hava Fırlatma"
+    },
+    {
+      "key": "trackfeature_conveyerbeltlift",
+      "translation": "Konveyör Bant Asansör"
+    },
+    {
+      "key": "trackfeature_foradultsandteensonly",
+      "translation": "Yalnızca Yetişkin ve Gençlere"
+    },
+    {
+      "key": "trackfeature_foreveryone",
+      "translation": "Her Yaşa Uygun"
+    },
+    {
+      "key": "trackfeature_frictionwheellift",
+      "translation": "Sürtünme Tekeri Asansör"
+    },
+    {
+      "key": "trackfeature_hydrauliclaunch",
+      "translation": "Hidrolik Fırlatma"
+    },
+    {
+      "key": "trackfeature_interactive",
+      "translation": "Etkileşimli"
+    },
+    {
+      "key": "trackfeature_liftwithcatchcar",
+      "translation": "Yakalama Arabalı Asansör"
+    },
+    {
+      "key": "trackfeature_linearinductionmotor",
+      "translation": "Doğrusal İndüksiyon Motoru"
+    },
+    {
+      "key": "trackfeature_linearsyncronousmotor",
+      "translation": "Doğrusal Senkron Motor"
+    },
+    {
+      "key": "trackfeature_pneumaticlaunch",
+      "translation": "Pnömatik Fırlatma"
+    },
+    {
+      "key": "trackfeature_poweredcar",
+      "translation": "Motorlu Araba"
+    },
+    {
+      "key": "trackfeature_poweredtrain",
+      "translation": "Motorlu Tren"
+    },
+    {
+      "key": "trackfeature_poweredvehicle",
+      "translation": "Motorlu Araç"
+    },
+    {
+      "key": "trackfeature_stockcoastercar",
+      "translation": "Çoklu Araba Stilleri"
+    },
+    {
+      "key": "trackfeature_trackinvertsridersdont",
+      "translation": "Ray Takla Atar, Biniciler Atmaz"
+    },
+    {
+      "key": "trackfeature_verticalchainlift",
+      "translation": "Dikey Zincir Asansör"
+    },
+    {
+      "key": "trackfeature_verticalchainliftandlinearsyncronousmotor",
+      "translation": "Dikey Zincir Asansör ve LSM"
+    },
+    {
+      "key": "time_am_am",
+      "translation": "{Value:int}am - {Target:int}am"
+    },
+    {
+      "key": "time_am_pm",
+      "translation": "{Value:int}am - {Target:int}pm"
+    },
+    {
+      "key": "time_days",
+      "translation": "{days:int} gün"
+    },
+    {
+      "key": "time_days_singular",
+      "translation": "1 gün"
+    },
+    {
+      "key": "time_days_zero",
+      "translation": "< 1 gün"
+    },
+    {
+      "key": "time_hours",
+      "translation": "{Value:int} saat"
+    },
+    {
+      "key": "time_hours_minutes",
+      "translation": "{Hour}, {Minute}"
+    },
+    {
+      "key": "time_hours_minutes_h",
+      "translation": "{Hours:int}:{Minutes:int:minDigits=2}sa"
+    },
+    {
+      "key": "time_hours_minutes_seconds",
+      "translation": "{Hours:int:minDigits=2}:{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2}"
+    },
+    {
+      "key": "time_hours_minutes_seconds_decimal",
+      "translation": "{Hours:int:minDigits=2}:{Minutes:int:minDigits=2}:{Seconds:int:decimalPlaces=3}"
+    },
+    {
+      "key": "time_hours_singular",
+      "translation": "1 saat"
+    },
+    {
+      "key": "time_minutes",
+      "translation": "{Value:int} dakika"
+    },
+    {
+      "key": "time_minutes_seconds",
+      "translation": "{Minutes:int:minDigits=2}:{Seconds:int:minDigits=2}"
+    },
+    {
+      "key": "time_minutes_seconds_decimal",
+      "translation": "{Minutes:int:minDigits=1}:{Seconds:int:decimalPlaces=3}"
+    },
+    {
+      "key": "time_minutes_singular",
+      "translation": "1 dakika"
+    },
+    {
+      "key": "time_months",
+      "translation": "{Months:int} ay"
+    },
+    {
+      "key": "time_months_and_years",
+      "translation": "{Years}, {Months}"
+    },
+    {
+      "key": "time_months_range",
+      "translation": "{Min:int} - {Max:int} ay"
+    },
+    {
+      "key": "time_months_singular",
+      "translation": "1 ay"
+    },
+    {
+      "key": "time_months_zero",
+      "translation": "< 1 ay"
+    },
+    {
+      "key": "time_pm_pm",
+      "translation": "{Value:int}pm - {Target:int}pm"
+    },
+    {
+      "key": "time_separator",
+      "translation": ":"
+    },
+    {
+      "key": "time_years",
+      "translation": "{Years:int} yıl"
+    },
+    {
+      "key": "time_years_singular",
+      "translation": "1 yıl"
+    },
+    {
+      "key": "time_years_zero",
+      "translation": "< 1 yıl"
+    }
+  ]
+}

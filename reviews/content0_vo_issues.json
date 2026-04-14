@@ -1,0 +1,530 @@
+{
+  "english_residue": [
+    {
+      "key": "vo_adrianavega_buildingthebifrost_intro_010",
+      "source": "Oh, good, you're here! I've got some great news for you! [sentiment=Happy]",
+      "translation": "Oh, iyi ki geldin! Sana harika haberlerim var! [sentiment=Happy]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_adrianavega_chapter2_080",
+      "source": "Oh, I'm so pleased! I can't wait to see what we will achieve together! ¡Adios! [sentiment=Happy]",
+      "translation": "Oh, ne kadar sevindim! Birlikte neler başaracağımızı görmek için sabırsızlanıyorum! ¡Adios! [sentiment=Happy]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_adrianavega_labyrinthsecrets_silver_040",
+      "source": "Oh, underground? No, they escaped years ago. [sentiment=Confident]",
+      "translation": "Oh, yeraltında mı? Hayır, yıllar önce kaçtılar. [sentiment=Confident]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_adrianavega_lazyriverland_bronze_060",
+      "source": "Oh, I couldn't possibly. There's too much happening with the park to- [sentiment=Shocked]",
+      "translation": "Oh, ben giremem ki. Parkta bu kadar şey olurken- [sentiment=Shocked]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_adrianavega_lostmonument_intro_080",
+      "source": "Oh, um, yes! That's exactly right. Sorry, I'm just not used to anyone really knowing who they are... [sentiment=Shocked]",
+      "translation": "Oh, evet! Kesinlikle öyle. Özür dilerim, kimsenin gerçekten kim olduklarını bilmesine alışkın değilim... [sentiment=Shocked]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_bradnewton_coastercanyon_intro_110",
+      "source": "Oh, woah, no pressure then… Well, uh, let's do this thing! [sentiment=Happy]",
+      "translation": "Oh, vay be, hiç baskı yok o zaman... Neyse, haydi başlayalım! [sentiment=Happy]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_bradnewton_twinpeaks_outro_050",
+      "source": "Oh yeah, the agent! I bet they're feeling pretty silly now, eh, Hank? [sentiment=Confident]",
+      "translation": "Oh evet, ajan! Şimdi kendini bayağı aptal hissediyordur, değil mi Hank? [sentiment=Confident]",
+      "detail": "Oh "
+    },
+    {
+      "key": "vo_bradnewton_vomitworld_bronze_010",
+      "source": "Oh woah-ho-ho, these guests really are thrill seekers! [sentiment=Happy]",
+      "translation": "Oh vay-hay-hay, bu ziyaretçiler gerçekten adrenalin düşkünü! [sentiment=Happy]",
+      "detail": "Oh "
+    },
+    {
+      "key": "vo_eugenenewton_lazyriverland_intro_090",
+      "source": "Oh, are you sure? Then... what should I do? [sentiment=Fear]",
+      "translation": "Oh, emin misin? Peki... ben ne yapmalıyım o zaman? [sentiment=Fear]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_eugenenewton_tutorial1_bronze_120",
+      "source": "Oh, Oswald. I do wish you'd stop telling people that... although that does remind me, I must buy some more polish for that trophy. It was looking rather dull the last time I was cuddling it. [sentiment=Neutral]",
+      "translation": "Oh Oswald. Keşke insanlara bunu söylemekten vazgeçsen... her ne kadar bu kupa için biraz daha cilalayıcı almam gerektiğini hatırlatsa da. Son görüşümde biraz donuk görünüyordu. [sentiment=Neutral]",
+      "detail": "Oh "
+    },
+    {
+      "key": "vo_eugenenewton_tutorial1_bronze_240",
+      "source": "Oh, and remember to open the ride like you did earlier on. But actually… (ponders) that would make it B-E-E-P-A-O, wouldn't it? Hmm, doesn't have the same ring to it. [sentiment=Neutral]",
+      "translation": "Oh, ve binişi daha önce yaptığın gibi açmayı unutma. Ama aslında... (düşünür) bu onu B-G-Ç-Y-G-A yapar, değil mi? Hmm, pek akılda kalmıyor. [sentiment=Neutral]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_eugenenewton_tutorial1_bronze_240_alt",
+      "source": "Oh, and remember to open the ride like you did earlier on. [sentiment=Neutral]",
+      "translation": "Oh, ve binişi daha önce yaptığın gibi açmayı unutma. [sentiment=Neutral]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_eugenenewton_tutorial1_bronze_240_alt3",
+      "source": "Oh, and don't forget to open the ride! Actually… (ponders) that would make it B-E-E-P-O, wouldn't it? Hmm... doesn't have the same ring to it. [sentiment=Fear]",
+      "translation": "Oh, ve binişi açmayı unutma! Aslında... (düşünür) bu onu B-G-Ç-Y-A yapar, değil mi? Hmm... pek akılda kalmıyor. [sentiment=Fear]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_nanabetty_archipelago_gold_070",
+      "source": "Oh, (innocent chuckle) yes, I was just saying the same thing myself... but I must be going- [sentiment=Happy]",
+      "translation": "Oh, (masum bir kıkırdamayla) evet, ben de aynı şeyi söylüyordum... ama gitmem lazım- [sentiment=Happy]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_nanabetty_chapter4_010",
+      "source": "Oh my dearies, what you have achieved so far is nothing short of extraordinary! And now, you find yourselves on the cusp of joining the Nana Betty family.  [sentiment=Happy]",
+      "translation": "Oh canlarım, şimdiye kadar başardıklarınız olağanüstü! Ve şimdi Nana Betty ailesine katılmanın eşiğindesiniz. [sentiment=Happy]",
+      "detail": "Oh "
+    },
+    {
+      "key": "vo_nanabetty_gardenpark_gold_050",
+      "source": "Oh, yes. (Chuckle) I was just saying how brilliantly you've all been doing. [sentiment=Happy]",
+      "translation": "Oh, evet. (Kıkırdar) Hepinizin ne kadar güzel iş çıkardığını söylüyordum. [sentiment=Happy]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_nanabetty_gardenpark_outro_090",
+      "source": "Oh, (Awkward Laugh) just a little inside joke, that's all. Oh, what a little devil, ey? (Chuckles) [sentiment=Confused]",
+      "translation": "Oh, (Beceriksiz Kahkaha) sadece küçük bir iç espri, hepsi bu. Oh, ne şeytan misin! (Kıkırdar) [sentiment=Confused]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_nanabetty_planningpermissionfailure_gold_090",
+      "source": "Oh, thank you deary, you're ever so kind. [sentiment=Happy]",
+      "translation": "Oh, teşekkür ederim canım, çok naziksin. [sentiment=Happy]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_nanabetty_planningpermissionfailure_intro_090",
+      "source": "Oh, I try to visit often. I have a soft spot in my heart for this place, I tell you. [sentiment=Happy]",
+      "translation": "Oh, sık sık uğramaya çalışırım. Bu yerin kalbimde özel bir yeri var, gerçekten. [sentiment=Happy]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_nanabetty_planningpermissionfailure_silver_060",
+      "source": "Oh (chuckle) so it is. Oh, please forgive an old woman's eyes. They aren't what they used to be.  [sentiment=Happy]",
+      "translation": "Oh (kıkırdar) öyle mi. Oh, yaşlı kadının gözlerini bağışlayın. Eskisi gibi göremiyorlar artık. [sentiment=Happy]",
+      "detail": "Oh "
+    },
+    {
+      "key": "vo_oswaldthompson_coastline_intro_110",
+      "source": "Oh, don’t you worry. What’s a little debt between friends? [sentiment=Happy]",
+      "translation": "Oh, merak etmeyin. Dostlar arasında biraz borç ne ki? [sentiment=Happy]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_oswaldthompson_duellingparks_gold_040",
+      "source": "Oh, he'll come around. All that anger doesn't disappear with the snap of your fingers. All we can do is keep showing him that we're not the people he thinks we are. [sentiment=Neutral]",
+      "translation": "Oh, zamanla yumuşar. Parmakları çıtlatmakla o öfke gitmez. Tek yapabileceğimiz, sandığı insanlar olmadığımızı göstermeye devam etmek. [sentiment=Neutral]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_oswaldthompson_duellingparks_outro_050",
+      "source": "Oh, 'perfect'? You'll make me blush! [sentiment=Happy]",
+      "translation": "Oh, 'mükemmel' mi? Yüzüm kızarıyor! [sentiment=Happy]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_oswaldthompson_duellingparks_silver_020",
+      "source": "Oh, we're not going anywhere! I know we haven't always seen eye to eye, but if there's one thing I've learned with my years, it's that the client is always right. [sentiment=Confident]",
+      "translation": "Oh, hiçbir yere gitmiyoruz! Her zaman aynı fikirde olmasak da, yıllarımın bana öğrettiği şu: müşteri her zaman haklıdır. [sentiment=Confident]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_oswaldthompson_epilogue_010",
+      "source": "Oh, good! You made it! I gathered you all here today as Hank has some BIG news he'd like to share! [sentiment=Neutral]",
+      "translation": "Oh, iyi! Geldiniz! Hank'in paylaşmak istediği BÜYÜK bir haberi olduğundan hepinizi burada topladım! [sentiment=Neutral]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_oswaldthompson_planningpermissionfailure_intro_080",
+      "source": "Oh, Nana Betty, it is an honour! What brings you to this neck of the woods today? [sentiment=Neutral]",
+      "translation": "Oh, Nana Betty, ne büyük onur! Bugün bu tarafa ne getirdi sizi? [sentiment=Neutral]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_oswaldthompson_planningpermissionfailure_intro_110",
+      "source": "Oh, your kindness is always unmatched, but you needn't go out of your way. We have it all in hand here at Coaster Coast! [sentiment=Happy]",
+      "translation": "Oh, iyiliğiniz eşsiz; ama kendinizi zahmet ettirmeyin. Her şey Coaster Coast'ta çözülür! [sentiment=Happy]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_oswaldthompson_tutorial1_gold_240",
+      "source": "Oh, (chuckles) gets him every time... [sentiment=Happy]",
+      "translation": "Oh, (kıkırdar) her seferinde yakalanıyor... [sentiment=Happy]",
+      "detail": "Oh, "
+    },
+    {
+      "key": "vo_oswaldthompson_tutorial1_outro_150",
+      "source": "Oh ho, that is a beauty! Terrific work, you two! This is a coaster that truly deserves a place in the spotlight, so how about we put together an Advertisement to mark the occasion, hmm? Head to the Advertising tab in the Park Management menu, and let's show the world what the park has to offer! [sentiment=Happy]",
+      "translation": "Oh ho, bu bir şaheser! Siz ikiniz muhteşem iş çıkardınız! Bu, gerçekten ışıkları hak eden bir hız treni; haydi bunu ilan etmek için bir Reklam hazırlayalım, di mi? Park Yönetimi menüsündeki Reklam sekmesine gidin; dünyaya parkın sunduklarını gösterelim! [sentiment=Happy]",
+      "detail": "Oh "
+    },
+    {
+      "key": "vo_oswaldthompson_tutorial1_silver_040",
+      "source": "Oh, Eugene, you needn't always push for perfection. Right now, our duty is to these fine Planconians and their basic needs.  [sentiment=Confident]",
+      "translation": "Oh Eugene, her zaman mükemmeliyetçiliğe gerek yok. Şu an görevimiz, bu güzel Plankonyalılara ve temel ihtiyaçlarına bakmak. [sentiment=Confident]",
+      "detail": "Oh "
+    }
+  ],
+  "sentiment_mismatch_sad": [
+    {
+      "key": "vo_adrianavega_labyrinthsecrets_gold_040",
+      "source": "Ok, fine, I think you're all rubbing off on me... for better or worse. (Chuckles) [sentiment=Happy]",
+      "translation": "Tamam, tamam, sanırım hepiniz bana bulaştı... iyi mi kötü mü bilinmez. (Güler) [sentiment=Happy]",
+      "detail": "happy:['kötü']"
+    },
+    {
+      "key": "vo_adrianavega_lostmonument_gold_020",
+      "source": "Ah, I remember my first site. All those hours in academia, studying and dreaming about what was out there. But actually finding new discoveries, it never wears off. That feeling... the rush of unearthing history. [sentiment=Happy]",
+      "translation": "Ah, ilk alanımı hatırlıyorum. Akademide saatlerce çalışıp orada dışarıda ne olduğunu hayal etmek. Ama yeni keşifler bulmak... bu his hiç geçmiyor. O his... tarihi gün yüzüne çıkarmanın heyecanı. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_adrianavega_newnaturereserve_gold_040",
+      "source": "Actually, Brad, not all Norsemen were Vikings. Being a Viking was more of a job... Like you being a water ride engineer. [sentiment=Happy]",
+      "translation": "Aslında Brad, tüm İskandinavlar Viking değildi. Viking olmak daha çok bir meslekti... Tıpkı senin su binişleri mühendisi olman gibi. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_bradnewton_buildingthebifrost_intro_040",
+      "source": "Ahhh, this is going to be so cool! Hey, (chuckle) Eugene, (chuckle) remember when you tried to grow your hair out into a Viking braid and you couldn't quite get the- [sentiment=Happy]",
+      "translation": "Ahh, bu çok havalı olacak! Hey, (güler) Eugene, (güler) saçlarını Viking örgüsüne doğramaya çalıştığında bir türlü başaramayıp- [sentiment=Happy]",
+      "detail": "happy:['ah', 'ahh']"
+    },
+    {
+      "key": "vo_bradnewton_buildingthebifrost_outro_040",
+      "source": "I mean, personally, you had me at the rainbow bridge. But this whole project was a pretty awesome idea! [sentiment=Happy]",
+      "translation": "Yani beni şahsen gökkuşağı köprüsüyle kaptırdın. Ama bu projenin tamamı gerçekten harika bir fikirdi! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_bradnewton_buildingthebifrost_silver_010",
+      "source": "This place is really coming together! I can just imagine a huge longhouse here. Everyone eating and dancing around the hearth, telling stories over a hearty stew. Oh man, I'd love to have been a Viking! [sentiment=Happy]",
+      "translation": "Burası gerçekten şekilleniyor! Burada büyük bir uzun ev hayal edebiliyorum. Herkes yiyor, ocak başında dans ediyor, doyurucu bir çorba eşliğinde hikayeler anlatıyor. Off, Viking olmayı çok isterdim! [sentiment=Happy]",
+      "detail": "happy:['of']"
+    },
+    {
+      "key": "vo_bradnewton_coastline_intro_010",
+      "source": "Hey hey! Check out this beach. Amazing, right? Great sun, smooth waves and, more importantly, all ours! [sentiment=Happy]",
+      "translation": "Hey hey! Şu sahile bir bak. Harika, değil mi? Muhteşem güneş, pürüzsüz dalgalar ve daha da önemlisi, hepsi bizim! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_bradnewton_coastline_silver_030",
+      "source": "Anyway, beaches, water, and awesome rides? Why was I ever worried? Right, I'll let you get back to work. [sentiment=Happy]",
+      "translation": "Neyse, plajlar, su ve harika binişler mi? Niye endişelendim ki? Hadi, seni işine bırakayım. [sentiment=Happy]",
+      "detail": "happy:['endişe']"
+    },
+    {
+      "key": "vo_bradnewton_lazyriverland_gold_070",
+      "source": "Anyway, I'll stop distracting us, we should all get back to work! [sentiment=Happy]",
+      "translation": "Neyse, sizi daha fazla oyalamasam iyi, hepimiz işe geri dönelim! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_bradnewton_lazyriverland_outro_040",
+      "source": "Hey, mate! How did you find the park? They're even better when you get to relax in them, right? [sentiment=Happy]",
+      "translation": "Hey dostum! Parkı nasıl buldun? Dinlenerek gezmek çok daha iyi oluyor, değil mi? [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_bradnewton_newnaturereserve_outro_050",
+      "source": "Ooo, can we use the longship? I've always wanted to sail a longship... [sentiment=Happy]",
+      "translation": "Ooo, uzun gemiyi kullanabilir miyiz? Hep uzun gemiyle seyahat etmek istemişimdir... [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_bradnewton_tutorial2_gold_140",
+      "source": "(Laughs) Bingo! How cool is that? Blows my mind every time! Err, where was I... Oh, yes! Building the slide! Alongside the angle, you should also keep an eye on the twists and turns.  [sentiment=Happy]",
+      "translation": "(Güler) Bingo! Bu ne kadar harika değil mi? Kafam her seferinde patlıyor! Ee, neredeyim... Ah evet! Slayt inşaatı! Açıyla birlikte virajlara ve dönüşlere de dikkat etmeli- sin. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_bradnewton_tutorial2_silver_040",
+      "source": "We should add some Sun Loungers so they have a place to chill out. Ooo, and some Ladders, and a Diving Board too! Extra little touches like these will improve the prestige of the pool! The better the prestige, the more guests will want to visit. It's a win-win! [sentiment=Happy]",
+      "translation": "Uzanabilmeleri için Şezlonglar ekleyelim. Ooo, bir de Merdivenler ve Atlama Tahtası! Bu tür ek dokunuşlar havuzun prestijini artırıyor! Prestij ne kadar yüksekse o kadar çok ziyaretçi gelir. Kazan-kazan! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_bradnewton_tutorial2_silver_045",
+      "source": "Oh, and don't forget to make sure the pool is deep enough to dive in first before placing a Diving Board. I found that out the hard way, quite literally. [sentiment=Happy]",
+      "translation": "Ah, Atlama Tahtası yerleştirmeden önce havuzun dalış için yeterince derin olduğundan emin olmayı unutma. Ben bunu zor yoldan öğrendim, kelimenin tam anlamıyla. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_bradnewton_tutorial2_silver_060",
+      "source": "Yeah, great point, bro! You should try adding a few more extra touches around the pool area to get that scenery rating even higher! More is... well, more. [sentiment=Happy]",
+      "translation": "Evet, çok güzel nokta bro! Manzara puanını daha da yükseltmek için havuz alanına birkaç ek dokunuş daha eklemeyi deneyebilirsin! Ne kadar fazlaysa o kadar iyi. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_eugenenewton_buildingthebifrost_bronze_020",
+      "source": "Now our guests can transport themselves between the different realms of the park. Hee hee! [sentiment=Happy]",
+      "translation": "Artık ziyaretçilerimiz parkın farklı alemleri arasında seyahat edebilir. Hehe! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_eugenenewton_coastline_outro_040",
+      "source": "Well, not stopped, but it's certainly twitching less. [sentiment=Happy]",
+      "translation": "Yani tamamen durmadı, ama kesinlikle daha az seğiriyor. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_eugenenewton_lazyriverland_outro_070",
+      "source": "That was also when I realised you were always going to be cooler than me!  [sentiment=Happy]",
+      "translation": "İşte o zaman fark ettim; sen her zaman benden daha havalı olacaksın! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_eugenenewton_lostmonument_gold_010",
+      "source": "Wow, can you believe these coasters actually existed? This is so much better than reading about them in a library. [sentiment=Happy]",
+      "translation": "Vay be, bu hız trenlerinin gerçekten var olduğuna inanabiliyor musun? Kütüphanede bunları okumaktan çok daha iyi bu. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_eugenenewton_planningpermissionfailure_outro_010",
+      "source": "We did it! We've managed to procure the remaining plots of land and pay off the original owner's debt! [sentiment=Happy]",
+      "translation": "Başardık! Kalan arsa parçalarını satın almayı ve orijinal sahibin borcunu ödemeyi başardık! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_eugenenewton_splitpark_outro_090",
+      "source": "It's a shame the brothers who owned it before us couldn't figure things out... but you know what, Brad, I'm glad we got to work on this together. [sentiment=Happy]",
+      "translation": "Önceki sahiplerin bir türlü anlayamadığı şey yazık... ama biliyor musun Brad, bunu seninle birlikte çalışmış olmak gerçekten güzeldi. [sentiment=Happy]",
+      "detail": "happy:['yazık', 'ah']"
+    },
+    {
+      "key": "vo_eugenenewton_tutorial1_gold_050",
+      "source": "Nicely done! It's all running very smoothly indeed. But to keep the generators maintained and working, you must hire Mechanics. Without them, the generators will start gaining a Condition Penalty, which will decrease the power output. [sentiment=Happy]",
+      "translation": "Güzel iş! Her şey çok düzgün çalışıyor. Ama jeneratörlerin bakımlı ve çalışır durumda kalması için Tamirci tutmalısın. Olmadan jeneratörler Durum Cezası almaya başlar ve bu güç çıkışını düşürür. [sentiment=Happy]",
+      "detail": "happy:['üzgün']"
+    },
+    {
+      "key": "vo_eugenenewton_tutorial1_silver_080",
+      "source": "Oh, and don't forget that each of these facilities need to be staffed by hiring a Vendor. The only thing worse than a hungry guest is a hungry guest staring at a 'Back Soon' sign. They aren't edible... we have some with teeth marks to prove it! [sentiment=Happy]",
+      "translation": "Ah, bir de şunu unutmayın: bu tesislerin her birinin çalışması için bir Satıcı işe almanız gerekiyor. Aç bir ziyaretçiden kötü olan tek şey, 'Hemen Döneceğim' yazısına bakan aç bir ziyaretçidir. O yazılar yenilebilir değil... diş izli olanlar var, kanıtımız mevcut! [sentiment=Happy]",
+      "detail": "happy:['kötü', 'ah']"
+    },
+    {
+      "key": "vo_eugenenewton_tutorial2_gold_190",
+      "source": "Ahh, Eugene Newton is no stranger to the artistry of the coupon code! But yes, if the test ride is failing, you can simply open the Heatmap to see where you can make adjustments. It will highlight any turn that is too sharp, or slide that is too steep. [sentiment=Happy]",
+      "translation": "Ahhh, Eugene Newton kupon kodu sanatına yabancı değildir! Ama evet, test sürüşü başarısız oluyorsa Isı Haritasını açarak düzeltme yapabileceğiniz yerleri görebilirsiniz. Çok keskin her dönüşü veya çok dik her kaydırağı vurgular. [sentiment=Happy]",
+      "detail": "happy:['ah', 'ahh']"
+    },
+    {
+      "key": "vo_hankbrogan_tinylevel_outro_080",
+      "source": "Sell it? This is where I'll go to retire! Waterfront views, the soothing screams of happy guests… Oh yeah, this is the life. [sentiment=Happy]",
+      "translation": "Satmak mı? Burası benim emeklilik yerim! Deniz manzarası, mutlu ziyaretçilerin yatıştırıcı çığlıkları... Ah, işte yaşam bu. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_nanabetty_archipelago_intro_020",
+      "source": "Ah yes, a dear friend told me that someone was attempting to revive this old park! I should have known it would be you, Oswald, so I've come to show my support. [sentiment=Happy]",
+      "translation": "Ah evet, bir canım dostum birinin bu eski parkı canlandırmaya çalıştığını söyledi! Senin olduğunu bilmeliydim, Oswald; destek vermek için geldim. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_nanabetty_gardenpark_bronze_020",
+      "source": "Oh, we go way back. (Chuckles) We are in the same business, after all.  [sentiment=Happy]",
+      "translation": "Ah, çok eskiye gidiyoruz. (Kıkırdar) Sonuçta aynı sektördeyiz. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_nanabetty_gardenpark_intro_090",
+      "source": "She probably didn't want to bother me by asking, Eugene... but I wouldn't miss this for the world! [sentiment=Happy]",
+      "translation": "Muhtemelen beni rahatsız etmek istememiştir, Eugene... ama bunu kaçırmam düşünülemez! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_nanabetty_gardenpark_silver_020",
+      "source": "Oh well, (chuckle) I made a few calls here and there. I want everyone to see what you and Edith are doing here to these grounds. Oh there's no need to thank me, it's my pleasure. [sentiment=Happy]",
+      "translation": "Ah peki, (kıkırdar) burada birkaç telefon görüşmesi yaptım. Siz ve Edith'in bu yerde neler yaptığını herkesin görmesini istiyorum. Teşekkür etmenize gerek yok, benim için zevk. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_nanabetty_planningpermissionfailure_gold_030",
+      "source": "Oh, Oswald dear, I left my coat back on the bench there. Would you be a darling and go and find it for me? I wouldn't want to catch a cold. [sentiment=Happy]",
+      "translation": "Ah, Oswald canım, şuradaki bankta montunu unutmuşum. Gidip bulur musun? Soğuk algınlığı kapmak istemem. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_nanabetty_planningpermissionfailure_intro_100",
+      "source": "And if the owner is in a pinch, I would be more than happy to help them and buy the remaining plots... [sentiment=Happy]",
+      "translation": "Ve sahibi sıkışmış durumdaysa, kalan parselleri satın alıp yardımcı olmaktan büyük mutluluk duyarım... [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_archipelago_gold_050",
+      "source": "Knock knock! Hello, you two. Er, oh... I hope we're not interrupting?  [sentiment=Happy]",
+      "translation": "Tok tok! Merhaba ikiniz. Er... ah... umarım rahatsız etmiyorumdur? [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_archipelago_gold_080",
+      "source": "Ahhh, baking the cake, are we? [sentiment=Happy]",
+      "translation": "Ahhh, pastayı mı pişiriyoruz? [sentiment=Happy]",
+      "detail": "happy:['ah', 'ahh']"
+    },
+    {
+      "key": "vo_oswaldthompson_archipelago_silver_060",
+      "source": "Oh, maybe she is baking us an island themed cake, to celebrate the park? That would be so much better than a cookie. I'm drooling just thinking about it... [sentiment=Happy]",
+      "translation": "Belki parkı kutlamak için ada temalı bir pasta yapıyordur? Bu, bir kurabiyeden çok daha güzel olur. Düşününce ağzım sulanıyor... [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_chapter1_050",
+      "source": "Ah! As luck would have it, I believe this is them now! [sentiment=Happy]",
+      "translation": "Ah! Şansıma, sanırım o geldi! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_chapter2_090",
+      "source": "I'm thrilled to see that the magic of our parks has charmed Adriana! (Chuckles) Aye, I'm looking forward to hearing about these ideas she spoke of-- Oh my! [sentiment=Happy]",
+      "translation": "Parklarımızın büyüsünün Adriana'yı etkilediğini görmek çok güzel! (Kıkırdar) Evet, bahsettiği fikirleri duymak için sabırsızlanıyorum-- Ay Allah'ım! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_duellingparks_gold_010",
+      "source": "I couldn't be happier about this park! A cracking job! [sentiment=Happy]",
+      "translation": "Bu park için daha mutlu olamazdım! Müthiş bir iş! [sentiment=Happy]",
+      "detail": "happy:['olamaz', 'ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_ecopark_bronze_010",
+      "source": "Ah that's more like it! (Inhales) Take in that crisp, fresh air!  [sentiment=Happy]",
+      "translation": "İşte bu daha iyi! (Derin nefes) O temiz, taze havayı içine çek! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_ecopark_gold_010",
+      "source": "Ah, what a triumph! Green trees and green energy, as far as the eye can see! [sentiment=Happy]",
+      "translation": "Ah, ne zafer! Gözün gördüğü her yerde yeşil ağaçlar ve yeşil enerji! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_ecopark_intro_040",
+      "source": "Ah, fear not, Adriana! I think we can do just that. We can even use natural resources to build some wooden coasters. At least, that's what I wood do. (Laughs) [sentiment=Happy]",
+      "translation": "Ah, korkmayın Adriana! Sanırım bunu başarabiliriz. Ahşap hız trenleri inşa etmek için doğal kaynakları bile kullanabiliriz. Tahta işlerin böyle yürüdüğünü düşünürdüm zaten. (Güler) [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_ecopark_outro_030",
+      "source": "Ah, you see! I knew we'd win you over. (Chuckles) [sentiment=Happy]",
+      "translation": "Ah, bakın! Sizi ikna edeceğimizi biliyordum. (Kıkırdar) [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_epilogue_160",
+      "source": "I would have recommended our friend here, but I think they've proven themselves to be a worthy successor of Coaster Coast. A job well done, if I do say so myself! The keys to the kingdom are finally yours. [sentiment=Happy]",
+      "translation": "Arkadaşımızı öneririm ama sanırım kendini Coaster Coast'ın layık bir halefi olarak ispat etti. Çok iyi iş çıkardı, bunu söylemeliyim! Krallığın anahtarları sonunda sizin. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_gardenpark_intro_040",
+      "source": "(Chuckle) The very same, m'boy! She wants us to turn her stately garden into a theme park for her whole family to enjoy. [sentiment=Happy]",
+      "translation": "(Kıkırdar) Bizzat aynısı, evladım! Tüm ailesiyle keyif çıkarabilsinler diye şövalye bahçesini bir tema parkına dönüştürmemizi istiyor. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_gardenpark_outro_010",
+      "source": "Great work team, another successful project under our belts! [sentiment=Happy]",
+      "translation": "Bravo ekip, kemerimize bir başarı daha! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_labyrinthsecrets_gold_030",
+      "source": "My word, that's two jokes now! Eugene, check her temperature! [sentiment=Happy]",
+      "translation": "Aman Allahım, ikinci şaka bu! Eugene, ateşini ölç! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_lostmonument_intro_010",
+      "source": "Ah, great, you made it! Quite the trek, eh? [sentiment=Happy]",
+      "translation": "Ah, harika, geldiniz! Epey uzun bir yolculuktu, değil mi? [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_lostmonument_outro_070",
+      "source": "Ah, right. (Chuckles) Understood. [sentiment=Happy]",
+      "translation": "Ah, doğru. (Kıkırdar) Anladım. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_newnaturereserve_intro_010",
+      "source": "Ah! Good! Now that everyone is here, I present to you this beautiful landscape. [sentiment=Happy]",
+      "translation": "Ah! İyi! Herkes burada olduğuna göre, size bu güzel manzarayı sunuyorum. [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_planningpermissionfailure_intro_110",
+      "source": "Oh, your kindness is always unmatched, but you needn't go out of your way. We have it all in hand here at Coaster Coast! [sentiment=Happy]",
+      "translation": "Oh, iyiliğiniz eşsiz; ama kendinizi zahmet ettirmeyin. Her şey Coaster Coast'ta çözülür! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_tutorial1_bronze_040",
+      "source": "Ahhh, your very first ride opening. I remember mine well. Our confetti order was delayed, so I stayed up until 4:00 in the morning shredding paper sick bags. Clean ones, of course… [sentiment=Happy]",
+      "translation": "Ahhh, ilk biniş açılışınız. Benimkini iyi hatırlıyorum. Konfeti siparişi geç geldi; sabah dörde kadar kağıt torba yırtarak el yapımı konfeti hazırladım. Temiz olanlardan tabii... [sentiment=Happy]",
+      "detail": "happy:['ah', 'ahh']"
+    },
+    {
+      "key": "vo_oswaldthompson_tutorial1_gold_140",
+      "source": "Great! Now the park staff have somewhere to go on their breaks and enjoy some peace and quiet. We just need to ensure our inquisitive guests don't go waltzing on in there for the free coffee, claiming to be 'lost'. [sentiment=Happy]",
+      "translation": "Harika! Artık park personelinin molalarını geçirebileceği ve biraz huzur bulabileceği bir yer var. Tek endişemiz meraklı ziyaretçilerin 'kayboldum' bahanesiyle bedava kahve içmeye oraya dalmaması. [sentiment=Happy]",
+      "detail": "happy:['ah', 'endişe']"
+    },
+    {
+      "key": "vo_oswaldthompson_tutorial1_intro_050",
+      "source": "I can't just hand them the keys to the kingdom now, can I? Ey? (Chuckles)  [sentiment=Happy]",
+      "translation": "Krallığın anahtarlarını hemen şimdi veremem ki, değil mi? Ey? (Kıkırdar) [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_tutorial1_outro_150",
+      "source": "Oh ho, that is a beauty! Terrific work, you two! This is a coaster that truly deserves a place in the spotlight, so how about we put together an Advertisement to mark the occasion, hmm? Head to the Advertising tab in the Park Management menu, and let's show the world what the park has to offer! [sentiment=Happy]",
+      "translation": "Oh ho, bu bir şaheser! Siz ikiniz muhteşem iş çıkardınız! Bu, gerçekten ışıkları hak eden bir hız treni; haydi bunu ilan etmek için bir Reklam hazırlayalım, di mi? Park Yönetimi menüsündeki Reklam sekmesine gidin; dünyaya parkın sunduklarını gösterelim! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    },
+    {
+      "key": "vo_oswaldthompson_tutorial1_outro_200",
+      "source": "(chuckles) I'm not going anywhere just yet, Eugene, don't panic! We're just getting started, dipping our toes in the- actually, hold that thought… I've got just the job lined up for you! I'll send you the details, see you soon! [sentiment=Happy]",
+      "translation": "(kıkırdar) Hiçbir yere gitmiyorum henüz, Eugene, panikle! Daha yeni başlıyoruz, ayak parmaklarımızı- aslında, o düşünceyi bekletin... Tam sizin için bir iş var elimde! Ayrıntıları yollayacağım, görüşürüz! [sentiment=Happy]",
+      "detail": "happy:['ah']"
+    }
+  ],
+  "sentiment_mismatch_joy": [
+    {
+      "key": "vo_bradnewton_coastercanyon_bronze_020",
+      "source": "But, uh, let me ask you something. Do you really think Eugene is happy with this? Do you think, that he thinks, that I think I can do this? [sentiment=Fear]",
+      "translation": "Ama, bir şey soracağım. Sence Eugene bu işten gerçekten mutlu mu? Sence o, benim bunu yapabileceğimi düşünüyor mu? [sentiment=Fear]",
+      "detail": "fear:['mutlu']"
+    },
+    {
+      "key": "vo_bradnewton_splitpark_bronze_040",
+      "source": "Woah, so much work has been done here... maybe I did get a little distracted.  [sentiment=Fear]",
+      "translation": "Vay be, burada bu kadar iş yapılmış... sanırım biraz dalmışım. [sentiment=Fear]",
+      "detail": "fear:['vay be']"
+    },
+    {
+      "key": "vo_eugenenewton_lostmonument_outro_020",
+      "source": "It's incredible how much coasters have changed over time. What if one day, someone is digging up our coasters and calling them old?! [sentiment=Fear]",
+      "translation": "Hız trenlerinin zaman içinde ne kadar değiştiği inanılmaz. Ya bir gün biri bizim hız trenlerimizi kazısa ve 'eski' diye adlandırsa?! [sentiment=Fear]",
+      "detail": "fear:['inanılmaz']"
+    }
+  ]
+}

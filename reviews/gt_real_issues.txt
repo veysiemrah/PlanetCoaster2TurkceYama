@@ -1,0 +1,161 @@
+
+=== BE_SENTENCE_END (16) ===
+[guest_thought_assessment_destinationexpensive_teen_04]
+  EN: Wow! The prices for {reference} are pretty extreme
+  TR: Vay be! {reference} fiyatlar² olduka abart²
+  MATCH: be!
+
+[guest_thought_assessment_facilityexpensive_child_01]
+  EN: Wow! {reference} costs a lot!
+  TR: Vay be! {reference} ok pahal²!
+  MATCH: be!
+
+[guest_thought_assessment_queuetoolong_child_04]
+  EN: Wow! That is one long queue for {reference}
+  TR: Vay be! {reference} iin ne uzun kuyruk
+  MATCH: be!
+
+[guest_thought_coastercarpassing_common_03]
+  EN: Woah! That must be {reference}
+  TR: Vay be! Bu {reference} olmal²
+  MATCH: be!
+
+[guest_thought_fluff_goodqueuetheming_teen_04]
+  EN: Wow! The queue for {reference} has great scenery!
+  TR: Vay be! {reference} kuyru­unun dekorasyonu ok iyi!
+  MATCH: be!
+
+[guest_thought_fluff_goodridetheming_teen_04]
+  EN: Wow! {reference} looks rad! I love all the scenery!
+  TR: Vay be! {reference} ok haval²! B³t³n dekorasyonlar² ok sevdim!
+  MATCH: be!
+
+[guest_thought_fluff_goodshoptheming_adult_01]
+  EN: Wow! The scenery around {reference} looks great!
+  TR: Vay be! {reference} etraf²ndaki dekorasyon harika g÷r³n³yor!
+  MATCH: be!
+
+[guest_thought_fluff_goodtheming_adult_01]
+  EN: Wow! The scenery looks great
+  TR: Vay be! Dekorasyon ok g³zel g÷r³n³yor
+  MATCH: be!
+
+[guest_thought_fluff_goodtheming_child_03]
+  EN: Wow! I love the scenery!
+  TR: Vay be! Dekorasyonlar² ok sevdim!
+  MATCH: be!
+
+[guest_thought_fluff_onride_intensityhigh_teen_03]
+  EN: Woah! That was intense! - {reference}
+  TR: Vay be! Bu ok yo­undu! - {reference}
+  MATCH: be!
+
+[guest_thought_mascot_common_03]
+  EN: {reference} Wow!
+  TR: {reference} Vay be!
+  MATCH: be!
+
+[guest_thought_musicstand_common_03]
+  EN: Woo! Great music from {reference}
+  TR: Vay be! {reference}'den harika m³zik geliyor
+  MATCH: be!
+
+[guest_thought_parkentry_free_adult_03]
+  EN: Woo! Free Entry!
+  TR: Vay be! ▄cretsiz giri■!
+  MATCH: be!
+
+[guest_thought_visitedride_teen_03]
+  EN: Woo! {reference}!
+  TR: Vay be! {reference}!
+  MATCH: be!
+
+[guest_thought_weather_clear_common_01]
+  EN: Wow! What a beautiful day!
+  TR: Vay be! Muhte■em bir g³n!
+  MATCH: be!
+
+[guest_thought_weather_wind_common_01]
+  EN: Wow! This wind could take your socks off!
+  TR: Vay be! Bu r³zgar insan² uururdu neredeyse!
+  MATCH: be!
+
+
+=== AWKWARD_VAY_BE (1) ===
+[guest_thought_assessment_goodride_teen_04]
+  EN: {reference} looks awesome!
+  TR: {reference} vay be g÷r³n³yor!
+  MATCH: vay be g÷r³n³yor
+
+
+=== REPEATED_WORD (7) ===
+[guest_thought_assessment_queueshort_child_01]
+  EN: The queue for {reference} looks sooo fast!
+  TR: {reference} kuyru­u ok ok h²zl² g÷r³n³yor!
+  MATCH: ok ok
+
+[guest_thought_assessment_shopcheap_child_01]
+  EN: Yay! We can buy loads of cheap things from {reference}!
+  TR: Yeeey! {reference}'dan bol bol ucuz ■ey alabiliriz!
+  MATCH: bol bol
+
+[guest_thought_goinghome_child_03]
+  EN: Bye, Park! I'm going home!
+  TR: G³le g³le Park! Eve gidiyorum!
+  MATCH: G³le g³le
+
+[guest_thought_inqueue_breakdown_teen_03]
+  EN: Dang! There's no point lining up for {reference} now
+  TR: Vah vah! {reference} iin kuyrukta beklemenin art²k manas² yok
+  MATCH: Vah vah
+
+[guest_thought_restaurant_nav_common_01]
+  EN: I want to eat at {reference}.
+  TR: {reference}'de yemek yemek istiyorum.
+  MATCH: yemek yemek
+
+[guest_thought_shopitem_needsatisfied_hunger_child_03]
+  EN: Yummy yummy in my tummy!
+  TR: Yum yum, midemde oyunuyor!
+  MATCH: Yum yum
+
+[guest_thought_weather_hotsun_common_01]
+  EN: It's so sunny! We chose the right time to come!
+  TR: G³ne■ cay²r cay²r yak²yor! Tam zaman²nda geldik!
+  MATCH: cay²r cay²r
+
+
+=== STUTTER_YA (4) ===
+[guest_thought_facilityqueuefull_child_01]
+  EN: Aw! {reference} is really busy
+  TR: Yaaay! {reference} ok kalabal²k
+  MATCH: Yaaay
+
+[guest_thought_fluff_badtheming_child_04]
+  EN: Aww! There is no scenery!
+  TR: Yaaay! Hi dekorasyon yok!
+  MATCH: Yaaay
+
+[guest_thought_goinghome_child_01]
+  EN: Aw! I don't wanna leave yet!
+  TR: Yaaay! Gitmek istemiyorum daha!
+  MATCH: Yaaay
+
+[guest_thought_inqueue_breakdown_child_01]
+  EN: Aw! {reference} broke down!
+  TR: Yaaay! {reference} bozuldu!
+  MATCH: Yaaay
+
+
+=== UNTRANSLATED (1) ===
+[guest_thought_fluff_onride_adult_03]
+  EN: Eeeeee! - {reference}!
+  TR: Eeeeee! - {reference}!
+
+
+=== YA_SENTENCE_END (1) ===
+[guest_thought_queuefull_teen_02]
+  EN: Man! {reference} had a full queue!
+  TR: Of ya! {reference}'in s²ras² tamamen dolmu■!
+  MATCH: Of ya!
+

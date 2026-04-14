@@ -1,0 +1,580 @@
+{
+  "items": [
+    {
+      "key": "naturescene_01",
+      "translation": "Doğa Sahnesi 1"
+    },
+    {
+      "key": "naturescene_01_desc",
+      "translation": "Doğa sahnesi"
+    },
+    {
+      "key": "naturescene_02",
+      "translation": "Doğa Sahnesi 2"
+    },
+    {
+      "key": "naturescene_02_desc",
+      "translation": "Doğa sahnesi"
+    },
+    {
+      "key": "naturescene_03",
+      "translation": "Doğa Sahnesi 3"
+    },
+    {
+      "key": "naturescene_03_desc",
+      "translation": "Doğa sahnesi"
+    },
+    {
+      "key": "naturescene_04",
+      "translation": "Doğa Sahnesi 4"
+    },
+    {
+      "key": "naturescene_04_desc",
+      "translation": "Doğa sahnesi"
+    },
+    {
+      "key": "naturescene_05",
+      "translation": "Doğa Sahnesi 5"
+    },
+    {
+      "key": "naturescene_05_desc",
+      "translation": "Doğa sahnesi"
+    },
+    {
+      "key": "naturescene_06",
+      "translation": "Doğa Sahnesi 6"
+    },
+    {
+      "key": "naturescene_06_desc",
+      "translation": "Doğa sahnesi "
+    },
+    {
+      "key": "naturescene_07",
+      "translation": "Doğa Sahnesi 7"
+    },
+    {
+      "key": "naturescene_07_desc",
+      "translation": "Doğa sahnesi "
+    },
+    {
+      "key": "naturescene_08",
+      "translation": "Doğa Sahnesi 8"
+    },
+    {
+      "key": "naturescene_08_desc",
+      "translation": "Doğa sahnesi "
+    },
+    {
+      "key": "naturescene_09",
+      "translation": "Doğa Sahnesi 9"
+    },
+    {
+      "key": "naturescene_09_desc",
+      "translation": "Doğa sahnesi "
+    },
+    {
+      "key": "naturescene_10",
+      "translation": "Doğa Sahnesi 10"
+    },
+    {
+      "key": "naturescene_10_desc",
+      "translation": "Doğa sahnesi "
+    },
+    {
+      "key": "naturescene_11",
+      "translation": "Doğa Sahnesi 11"
+    },
+    {
+      "key": "naturescene_11_desc",
+      "translation": "Doğa sahnesi "
+    },
+    {
+      "key": "naturescene_12",
+      "translation": "Doğa Sahnesi 12"
+    },
+    {
+      "key": "naturescene_12_desc",
+      "translation": "Doğa sahnesi"
+    },
+    {
+      "key": "naturescene_13",
+      "translation": "Doğa Sahnesi 13"
+    },
+    {
+      "key": "naturescene_13_desc",
+      "translation": "Doğa sahnesi"
+    },
+    {
+      "key": "naturescene_14",
+      "translation": "Doğa Sahnesi 14"
+    },
+    {
+      "key": "naturescene_14_desc",
+      "translation": "Doğa sahnesi"
+    },
+    {
+      "key": "naturescene_15",
+      "translation": "Doğa Sahnesi 15"
+    },
+    {
+      "key": "naturescene_15_desc",
+      "translation": "Doğa sahnesi"
+    },
+    {
+      "key": "filter_wallset_aquaticcorrugated",
+      "translation": "Sucul Oluklu"
+    },
+    {
+      "key": "filter_wallset_aquaticmetalbevelled",
+      "translation": "Sucul Eğimli Metal"
+    },
+    {
+      "key": "filter_wallset_fairytalecastle",
+      "translation": "Masal Kalesi"
+    },
+    {
+      "key": "filter_wallset_festive_gingerbread",
+      "translation": "Tatil Zencefilli"
+    },
+    {
+      "key": "filter_wallset_limeplaster",
+      "translation": "Kireç Sıva"
+    },
+    {
+      "key": "filter_wallset_mythologymarble",
+      "translation": "Mitoloji Mermer"
+    },
+    {
+      "key": "filter_wallset_mythologystonemarket",
+      "translation": "Mitoloji Taş Pazarı"
+    },
+    {
+      "key": "filter_wallset_mythologystoneruin",
+      "translation": "Mitoloji Taş Harabesi"
+    },
+    {
+      "key": "filter_wallset_planetbreezeblock",
+      "translation": "Planet Delikli Briket"
+    },
+    {
+      "key": "filter_wallset_planetbrick",
+      "translation": "Planet Tuğla"
+    },
+    {
+      "key": "filter_wallset_planetmodernwood",
+      "translation": "Planet Modern Ahşap"
+    },
+    {
+      "key": "filter_wallset_planetpanel",
+      "translation": "Planet Panel"
+    },
+    {
+      "key": "filter_wallset_planetroughconcrete",
+      "translation": "Planet Kaba Beton"
+    },
+    {
+      "key": "filter_wallset_planetwoodenbeam",
+      "translation": "Planet Ahşap Kiriş"
+    },
+    {
+      "key": "filter_wallset_resortbamboo",
+      "translation": "Resort Bambu"
+    },
+    {
+      "key": "filter_wallset_resortplaster",
+      "translation": "Resort Sıva"
+    },
+    {
+      "key": "filter_wallset_resortwoodenwall",
+      "translation": "Resort Ahşap Duvar"
+    },
+    {
+      "key": "filter_wallset_sandstone",
+      "translation": "Korsan Kumtaşı"
+    },
+    {
+      "key": "filter_wallset_scifimetalalloy",
+      "translation": "Bilim Kurgu Metal Alaşım"
+    },
+    {
+      "key": "filter_wallset_sorcery_keep",
+      "translation": "Kale Taşı"
+    },
+    {
+      "key": "filter_wallset_sorcery_town",
+      "translation": "Şehir Evi Tuğlası"
+    },
+    {
+      "key": "filter_wallset_stucco",
+      "translation": "Stuko"
+    },
+    {
+      "key": "filter_wallset_toybox_cardboard",
+      "translation": "Toybox Karton"
+    },
+    {
+      "key": "filter_wallset_vikingstone",
+      "translation": "Viking Taşı"
+    },
+    {
+      "key": "filter_wallset_vikingwooden",
+      "translation": "Viking Ahşap"
+    },
+    {
+      "key": "filter_wallset_westernclassicbrick",
+      "translation": "Batı Klasik Tuğla"
+    },
+    {
+      "key": "filter_wallset_westernwoodbatten",
+      "translation": "Batı Ahşap Çıta"
+    },
+    {
+      "key": "filter_wallset_westernwoodplank",
+      "translation": "Batı Ahşap Tahta"
+    },
+    {
+      "key": "newsletterlanguage_ar",
+      "translation": "Arapça"
+    },
+    {
+      "key": "newsletterlanguage_bg",
+      "translation": "Bulgarca"
+    },
+    {
+      "key": "newsletterlanguage_cs",
+      "translation": "Çekçe"
+    },
+    {
+      "key": "newsletterlanguage_da",
+      "translation": "Danca"
+    },
+    {
+      "key": "newsletterlanguage_de",
+      "translation": "Almanca"
+    },
+    {
+      "key": "newsletterlanguage_el",
+      "translation": "Yunanca"
+    },
+    {
+      "key": "newsletterlanguage_en",
+      "translation": "İngilizce"
+    },
+    {
+      "key": "newsletterlanguage_es",
+      "translation": "İspanyolca"
+    },
+    {
+      "key": "newsletterlanguage_fi",
+      "translation": "Fince"
+    },
+    {
+      "key": "newsletterlanguage_fr",
+      "translation": "Fransızca"
+    },
+    {
+      "key": "newsletterlanguage_hu",
+      "translation": "Macarca"
+    },
+    {
+      "key": "newsletterlanguage_it",
+      "translation": "İtalyanca"
+    },
+    {
+      "key": "newsletterlanguage_ja",
+      "translation": "Japonca"
+    },
+    {
+      "key": "newsletterlanguage_ko",
+      "translation": "Korece"
+    },
+    {
+      "key": "newsletterlanguage_nl",
+      "translation": "Felemenkçe"
+    },
+    {
+      "key": "newsletterlanguage_no",
+      "translation": "Norveççe"
+    },
+    {
+      "key": "newsletterlanguage_other",
+      "translation": "Diğer"
+    },
+    {
+      "key": "newsletterlanguage_pl",
+      "translation": "Lehçe"
+    },
+    {
+      "key": "newsletterlanguage_pt",
+      "translation": "Portekizce"
+    },
+    {
+      "key": "newsletterlanguage_pt-br",
+      "translation": "Brezilya Portekizcesi"
+    },
+    {
+      "key": "newsletterlanguage_ro",
+      "translation": "Rumence"
+    },
+    {
+      "key": "newsletterlanguage_ru",
+      "translation": "Rusça"
+    },
+    {
+      "key": "newsletterlanguage_sv",
+      "translation": "İsveççe"
+    },
+    {
+      "key": "newsletterlanguage_th",
+      "translation": "Tayca"
+    },
+    {
+      "key": "newsletterlanguage_tr",
+      "translation": "Türkçe"
+    },
+    {
+      "key": "newsletterlanguage_uk",
+      "translation": "Ukraynaca"
+    },
+    {
+      "key": "newsletterlanguage_zh-hans",
+      "translation": "Basitleştirilmiş Çince"
+    },
+    {
+      "key": "newsletterlanguage_zh-hant",
+      "translation": "Geleneksel Çince"
+    },
+    {
+      "key": "shop_basemonthlycost",
+      "translation": "Temel Günlük Maliyet"
+    },
+    {
+      "key": "shop_contains",
+      "translation": "İçerir"
+    },
+    {
+      "key": "shop_containsdesc",
+      "translation": "Menü öğeleri malzemelerden oluşur. Ekstra malzeme eklemek menü öğesini daha çekici kılar; ancak dükkanın işletme giderini artırır ve daha az ziyaretçinin beslenme tercihine hitap etmesine yol açabilir."
+    },
+    {
+      "key": "shop_containsrestaurant",
+      "translation": "İçerir"
+    },
+    {
+      "key": "shop_containsrestaurantdesc",
+      "translation": "Malzemeleri değiştirmek ya da eklemek menü öğesini daha çekici kılıp ziyaretçi memnuniyetini artırabilir; ancak dükkanın işletme giderini yükseltir ve daha az ziyaretçinin beslenme kısıtlamasına uyum sağlayabilir."
+    },
+    {
+      "key": "shop_costsforitem",
+      "translation": "Menü Öğesi Maliyetleri"
+    },
+    {
+      "key": "shop_extras",
+      "translation": "Ekstralar"
+    },
+    {
+      "key": "shop_extrasmonthlycost",
+      "translation": "Ekstralar Günlük Maliyeti"
+    },
+    {
+      "key": "shop_extrastockcost",
+      "translation": "Ekstra Stok Maliyeti"
+    },
+    {
+      "key": "shop_forsale",
+      "translation": "Satışta"
+    },
+    {
+      "key": "shop_guestdietarydesc",
+      "translation": "Her malzeme bir ziyaretçiyi memnun ederek mutluluğunu artırabilir; ancak ilgili beslenme kısıtlaması olan ziyaretçileri rahatsız edebilir."
+    },
+    {
+      "key": "shop_guestdietarysatisfaction",
+      "translation": "Ziyaretçi Beslenme Memnuniyeti"
+    },
+    {
+      "key": "shop_guestdietcoverage",
+      "translation": "Ziyaretçi Beslenme Kapsamı"
+    },
+    {
+      "key": "shop_guestfoodsatisfaction",
+      "translation": "Ziyaretçi Yemek Memnuniyeti"
+    },
+    {
+      "key": "shop_guesthungersatisfaction",
+      "translation": "Ziyaretçi İçecek Memnuniyeti"
+    },
+    {
+      "key": "shop_gueststhatcanconsume",
+      "translation": "Bu ürünü tüketebilen ziyaretçiler"
+    },
+    {
+      "key": "shop_increasesguestsatisfaction",
+      "translation": "Ziyaretçi Memnuniyetini Artırır"
+    },
+    {
+      "key": "shop_ingredientcost",
+      "translation": "Malzeme Maliyeti"
+    },
+    {
+      "key": "shop_ingredients",
+      "translation": "Malzemeler"
+    },
+    {
+      "key": "shop_monthlystockcost",
+      "translation": "Aylık Stok Maliyeti"
+    },
+    {
+      "key": "shop_nodescription",
+      "translation": "Bu ürün için açıklama yok."
+    },
+    {
+      "key": "shop_notforsale",
+      "translation": "Satışta Değil"
+    },
+    {
+      "key": "shop_notonmenu",
+      "translation": "Menüde değil"
+    },
+    {
+      "key": "shop_onmenu",
+      "translation": "Menüde"
+    },
+    {
+      "key": "shop_showmerch",
+      "translation": "Ürünleri Göster"
+    },
+    {
+      "key": "shop_stockcost",
+      "translation": "Satılan Ürün Başına Stok Maliyeti"
+    },
+    {
+      "key": "shop_syncacrossshops",
+      "translation": "Dükkanlar arasında eşitle"
+    },
+    {
+      "key": "shop_totalmonthlycost",
+      "translation": "Toplam Günlük Maliyet"
+    },
+    {
+      "key": "shop_totalstockcost",
+      "translation": "Toplam Stok Maliyeti"
+    },
+    {
+      "key": "water_bodyflume",
+      "translation": "Vücut Kanal Kaydırağı"
+    },
+    {
+      "key": "water_bodyflume_desc",
+      "translation": "Çeşitli havuzlar ve döngüler içeren dönemeçli bir kanal kaydırağı; minder veya sal gerektirmez!"
+    },
+    {
+      "key": "water_bodyslide",
+      "translation": "Vücut Kaydırağı"
+    },
+    {
+      "key": "water_bodyslide_desc",
+      "translation": "Ziyaretçilerin keyifle kayabileceği yüksek açılı rampalara sahip sade bir su kaydırağı."
+    },
+    {
+      "key": "water_bodyslidewide",
+      "translation": "Geniş Vücut Kaydırağı"
+    },
+    {
+      "key": "water_bodyslidewide_desc",
+      "translation": "Ziyaretçilerin keyifle kayabileceği yüksek açılı rampalara sahip geniş bir su kaydırağı."
+    },
+    {
+      "key": "water_innertubeflume",
+      "translation": "Lastik Halkalı Kaydırak"
+    },
+    {
+      "key": "water_innertubeflume_desc",
+      "translation": "Ziyaretçilerin şişme lastik halka üzerinde kayabildiği bir kanal kaydırağı."
+    },
+    {
+      "key": "water_innertubeflumedouble",
+      "translation": "Çift Lastik Halkalı Kaydırak"
+    },
+    {
+      "key": "water_innertubeflumedouble_desc",
+      "translation": "İki ziyaretçinin çift şişme lastik halka üzerinde birlikte kayabildiği bir kanal kaydırağı."
+    },
+    {
+      "key": "water_matflume",
+      "translation": "Minderli Kaydırak"
+    },
+    {
+      "key": "water_matflume_desc",
+      "translation": "Ziyaretçilerin minder üzerinde kayabildiği bir kanal kaydırağı."
+    },
+    {
+      "key": "water_model_bodyflume",
+      "translation": "Vücut Kanal Kaydırağı"
+    },
+    {
+      "key": "water_model_bodyslide",
+      "translation": "Vücut Kaydırağı"
+    },
+    {
+      "key": "water_model_halfpipeslide",
+      "translation": "Yarım Boru Kaydırağı"
+    },
+    {
+      "key": "water_model_innertubeflume",
+      "translation": "Lastik Halkalı Kaydırak"
+    },
+    {
+      "key": "water_model_innertubeflumedouble",
+      "translation": "Çift Lastik Halkalı Kaydırak"
+    },
+    {
+      "key": "water_model_matflume",
+      "translation": "Minderli Kaydırak"
+    },
+    {
+      "key": "water_model_narrowlogflume",
+      "translation": "Dar Kütük Kızağı"
+    },
+    {
+      "key": "water_model_raftflume",
+      "translation": "Sallı Kaydırak"
+    },
+    {
+      "key": "water_model_riverrapids",
+      "translation": "Nehir Akıntısı"
+    },
+    {
+      "key": "water_model_widelogflume",
+      "translation": "Geniş Kütük Kızağı"
+    },
+    {
+      "key": "water_model_wideslide",
+      "translation": "Geniş Kaydırak"
+    },
+    {
+      "key": "water_raftflume",
+      "translation": "Sallı Kaydırak"
+    },
+    {
+      "key": "water_raftflume_desc",
+      "translation": "Ziyaretçilerin sal üzerinde kayabildiği bir kanal kaydırağı."
+    },
+    {
+      "key": "water_riverrapids",
+      "translation": "Nehir Akıntısı"
+    },
+    {
+      "key": "water_riverrapids_desc",
+      "translation": "Binicilerin dairesel sallar içinde oturarak akan su bölümleri boyunca yolculuk ettiği klasik bir su eğlence birimi."
+    },
+    {
+      "key": "water_testslide",
+      "translation": "TEST KAYDIRAĞI SİLİNECEK!"
+    },
+    {
+      "key": "water_testslide_desc",
+      "translation": "TEST KAYDIRAĞI SİLİNECEK!"
+    }
+  ]
+}

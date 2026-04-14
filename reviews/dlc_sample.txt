@@ -1,0 +1,68 @@
+
+=== Content2 - evrilmi■: 93/94 ===
+[buildingpartname_pc_attachments_dragon_arm_right] cat=building_part_names
+  EN: Coaster Attachment - Dragon Arm Right
+  TR: H²z Treni Aksesuar² - Ejderha Kolu (Sa­)
+
+[viking_social_720x720.webm] cat=video_titles
+  EN: Viking Mascot Video - Square
+  TR: Viking Maskot Videosu - Kare
+
+[hats_fantastic_advert_1280x720.webm] cat=video_titles
+  EN: Hat's Fantastic Advert - Landscape
+  TR: Hat's Fantastic Reklam² - Yatay
+
+[kingcoaster_social_1280x720.webm] cat=video_titles
+  EN: King Coaster Mascot Video - Landscape
+  TR: King Coaster Maskot Videosu - Yatay
+
+[coaster_cc_dragonstock] cat=ride_type_names
+  EN: Junior (Standard)
+  TR: K³³k Ãocuk (Standart)
+
+[viking_social_1280x720.webm] cat=video_titles
+  EN: Viking Mascot Video - Landscape
+  TR: Viking Maskot Videosu - Yatay
+
+[coaster_cc_blackfalconstock] cat=ride_type_names
+  EN: Wing - Chain Lift (Standard)
+  TR: Kanat - Zincir Kald²rmal² (Standart)
+
+[train_cc_blackfalconstock] cat=ride_type_names
+  EN: Valais & Nidwalden <b>Wing - Chain Lift (Standard)</b>
+  TR: Valais & Nidwalden <b>Kanat - Zincir Kald²rmal² (Standart)</b>
+
+
+=== Content4 - evrilmi■: 49/52 ===
+[shopitem_extra_restaurant_fruit] cat=shop_items
+  EN: Fruit
+  TR: Meyve
+
+[buildingpartname_pc_attachments_stingray_small] cat=building_part_names
+  EN: Coaster Attachment - Manta Ray Small
+  TR: H²z Treni Aksesuar² - Vatoz (K³³k)
+
+[shopitem_extra_restaurant_dairy] cat=shop_items
+  EN: Dairy
+  TR: S³t ▄r³n³
+
+[shopitem_extra_restaurant_legumes] cat=shop_items
+  EN: Legumes
+  TR: Baklagil
+
+[shopitem_extra_restaurant_meat] cat=shop_items
+  EN: Meat
+  TR: Et
+
+[blueprint_ws_shop_restaurant_desc] cat=descriptions
+  EN: Western themed Restaurant
+  TR: Vah■i Bat² temal² bir restoran.
+
+[shopitem_extra_restaurant_fish] cat=shop_items
+  EN: Fish
+  TR: Bal²k
+
+[shopitem_extra_restaurant_sugar] cat=shop_items
+  EN: Sugar
+  TR: Ìeker
+

@@ -1,0 +1,850 @@
+{
+  "items": [
+    {
+      "key": "buildingpartcategory_all",
+      "source": "All",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_building_attachments",
+      "source": "Doors and Windows",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_building_blueprints",
+      "source": "Blueprints",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_building_decorations",
+      "source": "Decorations",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_building_facilities",
+      "source": "Shops and Facilities",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_building_roofs",
+      "source": "Roofs",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_building_signs",
+      "source": "Wall Signs",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_building_simulation",
+      "source": "Facilities",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_building_walls",
+      "source": "Walls",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_path_extras",
+      "source": "Path Extras",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_scenery_nature",
+      "source": "Nature",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_scenery_primitives",
+      "source": "Art Shapes",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_scenery_props",
+      "source": "Props",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_scenery_sequencers",
+      "source": "Event Sequencers and Tools",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_scenery_signs",
+      "source": "Signs",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_scenery_trees",
+      "source": "Trees",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "buildingpartcategory_scenery_vfx",
+      "source": "Special Effects",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_areasettings",
+      "source": "Area Settings",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_customsettings",
+      "source": "Custom Settings",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_filters",
+      "source": "Filters",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_height",
+      "source": "Height",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_mode",
+      "source": "Mode",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_modeall",
+      "source": "All",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_modearea",
+      "source": "Area",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_modecustom",
+      "source": "Custom",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_modepointer",
+      "source": "Pointer",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_objects",
+      "source": "Objects",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_settings",
+      "source": "Settings",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_size",
+      "source": "Size",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_title",
+      "source": "Demolish Brush",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "toolpaneldemolish_width",
+      "source": "Width",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_applyfilterstoselection",
+      "source": "Apply Filters to Selection",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_barriers",
+      "source": "Fences",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_buildingpieces",
+      "source": "Building Pieces",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_facilitiesandexhibits",
+      "source": "Facilities",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_foliage",
+      "source": "Foliage",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_header",
+      "source": "Selection Filters",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_nature",
+      "source": "Nature",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_pathextras",
+      "source": "Path / Pool Extras",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_paths",
+      "source": "Paths",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_pools",
+      "source": "Pools",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_ridesandtracks",
+      "source": "Rides and Tracks",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_scenery",
+      "source": "Scenery Props",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_specialeffects",
+      "source": "Special Effects",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_toggleallfilters",
+      "source": "All Filters",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "selectionfilters_water",
+      "source": "Lakes",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_cashvalue",
+      "source": "Total Cash",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_dailycoasterriders",
+      "source": "Daily Coaster Riders",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_dailyflumeriders",
+      "source": "Daily Flume Riders",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_dailyincome",
+      "source": "Total Daily Income",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_dailyincomeattractions",
+      "source": "Daily Income From Attractions",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_dailyincomerestaurants",
+      "source": "Daily Income from Restaurants",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_dailyincomeshops",
+      "source": "Daily Income From Shops",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_dailyprofitprioritypass",
+      "source": "Daily Profit from Priority Pass",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_dailyprofitrestaurants",
+      "source": "Daily Profits from Restaurants",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_guestservicesprofit",
+      "source": "Daily Guest Services Profits",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_modularsouvenirprofit",
+      "source": "Daily Modular Souvenir Shop Profits",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_parkrating",
+      "source": "Park Rating",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_pickpocketscaught",
+      "source": "Daily Pickpockets Caught",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_rewardpoints",
+      "source": "[PH] Franchise Points",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_ridephotoprofit",
+      "source": "Daily Ride Photos Profits",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "leaderboard_score_ridestakenprofit",
+      "source": "Daily Ride Profits",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_ironhorse",
+      "source": "Steam Train Railroad",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_ironhorse_desc",
+      "source": "A steam train railroad for guest transportation around your park.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_landahoy_desc",
+      "source": "A steam powered boat that moves along its own water channel.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_lightline",
+      "source": "Monorail",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_lightline_desc",
+      "source": "A fast and efficient monorail which transports guests around your park.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_model_cablecar",
+      "source": "Cable Car",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_model_chairlift",
+      "source": "Chairlift",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_model_lift",
+      "source": "Lift",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_model_monorail",
+      "source": "Monorail",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_model_single-deckerbus",
+      "source": "Single-Decker Bus",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_model_steamboat",
+      "source": "Steam Boat",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_model_steamtrain",
+      "source": "Steam Train Railroad",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_ridelayoutincorrect_tooltip",
+      "source": "The ride cannot open because the track layout is invalid. Make sure your ride is one complete loop and that all stations are visited.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_tr_gondola",
+      "source": "Cable Car",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_tr_gondola_desc",
+      "source": "An electrically powered cable car, with a continuous flow of Gondolas for guests to use.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_tr_landahoy",
+      "source": "Steam Boat",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_tr_landahoy_desc",
+      "source": "A steam powered boat that moves along its own water channel.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_tr_singledeckbus",
+      "source": "Single-Decker Bus",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "transport_tr_singledeckbus_desc",
+      "source": "A single-decker bus that can transport a large quantity of guests around your park.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_building_axis",
+      "source": "Use Building Axes",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_cancel",
+      "source": "Cancel (Esc)",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_confirm",
+      "source": "Build/Buy",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_duplicate",
+      "source": "Duplicate",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_exit",
+      "source": "Exit Advanced Move",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_move",
+      "source": "Move",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_object_axis",
+      "source": "Use Relative Axes",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_requiresmove",
+      "source": "This object must be moved before it can be placed.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_reset",
+      "source": "Reset Rotation",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_rotate",
+      "source": "Rotate (X)",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_scale",
+      "source": "Scale",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_surfacemove",
+      "source": "Surface Move (M)",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_translate",
+      "source": "Translate (X)",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "build_widgets_world_axis",
+      "source": "Use World Axes",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_boiledegg",
+      "source": "Boiled Egg",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_icecream",
+      "source": "Ice Cream",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_lemon",
+      "source": "Lemon",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_mayo",
+      "source": "Mayo",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_salt",
+      "source": "Salt",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_shellfish",
+      "source": "Shellfish",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_sourcream",
+      "source": "Sour Cream",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_strawberrysauce",
+      "source": "Strawberry Sauce",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_stuffedcrust",
+      "source": "Stuffed Crust",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_stuffedcrusts",
+      "source": "Stuffed Crusts",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_sugar",
+      "source": "Sugar",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_sweetchilisauce",
+      "source": "Sweet Chilli Sauce",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_sweetchilli",
+      "source": "Sweet Chilli",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "extra_vegetables",
+      "source": "Vegetables",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_artificial",
+      "source": "Artificial Ingredients",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_artificialingredients",
+      "source": "Artifical Ingredients",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_caffeine",
+      "source": "Caffeine",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_dairy",
+      "source": "Dairy",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_egg",
+      "source": "Egg",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_fish",
+      "source": "Fish",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_fruit",
+      "source": "Fruit",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_gluten",
+      "source": "Gluten",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_legumes",
+      "source": "Legumes",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_meat",
+      "source": "Meat",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_nuts",
+      "source": "Nuts",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_plants",
+      "source": "Plants",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_rice",
+      "source": "Rice",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_salt",
+      "source": "Salt",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_shellfish",
+      "source": "Shellfish",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_spice",
+      "source": "Spice",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "item_ingredient_sugar",
+      "source": "Sugar",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_beanburger",
+      "source": "Bean Burger",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_chickensoba",
+      "source": "Chicken Soba",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_chickenudon",
+      "source": "Chicken Udon",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_chilishrimpythebest",
+      "source": "Chilli Shrimpy the Best",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_crabricebowl",
+      "source": "Crab Rice Bowl",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_eggpizza",
+      "source": "Egg Pizza",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_glutenfreeshrimpythebest",
+      "source": "Gluten Free Shrimpy the Best",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_lemonshrimpythebest",
+      "source": "Shrimpy the Best",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_meatpizza",
+      "source": "Meat Pizza",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_mushroomburger",
+      "source": "Mushroom Burger",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_salmonricebowl",
+      "source": "Salmon Rice Bowl",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_seitanburger",
+      "source": "Seitan Burger",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_vegetablesoba",
+      "source": "Vegetable Soba",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_vegetableudon",
+      "source": "Vegetable Udon",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "food_vegpizza",
+      "source": "Veg Pizza",
+      "context": "",
+      "max_length": null
+    }
+  ]
+}

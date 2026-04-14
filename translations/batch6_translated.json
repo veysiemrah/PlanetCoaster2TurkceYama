@@ -1,0 +1,584 @@
+{
+  "items": [
+    {
+      "key": "frontendmenu_update9popup_desc",
+      "translation": "Güncelleme 8 geldi ve sezona hazır: geri dönen Festive Dekorasyon Paketi ve yepyeni Olumsuz Hava Koşulları ile! Ziyaretçilerini ürkütücü Gök Gürültülü Fırtınalardan koru; kar yağmaya başladığında havuzlarının donmaması için bir iki ısıtıcı yerleştir! Güncelleme Notlarının tamamı için Planet Coaster web sitesini ziyaret et.\n\nToybox Paketi artık kullanıma açık ve iki yeni hız treni getiriyor: heyecan veren Vector New-Gen Inverting Suspended ve muhteşem F&N Thriller Industries Kid Coaster! Üç yeni, eğlenceli sabit eğlence birimi de dahil: Airdrop, Highroll ve tam anlamıyla harika WaveSim! Yepyeni kahraman animatör Max Stormcloud ile eğlenceyi zirveye çıkar; Toybox Dekorasyon Paketinden fışkıran tüm sanat, el işi ve klasik oyuncaklarla yaratıcılığını konuştur. Biraz kendin monte etmen gerekebilir. Toybox paketi, şimdi sende! Wippi yalapler!"
+    },
+    {
+      "key": "frontendmenu_update9popup_subtitle",
+      "translation": "Güncelleme 8 yüklendi"
+    },
+    {
+      "key": "frontendmenu_update9popup_title",
+      "translation": "Güncelleme 8 ve Toybox Paketine Hoş Geldin!"
+    },
+    {
+      "key": "frontendmenu_updatepopup_desc",
+      "translation": "Yer Tutucu Açıklama"
+    },
+    {
+      "key": "frontendmenu_updatepopup_subtitle",
+      "translation": "Yer Tutucu Altyazı"
+    },
+    {
+      "key": "frontendmenu_updatepopup_title",
+      "translation": "Yer Tutucu Başlık"
+    },
+    {
+      "key": "frontendmenu_upload",
+      "translation": "Tasarımı Yükle"
+    },
+    {
+      "key": "frontendmenu_uploaddescription",
+      "translation": "Kendi tasarımını Workshop'a yükle!"
+    },
+    {
+      "key": "frontendmenu_uploadtoworkshop",
+      "translation": "Frontier Workshop'a Yükle"
+    },
+    {
+      "key": "frontendmenu_user",
+      "translation": "{Name}"
+    },
+    {
+      "key": "frontendmenu_useraway",
+      "translation": "Uzakta"
+    },
+    {
+      "key": "frontendmenu_userbusy",
+      "translation": "Meşgul"
+    },
+    {
+      "key": "frontendmenu_userdescription",
+      "translation": "{Description}"
+    },
+    {
+      "key": "frontendmenu_useringame",
+      "translation": "Planet Coaster 2 Oynuyor"
+    },
+    {
+      "key": "frontendmenu_username",
+      "translation": "{Name}"
+    },
+    {
+      "key": "frontendmenu_useroffline",
+      "translation": "Bağlantı Kesildi"
+    },
+    {
+      "key": "frontendmenu_useronline",
+      "translation": "Çevrimiçi"
+    },
+    {
+      "key": "frontendmenu_userscenario",
+      "translation": "Oynanan Senaryolar"
+    },
+    {
+      "key": "frontendmenu_viewindownloads",
+      "translation": "İndirmelerde Görüntüle"
+    },
+    {
+      "key": "frontendmenu_viewinfranchise",
+      "translation": "Franchise'ta Görüntüle"
+    },
+    {
+      "key": "frontendmenu_viewinworkshop",
+      "translation": "Frontier Workshop'ta Görüntüle"
+    },
+    {
+      "key": "frontendmenu_viewsteamprofile",
+      "translation": "Tüm Yüklemeleri Görüntüle"
+    },
+    {
+      "key": "frontendmenu_viewwegameprofile",
+      "translation": "Tüm Yüklemeleri Görüntüle"
+    },
+    {
+      "key": "frontendmenu_vipeditor_infolabel",
+      "translation": "Diğer oyuncuların parklarını ziyaret edecek bir ziyaretçi oluştur."
+    },
+    {
+      "key": "frontendmenu_vipeditor_infotitle",
+      "translation": "VIP Tekli Biletini Oluştur!"
+    },
+    {
+      "key": "frontendmenu_vipeditorbutton",
+      "translation": "VIP Bileti Düzenle"
+    },
+    {
+      "key": "frontendmenu_vipeditorpromptdetail",
+      "translation": "Düzenlemek için bir bilet seç"
+    },
+    {
+      "key": "frontendmenu_visitors",
+      "translation": "Ziyaretçiler"
+    },
+    {
+      "key": "frontendmenu_visitpark",
+      "translation": "Parkı Ziyaret Et"
+    },
+    {
+      "key": "frontendmenu_welcome",
+      "translation": "Hoş Geldin!"
+    },
+    {
+      "key": "frontendmenu_welcomewindowbuttonlabel",
+      "translation": "Avatarımı Oluştur!"
+    },
+    {
+      "key": "frontendmenu_welcomewindowlabel",
+      "translation": "Aramıza katıldığın için teşekkürler; Planet Coaster dünyasını deneyimlemene çok az kaldı!\n\nÖnce, Planet Coaster topluluğundaki muhteşem tasarımlarını temsil edecek bir avatar oluşturacağız.\n\nArkadaşlarının kolayca tanıyabileceği birini oluşturmaya özen göster!"
+    },
+    {
+      "key": "frontendmenu_welcomewindowtitle",
+      "translation": "Planet Coaster 2'ye Hoş Geldin!"
+    },
+    {
+      "key": "frontendmenu_whatsnew",
+      "translation": "Yenilikler"
+    },
+    {
+      "key": "frontendmenu_whatsnewdescription",
+      "translation": "Çok Yakında!"
+    },
+    {
+      "key": "frontendmenu_workshop",
+      "translation": "Workshop"
+    },
+    {
+      "key": "frontendmenu_workshopdescription",
+      "translation": "Muhteşem tasarımları indir, ya da kendi şablonlarını ve parklarını diğer oyuncuların keyfi için yükle!"
+    },
+    {
+      "key": "frontendmenu_workshopitemdesc",
+      "translation": "{Name}"
+    },
+    {
+      "key": "frontendmenu_workshopitemname",
+      "translation": "{Name}"
+    },
+    {
+      "key": "frontendmenu_workshopprofile",
+      "translation": "Workshop Profili"
+    },
+    {
+      "key": "frontendmenu_workshopprofiledescription",
+      "translation": "Diğer oyuncuların Workshop'ta seni nasıl gördüğünü keşfet ve yüklediğin tasarımları görüntüle."
+    },
+    {
+      "key": "frontendmenu_workshoptype_blueprint",
+      "translation": "Şablon"
+    },
+    {
+      "key": "frontendmenu_workshoptype_park",
+      "translation": "Paylaşılan Park"
+    },
+    {
+      "key": "mainmenu_build",
+      "translation": "İnşa Et"
+    },
+    {
+      "key": "mainmenu_build_coasters",
+      "translation": "Hız Trenleri"
+    },
+    {
+      "key": "mainmenu_build_facilities",
+      "translation": "Tesisler"
+    },
+    {
+      "key": "mainmenu_build_flatrides",
+      "translation": "Sabit Eğlence Birimleri"
+    },
+    {
+      "key": "mainmenu_build_paths",
+      "translation": "Yollar"
+    },
+    {
+      "key": "mainmenu_build_rides",
+      "translation": "Eğlence Birimleri"
+    },
+    {
+      "key": "mainmenu_build_scenery",
+      "translation": "Dekorasyon"
+    },
+    {
+      "key": "mainmenu_build_scenery_development",
+      "translation": "Geliştirme"
+    },
+    {
+      "key": "mainmenu_build_scenery_modular",
+      "translation": "Modüler"
+    },
+    {
+      "key": "mainmenu_build_scenery_nature",
+      "translation": "Doğa"
+    },
+    {
+      "key": "mainmenu_build_scenery_props",
+      "translation": "Aksesuarlar"
+    },
+    {
+      "key": "mainmenu_build_scenery_standalone",
+      "translation": "Bağımsız"
+    },
+    {
+      "key": "mainmenu_build_scenery_test",
+      "translation": "Test"
+    },
+    {
+      "key": "mainmenu_build_scenery_walldecorations",
+      "translation": "Duvar Dekorasyonları"
+    },
+    {
+      "key": "mainmenu_build_terrain",
+      "translation": "Arazi"
+    },
+    {
+      "key": "mainmenu_confirm_confirm",
+      "translation": "Onayla"
+    },
+    {
+      "key": "mainmenu_confirm_header",
+      "translation": "Bu değişiklikler kalsın mı?"
+    },
+    {
+      "key": "mainmenu_confirm_label",
+      "translation": "{Value:int} sn sonra geri alınıyor..."
+    },
+    {
+      "key": "mainmenu_confirm_revert",
+      "translation": "Geri Al"
+    },
+    {
+      "key": "mainmenu_manage",
+      "translation": "Yönet"
+    },
+    {
+      "key": "mainmenu_manage_finance",
+      "translation": "Finans"
+    },
+    {
+      "key": "mainmenu_manage_guests",
+      "translation": "Ziyaretçiler"
+    },
+    {
+      "key": "mainmenu_manage_staff",
+      "translation": "Personel"
+    },
+    {
+      "key": "mainmenu_menu",
+      "translation": "Menü"
+    },
+    {
+      "key": "mainmenu_menu_load",
+      "translation": "Parkı Yükle"
+    },
+    {
+      "key": "mainmenu_menu_quit",
+      "translation": "Planet Coaster 2'den Çık"
+    },
+    {
+      "key": "mainmenu_menu_quit_confirmheader",
+      "translation": "Planet Coaster 2'den Çık"
+    },
+    {
+      "key": "mainmenu_menu_quit_confirmlabel",
+      "translation": "Planet Coaster 2'den çıkılsın mı?  Kaydedilmemiş değişiklikler kaybolacak."
+    },
+    {
+      "key": "mainmenu_menu_quitpark_confirmcancel",
+      "translation": "İptal"
+    },
+    {
+      "key": "mainmenu_menu_quitpark_confirmok",
+      "translation": "Tamam"
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen",
+      "translation": "Ana Menüye Dön"
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_career_confirmheader",
+      "translation": "Kariyer Menüsüne Dön"
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_career_confirmlabel",
+      "translation": "Kariyer Menüsüne dönülsün mü?  Kaydedilmemiş değişiklikler kaybolacak."
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_confirmheader",
+      "translation": "Ana Menüye Dön"
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_confirmlabel",
+      "translation": "Ana Menüye dönülsün mü?  Kaydedilmemiş değişiklikler kaybolacak."
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_franchise_confirmheader",
+      "translation": "Franchise Menüsüne Dön"
+    },
+    {
+      "key": "mainmenu_menu_return_to_startscreen_franchise_confirmlabel",
+      "translation": "Franchise Menüsüne dönülsün mü?  Kaydedilmemiş değişiklikler kaybolacak."
+    },
+    {
+      "key": "mainmenu_menu_save",
+      "translation": "Parkı Kaydet"
+    },
+    {
+      "key": "mainmenu_settings",
+      "translation": "Ayarlar"
+    },
+    {
+      "key": "settings_audio_crowdvolume",
+      "translation": "Ses Efektleri - Kalabalık"
+    },
+    {
+      "key": "settings_audio_crowdvolume_desc",
+      "translation": "Parklarındaki kalabalık seslerinin şiddetini azaltıp artırmak için kaydırıcıyı kullan."
+    },
+    {
+      "key": "settings_audio_dialogueisolation",
+      "translation": "Diyalog İzolasyonu"
+    },
+    {
+      "key": "settings_audio_dialogueisolation_desc",
+      "translation": "Anlatım Diyaloğu oynarken diğer tüm sesleri sustur"
+    },
+    {
+      "key": "settings_audio_masteringchoice_desc",
+      "translation": "Farklı kurulumlar için optimize edilmiş bir ses karışımı seç."
+    },
+    {
+      "key": "settings_audio_masteringchoice_headphones",
+      "translation": "Kulaklık"
+    },
+    {
+      "key": "settings_audio_masteringchoice_headphones_desc",
+      "translation": "Ses karışımını kulaklık için optimize et."
+    },
+    {
+      "key": "settings_audio_masteringchoice_hifispeaker",
+      "translation": "Hi-Fi ve Surround Hoparlörler"
+    },
+    {
+      "key": "settings_audio_masteringchoice_hifispeaker_desc",
+      "translation": "Ses karışımını HiFi ve Surround kurulumlar için optimize et."
+    },
+    {
+      "key": "settings_audio_masteringchoice_quiet",
+      "translation": "Gece Saatleri (Sessiz)"
+    },
+    {
+      "key": "settings_audio_masteringchoice_quiet_desc",
+      "translation": "Yüksek sesler daha sakin, sessiz sesler daha belirgin çıkar. Düşük ses seviyesinde oynamak için optimize edilmiş bir karışım."
+    },
+    {
+      "key": "settings_audio_masteringchoice_soundbar",
+      "translation": "Soundbar"
+    },
+    {
+      "key": "settings_audio_masteringchoice_soundbar_desc",
+      "translation": "Ses karışımını soundbar kurulumunda netlik için optimize et."
+    },
+    {
+      "key": "settings_audio_masteringchoice_title",
+      "translation": "Ses Masterlaması"
+    },
+    {
+      "key": "settings_audio_masteringchoice_tvspeaker",
+      "translation": "TV Hoparlörleri"
+    },
+    {
+      "key": "settings_audio_masteringchoice_tvspeaker_desc",
+      "translation": "Ses karışımını televizyon hoparlörleri için optimize et."
+    },
+    {
+      "key": "settings_audio_monomode",
+      "translation": "Mono Mod"
+    },
+    {
+      "key": "settings_audio_monomode_desc",
+      "translation": "Her iki kulak için aynı sesi veren mono bir ses karışımı kullan."
+    },
+    {
+      "key": "settings_audio_playtestaudio",
+      "translation": "Test Sesini Oynat"
+    },
+    {
+      "key": "settings_audio_playtestaudio_desc",
+      "translation": "Ses ayarlarını sınamak için bir dizi sesi çal. Test Sesi müzik, konuşma ve SFX içerir."
+    },
+    {
+      "key": "settings_rebindmodaldesc",
+      "translation": "Yeniden atamak istediğin tuşa bas."
+    },
+    {
+      "key": "settings_remappingerror",
+      "translation": "Yeniden Atama Sorunu"
+    },
+    {
+      "key": "settings_remappingerror_details",
+      "translation": "Bu eylemi yeniden atarken bir sorun oluştu."
+    },
+    {
+      "key": "settings_remappingerror_detailsswapbinding",
+      "translation": "<p class=\"controllerInput\">{LogicalInputIconFirst} şu anda şuna atanmış: <span class='boldTextBrown'>{InputString}</span>\nBunun yerine <span class='boldTextBrown'>{InputString}</span> tuşunu {LogicalInputIconSecond} için atamak ister misin?</p>"
+    },
+    {
+      "key": "settings_remappingerror_detailstoomanyinputs",
+      "translation": "Yeniden atama için geçersiz tuş kombinasyonu."
+    },
+    {
+      "key": "settings_remappingerror_detailsunbindable",
+      "translation": "Bu tuş yeniden atama için uygun değil."
+    },
+    {
+      "key": "settings_remappingerror_none",
+      "translation": "Yok"
+    },
+    {
+      "key": "settings_restoredefaults",
+      "translation": "Varsayılanlara Döndür"
+    },
+    {
+      "key": "settings_restoredefaults_remapping",
+      "translation": "Tüm değişiklikleri iptal edip varsayılan Kontrol Atamalarını geri yüklemek istediğinden emin misin?"
+    },
+    {
+      "key": "settings_restoredialogtitle",
+      "translation": "Varsayılanlara Döndürülsün mü?"
+    },
+    {
+      "key": "settings_swap",
+      "translation": "Takas Et"
+    },
+    {
+      "key": "optioncatwalkfour_blocksection_0",
+      "translation": "Yok"
+    },
+    {
+      "key": "optioncatwalkfour_blocksection_1",
+      "translation": "Sol"
+    },
+    {
+      "key": "optioncatwalkfour_blocksection_2",
+      "translation": "Sağ"
+    },
+    {
+      "key": "optioncatwalkfour_blocksection_3",
+      "translation": "Her İkisi"
+    },
+    {
+      "key": "optioncatwalkfour_booster_0",
+      "translation": "Yok"
+    },
+    {
+      "key": "optioncatwalkfour_booster_1",
+      "translation": "Sol"
+    },
+    {
+      "key": "optioncatwalkfour_booster_2",
+      "translation": "Sağ"
+    },
+    {
+      "key": "optioncatwalkfour_booster_3",
+      "translation": "Her İkisi"
+    },
+    {
+      "key": "optioncatwalkfour_brakes_0",
+      "translation": "Yok"
+    },
+    {
+      "key": "optioncatwalkfour_brakes_1",
+      "translation": "Sol"
+    },
+    {
+      "key": "optioncatwalkfour_brakes_2",
+      "translation": "Sağ"
+    },
+    {
+      "key": "optioncatwalkfour_brakes_3",
+      "translation": "Her İkisi"
+    },
+    {
+      "key": "optioncatwalkfour_lsm_0",
+      "translation": "Yok"
+    },
+    {
+      "key": "optioncatwalkfour_lsm_1",
+      "translation": "Sol"
+    },
+    {
+      "key": "optioncatwalkfour_lsm_2",
+      "translation": "Sağ"
+    },
+    {
+      "key": "optioncatwalkfour_lsm_3",
+      "translation": "Her İkisi"
+    },
+    {
+      "key": "optioncatwalkfour_lsm_holdingsection_0",
+      "translation": "Yok"
+    },
+    {
+      "key": "optioncatwalkfour_lsm_holdingsection_1",
+      "translation": "Sol"
+    },
+    {
+      "key": "optioncatwalkfour_lsm_holdingsection_2",
+      "translation": "Sağ"
+    },
+    {
+      "key": "optioncatwalkfour_lsm_holdingsection_3",
+      "translation": "Her İkisi"
+    },
+    {
+      "key": "optioncatwalkfour_magnetic_brakes_0",
+      "translation": "Yok"
+    },
+    {
+      "key": "optioncatwalkfour_magnetic_brakes_1",
+      "translation": "Sol"
+    },
+    {
+      "key": "optioncatwalkfour_magnetic_brakes_2",
+      "translation": "Sağ"
+    },
+    {
+      "key": "optioncatwalkfour_magnetic_brakes_3",
+      "translation": "Her İkisi"
+    },
+    {
+      "key": "optioncatwalkfour_spline_0",
+      "translation": "Yok"
+    },
+    {
+      "key": "optioncatwalkfour_spline_1",
+      "translation": "Sol"
+    },
+    {
+      "key": "optioncatwalkfour_spline_2",
+      "translation": "Sağ"
+    },
+    {
+      "key": "optioncatwalkfour_spline_3",
+      "translation": "Her İkisi"
+    },
+    {
+      "key": "optioncatwalkfour_trim_brakes_magnetic_0",
+      "translation": "Yok"
+    },
+    {
+      "key": "optioncatwalkfour_trim_brakes_magnetic_1",
+      "translation": "Sol"
+    },
+    {
+      "key": "optioncatwalkfour_trim_brakes_magnetic_2",
+      "translation": "Sağ"
+    },
+    {
+      "key": "optioncatwalkfour_trim_brakes_magnetic_3",
+      "translation": "Her İkisi"
+    }
+  ]
+}

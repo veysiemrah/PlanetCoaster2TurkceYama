@@ -1,0 +1,48 @@
+=== tutorialscreen_description_ridetypescoasters ===
+EN: Coasters are the highlight of any theme park!
+
+A CoasterÆs appeal is represented by its Prestige, which is determined by its EFN and Scenery Rating. The higher the Prestige, the greater number of guests that are attracted to it.
+
+Coasters can be placed with Prebuilt Blueprints, or by creating a Custom Coaster!
+
+You can change the number of trains on a Coaster, and their operational mode. This directly affects how many guests can ride the Coaster at once.
+
+Coasters tend to be pricey, so make sure you have enough money to purchase one!
+TR: H²z trenleri her tema park²n²n g÷zdesidir!
+
+Bir H²z Treninin ekicili­i, HKB ve Dekor Puan² taraf²ndan belirlenen ¦tibar²yla ÷l³l³r. ¦tibar ne kadar y³ksekse, o atraksiyona ilgi duyan ziyareti say²s² da o kadar fazla olur.
+
+H²z trenleri Haz²r Planlarla veya Ízel H²z Treni olu■turularak yerle■tirilebilir!
+
+Bir H²z Trenindeki vagon say²s²n² ve operasyonel modlar²n² de­i■tirebilirsin. Bu, bir anda ka ziyaretinin binebilece­ini do­rudan etkiler.
+
+H²z trenleri pahal² olabilir; bu y³zden birini sat²n almak iin yeterli paran oldu­undan emin ol!
+
+=== tutorialscreen_description_ridetypesflatride ===
+EN: Flat Rides are a staple of many a good theme park!
+
+A Flat RideÆs appeal is displayed by its Prestige, which is determined by its Excitement, Fear and Nausea ratings combined with a Scenery Rating. The EFN of a Flat Ride is determined by its Ride Sequence.
+
+Flat Rides can be placed with by choosing a Prebuilt Blueprint that contain scenery, or by selecting "Create Custom".
+TR: D³z Atraksiyonlar her iyi tema park²n²n vazgeilmezidir!
+
+Bir D³z Atraksiyonun ekicili­i, Dekor Puan²yla birlikte Heyecan, Korku ve Bulant² puanlar²yla belirlenen ¦tibar²nda yans²t²l²r. Bir D³z Atraksiyonun HKB'si, Atraksiyon S²ras²na g÷re belirlenir.
+
+D³z Atraksiyonlar, dekor ieren Haz²r Planlar seilerek veya "Ízel Olu■tur" seene­iyle yerle■tirilebilir.
+
+=== tutorialscreen_description_ridetypestrack ===
+EN: Track Rides share a lot of similarities with Coasters.
+
+A Track Ride's appeal is displayed by its Prestige, which is determined by its EFN and Scenery Rating.
+
+Track Rides will go at a constant speed around the track. You can change that speed in the Operations menu.
+
+Track Rides are also built similarly to coasters, but are more restricted in their track angles. Because of this, Track Rides tend to be more gentle experiences than coasters.
+TR: Parkur Atraksiyonlar², H²z Trenleriyle birok benzerlik payla■²r.
+
+Bir Parkur Atraksiyonunun ekicili­i, HKB ve Dekor Puan² taraf²ndan belirlenen ¦tibar²yla ÷l³l³r.
+
+Parkur Atraksiyonlar² parkurda sabit bir h²zda ilerler. Bu h²z² Operasyonlar men³s³nden de­i■tirebilirsin.
+
+Parkur Atraksiyonlar² da h²z trenlerine benzer ■ekilde in■a edilir; ancak parkur a²lar² daha k²s²tl²d²r. Bu nedenle Parkur Atraksiyonlar² genellikle h²z trenlerine k²yasla daha sakin bir deneyim sunar.
+

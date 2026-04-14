@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "0.1.0",
-    "last_updated": "2026-04-13",
+    "last_updated": "2026-04-15",
     "description": "Planet Coaster 2 Türkçe Yama Terimler Sözlüğü"
   },
   "terms": {
@@ -129,8 +129,8 @@
       "note": "UI başlık ve kategori bağlamında 'Aktivite'; pazarlama/tanıtım metninde 'Heyecan'. 'Thrill' da 'Heyecan' olduğundan aynı metinde 'Aktivite' tercih edilir."
     },
     "Flat Ride": {
-      "translation": "Sabit Eğlence Birimi",
-      "note": "Dönme, sallanma, kule tipi mekanik platformlar."
+      "translation": "Sabit Oyun",
+      "note": "Dönme, sallanma, kule tipi mekanik platformlar. 'Düz Oyun' veya 'Sabit Eğlence Birimi' değil."
     },
     "Dark Ride": {
       "translation": "Kapalı Eğlence Birimi",
@@ -322,6 +322,22 @@
     "Track Element": {
       "translation": "Ray Elementi",
       "note": "Ray sistemi bağlantı parçaları."
+    },
+    "Track Ride": {
+      "translation": "Raylı Eğlence Birimi",
+      "note": "Sabit hızla ray üzerinde ilerleyen eğlence birimi. Coaster değil."
+    },
+    "Ride Sequence": {
+      "translation": "Hareket Sırası",
+      "note": "Flat Ride'ların programlanan hareket dizisi."
+    },
+    "Appeal": {
+      "translation": "Cazibe",
+      "note": "Ride'ın ziyaretçi çekme gücü. 'Çekicilik' yerine 'cazibe' kullanılır ('çekici' yanlış çağrışım yapar)."
+    },
+    "Collision": {
+      "translation": "Çakışma",
+      "note": "İnşaat/yerleştirme bağlamında nesnelerin üst üste binmesi. 'Çarpışma' fiziksel çarpışma için (Crash, Clash, Bump). 'Splashdown' gibi ifadeler 'Su İnişi' olur, çarpışma değil."
     }
   }
 }

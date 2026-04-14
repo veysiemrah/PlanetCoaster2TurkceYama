@@ -1,0 +1,556 @@
+{
+  "items": [
+    {
+      "key": "keplerrequesterror_accountalreadyexists_desc",
+      "translation": "Bu e-posta adresi zaten kayıtlı"
+    },
+    {
+      "key": "keplerrequesterror_accountalreadyexists_title",
+      "translation": "Hesap Zaten Var"
+    },
+    {
+      "key": "keplerrequesterror_accountalreadylinked_desc",
+      "translation": "Bu Frontier hesabı daha önce farklı bir platform hesabına bağlanmış. Lütfen o hesapla giriş yap."
+    },
+    {
+      "key": "keplerrequesterror_accountalreadylinked_title",
+      "translation": "Hesap Zaten Bağlı"
+    },
+    {
+      "key": "keplerrequesterror_accountlinkfailed_desc",
+      "translation": "Hesap bağlama işlemi başarısız oldu. Lütfen daha sonra tekrar dene."
+    },
+    {
+      "key": "keplerrequesterror_accountlinkfailed_title",
+      "translation": "Hesap Bağlanamadı"
+    },
+    {
+      "key": "keplerrequesterror_authlinkexists_desc",
+      "translation": "Bu bilgilere sahip bir hesap zaten var."
+    },
+    {
+      "key": "keplerrequesterror_authlinkexists_title",
+      "translation": "Hesap Zaten Var"
+    },
+    {
+      "key": "keplerrequesterror_cancelled_desc",
+      "translation": "İşlem tamamlanmadan iptal edildi."
+    },
+    {
+      "key": "keplerrequesterror_cancelled_title",
+      "translation": "İptal Edildi"
+    },
+    {
+      "key": "keplerrequesterror_displaynamerejected_desc",
+      "translation": "Girdiğin Görünen Ad reddedildi. Farklı bir Görünen Ad kullanıp tekrar dene."
+    },
+    {
+      "key": "keplerrequesterror_displaynamerejected_title",
+      "translation": "Görünen Ad Reddedildi"
+    },
+    {
+      "key": "keplerrequesterror_emailsendfailure_desc",
+      "translation": "E-posta gönderim servisi şu anda meşgul. Lütfen daha sonra tekrar dene."
+    },
+    {
+      "key": "keplerrequesterror_emailsendfailure_title",
+      "translation": "E-posta Gönderilemedi"
+    },
+    {
+      "key": "keplerrequesterror_externalaccountalreadylinked_desc",
+      "translation": "Bu Frontier hesabı daha önce farklı bir platform hesabına bağlanmış. Lütfen ya yeni bir Frontier hesabı oluştur ya da frontierstore.net adresindeki \"My Account\" → \"Third Party Accounts\" bölümünden diğer platform hesabının bağlantısını kaldır."
+    },
+    {
+      "key": "keplerrequesterror_externalaccountalreadylinked_title",
+      "translation": "Frontier Hesabı Zaten Bağlı"
+    },
+    {
+      "key": "keplerrequesterror_insufficientpermission_desc",
+      "translation": "Bu işlemi gerçekleştirmek için yetkin yok."
+    },
+    {
+      "key": "keplerrequesterror_insufficientpermission_title",
+      "translation": "Yetersiz İzin"
+    },
+    {
+      "key": "keplerrequesterror_invalidauth_desc",
+      "translation": "Hesap bilgilerin doğrulanamadı. Lütfen bilgilerini kontrol edip daha sonra tekrar dene."
+    },
+    {
+      "key": "keplerrequesterror_invalidauth_title",
+      "translation": "Hesap Bilgilerini Kontrol Et"
+    },
+    {
+      "key": "keplerrequesterror_invalidemail_desc",
+      "translation": "Girilen e-posta geçersiz. Lütfen e-posta adresini kontrol edip tekrar dene."
+    },
+    {
+      "key": "keplerrequesterror_invalidemail_title",
+      "translation": "Geçersiz E-posta"
+    },
+    {
+      "key": "keplerrequesterror_invalidpassword_desc",
+      "translation": "Girilen parola geçersiz. Lütfen parolanı kontrol edip tekrar dene."
+    },
+    {
+      "key": "keplerrequesterror_invalidpassword_title",
+      "translation": "Geçersiz Parola"
+    },
+    {
+      "key": "keplerrequesterror_nofrontierlink_desc",
+      "translation": "Bağlı bir Frontier hesabı yok. Devam etmek için bir Frontier hesabı bağla."
+    },
+    {
+      "key": "keplerrequesterror_nofrontierlink_title",
+      "translation": "Frontier Hesabı Bağlı Değil"
+    },
+    {
+      "key": "keplerrequesterror_notacceptedeula_desc",
+      "translation": "EULA kabul edilmedikçe oyun oynanamaz."
+    },
+    {
+      "key": "keplerrequesterror_notacceptedeula_title",
+      "translation": "EULA"
+    },
+    {
+      "key": "keplerrequesterror_offline_desc",
+      "translation": "Sunucuya bağlanılamadı. Lütfen internet bağlantını kontrol edip tekrar dene."
+    },
+    {
+      "key": "keplerrequesterror_offline_title",
+      "translation": "İnternet Bağlantısını Kontrol Et"
+    },
+    {
+      "key": "keplerrequesterror_servicebusy_desc",
+      "translation": "Bu servis şu anda meşgul. Lütfen daha sonra tekrar dene."
+    },
+    {
+      "key": "keplerrequesterror_servicebusy_title",
+      "translation": "Servis Meşgul"
+    },
+    {
+      "key": "keplerrequesterror_unknownerror_desc",
+      "translation": "İşlem sırasında bir hata oluştu. Lütfen daha sonra tekrar dene."
+    },
+    {
+      "key": "keplerrequesterror_unknownerror_title",
+      "translation": "Hata"
+    },
+    {
+      "key": "keplerrequesterror_useraccountbanned_desc",
+      "translation": "Bu hesap yasaklanmış ya da erişimi kısıtlanmış; kullanılamaz."
+    },
+    {
+      "key": "keplerrequesterror_useraccountbanned_title",
+      "translation": "Hesap Kısıtlandı"
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplaceafterbottom",
+      "translation": "Yalnızca bir Zincir Asansör Rampası Tabanından hemen sonra yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplaceaftermid",
+      "translation": "Yalnızca bir Zincir Asansör Rampası Tabanından ya da Orta Kesitinden hemen sonra yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplaceafterstart",
+      "translation": "Yalnızca Yatay Zincir Çekişinden hemen sonra yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplaceafterstation",
+      "translation": "Yalnızca istasyonun önündeki raya yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplacebehindreversebottom",
+      "translation": "Yalnızca bir Ters Kablo Asansör Rampası Tabanının hemen arkasına yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplacebehindreversemid",
+      "translation": "Yalnızca bir Ters Kablo Asansör Tabanının ya da Orta Kesitinin hemen arkasına yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplacebehindreversestart",
+      "translation": "Yalnızca bir Ters Yatay Kablo Çekişinin hemen arkasına yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_boomerang_canonlyplacebehindstation",
+      "translation": "Yalnızca istasyonun ya da mevcut Ters Yatay Kablo Çekişi kesitlerinin hemen arkasına yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_bullwheel",
+      "translation": "Yalnızca bir Kasnak Kapağı yerleştirilebilir. İstasyonun bitişiğinde olmalıdır."
+    },
+    {
+      "key": "trackelementdisabled_cannotplace",
+      "translation": "Buraya yerleştirilemez."
+    },
+    {
+      "key": "trackelementdisabled_cannotplacebobsledhalfpipe",
+      "translation": "Bobsled Geçiş parçasından sonra yerleştirilemez."
+    },
+    {
+      "key": "trackelementdisabled_cannotplacebobsledtransfer",
+      "translation": "Yalnızca Bobsled Yarı Borusundan sonra yerleştirilebilir ve düz, virajsız bir raya konmalıdır."
+    },
+    {
+      "key": "trackelementdisabled_cannotplacedualgatestation",
+      "translation": "Çift kapılı istasyon yerleştirilemez; bu eğlence biriminin zaten tek kapılı istasyonu var."
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceonbanked",
+      "translation": "Yalnızca virajsız raya yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceonbankedorsloped",
+      "translation": "Yalnızca düz ve virajsız raya yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceoncurvedorbanked",
+      "translation": "Yalnızca düz ve virajsız raya yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceoncurvedorbankedoroverlysloped",
+      "translation": "Yalnızca düz, virajsız ve hafif eğimli raya yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceoncurvedorbankedorsloped",
+      "translation": "Yalnızca düz, virajsız ve eğimsiz raya yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceoncurvedorbankedorslopedpast90",
+      "translation": "Yalnızca -90° ile 90° arasında eğimli olan düz ve virajsız raya yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_cannotplaceoncurvedorbankedorupwardsloped",
+      "translation": "Yalnızca düz, virajsız ve aşağı doğru eğimli raya yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_cannotplacesinglegateentrystation",
+      "translation": "Tek kapılı giriş istasyonu yerleştirilemez; bu eğlence biriminin zaten bir tane var."
+    },
+    {
+      "key": "trackelementdisabled_cannotplacesinglegateexitstation",
+      "translation": "Tek kapılı çıkış istasyonu yerleştirilemez; bu eğlence biriminin zaten bir tane var."
+    },
+    {
+      "key": "trackelementdisabled_cannotplacesinglegatestation",
+      "translation": "Tek kapılı istasyon yerleştirilemez; bu eğlence biriminin zaten çift kapılı istasyonu var."
+    },
+    {
+      "key": "trackelementdisabled_canonlyplaceafterchainliftstart",
+      "translation": "Yalnızca zincir asansör başlangıcından sonra yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_canonlyplaceafterchainliftstartormidsection",
+      "translation": "Yalnızca zincir asansör başlangıcından ya da zincir asansör orta kesitinden sonra yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_canonlyplacenexttostationofsametype",
+      "translation": "Yalnızca aynı türdeki mevcut istasyonun hemen yanına yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_drivewheel",
+      "translation": "Yalnızca bir Sürücü İstasyon Tekeri yerleştirilebilir. İstasyonun bitişiğinde olmalıdır."
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplaceafterbottom",
+      "translation": "Yalnızca bir Kablo Asansör Kule Tabanından hemen sonra yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplaceaftermid",
+      "translation": "Yalnızca bir Kablo Asansör Orta Kesitinden hemen sonra yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplaceafterstart",
+      "translation": "Yalnızca bir Yatay Kablo Çekişinden hemen sonra yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplaceafterstation",
+      "translation": "Yalnızca istasyonun önündeki viraj ve eğim içermeyen raya yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplacebehindreversebottom",
+      "translation": "Yalnızca bir Ters Kablo Asansör Kule Tabanının hemen üstüne yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplacebehindreversemid",
+      "translation": "Yalnızca bir Ters Kablo Asansör Orta Kesitinin hemen üstüne yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplacebehindreversestart",
+      "translation": "Yalnızca bir Ters Yatay Kablo Çekişinin hemen arkasına yerleştirilebilir."
+    },
+    {
+      "key": "trackelementdisabled_giantinvertedboomerang_canonlyplacebehindstation",
+      "translation": "Yalnızca istasyonun ya da mevcut Ters Yatay Kablo Çekişi kesitlerinin hemen arkasına yerleştirilebilir."
+    },
+    {
+      "key": "set_adobe",
+      "translation": "Kerpiç"
+    },
+    {
+      "key": "set_bavarian",
+      "translation": "Bavyera"
+    },
+    {
+      "key": "set_brick",
+      "translation": "Tuğla - Modern"
+    },
+    {
+      "key": "set_castle",
+      "translation": "Kale"
+    },
+    {
+      "key": "set_classical",
+      "translation": "Klasik"
+    },
+    {
+      "key": "set_concrete",
+      "translation": "Beton"
+    },
+    {
+      "key": "set_diner",
+      "translation": "Diner"
+    },
+    {
+      "key": "set_fibreglass",
+      "translation": "Fiberglas"
+    },
+    {
+      "key": "set_futuristic",
+      "translation": "Fütüristik"
+    },
+    {
+      "key": "set_glass",
+      "translation": "Cam"
+    },
+    {
+      "key": "set_industrial",
+      "translation": "Endüstriyel"
+    },
+    {
+      "key": "set_limeplaster",
+      "translation": "Kireç Sıva"
+    },
+    {
+      "key": "set_limestone",
+      "translation": "Kireçtaşı"
+    },
+    {
+      "key": "set_metal",
+      "translation": "Metal"
+    },
+    {
+      "key": "set_modern",
+      "translation": "Modern"
+    },
+    {
+      "key": "set_moorish",
+      "translation": "Mağribi"
+    },
+    {
+      "key": "set_oldbrick",
+      "translation": "Tuğla - Klasik"
+    },
+    {
+      "key": "set_oldwest",
+      "translation": "Eski Batı"
+    },
+    {
+      "key": "set_plastic",
+      "translation": "Vinil Plastik"
+    },
+    {
+      "key": "set_qindynasty",
+      "translation": "Qin Hanedanı"
+    },
+    {
+      "key": "set_renaissance",
+      "translation": "Rönesans"
+    },
+    {
+      "key": "set_renderwalls",
+      "translation": "Stuko"
+    },
+    {
+      "key": "set_roughbrick",
+      "translation": "Tuğla - Kaba"
+    },
+    {
+      "key": "set_rustic",
+      "translation": "Rustik"
+    },
+    {
+      "key": "set_stonewalls",
+      "translation": "Kumtaşı"
+    },
+    {
+      "key": "set_taishoroman",
+      "translation": "Taisho Romantik"
+    },
+    {
+      "key": "set_thatch",
+      "translation": "Saz Damı"
+    },
+    {
+      "key": "set_tileflat",
+      "translation": "Kiremit - Düz"
+    },
+    {
+      "key": "set_tileridge",
+      "translation": "Kiremit - Sırt"
+    },
+    {
+      "key": "set_victorian",
+      "translation": "Viktorya"
+    },
+    {
+      "key": "set_westernwood",
+      "translation": "Ahşap - Tahta"
+    },
+    {
+      "key": "set_wooden",
+      "translation": "Ahşap - Modern"
+    },
+    {
+      "key": "set_woodenslat",
+      "translation": "Ahşap - Çıta"
+    },
+    {
+      "key": "set_woodtile",
+      "translation": "Ahşap - Karo"
+    },
+    {
+      "key": "challenge_description_cashvalue",
+      "translation": "Bu görev, parkın bankada ne kadar paraya sahip olduğunu ölçer! Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_dailycoasterriders",
+      "translation": "Bu görev, parktaki ziyaretçilerin günlük hız treni biniş sayısını ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_dailyflumeriders",
+      "translation": "Bu görev, parktaki ziyaretçilerin günlük kızak binişi sayısını ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_dailyincome",
+      "translation": "Bu görev, parkın ürettiği toplam günlük gelir üzerinden puanlanır! Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_dailyincomeattractions",
+      "translation": "Bu görev, parkın aktivite biletlerinden (hız trenleri, raylı binişler ve sabit eğlence birimleri dahil) elde ettiği günlük geliri ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_dailyincomeshops",
+      "translation": "Bu görev, parkın dükkanlardan (yeme-içme, hediyelik ve ziyaretçi hizmetleri dahil) elde ettiği günlük geliri ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_dailyprofitprioritypass",
+      "translation": "Bu görev, parkın Priority Pass'lerden elde ettiği günlük kârı (iadeler düşüldükten sonra) ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_guestservicesprofit",
+      "translation": "Bu görev, parkın Ziyaretçi Hizmetlerinden elde ettiği günlük kârı ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_modularsouvenirprofit",
+      "translation": "Bu görev, parkın Modüler Hediyelik Dükkanlarından elde ettiği günlük kârı ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_parkrating",
+      "translation": "Bu görev, parkın puanını ölçer!"
+    },
+    {
+      "key": "challenge_description_pickpocketscaught",
+      "translation": "Bu görev, park güvenliğinin günlük yakaladığı yankesici sayısını ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_restaurantincome",
+      "translation": "Bu görev, parkın Restoranlardan elde ettiği günlük geliri ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_restaurantprofits",
+      "translation": "Bu görev, parkın Restoranlardan elde ettiği günlük kârı ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_ridephotoprofit",
+      "translation": "Bu görev, parkın Eğlence Birimi Fotoğraf Büfelerinden elde ettiği günlük kârı ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_ridestakenprofit",
+      "translation": "Bu görev, parkın her türden hız treni, tema park binişi ve su binişlerinden elde ettiği günlük kârı ölçer. Hesaplama Gün Sonu Raporunda yapılır."
+    },
+    {
+      "key": "challenge_description_season_rewardpoints",
+      "translation": "[PH] Bu görev, franchise'ın mevcut sezon boyunca kazandığı puan sayısını ölçer."
+    },
+    {
+      "key": "challenge_name_cashvalue",
+      "translation": "Toplam Nakit"
+    },
+    {
+      "key": "challenge_name_dailycoasterriders",
+      "translation": "Günlük Hız Treni Binicileri"
+    },
+    {
+      "key": "challenge_name_dailyflumeriders",
+      "translation": "Günlük Kızak Binicileri"
+    },
+    {
+      "key": "challenge_name_dailyincome",
+      "translation": "Toplam Günlük Gelir"
+    },
+    {
+      "key": "challenge_name_dailyincomeattractions",
+      "translation": "Aktivitelerden Günlük Gelir"
+    },
+    {
+      "key": "challenge_name_dailyincomeshops",
+      "translation": "Dükkanlardan Günlük Gelir"
+    },
+    {
+      "key": "challenge_name_dailyprofitprioritypass",
+      "translation": "Priority Pass'ten Günlük Kâr"
+    },
+    {
+      "key": "challenge_name_guestservicesprofit",
+      "translation": "Günlük Ziyaretçi Hizmetleri Kârı"
+    },
+    {
+      "key": "challenge_name_modularsouvenirprofit",
+      "translation": "Günlük Modüler Hediyelik Dükkanı Kârı"
+    },
+    {
+      "key": "challenge_name_parkrating",
+      "translation": "Park Puanı"
+    },
+    {
+      "key": "challenge_name_pickpocketscaught",
+      "translation": "Günlük Yakalanan Yankesici"
+    },
+    {
+      "key": "challenge_name_restaurantincome",
+      "translation": "Restoranlardan Günlük Gelir"
+    },
+    {
+      "key": "challenge_name_restaurantprofits",
+      "translation": "Restoranlardan Günlük Kâr"
+    },
+    {
+      "key": "challenge_name_ridephotoprofit",
+      "translation": "Günlük Eğlence Birimi Fotoğraf Kârı"
+    },
+    {
+      "key": "challenge_name_ridestakenprofit",
+      "translation": "Günlük Eğlence Birimi Kârı"
+    },
+    {
+      "key": "challenge_name_season_rewardpoints",
+      "translation": "[PH] Sezon Franchise Puanı"
+    },
+    {
+      "key": "challenge_preset_challenge_desc",
+      "translation": "Park inşa becerini sınayacağız. Bir zorluk seviyesi seç ve meydan okumaya hazır ol!\n\n- Tam Nakit ve Ekonomi\n- Tam Araştırma\n- Tam Güç Yönetimi\n- Tam Su Yönetimi\n- Tam Personel Yönetimi\n- Tam Ziyaretçi Yönetimi"
+    }
+  ]
+}

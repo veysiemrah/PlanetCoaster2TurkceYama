@@ -1,0 +1,958 @@
+{
+  "items": [
+    {
+      "key": "distance_feet_0dp",
+      "source": "{Value:float:decimalPlaces=0} ft",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_feet_1dp",
+      "source": "{Value:float:decimalPlaces=1} ft",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_feet_2dp",
+      "source": "{Value:float:decimalPlaces=2} ft",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_km",
+      "source": "{Value:float:decimalPlaces=0} km",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_km_0dp",
+      "source": "{Value:float:decimalPlaces=0} km",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_km_1dp",
+      "source": "{Value:float:decimalPlaces=1} km",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_km_2dp",
+      "source": "{Value:float:decimalPlaces=2} km",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_km_3dp",
+      "source": "{Value:float:decimalPlaces=3} km",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_meters_0dp",
+      "source": "{Value:float:decimalPlaces=0} m",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_meters_1dp",
+      "source": "{Value:float:decimalPlaces=1} m",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_meters_2dp",
+      "source": "{Value:float:decimalPlaces=2} m",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_miles_0dp",
+      "source": "{Value:float:decimalPlaces=0} mi",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_miles_1dp",
+      "source": "{Value:float:decimalPlaces=1} mi",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_miles_2dp",
+      "source": "{Value:float:decimalPlaces=2} mi",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_mm_0dp",
+      "source": "{Value:float:decimalPlaces=0} mm",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_mm_1dp",
+      "source": "{Value:float:decimalPlaces=1} mm",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_mm_2dp",
+      "source": "{Value:float:decimalPlaces=2} mm",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_yards_0dp",
+      "source": "{Value:float:decimalPlaces=0} yd",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_yards_1dp",
+      "source": "{Value:float:decimalPlaces=1} yd",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "distance_yards_2dp",
+      "source": "{Value:float:decimalPlaces=2} yd",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_atm",
+      "source": "ATM",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_bodydryingmachines",
+      "source": "Body Drying Machines",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_changingrooms",
+      "source": "Changing Rooms",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_drink",
+      "source": "Drink Shop",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_dryer",
+      "source": "Dryer",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_firstaid",
+      "source": "First Aid",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_food",
+      "source": "Food Shop",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_hotel",
+      "source": "Hotel",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_infobooth",
+      "source": "Guest Services",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_modularsouvenir",
+      "source": "Modular Souvenir Shop",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_photokiosk",
+      "source": "Photo Kiosk",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_pool",
+      "source": "Pool Shop",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_restaurant",
+      "source": "Restaurant",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_securitycameras",
+      "source": "Security Cameras",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_shop",
+      "source": "Shop",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_souvenir",
+      "source": "Souvenir Shop",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_staffbuilding",
+      "source": "Staff Building",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_toilet",
+      "source": "Toilet",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_vendingmachine",
+      "source": "Vending Machine",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "facilityname_workshop",
+      "source": "Workshop",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_activegroup",
+      "source": "Editing {NAME}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_addtogroup",
+      "source": "Add To {NAME}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_alignusingflumeplatform",
+      "source": "Aligning using flume platform",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_alignusinggroup",
+      "source": "Aligning using {NAME}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_alignusingstairs",
+      "source": "Aligning using stairs",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_alignusingstation",
+      "source": "Aligning using {NAME} station",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_alignwithflumeplatform",
+      "source": "Align with flume platform",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_alignwithgroup",
+      "source": "Align with {NAME}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_alignwithstairs",
+      "source": "Align with stairs",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_alignwithstation",
+      "source": "Align with {NAME} station",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_allowoverlapping",
+      "source": "Allow overlapping",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_attachto",
+      "source": "Attach To {NAME}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_changegroup",
+      "source": "Edit {NAME}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_closegroup",
+      "source": "Done",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_elevate",
+      "source": "Elevate [{#LogicalButton.Editors_UpwardPlacementModifier#}]",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_exitfromgroup",
+      "source": "Exit {NAME}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_pickgrid",
+      "source": "Get Grid Settings From Object",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_rotate",
+      "source": "Rotate [{#LogicalButton.Editors_RotateObject#}]",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_snaprotating",
+      "source": "Snap Point Rotation Enabled",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "helpertooltips_steprotation",
+      "source": "Angle Snap",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_adult",
+      "source": "Adult",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_category_accessories",
+      "source": "Accessories",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_category_beards",
+      "source": "Facial Hair",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_category_bodies",
+      "source": "Bodies",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_category_hair",
+      "source": "Hair",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_category_hats",
+      "source": "Hats",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_category_heads",
+      "source": "Heads",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_category_legs",
+      "source": "Legs",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_category_skin",
+      "source": "Skin",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_child",
+      "source": "Child",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_female",
+      "source": "Female",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_group_af",
+      "source": "[MULTIPART_Adult] [MULTIPART_Female]",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_group_am",
+      "source": "[MULTIPART_Adult] [MULTIPART_Male]",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_group_cf",
+      "source": "[MULTIPART_Child] [MULTIPART_Female]",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_group_cm",
+      "source": "[MULTIPART_Child] [MULTIPART_Male]",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_group_tf",
+      "source": "[MULTIPART_Teen] [MULTIPART_Female]",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_group_tm",
+      "source": "[MULTIPART_Teen] [MULTIPART_Male]",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_male",
+      "source": "Male",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_model_none",
+      "source": "None",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "multipart_teen",
+      "source": "Teen",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_agreethetnc",
+      "source": "terms and conditions.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_agreeto",
+      "source": "I accept the ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_country",
+      "source": "Country",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_disabledtooltip",
+      "source": "Cannot sign up to our newsletter right now",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_email",
+      "source": "Your email address (required)",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_failure",
+      "source": "We can't get connected, try again later.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_failurebademail",
+      "source": "Invalid email address given. Please try again.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_failuretitle",
+      "source": "Oops!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_firstname",
+      "source": "First name (required)",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_freehat",
+      "source": "Sign up for our newsletter and get free golden mascot statues!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_language",
+      "source": "Language",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_lastname",
+      "source": "Last name (required)",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_name",
+      "source": "Your name (required)",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_news",
+      "source": "I agree to receiving game news, updates and offers from Frontier Developments",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_newsletter",
+      "source": "Newsletter",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_ok",
+      "source": "OK",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_submit",
+      "source": "Sign me up!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_success",
+      "source": "Find your free golden mascot statues in the scenery menu!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_successtitle",
+      "source": "You've signed up!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "newslettersignup_title",
+      "source": "Sign up for your free golden mascot statues!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_model_antiquepoweredcars",
+      "source": "Antique Powered Cars",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_model_familytrain",
+      "source": "Family Train",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_model_ghosttrain",
+      "source": "Ghost Train",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_model_gokart",
+      "source": "Go Kart",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_model_invertedpowered4seat",
+      "source": "Inverted Powered - 4 Seater",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_model_multiaxisdark",
+      "source": "Multi-Axis Dark Ride",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_model_ponytrek",
+      "source": "Pony Trek",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_model_poweredautomated",
+      "source": "Powered Automated Vehicle",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_model_poweredrotating",
+      "source": "Powered Rotating Ride",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_model_sitdownpowered4seat",
+      "source": "Sit Down Powered - 4 Seater",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_ptr_familytrain",
+      "source": "Family Train",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_ptr_familytrain_desc",
+      "source": "A gentle mini-railway ride, perfect for a family day out.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_ptr_hoax",
+      "source": "Ghost Train",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_ptr_hoax_desc",
+      "source": "Electrically powered cars which travel at a fixed speed along a track, and are able to rotate while moving.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_ptr_lunaautos",
+      "source": "Antique Powered Cars",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_ptr_lunaautos_desc",
+      "source": "Riders take a trip back in time as they travel along a track in antique styled cars.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_ptr_speed",
+      "source": "Go Kart",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_ptr_speed_desc",
+      "source": "Guests race against each other in speedy go karts.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_ptr_tracker",
+      "source": "Powered Automated Vehicle",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "powered_ptr_tracker_desc",
+      "source": "Enhance your guests' dark ride experience with a 3D mover cars, which can spin, pitch, and bank to help bring the ride's story to life.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errorcorrupt",
+      "source": "Failed to load the selected save game. It is corrupt.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errorgeneric",
+      "source": "Operation failed.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errorgeneric_load",
+      "source": "Load Operation failed.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errorgeneric_save",
+      "source": "Save Operation failed.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errorheader",
+      "source": "Save/Load Error",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errorheaderautosave",
+      "source": "Autosave Error",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errorinvalid",
+      "source": "Failed to load the selected save game. The name is invalid.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errornosavedirectory",
+      "source": "The game is unable to find or create the save game folder.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errornosavedirectory_withurl",
+      "source": "The game is unable to find or create the save game folder. Check the support site for help. {URL}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errornospace",
+      "source": "Save Operation failed. There is not enough space.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errorsaveinitfailed",
+      "source": "Save functionality is currently unavailable. Please try again.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errortooltip",
+      "source": "You have insufficient Save Slots available",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errorversion",
+      "source": "Failed to load the selected save game. The version number is incompatible.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_errorwritefailed",
+      "source": "Save Operation failed. Unable to create save. Is the disk full?",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_gotosupport",
+      "source": "Help",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_listmissingcontent",
+      "source": "You are missing downloadable content required to load this save: {DLCList}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_missingcontent",
+      "source": "You are missing downloadable content required to load this save data.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_noavailablespace",
+      "source": "Save Operation failed. ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_savefailed_desc",
+      "source": "You have insufficient Save Slots available to save. Delete an existing Save Slot and try again.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "saveload_savefailed_savefailed",
+      "source": "Save Operation Failed",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_mediterranean_large_trees",
+      "source": "Mediterranean Large Trees",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_mediterranean_palms",
+      "source": "Mediterranean Palms",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_mediterranean_rocks_large",
+      "source": "Mediterranean Rocks Large",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_mediterranean_rocks_small",
+      "source": "Mediterranean Rocks Small",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_mediterranean_small_plants",
+      "source": "Mediterranean Small Plants",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_taiga_large_trees",
+      "source": "Taiga Large Trees",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_taiga_rocks_large",
+      "source": "Taiga Rocks Large",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_taiga_rocks_small",
+      "source": "Taiga Rocks Small",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_taiga_small_plants",
+      "source": "Taiga Small Plants",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_temperate_rocks_large",
+      "source": "Temperate Rocks Large",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_temperate_rocks_small",
+      "source": "Temperate Rocks Small",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_temperate_small_plants",
+      "source": "Temperate Small Plants",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_tropical_large_trees",
+      "source": "Tropical Large Trees",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_tropical_rocks_large",
+      "source": "Tropical Rocks Large",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_tropical_rocks_small",
+      "source": "Tropical Rocks Small",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_tropical_small_plants",
+      "source": "Tropical Small Plants",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_vegetation_group_generic_brush",
+      "source": "Temperate Park Trees",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_vegetation_group_large_brush",
+      "source": "Temperate Forest Trees",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "foliagebrush_vegetation_group_seasonal_brush",
+      "source": "Temperate Autumnal Trees",
+      "context": "",
+      "max_length": null
+    }
+  ]
+}

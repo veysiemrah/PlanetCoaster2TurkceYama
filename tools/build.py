@@ -17,8 +17,8 @@ CONTENT_PACKS = [
     "ContentPDLC1", "ContentPDLC2", "ContentPDLC3",
 ]
 
-TARGET_LANGUAGE = "Czech"
-TARGET_REGION = "CzechRepublic"
+TARGET_LANGUAGE = "English"
+TARGET_REGION = "UnitedStates"
 
 MANIFEST_XML = """<?xml version="1.0" encoding="utf-8"?>
 <ContentPack name="TurkceYama" version="1.0.0">

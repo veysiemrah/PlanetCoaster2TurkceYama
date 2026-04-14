@@ -1,0 +1,1018 @@
+{
+  "items": [
+    {
+      "key": "fanfarepackcompletion_main_1",
+      "source": "Well done! You collected all the Bronze Stars in the Career!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfarepackcompletion_main_2",
+      "source": "Congratulations! You collected all the Silver Stars in the Career!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfarepackcompletion_main_3",
+      "source": "Amazing! You collected all the Gold Stars in the Career!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfarepackcompletion_main_all",
+      "source": "Wow! You have completed every objective in the Career!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfarepackcompletion_optioncareermenu",
+      "source": "Continue Career",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfarepackcompletion_optionstay",
+      "source": "Stay in this park",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "visitorcamerablocker_brokendown",
+      "source": "Ride is Broken Down",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "visitorcamerablocker_notenoughmoney",
+      "source": "Not Enough Money",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "visitorcamerablocker_sequencealreadyplaying",
+      "source": "Already Playing",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "visitorcamerablocker_timepaused",
+      "source": "Time Paused",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "visitorcamerablocker_waitingfortrain_flume",
+      "source": "Flume Occupied",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "visitorcamerablocker_waitingfortrain_singlecar",
+      "source": "No Car in Station",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "visitorcamerablocker_waitingfortrain_train",
+      "source": "No Train in Station",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "visitorcamerablocker_waitingfortrain_transport",
+      "source": "No Vehicle in Station",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackparamvaluelabel_bungeeliftanimation_simplelift",
+      "source": "Simple",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackparamvaluelabel_bungeeliftanimation_springlift",
+      "source": "Spring",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackparamvaluelabel_droptrackanimation_fakeoutthendrop",
+      "source": "Fake Out",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackparamvaluelabel_droptrackanimation_simpledrop",
+      "source": "Simple",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackparamvaluelabel_turntableanimation_270degrees",
+      "source": "270º Turn",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "trackparamvaluelabel_turntableanimation_90degrees",
+      "source": "90º Turn",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfareshootingride_enteryourname",
+      "source": "Enter Your Name",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfareshootingride_gameover",
+      "source": "Game Over",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfareshootingride_name",
+      "source": "Name",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfareshootingride_newhighscore",
+      "source": "New High Score",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfareshootingride_nohighscore",
+      "source": "No High Score",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfareshootingride_playagain",
+      "source": "Play Again",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "fanfareshootingride_points",
+      "source": "Points",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "gunaudioevents_event_sht_aquatic",
+      "source": "Aquatic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "gunaudioevents_event_sht_arcade",
+      "source": "Arcade",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "gunaudioevents_event_sht_fairytale",
+      "source": "Fairytale",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "gunaudioevents_event_sht_mythology",
+      "source": "Mythology",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "gunaudioevents_event_sht_resort",
+      "source": "Resort",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "gunaudioevents_event_sht_scifi",
+      "source": "Sci-Fi",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "gunaudioevents_event_sht_viking",
+      "source": "Viking",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "gunaudioevents_testtrigger",
+      "source": "Test Trigger",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "globaltoolbox_title",
+      "source": "Tools",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "globaltoolbox_tooltip_colorpicker",
+      "source": "Open Colourpicker",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "globaltoolbox_tooltip_copy",
+      "source": "Copy selection",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "globaltoolbox_tooltip_delete",
+      "source": "Delete selection",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "globaltoolbox_tooltip_multiselect_active",
+      "source": "Deactivate Multi-Select",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "globaltoolbox_tooltip_multiselect_inactive",
+      "source": "Activate Multi-Select",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "globaltoolbox_tooltip_paste",
+      "source": "Paste item",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "globaltoolbox_tooltip_redo",
+      "source": "Redo last action",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "globaltoolbox_tooltip_saveblueprint",
+      "source": "Save Blueprint",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "globaltoolbox_tooltip_undo",
+      "source": "Undo last action",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challengemode_difficultiestutorialdesc",
+      "source": "In harder difficulties you can expect:\n\n• Less Starting Cash\n• More demanding Guests\n• Tougher economy",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challengemode_difficulty_easy",
+      "source": "• Increased Starting Cash\n• Reduced Guest Needs\n• Reduced Sunburn\n• Reduced Fair Pay for Staff\n• Reduced Guest Refunds\n• Standard Demolish Refunds",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challengemode_difficulty_hard",
+      "source": "• Decreased Starting Cash\n• Increased Guest Needs\n• Increased Sunburn\n• Increased Fair Pay for Staff\n• Increased Guest Refunds\n• Decreased Demolish Refunds",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challengemode_difficulty_medium",
+      "source": "• Standard Starting Cash\n• Standard Guest Needs\n• Standard Sunburn\n• Standard Fair Pay for Staff\n• Standard Guest Refunds\n• Standard Demolish Refunds",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challengemode_preset",
+      "source": "Preset: Challenge",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challengemode_selectionmenu_desc",
+      "source": "Put your skills to the test in Challenge Mode. Tackle a series of tricky objectives as you work towards a 5 star Park Rating and prove yourself as the ultimate park manager!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challengemode_selectionmenu_header",
+      "source": "Welcome To Challenge Mode!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "challengemode_setup",
+      "source": "Challenge Setup",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "crashreporter_buttontext",
+      "source": "Submit",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "crashreporter_helpurltext",
+      "source": "More information about crashes including possible fixes can be found on the Planet Coaster 2 Support Site.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "crashreporter_label_line1",
+      "source": "Oops, it looks like Planet Coaster 2 crashed!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "crashreporter_label_line2",
+      "source": "If you would like to help us fix this issue, please describe what you were doing at the time of the crash in the box below.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "crashreporter_label_line3",
+      "source": "Thank you.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "crashreporter_supportbuttontext",
+      "source": "Open Support Site...",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "crashreporter_uploadingcrashdumptext",
+      "source": "Uploading...",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "crashreporter_windowtitle",
+      "source": "Planet Coaster 2 Crash Reporter",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "staffbuilding_capacitymonthlycost",
+      "source": "Capacity monthly running cost",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "staffbuilding_change_confirm",
+      "source": "Are you sure you would like to continue?",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "staffbuilding_change_cost",
+      "source": "This change has a setup cost of {cost:currency}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "staffbuilding_change_header",
+      "source": "Staff Room Change",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "staffbuilding_change_yes",
+      "source": "Yes ({cost:currency})",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "staffbuilding_lifetimerunningcost",
+      "source": "Lifetime running cost",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "staffbuilding_sceneryrating",
+      "source": "Building Scenery Rating\n\nThe better your staff buildings look, the more appreciated your staff will feel, which will make them recover energy faster.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "staffbuilding_totalmonthlycost",
+      "source": "Total monthly running cost",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "contentdescr_deluxe",
+      "source": "The Vintage Funfair Ride Pack offers an assortment of 10 timeless rides to give your park a classic theme!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "contentdescr_general",
+      "source": "Check out the latest DLC for Planet Coaster 2!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "contentdescr_pdlc1",
+      "source": "The Thrill-Seekers Ride Pack contains 3 new fantastic flat rides and 2 exhilarating coasters to give your guests a real rush!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "contentdescr_pdlc2",
+      "source": "The Sorcery Pack includes a magical new mascot, the mystifying Sorcery scenery pack, as well as 2 bewitching flat rides and 3 spellbinding new coasters! ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "contentdescr_pdlc3",
+      "source": "The Toybox Pack contains a heroic new mascot, the nostalgic Toybox Scenery pack, as well as 3 wild flat rides and 2 marvellous new coasters!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "contentdescr_preorder",
+      "source": "The Bonus Ride Collection contains three thrilling rides designed to give your guests an extra boost of fun!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "contentdescr_unknown",
+      "source": "Unknown Pack",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shootingride_combo",
+      "source": "Combo",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shootingride_combocount",
+      "source": "{Value:int}x Combo",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shootingride_combox",
+      "source": "X",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shootingride_quit",
+      "source": "Quit",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shootingride_startsin",
+      "source": "Ride will start in approximately",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "shootingride_title",
+      "source": "Shooting Ride",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "displayname_adrianavega",
+      "source": "Adriana Vega",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "displayname_bradnewton",
+      "source": "Brad Newton",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "displayname_eugenenewton",
+      "source": "Eugene Newton",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "displayname_hankbrogan",
+      "source": "Hank Brogan",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "displayname_kentasuzuki",
+      "source": "Kenta Suzuki",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "displayname_nanabetty",
+      "source": "Nana Betty",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "displayname_oswaldthompson",
+      "source": "Oswald B. Thompson",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tagregion_rn_alpine",
+      "source": "Alpine",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tagregion_rn_deciduous",
+      "source": "Deciduous",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tagregion_rn_desert",
+      "source": "Desert",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tagregion_rn_grassland",
+      "source": "Grassland",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tagregion_rn_mediterranean",
+      "source": "Mediterranean",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tagregion_rn_park",
+      "source": "Park",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tagregion_rn_taiga",
+      "source": "Taiga",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tagregion_rn_temperate",
+      "source": "Temperate",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tagregion_rn_tropical",
+      "source": "Tropical",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tagregion_rn_tundra",
+      "source": "Tundra",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "storymode_chaptercompletetitle",
+      "source": "Chapter Complete!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "storymode_newreward",
+      "source": "New Reward!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "storymode_objectivechapterheader",
+      "source": "{ChapterNum}: {ChapterName}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "storymode_storycompletedesc",
+      "source": "Congratulations!<br>Story Completion Date: {Date}, {Time}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "storymode_storycompleteobjectivelabel",
+      "source": "Story Complete!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "storymode_storycompletetitle",
+      "source": "Story Complete!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "guesthat_bamboohat",
+      "source": "Bamboo Hat",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "guesthat_cap",
+      "source": "Cap",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "guesthat_kingcoaster",
+      "source": "King Coaster",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "guesthat_mythicalcap",
+      "source": "Mythical Cap",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "guesthat_octopus",
+      "source": "Octopus",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "guesthat_queensplash",
+      "source": "Queen Splash",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "guesthat_vikingcap",
+      "source": "Viking Cap",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "guesthat_vikinghelmet",
+      "source": "Viking Helmet",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "guesthat_vivalavegan",
+      "source": "Saguaro Guitaro",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "currency_per_day",
+      "source": "{Value:currency} per day",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "currency_per_month",
+      "source": "{Value:currency} per month",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "currency_symbol",
+      "source": "$",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "currency_target",
+      "source": "{Value:currency}/{Target:currency}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "currency_value_target",
+      "source": "{Value:currency} / {Target:currency}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "platform_epic",
+      "source": "Epic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "platform_playstation",
+      "source": "PlayStation™Network",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "platform_steam",
+      "source": "Steam",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "platform_unknown",
+      "source": "PC",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "platform_xbox",
+      "source": "Xbox",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "seconds_0dp",
+      "source": "{Value:float:decimalPlaces=0} s",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "seconds_1dp",
+      "source": "{Value:float:decimalPlaces=1} s",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "seconds_2dp",
+      "source": "{Value:float:decimalPlaces=2} s",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "seconds_string",
+      "source": "{Value:float:decimalPlaces=1} seconds",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "seconds_symbol",
+      "source": "s",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "seconds_value_ago",
+      "source": "{Value:float:decimalPlaces=1} seconds ago",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "speed_kph_0dp",
+      "source": "{Value:float:decimalPlaces=0} kph",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "speed_kph_1dp",
+      "source": "{Value:float:decimalPlaces=1} kph",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "speed_kph_2dp",
+      "source": "{Value:float:decimalPlaces=2} kph",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "speed_kph_per_second",
+      "source": "{Value:float:decimalPlaces=0} kph/s",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "speed_mph_0dp",
+      "source": "{Value:float:decimalPlaces=0} mph",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "speed_mph_1dp",
+      "source": "{Value:float:decimalPlaces=1} mph",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "speed_mph_2dp",
+      "source": "{Value:float:decimalPlaces=2} mph",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "speed_mph_per_second",
+      "source": "{Value:float:decimalPlaces=0} mph/s",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "flume_platform_large",
+      "source": "Large Flume Platform",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "flume_platform_large_desc",
+      "source": "A platform for lots of flumes!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "flume_platform_medium",
+      "source": "Medium Flume Platform",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "flume_platform_medium_desc",
+      "source": "A platform for a few flumes.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "flume_platform_section",
+      "source": "Flume Platform Section",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "flume_platform_small",
+      "source": "Small Flume Platform",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "flume_platform_small_desc",
+      "source": "A platform for a single flume.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "value_applied",
+      "source": "{Value:float:decimalPlaces=0} applied",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "value_brackets",
+      "source": "{Value} ({Target})",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "value_forward_slash",
+      "source": "/{Value:int}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "value_target",
+      "source": "{Value:float:decimalPlaces=0}/{Target:float:decimalPlaces=0}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "value_target_1dp",
+      "source": "{Value:float:decimalPlaces=1}/{Target:float:decimalPlaces=1}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "value_target_2dp",
+      "source": "{Value:float:decimalPlaces=2}/{Target:float:decimalPlaces=2}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "rides_cannotduplicate",
+      "source": "Cannot duplicate rides.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "rides_connectentrancetopath",
+      "source": "Connect Entrance to Path",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "rides_inaccessible_description",
+      "source": "This ride isn't accessible!",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "rides_inaccessible_todo",
+      "source": "To open this ride, you need to:",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "rides_placeentrance",
+      "source": "Place Entrance",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "rides_placeexit",
+      "source": "Place Exit",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "angle_degree",
+      "source": "{Value:float:decimalPlaces=2}º",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "angle_degree_0dp",
+      "source": "{Value:float:decimalPlaces=0}º",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "angle_degree_1dp",
+      "source": "{Value:float:decimalPlaces=1}º",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "angle_degree_2dp",
+      "source": "{Value:float:decimalPlaces=2}º",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "angle_degree_no_decimals",
+      "source": "{Value:float:decimalPlaces=0}º",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "int_value",
+      "source": "{Value:int}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "int_value_2d",
+      "source": "{Value:int:minDigits=2}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "int_value_3d",
+      "source": "{Value:int:minDigits=3}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "int_value_plus",
+      "source": "{Value:int}+",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "int_value_positive",
+      "source": "+{Value:int}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "int_value_target",
+      "source": "{Value:int}/{Target:int}",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "int_value_target_brackets",
+      "source": "({Value:int}/{Target:int})",
+      "context": "",
+      "max_length": null
+    }
+  ]
+}

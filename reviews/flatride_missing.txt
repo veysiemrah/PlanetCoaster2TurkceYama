@@ -1,0 +1,100 @@
+Eksik: 65
+  objectives: 22
+  guests: 8
+  frontendmenu: 6
+  parkmanagement: 5
+  tutorialscreen: 5
+  contentdescr: 3
+  popup: 3
+  infopanel: 2
+  objectbrowser: 2
+  optionsmenu: 2
+  blueprints: 1
+  challenge: 1
+  frontend: 1
+  music: 1
+  staff: 1
+  tag: 1
+  vo: 1
+
+--- ÍRNEKLER ---
+
+[blueprints_tagcategory_flatrides]
+EN: Flat Rides
+TR: D³z Bini■ler
+
+[challenge_description_dailyincomeattractions]
+EN: This challenge measures a park's daily income from attraction tickets, including coasters, tracked rides and flat rides. This is calculated at the End
+TR: Bu g÷rev, park²n aktivite biletlerinden (h²z trenleri, rayl² bini■ler ve sabit e­lence birimleri dahil) elde etti­i g³nl³k geliri ÷ler. Hesaplama G³n
+
+[contentdescr_pdlc1]
+EN: The Thrill-Seekers Ride Pack contains 3 new fantastic flat rides and 2 exhilarating coasters to give your guests a real rush!
+TR: Heyecan Arayanlar E­lence Birimi Paketi, ziyaretilerine gerek bir heyecan ya■atacak 3 yeni ola­an³st³ sabit e­lence birimi ve 2 nefes kesici h²z tre
+
+[contentdescr_pdlc2]
+EN: The Sorcery Pack includes a magical new mascot, the mystifying Sorcery scenery pack, as well as 2 bewitching flat rides and 3 spellbinding new coaster
+TR: B³y³c³l³k Paketi; b³y³l³ yeni bir maskot, gizemli B³y³c³l³k dekorasyon paketi ve 2 b³y³leyici sabit e­lence birimi ile 3 b³y³leyici yeni h²z treni ie
+
+[contentdescr_pdlc3]
+EN: The Toybox Pack contains a heroic new mascot, the nostalgic Toybox Scenery pack, as well as 3 wild flat rides and 2 marvellous new coasters!
+TR: Toybox Paketi; kahraman yeni bir maskot, nostaljik Toybox Dekorasyon paketi ve 3 ²lg²n sabit e­lence birimi ile 2 muhte■em yeni h²z treni ieriyor!
+
+[frontend_franchise_flatrides]
+EN: Flat Rides
+TR: Sabit E­lenceler
+
+[frontendmenu_update2popup_desc]
+EN: Update 2 brings you Ride Sync, which will let you synchronise the timings of your rides and, for the first time, coaster cars are able to be switched 
+TR: G³ncelleme 2 ile S³r³■ Senkronizasyonu geliyor; art²k s³r³■lerinin zamanlamalar²n² senkronize edebilecek ve ilk kez h²z treni arabalar² maksimum yarat
+
+[frontendmenu_update4popup_desc]
+EN: Update 4 is serving up Restaurants, where you can build your perfect dining experience using new Restaurant Kitchens, Dining Tables, and existing them
+TR: G³ncelleme 4 Restoranlar sunuyor; yeni Restoran Mutfaklar², Yemek Masalar² ve temal² Piknik Masalar²n² kullanarak m³kemmel yemek deneyimini tasarla. A
+
+[frontendmenu_update6popup_desc]
+EN: Say cheese! Update 6 brings Ride Photo Cameras to your coaster. Place a Photo Kiosk to let guests buy their photos, and connect Billboards to show you
+TR: Peynir de! G³ncelleme 6 S³r³■ Foto­raf Kameralar² getiriyor. Bir Foto­raf Kiosku yerle■tir ve Billboard'larla b³y³k ekranda e­lenceyi g÷ster! Mod³ler 
+
+[frontendmenu_update6popup_descalt]
+EN: Say cheese! Update 6 brings Ride Photo Cameras to your coaster. Place a Photo Kiosk to let guests buy their photos, and connect Billboards to the Kios
+TR: Peynir de! G³ncelleme 6 S³r³■ Foto­raf Kameralar² getiriyor. Bir Foto­raf Kiosku yerle■tir ve Billboard'lar² ba­layarak b³y³k ekranda e­lenceyi g÷ster
+
+[frontendmenu_update7popup_desc]
+EN: Update 7 is here, and it's bringing Challenge Mode: take on a variety of wild challenges, while aiming for that all-important 5 star Park Rating! Also
+TR: G³ncelleme 7 burada ve Meydan Okuma Modu geliyor: 5 y²ld²zl² Park Puan²na ula■mak iin ²lg²n zorluklara meydan oku! Izgara tabanl² Dekor nesneleri i
+
+[frontendmenu_update9popup_desc]
+EN: Update 8 is here, and it's ready for the season with the returning Festive Scenery pack, and new Adverse Weather! Keep your guests sheltered from frig
+TR: G³ncelleme 8 geldi ve sezona haz²r: geri d÷nen Festive Dekorasyon Paketi ve yepyeni Olumsuz Hava Ko■ullar² ile! Ziyaretilerini ³rk³t³c³ G÷k G³r³lt³l³
+
+[guests_guestbucket_cany_#3]
+EN: Flat Ride Fans
+TR: D³z Atraksiyon Hayranlar²
+
+[guests_guestbucket_laby_#6]
+EN: Flat Ride Length Lovers
+TR: Uzun D³z Atraksiyon Sevenler
+
+[guests_guestbucket_natu_#1]
+EN: Nature Flat Ride Fans
+TR: Do­a Temal² D³z Atraksiyon Fanlar²
+
+[guests_guestbucket_plan_#4]
+EN: Flat Ride Enthusiasts 
+TR: D³z Atraksiyon Tutkunlar² 
+
+[guests_guestbucket_spli_#1]
+EN: Exciting Flat Ride Lovers
+TR: Heyecanl² D³z Atraksiyon Sevenler
+
+[guests_guestbucket_spli_#2]
+EN: Soothing Flat Ride Fans
+TR: Sakin D³z Atraksiyon Fanlar²
+
+[guests_guestbucket_tiny_#1]
+EN: Flat Ride Enthusiasts
+TR: D³z Atraksiyon Tutkunlar²
+
+[guests_guestbucket_tutb_#1]
+EN: Flat Ride Enthusiasts
+TR: D³z Atraksiyon Tutkunlar²

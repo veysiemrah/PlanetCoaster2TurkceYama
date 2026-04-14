@@ -1,0 +1,364 @@
+{
+  "items": [
+    {
+      "key": "toolpanelfoliagescenery_alignrotationtosurface",
+      "translation": "Dönüşü Yüzeye Hizala"
+    },
+    {
+      "key": "toolpanelfoliagescenery_aligntosurface",
+      "translation": "Yüzeye Hizala"
+    },
+    {
+      "key": "toolpanelfoliagescenery_apply",
+      "translation": "Dekorasyonu Uygula"
+    },
+    {
+      "key": "toolpanelfoliagescenery_avoidpaths",
+      "translation": "Yollardan Kaçın"
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushname",
+      "translation": "Fırça Adı"
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushobjects",
+      "translation": "Fırça Nesneleri"
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushoptions",
+      "translation": "Fırça Seçenekleri"
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushtype",
+      "translation": "Fırça Türü"
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushtypecustom",
+      "translation": "Özel"
+    },
+    {
+      "key": "toolpanelfoliagescenery_brushtypestandard",
+      "translation": "Standart"
+    },
+    {
+      "key": "toolpanelfoliagescenery_changebrush",
+      "translation": "Fırçayı Değiştir"
+    },
+    {
+      "key": "toolpanelfoliagescenery_changeobject",
+      "translation": "Nesneyi Değiştir"
+    },
+    {
+      "key": "toolpanelfoliagescenery_changetexture",
+      "translation": "Dokuyu Değiştir"
+    },
+    {
+      "key": "toolpanelfoliagescenery_choosetexture",
+      "translation": "Doku Seç"
+    },
+    {
+      "key": "toolpanelfoliagescenery_createnewbrush",
+      "translation": "Yeni Fırça Oluştur"
+    },
+    {
+      "key": "toolpanelfoliagescenery_custombrush",
+      "translation": "Özel Fırça"
+    },
+    {
+      "key": "toolpanelfoliagescenery_customisetab",
+      "translation": "Özelleştir"
+    },
+    {
+      "key": "toolpanelfoliagescenery_customtab",
+      "translation": "Özel"
+    },
+    {
+      "key": "toolpanelfoliagescenery_deletebrush",
+      "translation": "Fırçayı Sil"
+    },
+    {
+      "key": "toolpanelfoliagescenery_deleteobject",
+      "translation": "Nesneyi Sil"
+    },
+    {
+      "key": "toolpanelfoliagescenery_editbrush",
+      "translation": "Fırçayı Düzenle"
+    },
+    {
+      "key": "toolpanelfoliagescenery_editfoliagebrush",
+      "translation": "Dekorasyon Fırçasını Düzenle"
+    },
+    {
+      "key": "toolpanelfoliagescenery_editpreset",
+      "translation": "Hazır Ayarı Düzenle"
+    },
+    {
+      "key": "toolpanelfoliagescenery_frequency",
+      "translation": "Sıklık"
+    },
+    {
+      "key": "toolpanelfoliagescenery_intensity",
+      "translation": "Yoğunluk"
+    },
+    {
+      "key": "toolpanelfoliagescenery_maximumscale",
+      "translation": "Maksimum Boyut"
+    },
+    {
+      "key": "toolpanelfoliagescenery_minimumscale",
+      "translation": "Minimum Boyut"
+    },
+    {
+      "key": "toolpanelfoliagescenery_nobrushes",
+      "translation": "Kullanılabilir özel fırça yok"
+    },
+    {
+      "key": "toolpanelfoliagescenery_objectradius",
+      "translation": "Nesne Aralığı"
+    },
+    {
+      "key": "toolpanelfoliagescenery_presettab",
+      "translation": "Hazır Ayar"
+    },
+    {
+      "key": "toolpanelfoliagescenery_randomrotation",
+      "translation": "Rastgele Dönüş"
+    },
+    {
+      "key": "toolpanelfoliagescenery_rotation_all",
+      "translation": "Tümü"
+    },
+    {
+      "key": "toolpanelfoliagescenery_rotation_none",
+      "translation": "Yok"
+    },
+    {
+      "key": "toolpanelfoliagescenery_rotation_yaw",
+      "translation": "Yatay"
+    },
+    {
+      "key": "toolpanelfoliagescenery_saveasnew",
+      "translation": "Yeni Olarak Kaydet"
+    },
+    {
+      "key": "toolpanelfoliagescenery_savechanges",
+      "translation": "Değişiklikleri Kaydet"
+    },
+    {
+      "key": "toolpanelfoliagescenery_scenery",
+      "translation": "Dekorasyon"
+    },
+    {
+      "key": "toolpanelfoliagescenery_scenery_avoid",
+      "translation": "Kaçın"
+    },
+    {
+      "key": "toolpanelfoliagescenery_scenery_ignore",
+      "translation": "Yoksay"
+    },
+    {
+      "key": "toolpanelfoliagescenery_scenery_placeon",
+      "translation": "Üstüne Yerleştir"
+    },
+    {
+      "key": "toolpanelfoliagescenery_scenerybrushtitle",
+      "translation": "Dekorasyon Fırçası"
+    },
+    {
+      "key": "toolpanelfoliagescenery_selectanobject",
+      "translation": "Bir Nesne Seç"
+    },
+    {
+      "key": "toolpanelfoliagescenery_settings",
+      "translation": "Ayarlar"
+    },
+    {
+      "key": "toolpanelfoliagescenery_size",
+      "translation": "Boyut"
+    },
+    {
+      "key": "toolpanelfoliagescenery_title",
+      "translation": "Dekorasyon Fırçası"
+    },
+    {
+      "key": "toolpanelfoliagescenery_undochanges",
+      "translation": "Yapılan değişiklikler kaydedilmedi ve iptal edilecek. Bu işlem geri alınamaz. "
+    },
+    {
+      "key": "toolpanelfoliagescenery_usebrushtab",
+      "translation": "Fırçayı Kullan"
+    },
+    {
+      "key": "pathresource_path_01_title",
+      "translation": "Taş Kabuk Yolu"
+    },
+    {
+      "key": "pathresource_path_02_title",
+      "translation": "Kırmızı Girdap Yolu"
+    },
+    {
+      "key": "pathresource_path_03_title",
+      "translation": "Rustik Yol"
+    },
+    {
+      "key": "pathresource_path_04_title",
+      "translation": "Kumtaşı Yolu"
+    },
+    {
+      "key": "pathresource_path_05_title",
+      "translation": "Asfalt Yol"
+    },
+    {
+      "key": "pathresource_path_06_title",
+      "translation": "Çakıl Yolu"
+    },
+    {
+      "key": "pathresource_path_07_title",
+      "translation": "Mavi Yol"
+    },
+    {
+      "key": "pathresource_path_08_title",
+      "translation": "Tuğla Yol"
+    },
+    {
+      "key": "pathresource_path_09_title",
+      "translation": "Mozaik Ahşap Yol"
+    },
+    {
+      "key": "pathresource_path_101_title",
+      "translation": "Doğal Yol"
+    },
+    {
+      "key": "pathresource_path_102_title",
+      "translation": "Kumlu Yol"
+    },
+    {
+      "key": "pathresource_path_10_title",
+      "translation": "Rengarenk Mozaik Yolu"
+    },
+    {
+      "key": "pathresource_path_11_title",
+      "translation": "Mavi Girdap Yolu"
+    },
+    {
+      "key": "pathresource_path_12_title",
+      "translation": "Kare Kaldırım Taşı Yolu"
+    },
+    {
+      "key": "pathresource_path_13_title",
+      "translation": "Vinil Yol"
+    },
+    {
+      "key": "pathresource_path_14_title",
+      "translation": "Arnavut Kaldırımlı Yol"
+    },
+    {
+      "key": "pathresource_path_15_title",
+      "translation": "Dikey Ahşap Tahta Yolu"
+    },
+    {
+      "key": "pathresource_path_16_title",
+      "translation": "Yatay Ahşap Tahta Yolu"
+    },
+    {
+      "key": "pathresource_path_invisible_title",
+      "translation": "Görünmez Yol"
+    },
+    {
+      "key": "pathresource_pool_01_title",
+      "translation": "Küçük Fayans Havuzu"
+    },
+    {
+      "key": "pathresource_pool_02_title",
+      "translation": "Küçük Fayans Havuzu"
+    },
+    {
+      "key": "pathresource_pool_03_title",
+      "translation": "Beton Havuz"
+    },
+    {
+      "key": "pathresource_pool_04_title",
+      "translation": "Orta Boy Fayans Havuzu"
+    },
+    {
+      "key": "pathresource_pool_05_title",
+      "translation": "Büyük Mermer Fayans Havuzu"
+    },
+    {
+      "key": "pathresource_pooledge_01_title",
+      "translation": "Gri Fayanslı Havuz Kenarı"
+    },
+    {
+      "key": "pathresource_pooledge_02_title",
+      "translation": "Beyaz Fayanslı Havuz Kenarı"
+    },
+    {
+      "key": "pathresource_pooledge_03_title",
+      "translation": "Ahşap Tahta Havuz Kenarı"
+    },
+    {
+      "key": "pathresource_pooledge_04_title",
+      "translation": "Terrakota Fayans Havuz Kenarı"
+    },
+    {
+      "key": "pathresource_pooledge_05_title",
+      "translation": "Kumtaşı Havuz Kenarı"
+    },
+    {
+      "key": "pathresource_queue_01_title",
+      "translation": "Vinil Sıra Yolu"
+    },
+    {
+      "key": "pathresource_queue_02_title",
+      "translation": "Mavi Sıra Yolu"
+    },
+    {
+      "key": "pathresource_queue_03_title",
+      "translation": "Rustik Sıra Yolu"
+    },
+    {
+      "key": "pathresource_queue_04_title",
+      "translation": "Tuğla Sıra Yolu"
+    },
+    {
+      "key": "pathresource_queue_05_title",
+      "translation": "Dikey Ahşap Sıra Yolu"
+    },
+    {
+      "key": "pathresource_queue_06_title",
+      "translation": "Yatay Ahşap Sıra Yolu"
+    },
+    {
+      "key": "pathresource_queue_07_title",
+      "translation": "Oklu Sıra Yolu"
+    },
+    {
+      "key": "pathresource_queue_invisible_title",
+      "translation": "Görünmez Sıra"
+    },
+    {
+      "key": "pathresource_railing_01_title",
+      "translation": "Boyalı Metal Korkuluk"
+    },
+    {
+      "key": "pathresource_railing_02_title",
+      "translation": "Cilalı Ahşap Korkuluk"
+    },
+    {
+      "key": "pathresource_railing_03_title",
+      "translation": "Metal Hız Treni Korkuluğu"
+    },
+    {
+      "key": "pathresource_railing_04_title",
+      "translation": "Ahşap Kiriş Korkuluk"
+    },
+    {
+      "key": "pathresource_railing_05_title",
+      "translation": "Metal Park Korkuluğu"
+    },
+    {
+      "key": "pathresource_staffpath_01_title",
+      "translation": "Personel Yolu"
+    }
+  ]
+}

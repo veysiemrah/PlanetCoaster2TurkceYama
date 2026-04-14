@@ -1,0 +1,958 @@
+{
+  "items": [
+    {
+      "key": "triggeredsfx_alarms_heading",
+      "source": "Alarms",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_announcement_heading",
+      "source": "Announcements",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_aquatic_heading",
+      "source": "Aquatic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_creatures_heading",
+      "source": "Creatures",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_electronic_heading",
+      "source": "Electronic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_fairytale_heading",
+      "source": "Fairytale",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_greekmythos_heading",
+      "source": "Mythology",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_human_heading",
+      "source": "Human",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_legacy_heading",
+      "source": "Legacy",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_mechanical_heading",
+      "source": "Mechanical",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_miscellaneous_heading",
+      "source": "Miscellaneous",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_musical_heading",
+      "source": "Musical",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_nature_heading",
+      "source": "Nature",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_orchestral_heading",
+      "source": "Orchestral",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_pirate_heading",
+      "source": "Pirate",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_pop_heading",
+      "source": "Pop",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_resort_heading",
+      "source": "Resort",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_rock_metal_heading",
+      "source": "Rock/Metal",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_scifi_heading",
+      "source": "Sci-Fi",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_sorcery_heading",
+      "source": "Sorcery",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_toybox_heading",
+      "source": "Toybox",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_vanilla_heading",
+      "source": "Planet Coaster",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_viking_heading",
+      "source": "Viking",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_western_heading",
+      "source": "Western",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_whoosh_heading",
+      "source": "Whoosh",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "triggeredsfx_world_heading",
+      "source": "World",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_buil_zone1",
+      "source": "Asgard",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_buil_zone2",
+      "source": "Midgard",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_buil_zone3",
+      "source": "Vanaheim",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_buil_zone4",
+      "source": "Jotunheim",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_buil_zone5",
+      "source": "Innangard",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_buil_zone6",
+      "source": "Utangard",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_cany_zone1",
+      "source": "East Zone",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_cany_zone2",
+      "source": "West Zone",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_coas_zone1",
+      "source": "Pier",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_lazy_zone1",
+      "source": "Elysium",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_lazy_zone2",
+      "source": "Tartarus",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_lazy_zone3",
+      "source": "Erebus",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_lazy_zone4",
+      "source": "Asphodel",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_lazy_zone5",
+      "source": "Leukos",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_lazy_zone6",
+      "source": "Charon's Berth",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_lost_zone1",
+      "source": "Lower Terrace",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_plan_zone1",
+      "source": "Entrance",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_spli_zone1",
+      "source": "Family Fun Park",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_spli_zone2",
+      "source": "Thrill Park",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_tutw_zone1",
+      "source": "Dry Zone",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_tutw_zone2",
+      "source": "Wet Zone",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_twin_zone1",
+      "source": "East Peak",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_twin_zone2",
+      "source": "West Peak",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "parkzone_vomi_zone1",
+      "source": "Entrance ",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_basematerial",
+      "source": "Base Material",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_brand",
+      "source": "Brand",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_buildingprops",
+      "source": "Building Props",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_coaster_invert",
+      "source": "Restrictions",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_coaster_motion",
+      "source": "Propulsion",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_grid",
+      "source": "Grid",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_material",
+      "source": "Building Material",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_nature",
+      "source": "Nature",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_naturesize",
+      "source": "Nature Size",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_pdlc",
+      "source": "Content Packs",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_property",
+      "source": "Property",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_props",
+      "source": "Prop Type",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_region",
+      "source": "Nature Region",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_ride_age",
+      "source": "Age",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_ride_age_guests",
+      "source": "Guest Age Restrictions",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_ride_motion",
+      "source": "Motion",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_ride_size",
+      "source": "Size",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_scenery",
+      "source": "Prop Sets",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_set",
+      "source": "Building Set",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_size",
+      "source": "Size",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_theme",
+      "source": "Scenery Theme",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_wallheight",
+      "source": "Wall Height",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_wallset",
+      "source": "Wall Set",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "taggroup_walltype",
+      "source": "Wall and Roof Types",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_attractions_counter",
+      "source": "Attractions",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_capacity",
+      "source": "Capacity",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_coaster_counter",
+      "source": "Coasters",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_drinkshop_counter",
+      "source": "Drink Shops",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_flumes_counter",
+      "source": "Flumes",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_foodshop_counter",
+      "source": "Food Shops",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_giftshop_counter",
+      "source": "Souvenir Shops",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_guest_capacity",
+      "source": "Guest Capacity",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_guestservicesshop_counter",
+      "source": "Guest Services",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_ingredientssatisfaction",
+      "source": "Guests satisfied by menu",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_lifeguardpoints_counter",
+      "source": "Life Guard Points",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_luxurysatisfied",
+      "source": "Satisfies guests' Souvenir Need.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_pool_coverage",
+      "source": "Pool Area Coverage",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_power_capacity ",
+      "source": "Power Capacity",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_power_requirement",
+      "source": "Power Required",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_ride_counter",
+      "source": "Rides",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_sceneryscore",
+      "source": "Scenery Score",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_staff_capacity",
+      "source": "Staff Capacity",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_station_counter",
+      "source": "Stations",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_trackedrides_counter",
+      "source": "Tracked Rides",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_transport_counter",
+      "source": "Transport Rides",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_water_capacity",
+      "source": "Water Capacity",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_water_requirement",
+      "source": "Water Required",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "tooltip_waterrides_counter",
+      "source": "Water Rides",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_accountalreadyexists",
+      "source": "This email address is already registered",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_accountalreadylinked",
+      "source": "This Frontier account was previously linked to a different platform account. Please sign in with that account.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_accountalreadylinked_ps",
+      "source": "This Frontier account was previously linked to a different platform account. Please sign in with that account.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_accountalreadylinked_xb",
+      "source": "This Frontier account was previously linked to a different platform account. Please sign in with that account.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_accountlinkfailed",
+      "source": "The account linking process has failed. Please try again later.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_authlinkexists",
+      "source": "An account with these details already exists.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_cancelled",
+      "source": "The process was cancelled before completing.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_displaynamerejected",
+      "source": "The Display Name you entered has been rejected. Use a different Display Name and try again.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_emailsendfailure",
+      "source": "The email sending service is busy. Please try again later.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_externalaccountalreadylinked",
+      "source": "This Frontier account was previously linked to a different platform account. Please either create a new Frontier account, or unlink the other platform account by going to frontierstore.net, “My Account”, then “Third Party Accounts”.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_externalaccountalreadylinked_ps",
+      "source": "This Frontier account was previously linked to a different platform account. Please either create a new Frontier account, or unlink the other platform account by going to frontierstore.net, “My Account”, then “Third Party Accounts”.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_externalaccountalreadylinked_xb",
+      "source": "This Frontier account was previously linked to a different platform account. Please either create a new Frontier account, or unlink the other platform account by going to frontierstore.net, “My Account”, then “Third Party Accounts”.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_insufficientpermission",
+      "source": "You do not have permission to perform this action.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_invalidauth",
+      "source": "We have been unable to authorise your account information. Please check your details and try again later.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_invalidemail",
+      "source": "The email entered was not valid. Please check your email address and try again.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_invalidpassword",
+      "source": "The password entered was not valid. Please check your password and try again.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_nofrontierlink",
+      "source": "No Frontier account has been linked. Please link a Frontier account to continue.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_notacceptedeula",
+      "source": "The game cannot be played unless the EULA is accepted.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_offline",
+      "source": "Cannot connect to the server. Please check your internet connection and try again.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_servicebusy",
+      "source": "This service is currently busy. Please try again later.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_unknownerror",
+      "source": "This process has encountered an error. Please try again later.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortext_useraccountbanned",
+      "source": "This account has been banned, or had its access restricted, and cannot be used.",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_accountalreadyexists",
+      "source": "Account Already Exists",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_accountalreadylinked",
+      "source": "Account Already Linked",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_accountlinkfailed",
+      "source": "Account Linking Failed",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_authlinkexists",
+      "source": "Account Already Exists",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_cancelled",
+      "source": "Cancelled",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_displaynamerejected",
+      "source": "Display Name Rejected",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_emailsendfailure",
+      "source": "Email Send Failure",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_externalaccountalreadylinked",
+      "source": "Frontier Account Already Linked",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_insufficientpermission",
+      "source": "Insufficient Permission",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_invalidauth",
+      "source": "Check Account Details",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_invalidemail",
+      "source": "Invalid Email",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_invalidpassword",
+      "source": "Invalid Password",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_nofrontierlink",
+      "source": "Frontier Account Not Linked",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_notacceptedeula",
+      "source": "EULA",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_offline",
+      "source": "Check Internet Connection",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_servicebusy",
+      "source": "Service Busy",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_unknownerror",
+      "source": "Error",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "keplerrequesterrortitle_useraccountbanned",
+      "source": "Account Restricted",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_mainparkthematic",
+      "source": "Planet Coaster Themed",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_parksize",
+      "source": "Park Size",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_parktype",
+      "source": "Park Type",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_adventureexploration",
+      "source": "Adventure / Exploration",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_beachresort",
+      "source": "Beach Resort",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_beautyscenic",
+      "source": "Scenic",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_coaster",
+      "source": "Coaster",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_extravagant",
+      "source": "Extravagant",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_extremeexperience",
+      "source": "Extreme Experience",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_familythemepark",
+      "source": "Family Theme Park",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_greekmythology",
+      "source": "Mythology Themed",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_large",
+      "source": "Large",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_managementprofitability",
+      "source": "Management / Profitability",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_medium",
+      "source": "Medium",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_ogplanetcoaster",
+      "source": "OG Planet Coaster",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_sciencefiction",
+      "source": "Science Fiction",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_small",
+      "source": "Small",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_thrillrides",
+      "source": "Thrill Rides",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_underwater",
+      "source": "Underwater",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_vikingnorse",
+      "source": "Viking Themed",
+      "context": "",
+      "max_length": null
+    },
+    {
+      "key": "park_tag_value_waterrides",
+      "source": "Water Rides",
+      "context": "",
+      "max_length": null
+    }
+  ]
+}

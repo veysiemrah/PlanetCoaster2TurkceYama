@@ -9,755 +9,755 @@
   "strings": {
     "bard_social_1280x720.webm": {
       "source": "Crescendo Melodis Mascot Video - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Crescendo Melodis Maskot Videosu - Yatay",
+      "status": "translated",
+      "context": "Crescendo Melodis maskot karakterinin sosyal medya videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "bard_social_720x1280.webm": {
       "source": "Crescendo Melodis Mascot Video - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Crescendo Melodis Maskot Videosu - Dikey",
+      "status": "translated",
+      "context": "Crescendo Melodis maskot karakterinin sosyal medya videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "bard_social_720x720.webm": {
       "source": "Crescendo Melodis Mascot Video - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Crescendo Melodis Maskot Videosu - Kare",
+      "status": "translated",
+      "context": "Crescendo Melodis maskot karakterinin sosyal medya videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "bodhi_social_1280x720.webm": {
       "source": "Bodhi Mascot Video - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Bodhi Maskot Videosu - Yatay",
+      "status": "translated",
+      "context": "Bodhi maskot karakterinin sosyal medya videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "bodhi_social_720x1280.webm": {
       "source": "Bodhi Mascot Video - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Bodhi Maskot Videosu - Dikey",
+      "status": "translated",
+      "context": "Bodhi maskot karakterinin sosyal medya videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "bodhi_social_720x720.webm": {
       "source": "Bodhi Mascot Video - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Bodhi Maskot Videosu - Kare",
+      "status": "translated",
+      "context": "Bodhi maskot karakterinin sosyal medya videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "buildingpartname_pc_attachments_dragon_arm_left": {
       "source": "Coaster Attachment - Dragon Arm Left",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hız Treni Aksesuarı - Ejderha Kolu (Sol)",
+      "status": "translated",
+      "context": "Ejderha temalı hız trenine takılan sol kol aksesuarı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_attachments_dragon_arm_right": {
       "source": "Coaster Attachment - Dragon Arm Right",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hız Treni Aksesuarı - Ejderha Kolu (Sağ)",
+      "status": "translated",
+      "context": "Ejderha temalı hız trenine takılan sağ kol aksesuarı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_attachments_dragon_head": {
       "source": "Coaster Attachment - Dragon Head",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hız Treni Aksesuarı - Ejderha Başı",
+      "status": "translated",
+      "context": "Ejderha temalı hız trenine takılan baş aksesuarı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_attachments_dragon_tail": {
       "source": "Coaster Attachment - Dragon Tail",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hız Treni Aksesuarı - Ejderha Kuyruğu",
+      "status": "translated",
+      "context": "Ejderha temalı hız trenine takılan kuyruk aksesuarı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_attachments_falcon": {
       "source": "Coaster Attachment - Falcon",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hız Treni Aksesuarı - Şahin",
+      "status": "translated",
+      "context": "Black Falcon hız trenine takılan şahin figürü aksesuarı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_attachments_falcon_wing_left": {
       "source": "Coaster Attachment - Falcon Wing Left",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hız Treni Aksesuarı - Şahin Kanadı (Sol)",
+      "status": "translated",
+      "context": "Black Falcon hız trenine takılan sol kanat aksesuarı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "buildingpartname_pc_attachments_falcon_wing_right": {
       "source": "Coaster Attachment - Falcon Wing Right",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hız Treni Aksesuarı - Şahin Kanadı (Sağ)",
+      "status": "translated",
+      "context": "Black Falcon hız trenine takılan sağ kanat aksesuarı.",
       "max_length": null,
-      "category": ""
+      "category": "building_part_names"
     },
     "chief_beef_social_1280x720.webm": {
       "source": "Chief Beef Mascot Video - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Chief Beef Maskot Videosu - Yatay",
+      "status": "translated",
+      "context": "Chief Beef marka maskotunun sosyal medya videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "chief_beef_social_720x1280.webm": {
       "source": "Chief Beef Mascot Video - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Chief Beef Maskot Videosu - Dikey",
+      "status": "translated",
+      "context": "Chief Beef marka maskotunun sosyal medya videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "chief_beef_social_720x720.webm": {
       "source": "Chief Beef Mascot Video - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Chief Beef Maskot Videosu - Kare",
+      "status": "translated",
+      "context": "Chief Beef marka maskotunun sosyal medya videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "chiefbeef_advert_1280x720.webm": {
       "source": "Chief Beef Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Chief Beef Reklamı - Yatay",
+      "status": "translated",
+      "context": "Chief Beef marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "chiefbeef_advert_720x1280.webm": {
       "source": "Chief Beef Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Chief Beef Reklamı - Dikey",
+      "status": "translated",
+      "context": "Chief Beef marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "chiefbeef_advert_720x720.webm": {
       "source": "Chief Beef Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Chief Beef Reklamı - Kare",
+      "status": "translated",
+      "context": "Chief Beef marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "coaster_cc_blackfalconstock": {
       "source": "Wing - Chain Lift (Standard)",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Kanat - Zincir Kaldırmalı (Standart)",
+      "status": "translated",
+      "context": "Black Falcon wing coaster model adı. Kanat tipi, zincirle kaldırmalı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_cc_blackfalconstock_desc": {
       "source": "A chain-lift coaster that positions riders either side of the track, with nothing above or below them, giving an unparalleled sense of freedom.",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sürücüleri rayın her iki yanına yerleştiren bu zincir kaldırmalı hız treninde üstünde ya da altında hiçbir şey yok — sadece eşsiz bir özgürlük hissi.",
+      "status": "translated",
+      "context": "Black Falcon Wing Coaster açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "coaster_cc_dragonstock": {
       "source": "Junior (Standard)",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Küçük Çocuk (Standart)",
+      "status": "translated",
+      "context": "Dragon Junior Coaster model adı. Junior = küçük çocuklara uygun.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_cc_dragonstock_desc": {
       "source": "A thrilling coaster that's fun for all the family!",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Heyecan dolu, tüm aile için eğlenceli bir hız treni!",
+      "status": "translated",
+      "context": "Dragon Junior Coaster açıklaması.",
       "max_length": null,
-      "category": ""
+      "category": "descriptions"
     },
     "coaster_type_cc_blackfalconstock": {
       "source": "Wing - Chain Lift (Standard)",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Kanat - Zincir Kaldırmalı (Standart)",
+      "status": "translated",
+      "context": "Tip adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "coaster_type_cc_dragonstock": {
       "source": "Junior (Standard)",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Küçük Çocuk (Standart)",
+      "status": "translated",
+      "context": "Tip adı.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "customtexture": {
       "source": "{TEX}",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "{TEX}",
+      "status": "translated",
+      "context": "Özel doku placeholder'ı — {TEX} korunur, çevrilmez.",
       "max_length": null,
-      "category": ""
+      "category": "internal"
     },
     "diver_social_1280x720.webm": {
       "source": "Sandy Reef Mascot Video - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sandy Reef Maskot Videosu - Yatay",
+      "status": "translated",
+      "context": "Sandy Reef maskot karakterinin sosyal medya videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "diver_social_720x1280.webm": {
       "source": "Sandy Reef Mascot Video - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sandy Reef Maskot Videosu - Dikey",
+      "status": "translated",
+      "context": "Sandy Reef maskot karakterinin sosyal medya videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "diver_social_720x720.webm": {
       "source": "Sandy Reef Mascot Video - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Sandy Reef Maskot Videosu - Kare",
+      "status": "translated",
+      "context": "Sandy Reef maskot karakterinin sosyal medya videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "gelato_bros_advert_1280x720.webm": {
       "source": "Gelato Bros Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Gelato Bros Reklamı - Yatay",
+      "status": "translated",
+      "context": "Gelato Bros marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "gelato_bros_advert_720x1280.webm": {
       "source": "Gelato Bros Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Gelato Bros Reklamı - Dikey",
+      "status": "translated",
+      "context": "Gelato Bros marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "gelato_bros_advert_720x720.webm": {
       "source": "Gelato Bros Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Gelato Bros Reklamı - Kare",
+      "status": "translated",
+      "context": "Gelato Bros marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "gulpee_social_1280x720.webm": {
       "source": "Gulpee Mascot Video - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Gulpee Maskot Videosu - Yatay",
+      "status": "translated",
+      "context": "Gulpee maskot karakterinin sosyal medya videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "gulpee_social_720x1280.webm": {
       "source": "Gulpee Mascot Video - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Gulpee Maskot Videosu - Dikey",
+      "status": "translated",
+      "context": "Gulpee maskot karakterinin sosyal medya videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "gulpee_social_720x720.webm": {
       "source": "Gulpee Mascot Video - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Gulpee Maskot Videosu - Kare",
+      "status": "translated",
+      "context": "Gulpee maskot karakterinin sosyal medya videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "hats_fantastic_advert_1280x720.webm": {
       "source": "Hat's Fantastic Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hat's Fantastic Reklamı - Yatay",
+      "status": "translated",
+      "context": "Hat's Fantastic marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "hats_fantastic_advert_720x1280.webm": {
       "source": "Hat's Fantastic Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hat's Fantastic Reklamı - Dikey",
+      "status": "translated",
+      "context": "Hat's Fantastic marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "hats_fantastic_advert_720x720.webm": {
       "source": "Hat's Fantastic Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hat's Fantastic Reklamı - Kare",
+      "status": "translated",
+      "context": "Hat's Fantastic marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "hayo sushi_advert_1280x720.webm": {
       "source": "Haya Sushi Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Haya Sushi Reklamı - Yatay",
+      "status": "translated",
+      "context": "Haya Sushi marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "hayo sushi_advert_720x1280.webm": {
       "source": "Haya Sushi Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Haya Sushi Reklamı - Dikey",
+      "status": "translated",
+      "context": "Haya Sushi marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "hayo sushi_advert_720x720.webm": {
       "source": "Haya Sushi Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Haya Sushi Reklamı - Kare",
+      "status": "translated",
+      "context": "Haya Sushi marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "hotd0gsquad_advert_1280x720.webm": {
       "source": "Hot Dog Squad Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hot Dog Squad Reklamı - Yatay",
+      "status": "translated",
+      "context": "Hot Dog Squad marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "hotd0gsquad_advert_720x1280.webm": {
       "source": "Hot Dog Squad Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hot Dog Squad Reklamı - Dikey",
+      "status": "translated",
+      "context": "Hot Dog Squad marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "hotd0gsquad_advert_720x720.webm": {
       "source": "Hot Dog Squad Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Hot Dog Squad Reklamı - Kare",
+      "status": "translated",
+      "context": "Hot Dog Squad marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "just_a_momento_advert_1280x720.webm": {
       "source": "Just A Momento Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Just A Momento Reklamı - Yatay",
+      "status": "translated",
+      "context": "Just A Momento marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "just_a_momento_advert_720x1280.webm": {
       "source": "Just A Momento Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Just A Momento Reklamı - Dikey",
+      "status": "translated",
+      "context": "Just A Momento marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "just_a_momento_advert_720x720.webm": {
       "source": "Just A Momento Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Just A Momento Reklamı - Kare",
+      "status": "translated",
+      "context": "Just A Momento marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "kingcoaster_social_1280x720.webm": {
       "source": "King Coaster Mascot Video - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "King Coaster Maskot Videosu - Yatay",
+      "status": "translated",
+      "context": "King Coaster maskot karakterinin sosyal medya videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "kingcoaster_social_720x1280.webm": {
       "source": "King Coaster Mascot Video - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "King Coaster Maskot Videosu - Dikey",
+      "status": "translated",
+      "context": "King Coaster maskot karakterinin sosyal medya videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "kingcoaster_social_720x720.webm": {
       "source": "King Coaster Mascot Video - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "King Coaster Maskot Videosu - Kare",
+      "status": "translated",
+      "context": "King Coaster maskot karakterinin sosyal medya videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "latte love_advert_1280x720.webm": {
       "source": "Latte Love Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Latte Love Reklamı - Yatay",
+      "status": "translated",
+      "context": "Latte Love marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "latte love_advert_720x1280.webm": {
       "source": "Latte Love Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Latte Love Reklamı - Dikey",
+      "status": "translated",
+      "context": "Latte Love marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "latte love_advert_720x720.webm": {
       "source": "Latte Love Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Latte Love Reklamı - Kare",
+      "status": "translated",
+      "context": "Latte Love marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "pizzapen_advert_1280x720.webm": {
       "source": "Pizza Pen Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Pizza Pen Reklamı - Yatay",
+      "status": "translated",
+      "context": "Pizza Pen marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "pizzapen_advert_720x1280.webm": {
       "source": "Pizza Pen Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Pizza Pen Reklamı - Dikey",
+      "status": "translated",
+      "context": "Pizza Pen marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "pizzapen_advert_720x720.webm": {
       "source": "Pizza Pen Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Pizza Pen Reklamı - Kare",
+      "status": "translated",
+      "context": "Pizza Pen marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "queen splash emporium_1280x720.webm": {
       "source": "Splash Emporium Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Splash Emporium Reklamı - Yatay",
+      "status": "translated",
+      "context": "Splash Emporium marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "queen splash emporium_720x1280.webm": {
       "source": "Splash Emporium Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Splash Emporium Reklamı - Dikey",
+      "status": "translated",
+      "context": "Splash Emporium marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "queen splash emporium_720x720.webm": {
       "source": "Splash Emporium Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Splash Emporium Reklamı - Kare",
+      "status": "translated",
+      "context": "Splash Emporium marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "queen_splash_social_1280x720.webm": {
       "source": "Queen Splash Mascot Video - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Queen Splash Maskot Videosu - Yatay",
+      "status": "translated",
+      "context": "Queen Splash maskot karakterinin sosyal medya videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "queen_splash_social_720x1280.webm": {
       "source": "Queen Splash Mascot Video - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Queen Splash Maskot Videosu - Dikey",
+      "status": "translated",
+      "context": "Queen Splash maskot karakterinin sosyal medya videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "queen_splash_social_720x720.webm": {
       "source": "Queen Splash Mascot Video - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Queen Splash Maskot Videosu - Kare",
+      "status": "translated",
+      "context": "Queen Splash maskot karakterinin sosyal medya videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "saguaro_guitaro_social_1280x720.webm": {
       "source": "Saguaro Guitaro Mascot Video - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Saguaro Guitaro Maskot Videosu - Yatay",
+      "status": "translated",
+      "context": "Saguaro Guitaro maskot karakterinin sosyal medya videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "saguaro_guitaro_social_720x1280.webm": {
       "source": "Saguaro Guitaro Mascot Video - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Saguaro Guitaro Maskot Videosu - Dikey",
+      "status": "translated",
+      "context": "Saguaro Guitaro maskot karakterinin sosyal medya videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "saguaro_guitaro_social_720x720.webm": {
       "source": "Saguaro Guitaro Mascot Video - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Saguaro Guitaro Maskot Videosu - Kare",
+      "status": "translated",
+      "context": "Saguaro Guitaro maskot karakterinin sosyal medya videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "sequence_fr_pathosiii_spinmid": {
       "source": "Mid Spin",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Orta Dönüş",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için orta dönüş sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_spinmidflip": {
       "source": "Mid Spin Flip",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Orta Dönüş + Takla",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için orta dönüş + takla sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_spinmidflipreverse": {
       "source": "Mid Spin Flip Reverse",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Orta Dönüş + Takla (Ters)",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için ters orta dönüş + takla sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_spinmidreverse": {
       "source": "Mid Spin Reverse",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Orta Dönüş (Ters)",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için ters orta dönüş sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_spintop": {
       "source": "Top Spin",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Üst Dönüş",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için üst dönüş sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_spintopreverse": {
       "source": "Top Spin Reverse",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Üst Dönüş (Ters)",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için ters üst dönüş sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_spintopturn": {
       "source": "Top Spin Turn",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Üst Dönüş + Çevirme",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için üst dönüş + çevirme sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_spintopturnflip": {
       "source": "Top Spin Turn Flip",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Üst Dönüş + Çevirme + Takla",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için üst dönüş + çevirme + takla sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_spintopturnflipreverse": {
       "source": "Top Spin Turn Flip Reverse",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Üst Dönüş + Çevirme + Takla (Ters)",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için ters üst dönüş + çevirme + takla sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_spintopturnreverse": {
       "source": "Top Spin Turn Reverse",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Üst Dönüş + Çevirme (Ters)",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için ters üst dönüş + çevirme sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_topflip": {
       "source": "Top Flip",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Üst Takla",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için üst takla sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_topflipreverse": {
       "source": "Top Flip Reverse",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Üst Takla (Ters)",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için ters üst takla sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_topturn": {
       "source": "Top Turn",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Üst Çevirme",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için üst çevirme sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_topturnflip": {
       "source": "Top Turn Flip",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Üst Çevirme + Takla",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için üst çevirme + takla sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "sequence_fr_pathosiii_topturnflipreverse": {
       "source": "Top Turn Flip Reverse",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Üst Çevirme + Takla (Ters)",
+      "status": "translated",
+      "context": "Pathos III flat ride'ı için ters üst çevirme + takla sekansı adı.",
       "max_length": null,
-      "category": ""
+      "category": "sequence_names"
     },
     "slush_hour_advert_1280x720.webm": {
       "source": "Slush Hour Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Slush Hour Reklamı - Yatay",
+      "status": "translated",
+      "context": "Slush Hour marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "slush_hour_advert_720x1280.webm": {
       "source": "Slush Hour Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Slush Hour Reklamı - Dikey",
+      "status": "translated",
+      "context": "Slush Hour marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "slush_hour_advert_720x720.webm": {
       "source": "Slush Hour Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Slush Hour Reklamı - Kare",
+      "status": "translated",
+      "context": "Slush Hour marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "soda lightful_advert_1280x720.webm": {
       "source": "Soda Lightful Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Soda Lightful Reklamı - Yatay",
+      "status": "translated",
+      "context": "Soda Lightful marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "soda lightful_advert_720x1280.webm": {
       "source": "Soda Lightful Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Soda Lightful Reklamı - Dikey",
+      "status": "translated",
+      "context": "Soda Lightful marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "soda lightful_advert_720x720.webm": {
       "source": "Soda Lightful Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Soda Lightful Reklamı - Kare",
+      "status": "translated",
+      "context": "Soda Lightful marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "train_cc_blackfalconstock": {
       "source": "Valais & Nidwalden <b>Wing - Chain Lift (Standard)</b>",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Valais & Nidwalden <b>Kanat - Zincir Kaldırmalı (Standart)</b>",
+      "status": "translated",
+      "context": "Tren model adı — 'Valais & Nidwalden' marka adı korunur, HTML <b> tag'i korunur.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "train_cc_dragonstock": {
       "source": "Zephyr <b>Junior Coaster (Standard)</b>",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Zephyr <b>Küçük Çocuk Hız Treni (Standart)</b>",
+      "status": "translated",
+      "context": "Tren model adı — 'Zephyr' marka adı korunur, HTML <b> tag'i korunur.",
       "max_length": null,
-      "category": ""
+      "category": "ride_type_names"
     },
     "viking_social_1280x720.webm": {
       "source": "Viking Mascot Video - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Viking Maskot Videosu - Yatay",
+      "status": "translated",
+      "context": "Viking maskot karakterinin sosyal medya videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "viking_social_720x1280.webm": {
       "source": "Viking Mascot Video - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Viking Maskot Videosu - Dikey",
+      "status": "translated",
+      "context": "Viking maskot karakterinin sosyal medya videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "viking_social_720x720.webm": {
       "source": "Viking Mascot Video - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Viking Maskot Videosu - Kare",
+      "status": "translated",
+      "context": "Viking maskot karakterinin sosyal medya videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "viva la vegan_advert_1280x720.webm": {
       "source": "Viva La Vegan Advert - Landscape",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Viva La Vegan Reklamı - Yatay",
+      "status": "translated",
+      "context": "Viva La Vegan marka reklam videosu — yatay format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "viva la vegan_advert_720x1280.webm": {
       "source": "Viva La Vegan Advert - Portrait",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Viva La Vegan Reklamı - Dikey",
+      "status": "translated",
+      "context": "Viva La Vegan marka reklam videosu — dikey format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     },
     "viva la vegan_advert_720x720.webm": {
       "source": "Viva La Vegan Advert - Square",
-      "translation": "",
-      "status": "untranslated",
-      "context": "",
+      "translation": "Viva La Vegan Reklamı - Kare",
+      "status": "translated",
+      "context": "Viva La Vegan marka reklam videosu — kare format.",
       "max_length": null,
-      "category": ""
+      "category": "video_titles"
     }
   }
 }

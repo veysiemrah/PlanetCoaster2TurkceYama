@@ -1,0 +1,640 @@
+{
+  "items": [
+    {
+      "key": "triggeredsfx_alarms_heading",
+      "translation": "Alarmlar"
+    },
+    {
+      "key": "triggeredsfx_announcement_heading",
+      "translation": "Duyurular"
+    },
+    {
+      "key": "triggeredsfx_aquatic_heading",
+      "translation": "Sucul"
+    },
+    {
+      "key": "triggeredsfx_creatures_heading",
+      "translation": "Yaratıklar"
+    },
+    {
+      "key": "triggeredsfx_electronic_heading",
+      "translation": "Elektronik"
+    },
+    {
+      "key": "triggeredsfx_fairytale_heading",
+      "translation": "Masal"
+    },
+    {
+      "key": "triggeredsfx_greekmythos_heading",
+      "translation": "Mitoloji"
+    },
+    {
+      "key": "triggeredsfx_human_heading",
+      "translation": "İnsan"
+    },
+    {
+      "key": "triggeredsfx_legacy_heading",
+      "translation": "Eski"
+    },
+    {
+      "key": "triggeredsfx_mechanical_heading",
+      "translation": "Mekanik"
+    },
+    {
+      "key": "triggeredsfx_miscellaneous_heading",
+      "translation": "Çeşitli"
+    },
+    {
+      "key": "triggeredsfx_musical_heading",
+      "translation": "Müzikal"
+    },
+    {
+      "key": "triggeredsfx_nature_heading",
+      "translation": "Doğa"
+    },
+    {
+      "key": "triggeredsfx_orchestral_heading",
+      "translation": "Orkestra"
+    },
+    {
+      "key": "triggeredsfx_pirate_heading",
+      "translation": "Korsan"
+    },
+    {
+      "key": "triggeredsfx_pop_heading",
+      "translation": "Pop"
+    },
+    {
+      "key": "triggeredsfx_resort_heading",
+      "translation": "Resort"
+    },
+    {
+      "key": "triggeredsfx_rock_metal_heading",
+      "translation": "Rock/Metal"
+    },
+    {
+      "key": "triggeredsfx_scifi_heading",
+      "translation": "Bilim Kurgu"
+    },
+    {
+      "key": "triggeredsfx_sorcery_heading",
+      "translation": "Büyücülük"
+    },
+    {
+      "key": "triggeredsfx_toybox_heading",
+      "translation": "Toybox"
+    },
+    {
+      "key": "triggeredsfx_vanilla_heading",
+      "translation": "Planet Coaster"
+    },
+    {
+      "key": "triggeredsfx_viking_heading",
+      "translation": "Viking"
+    },
+    {
+      "key": "triggeredsfx_western_heading",
+      "translation": "Batı"
+    },
+    {
+      "key": "triggeredsfx_whoosh_heading",
+      "translation": "Vınlama"
+    },
+    {
+      "key": "triggeredsfx_world_heading",
+      "translation": "Dünya"
+    },
+    {
+      "key": "parkzone_buil_zone1",
+      "translation": "Asgard"
+    },
+    {
+      "key": "parkzone_buil_zone2",
+      "translation": "Midgard"
+    },
+    {
+      "key": "parkzone_buil_zone3",
+      "translation": "Vanaheim"
+    },
+    {
+      "key": "parkzone_buil_zone4",
+      "translation": "Jotunheim"
+    },
+    {
+      "key": "parkzone_buil_zone5",
+      "translation": "Innangard"
+    },
+    {
+      "key": "parkzone_buil_zone6",
+      "translation": "Utangard"
+    },
+    {
+      "key": "parkzone_cany_zone1",
+      "translation": "Doğu Bölge"
+    },
+    {
+      "key": "parkzone_cany_zone2",
+      "translation": "Batı Bölge"
+    },
+    {
+      "key": "parkzone_coas_zone1",
+      "translation": "İskele"
+    },
+    {
+      "key": "parkzone_lazy_zone1",
+      "translation": "Elysium"
+    },
+    {
+      "key": "parkzone_lazy_zone2",
+      "translation": "Tartarus"
+    },
+    {
+      "key": "parkzone_lazy_zone3",
+      "translation": "Erebus"
+    },
+    {
+      "key": "parkzone_lazy_zone4",
+      "translation": "Asphodel"
+    },
+    {
+      "key": "parkzone_lazy_zone5",
+      "translation": "Leukos"
+    },
+    {
+      "key": "parkzone_lazy_zone6",
+      "translation": "Charon'un İskelesi"
+    },
+    {
+      "key": "parkzone_lost_zone1",
+      "translation": "Alt Teras"
+    },
+    {
+      "key": "parkzone_plan_zone1",
+      "translation": "Giriş"
+    },
+    {
+      "key": "parkzone_spli_zone1",
+      "translation": "Aile Eğlence Parkı"
+    },
+    {
+      "key": "parkzone_spli_zone2",
+      "translation": "Heyecan Parkı"
+    },
+    {
+      "key": "parkzone_tutw_zone1",
+      "translation": "Kuru Bölge"
+    },
+    {
+      "key": "parkzone_tutw_zone2",
+      "translation": "Islak Bölge"
+    },
+    {
+      "key": "parkzone_twin_zone1",
+      "translation": "Doğu Zirve"
+    },
+    {
+      "key": "parkzone_twin_zone2",
+      "translation": "Batı Zirve"
+    },
+    {
+      "key": "parkzone_vomi_zone1",
+      "translation": "Giriş "
+    },
+    {
+      "key": "taggroup_basematerial",
+      "translation": "Temel Malzeme"
+    },
+    {
+      "key": "taggroup_brand",
+      "translation": "Marka"
+    },
+    {
+      "key": "taggroup_buildingprops",
+      "translation": "Bina Aksesuarları"
+    },
+    {
+      "key": "taggroup_coaster_invert",
+      "translation": "Kısıtlamalar"
+    },
+    {
+      "key": "taggroup_coaster_motion",
+      "translation": "Tahrik"
+    },
+    {
+      "key": "taggroup_grid",
+      "translation": "Izgara"
+    },
+    {
+      "key": "taggroup_material",
+      "translation": "Yapı Malzemesi"
+    },
+    {
+      "key": "taggroup_nature",
+      "translation": "Doğa"
+    },
+    {
+      "key": "taggroup_naturesize",
+      "translation": "Doğa Boyutu"
+    },
+    {
+      "key": "taggroup_pdlc",
+      "translation": "İçerik Paketleri"
+    },
+    {
+      "key": "taggroup_property",
+      "translation": "Özellik"
+    },
+    {
+      "key": "taggroup_props",
+      "translation": "Aksesuar Türü"
+    },
+    {
+      "key": "taggroup_region",
+      "translation": "Doğa Bölgesi"
+    },
+    {
+      "key": "taggroup_ride_age",
+      "translation": "Yaş"
+    },
+    {
+      "key": "taggroup_ride_age_guests",
+      "translation": "Ziyaretçi Yaş Kısıtlamaları"
+    },
+    {
+      "key": "taggroup_ride_motion",
+      "translation": "Hareket"
+    },
+    {
+      "key": "taggroup_ride_size",
+      "translation": "Boyut"
+    },
+    {
+      "key": "taggroup_scenery",
+      "translation": "Aksesuar Setleri"
+    },
+    {
+      "key": "taggroup_set",
+      "translation": "Yapı Seti"
+    },
+    {
+      "key": "taggroup_size",
+      "translation": "Boyut"
+    },
+    {
+      "key": "taggroup_theme",
+      "translation": "Dekorasyon Teması"
+    },
+    {
+      "key": "taggroup_wallheight",
+      "translation": "Duvar Yüksekliği"
+    },
+    {
+      "key": "taggroup_wallset",
+      "translation": "Duvar Seti"
+    },
+    {
+      "key": "taggroup_walltype",
+      "translation": "Duvar ve Çatı Türleri"
+    },
+    {
+      "key": "tooltip_attractions_counter",
+      "translation": "Aktiviteler"
+    },
+    {
+      "key": "tooltip_capacity",
+      "translation": "Kapasite"
+    },
+    {
+      "key": "tooltip_coaster_counter",
+      "translation": "Hız Trenleri"
+    },
+    {
+      "key": "tooltip_drinkshop_counter",
+      "translation": "İçecek Dükkanları"
+    },
+    {
+      "key": "tooltip_flumes_counter",
+      "translation": "Kanal Kaydırakları"
+    },
+    {
+      "key": "tooltip_foodshop_counter",
+      "translation": "Yemek Dükkanları"
+    },
+    {
+      "key": "tooltip_giftshop_counter",
+      "translation": "Hediyelik Dükkanları"
+    },
+    {
+      "key": "tooltip_guest_capacity",
+      "translation": "Ziyaretçi Kapasitesi"
+    },
+    {
+      "key": "tooltip_guestservicesshop_counter",
+      "translation": "Ziyaretçi Hizmetleri"
+    },
+    {
+      "key": "tooltip_ingredientssatisfaction",
+      "translation": "Menüden memnun ziyaretçiler"
+    },
+    {
+      "key": "tooltip_lifeguardpoints_counter",
+      "translation": "Cankurtaran Noktaları"
+    },
+    {
+      "key": "tooltip_luxurysatisfied",
+      "translation": "Ziyaretçilerin hediyelik ihtiyacını karşılar."
+    },
+    {
+      "key": "tooltip_pool_coverage",
+      "translation": "Havuz Alanı Kapsamı"
+    },
+    {
+      "key": "tooltip_power_capacity ",
+      "translation": "Güç Kapasitesi"
+    },
+    {
+      "key": "tooltip_power_requirement",
+      "translation": "Gereken Güç"
+    },
+    {
+      "key": "tooltip_ride_counter",
+      "translation": "Eğlence Birimleri"
+    },
+    {
+      "key": "tooltip_sceneryscore",
+      "translation": "Dekorasyon Puanı"
+    },
+    {
+      "key": "tooltip_staff_capacity",
+      "translation": "Personel Kapasitesi"
+    },
+    {
+      "key": "tooltip_station_counter",
+      "translation": "İstasyonlar"
+    },
+    {
+      "key": "tooltip_trackedrides_counter",
+      "translation": "Raylı Eğlence Birimleri"
+    },
+    {
+      "key": "tooltip_transport_counter",
+      "translation": "Ulaşım Birimleri"
+    },
+    {
+      "key": "tooltip_water_capacity",
+      "translation": "Su Kapasitesi"
+    },
+    {
+      "key": "tooltip_water_requirement",
+      "translation": "Gereken Su"
+    },
+    {
+      "key": "tooltip_waterrides_counter",
+      "translation": "Su Eğlence Birimleri"
+    },
+    {
+      "key": "keplerrequesterrortext_accountalreadyexists",
+      "translation": "Bu e-posta adresi zaten kayıtlı"
+    },
+    {
+      "key": "keplerrequesterrortext_accountalreadylinked",
+      "translation": "Bu Frontier hesabı daha önce farklı bir platform hesabına bağlanmış. Lütfen o hesapla giriş yap."
+    },
+    {
+      "key": "keplerrequesterrortext_accountalreadylinked_ps",
+      "translation": "Bu Frontier hesabı daha önce farklı bir platform hesabına bağlanmış. Lütfen o hesapla giriş yap."
+    },
+    {
+      "key": "keplerrequesterrortext_accountalreadylinked_xb",
+      "translation": "Bu Frontier hesabı daha önce farklı bir platform hesabına bağlanmış. Lütfen o hesapla giriş yap."
+    },
+    {
+      "key": "keplerrequesterrortext_accountlinkfailed",
+      "translation": "Hesap bağlama işlemi başarısız oldu. Lütfen daha sonra tekrar dene."
+    },
+    {
+      "key": "keplerrequesterrortext_authlinkexists",
+      "translation": "Bu bilgilere sahip bir hesap zaten var."
+    },
+    {
+      "key": "keplerrequesterrortext_cancelled",
+      "translation": "İşlem tamamlanmadan iptal edildi."
+    },
+    {
+      "key": "keplerrequesterrortext_displaynamerejected",
+      "translation": "Girdiğin Görünen Ad reddedildi. Farklı bir Görünen Ad kullanıp tekrar dene."
+    },
+    {
+      "key": "keplerrequesterrortext_emailsendfailure",
+      "translation": "E-posta gönderim servisi şu anda meşgul. Lütfen daha sonra tekrar dene."
+    },
+    {
+      "key": "keplerrequesterrortext_externalaccountalreadylinked",
+      "translation": "Bu Frontier hesabı daha önce farklı bir platform hesabına bağlanmış. Lütfen ya yeni bir Frontier hesabı oluştur ya da frontierstore.net adresindeki \"My Account\" → \"Third Party Accounts\" bölümünden diğer platform hesabının bağlantısını kaldır."
+    },
+    {
+      "key": "keplerrequesterrortext_externalaccountalreadylinked_ps",
+      "translation": "Bu Frontier hesabı daha önce farklı bir platform hesabına bağlanmış. Lütfen ya yeni bir Frontier hesabı oluştur ya da frontierstore.net adresindeki \"My Account\" → \"Third Party Accounts\" bölümünden diğer platform hesabının bağlantısını kaldır."
+    },
+    {
+      "key": "keplerrequesterrortext_externalaccountalreadylinked_xb",
+      "translation": "Bu Frontier hesabı daha önce farklı bir platform hesabına bağlanmış. Lütfen ya yeni bir Frontier hesabı oluştur ya da frontierstore.net adresindeki \"My Account\" → \"Third Party Accounts\" bölümünden diğer platform hesabının bağlantısını kaldır."
+    },
+    {
+      "key": "keplerrequesterrortext_insufficientpermission",
+      "translation": "Bu işlemi gerçekleştirmek için yetkin yok."
+    },
+    {
+      "key": "keplerrequesterrortext_invalidauth",
+      "translation": "Hesap bilgilerin doğrulanamadı. Lütfen bilgilerini kontrol edip daha sonra tekrar dene."
+    },
+    {
+      "key": "keplerrequesterrortext_invalidemail",
+      "translation": "Girilen e-posta geçersiz. Lütfen e-posta adresini kontrol edip tekrar dene."
+    },
+    {
+      "key": "keplerrequesterrortext_invalidpassword",
+      "translation": "Girilen parola geçersiz. Lütfen parolanı kontrol edip tekrar dene."
+    },
+    {
+      "key": "keplerrequesterrortext_nofrontierlink",
+      "translation": "Bağlı bir Frontier hesabı yok. Devam etmek için bir Frontier hesabı bağla."
+    },
+    {
+      "key": "keplerrequesterrortext_notacceptedeula",
+      "translation": "EULA kabul edilmedikçe oyun oynanamaz."
+    },
+    {
+      "key": "keplerrequesterrortext_offline",
+      "translation": "Sunucuya bağlanılamadı. Lütfen internet bağlantını kontrol edip tekrar dene."
+    },
+    {
+      "key": "keplerrequesterrortext_servicebusy",
+      "translation": "Bu servis şu anda meşgul. Lütfen daha sonra tekrar dene."
+    },
+    {
+      "key": "keplerrequesterrortext_unknownerror",
+      "translation": "İşlem sırasında bir hata oluştu. Lütfen daha sonra tekrar dene."
+    },
+    {
+      "key": "keplerrequesterrortext_useraccountbanned",
+      "translation": "Bu hesap yasaklanmış ya da erişimi kısıtlanmış; kullanılamaz."
+    },
+    {
+      "key": "keplerrequesterrortitle_accountalreadyexists",
+      "translation": "Hesap Zaten Var"
+    },
+    {
+      "key": "keplerrequesterrortitle_accountalreadylinked",
+      "translation": "Hesap Zaten Bağlı"
+    },
+    {
+      "key": "keplerrequesterrortitle_accountlinkfailed",
+      "translation": "Hesap Bağlanamadı"
+    },
+    {
+      "key": "keplerrequesterrortitle_authlinkexists",
+      "translation": "Hesap Zaten Var"
+    },
+    {
+      "key": "keplerrequesterrortitle_cancelled",
+      "translation": "İptal Edildi"
+    },
+    {
+      "key": "keplerrequesterrortitle_displaynamerejected",
+      "translation": "Görünen Ad Reddedildi"
+    },
+    {
+      "key": "keplerrequesterrortitle_emailsendfailure",
+      "translation": "E-posta Gönderilemedi"
+    },
+    {
+      "key": "keplerrequesterrortitle_externalaccountalreadylinked",
+      "translation": "Frontier Hesabı Zaten Bağlı"
+    },
+    {
+      "key": "keplerrequesterrortitle_insufficientpermission",
+      "translation": "Yetersiz İzin"
+    },
+    {
+      "key": "keplerrequesterrortitle_invalidauth",
+      "translation": "Hesap Bilgilerini Kontrol Et"
+    },
+    {
+      "key": "keplerrequesterrortitle_invalidemail",
+      "translation": "Geçersiz E-posta"
+    },
+    {
+      "key": "keplerrequesterrortitle_invalidpassword",
+      "translation": "Geçersiz Parola"
+    },
+    {
+      "key": "keplerrequesterrortitle_nofrontierlink",
+      "translation": "Frontier Hesabı Bağlı Değil"
+    },
+    {
+      "key": "keplerrequesterrortitle_notacceptedeula",
+      "translation": "EULA"
+    },
+    {
+      "key": "keplerrequesterrortitle_offline",
+      "translation": "İnternet Bağlantısını Kontrol Et"
+    },
+    {
+      "key": "keplerrequesterrortitle_servicebusy",
+      "translation": "Servis Meşgul"
+    },
+    {
+      "key": "keplerrequesterrortitle_unknownerror",
+      "translation": "Hata"
+    },
+    {
+      "key": "keplerrequesterrortitle_useraccountbanned",
+      "translation": "Hesap Kısıtlandı"
+    },
+    {
+      "key": "park_tag_mainparkthematic",
+      "translation": "Planet Coaster Temalı"
+    },
+    {
+      "key": "park_tag_parksize",
+      "translation": "Park Boyutu"
+    },
+    {
+      "key": "park_tag_parktype",
+      "translation": "Park Türü"
+    },
+    {
+      "key": "park_tag_value_adventureexploration",
+      "translation": "Macera / Keşif"
+    },
+    {
+      "key": "park_tag_value_beachresort",
+      "translation": "Sahil Resort"
+    },
+    {
+      "key": "park_tag_value_beautyscenic",
+      "translation": "Manzaralı"
+    },
+    {
+      "key": "park_tag_value_coaster",
+      "translation": "Hız Treni"
+    },
+    {
+      "key": "park_tag_value_extravagant",
+      "translation": "Gösterişli"
+    },
+    {
+      "key": "park_tag_value_extremeexperience",
+      "translation": "Uç Deneyim"
+    },
+    {
+      "key": "park_tag_value_familythemepark",
+      "translation": "Aile Tema Parkı"
+    },
+    {
+      "key": "park_tag_value_greekmythology",
+      "translation": "Mitoloji Temalı"
+    },
+    {
+      "key": "park_tag_value_large",
+      "translation": "Büyük"
+    },
+    {
+      "key": "park_tag_value_managementprofitability",
+      "translation": "Yönetim / Kârlılık"
+    },
+    {
+      "key": "park_tag_value_medium",
+      "translation": "Orta"
+    },
+    {
+      "key": "park_tag_value_ogplanetcoaster",
+      "translation": "OG Planet Coaster"
+    },
+    {
+      "key": "park_tag_value_sciencefiction",
+      "translation": "Bilim Kurgu"
+    },
+    {
+      "key": "park_tag_value_small",
+      "translation": "Küçük"
+    },
+    {
+      "key": "park_tag_value_thrillrides",
+      "translation": "Heyecan Eğlence Birimleri"
+    },
+    {
+      "key": "park_tag_value_underwater",
+      "translation": "Sualtı"
+    },
+    {
+      "key": "park_tag_value_vikingnorse",
+      "translation": "Viking Temalı"
+    },
+    {
+      "key": "park_tag_value_waterrides",
+      "translation": "Su Eğlence Birimleri"
+    }
+  ]
+}
