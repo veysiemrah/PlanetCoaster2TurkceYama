@@ -124,7 +124,7 @@
   "notification_poolinaccessible": "{Name}'ye giden yol yok, ziyaretçiler ulaşamıyor.",
   "notification_poollowsafety": "{Name}'nin güvenlik seviyesi düşük.",
   "notification_poolnochangingroom": "{Name}'nin yakınında yeterince Soyunma Odası yok.",
-  "notification_poolnopoolpasses": "Havuzlarından birinin yakınında Misafir Hizmetleri noktası yok.",
+  "notification_poolnopoolpasses": "Havuzlarından birinin yakınında Ziyaretçi Hizmetleri noktası yok.",
   "notification_poolovercapacity": "{Name} kapasitesini aştı",
   "notification_poolsafetyheatmapbutton": "Havuz Güvenliği Isı Haritasını Aç",
   "notification_pooltoodirty": "{Name}'nin suyu çok kirli ve ziyaretçiler olumsuz bir deneyim yaşıyor.",
