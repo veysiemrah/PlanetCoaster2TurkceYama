@@ -95,12 +95,14 @@ def check_placeholders(key: str, source: str, translation: str) -> list[str]:
 def check_forbidden_terms(key: str, translation: str) -> list[str]:
     """Çeviride yasaklı terimlerin kullanılıp kullanılmadığını kontrol et.
 
+    Tam kelime eşleşmesi kullanır: 'çekici' aramak 'çekicilik'i eşleştirmez.
+
     Returns: Hata mesajı listesi (boş = temiz).
     """
     errors: list[str] = []
-    translation_lower = translation.lower()
     for term, suggestion in FORBIDDEN_TERMS.items():
-        if term.lower() in translation_lower:
+        pattern = r"\b" + re.escape(term) + r"\b"
+        if re.search(pattern, translation, re.IGNORECASE):
             errors.append(
                 f"{key}: yasaklı terim '{term}' — kullan: '{suggestion}'"
             )
