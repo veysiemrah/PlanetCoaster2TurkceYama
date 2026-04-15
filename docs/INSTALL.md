@@ -2,7 +2,7 @@
 
 ## Kurulum (Windows)
 
-1. [Releases](../../releases) sayfasından en son `TurkceYama-vX.Y.Z.zip` dosyasını indir
+1. [PC2_TR_Yama.zip](https://github.com/veysiemrah/PlanetCoaster2TurkceYama/releases/latest/download/PC2_TR_Yama.zip) dosyasını indir
 2. Zip'i boş bir klasöre çıkar — içinde hazır `TurkceYama/` klasörü, `kurulum.bat` ve `orijinal.bat` olacak
 3. `kurulum.bat` dosyasına çift tıkla
 4. Script oyun dizinini otomatik arar:
@@ -18,7 +18,7 @@
 
 ## Manuel Kurulum
 
-1. [Releases](../../releases) sayfasından `TurkceYama-vX.Y.Z.zip` dosyasını indir, çıkar
+1. [PC2_TR_Yama.zip](https://github.com/veysiemrah/PlanetCoaster2TurkceYama/releases/latest/download/PC2_TR_Yama.zip) dosyasını indir, çıkar
 2. Oyun kurulum dizinini bul:
    - **Xbox Game Pass:** `C:\XboxGames\Planet Coaster 2\Content\Win64\ovldata\`
    - **Steam:** `C:\Program Files (x86)\Steam\steamapps\common\Planet Coaster 2\Win64\ovldata\`

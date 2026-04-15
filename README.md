@@ -1,5 +1,11 @@
 # Planet Coaster 2 Türkçe Yama
 
+[![Son Sürüm](https://img.shields.io/github/v/release/veysiemrah/PlanetCoaster2TurkceYama?label=son%20sürüm)](https://github.com/veysiemrah/PlanetCoaster2TurkceYama/releases/latest)
+[![İndirme](https://img.shields.io/github/downloads/veysiemrah/PlanetCoaster2TurkceYama/total?label=toplam%20indirme)](https://github.com/veysiemrah/PlanetCoaster2TurkceYama/releases)
+[![Lisans](https://img.shields.io/github/license/veysiemrah/PlanetCoaster2TurkceYama)](LICENSE)
+
+📦 **[En son sürümü indir (PC2_TR_Yama.zip)](https://github.com/veysiemrah/PlanetCoaster2TurkceYama/releases/latest/download/PC2_TR_Yama.zip)**
+
 ## Durum
 
 **✅ Tamamlandı — %100 çeviri** (32.665/32.665 string)
@@ -12,7 +18,7 @@ Tüm 14 içerik paketi çevrildi:
 
 ## Kurulum
 
-1. [Releases](../../releases) sayfasından en son `TurkceYama-vX.Y.Z.zip` dosyasını indir
+1. [PC2_TR_Yama.zip](https://github.com/veysiemrah/PlanetCoaster2TurkceYama/releases/latest/download/PC2_TR_Yama.zip) dosyasını indir
 2. Zip'i boş bir klasöre çıkar
 3. `kurulum.bat` dosyasına çift tıkla
 4. Oyunu başlat — Türkçe metinler aktif olur

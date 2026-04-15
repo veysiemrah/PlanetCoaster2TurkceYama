@@ -7,7 +7,8 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
-$ZipName = "TurkceYama-$Version.zip"
+# Versionsuz dosya adi - /releases/latest/download/PC2_TR_Yama.zip ile dogrudan link
+$ZipName = "PC2_TR_Yama.zip"
 
 Write-Host "[1/4] Validator calistiriliyor..." -ForegroundColor Cyan
 & .\venv\Scripts\python.exe tools/validate.py
