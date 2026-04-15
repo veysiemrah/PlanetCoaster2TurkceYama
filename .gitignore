@@ -31,6 +31,9 @@ cobra-tools/
 # AI asistan kilavuzlari (yerel)
 CLAUDE.md
 
+# Icsel planlama/spec dokumanlari (yerel)
+docs/superpowers/
+
 # IDE
 .vscode/
 .idea/
