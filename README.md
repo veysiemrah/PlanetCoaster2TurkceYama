@@ -51,6 +51,7 @@ Bir çeviriye katkıda bulunmadan önce [glossary.json](glossary.json) ve [docs/
 - **Bağımlılıklar**: `requirements.txt` (cobra-tools için)
 - **Validasyon**: `python tools/validate.py`
 - **Build**: `python tools/build.py --game-dir "<oyun-dizini>"`
+- **Release**: `.\tools\release.ps1 -Version v1.0.0` (build + zip + `gh release upload`)
 
 ## Lisans
 
