@@ -152,6 +152,14 @@
       "translation": "Uçuş Tiyatrosu",
       "note": "Hava simülasyonlu sinema deneyimi."
     },
+    "Shooting Ride": {
+      "translation": "Nişancı Treni",
+      "note": "Raylı nişan atışı deneyimi (Interactive Shooting Ride). Western/karnaval atış galerisi teması."
+    },
+    "Interactive Shooting Ride": {
+      "translation": "Etkileşimli Nişancı Treni",
+      "note": "Shooting Ride'ın tam adı."
+    },
     "Spinning Ride": {
       "translation": "Dönen Eğlence"
     },

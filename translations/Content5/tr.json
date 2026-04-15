@@ -9,2576 +9,2576 @@
   "strings": {
     "blueprint_coaster_vector_return_mk_ii_01": {
       "source": "Reversion",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Reversion",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprint_coaster_vector_return_mk_ii_01_desc": {
       "source": "This layout takes your guests there and back again through awesome inversions!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu düzen ziyaretçilerini harika inversiyonlarla götürüp geri getirir!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_mt_roof_mesh_01": {
       "source": "Metal Walkway - 4m by 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Yürüyüş Yolu - 4m x 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_attachments_chopper_exhaust": {
       "source": "Coaster Attachment - Chopper Exhaust",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hız Treni Aksesuarı - Chopper Egzoz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_attachments_chopper_light_large": {
       "source": "Coaster Attachment - Chopper Light 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hız Treni Aksesuarı - Chopper Işık 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_attachments_chopper_light_medium": {
       "source": "Coaster Attachment - Chopper Light 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hız Treni Aksesuarı - Chopper Işık 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_attachments_chopper_light_small": {
       "source": "Coaster Attachment - Chopper Light 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hız Treni Aksesuarı - Chopper Işık 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_attachments_chopper_vent": {
       "source": "Coaster Attachment - Chopper Vent",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hız Treni Aksesuarı - Chopper Havalandırma",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_attachments_forge_01": {
       "source": "Coaster Attachment - Forge Front",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hız Treni Aksesuarı - Demirhane Ön",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_attachments_forge_02": {
       "source": "Coaster Attachment - Forge Side",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hız Treni Aksesuarı - Demirhane Yan",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_attachments_forge_03": {
       "source": "Coaster Attachment - Forge Wheel Arch",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hız Treni Aksesuarı - Demirhane Tekerlek Davlumbazı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_attachments_forge_04": {
       "source": "Coaster Attachment - Forge Chain",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hız Treni Aksesuarı - Demirhane Zincir",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_security_camera_post": {
       "source": "Security Camera - Pole",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güvenlik Kamerası - Direkli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_security_camera_wall": {
       "source": "Security Camera - Wall Mounted",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güvenlik Kamerası - Duvara Monte",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_security_post": {
       "source": "Security Post",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güvenlik Kulübesi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_signs_graphic_atom": {
       "source": "Sci-Fi Sign - Atom",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tabela - Atom",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_signs_graphic_atom_large": {
       "source": "Sci-Fi Sign - Atom Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tabela - Atom Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_signs_robotarm": {
       "source": "Sci-Fi Sign - Robot Arm",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tabela - Robot Kol",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_signs_robotarm_large": {
       "source": "Sci-Fi Sign - Robot Arm Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tabela - Robot Kol Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_signs_spaceship": {
       "source": "Sci-Fi Sign - Spaceship Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tabela - Uzay Gemisi Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_signs_spaceship_large": {
       "source": "Sci-Fi Sign - Spaceship Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tabela - Uzay Gemisi Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_animateddoor_launch": {
       "source": "Coaster Doors - Launch Bay",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hız Treni Kapıları - Fırlatma Yuvası",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_archway": {
       "source": "Airlock Archway",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hava Kilidi Kemeri",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_balcony_2m_01": {
       "source": "Metal Walkway - 2m Square",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Yürüyüş Yolu - 2m Kare",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_balcony_4m_01": {
       "source": "Metal Walkway - 4m by 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Yürüyüş Yolu - 4m x 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_balcony_railing_4m_01": {
       "source": "Metal Walkway - Railing 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Yürüyüş Yolu - Korkuluk 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_bench_01": {
       "source": "Sci-Fi Bench 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Bank 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_bin_01": {
       "source": "Sci-Fi Bin",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Çöp Kutusu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_biopod": {
       "source": "Biopod",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Biyopod",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_canopy_01": {
       "source": "Sci-Fi Picnic Canopy",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Piknik Tenti",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_cargo_cannister": {
       "source": "Cargo Canister",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kargo Fıçı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_cargo_carrier": {
       "source": "Cargo Carrier",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kargo Taşıyıcı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_cargo_crate": {
       "source": "Cargo Crate",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kargo Sandığı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_computer_01": {
       "source": "Fibreglass Terminal",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Terminal",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_consolewithvents_01": {
       "source": "Fibreglass Wall Console",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Duvar Konsolu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_defencetower_01": {
       "source": "Sci-Fi Defence Tower Turret",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Savunma Kulesi Taretli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_defencetower_02": {
       "source": "Sci-Fi Defence Tower",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Savunma Kulesi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_defencetower_03": {
       "source": "Sci-Fi Defence Tower Base",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Savunma Kulesi Tabanı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_dogbot_body": {
       "source": "M.U.T.T. - Body",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "M.U.T.T. - Gövde",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_dogbot_foot": {
       "source": "M.U.T.T. - Foot",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "M.U.T.T. - Ayak",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_dogbot_head": {
       "source": "M.U.T.T. - Head",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "M.U.T.T. - Baş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_dogbot_leg": {
       "source": "M.U.T.T. - Leg",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "M.U.T.T. - Bacak",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_dogbot_tail": {
       "source": "M.U.T.T. - Tail",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "M.U.T.T. - Kuyruk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_door": {
       "source": "Sci-Fi Door",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Kapı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_elevator_01": {
       "source": "Fibreglass Elevator Doors",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Asansör Kapıları",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_energygenerator": {
       "source": "Energy Generator",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Enerji Jeneratörü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_fence_01": {
       "source": "Greeble Fence 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Desenli Çit 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_fence_02": {
       "source": "Greeble Fence 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Desenli Çit 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_fuellingstation": {
       "source": "Fuelling Station",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yakıt İkmal İstasyonu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_gribble_01": {
       "source": "Fibreglass Greeble Panel 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Desen Paneli 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_gribble_02": {
       "source": "Fibreglass Greeble Panel 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Desen Paneli 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_gribble_03": {
       "source": "Fibreglass Greeble Panel 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Desen Paneli 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_gribble_04": {
       "source": "Fibreglass Greeble Panel 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Desen Paneli 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_gribble_05": {
       "source": "Fibreglass Greeble Panel 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Desen Paneli 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_hazardstrip_01": {
       "source": "Hazard Strip 1 - 2m by 0.5m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Tehlike Şeridi 1 - 2m x 0,5m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_hazardstrip_02": {
       "source": "Hazard Strip 2 - 2m by 0.5m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Tehlike Şeridi 2 - 2m x 0,5m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_hazardstrip_03": {
       "source": "Hazard Strip 3 - 2m by 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Tehlike Şeridi 3 - 2m x 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_helmetrack": {
       "source": "Helmet Rack",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kask Askısı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_largescreen": {
       "source": "Fibreglass Wall Terminal",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Duvar Terminali",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_laserscanner": {
       "source": "Laser Scanner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Lazer Tarayıcı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_light_01": {
       "source": "Fibreglass Light 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Işık 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_light_02": {
       "source": "Fibreglass Light 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Işık 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_lightcylinder_01": {
       "source": "Fibreglass Light Cylinder",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Silindir Işık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_orbital_cannon": {
       "source": "Orbital Cannon",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yörünge Topu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_green": {
       "source": "Trooper Shooting - Green Alien",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Ateş Ediyor - Yeşil Uzaylı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_green_computer": {
       "source": "Trooper Typing - Green Alien",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Yazıyor - Yeşil Uzaylı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_green_hero": {
       "source": "Trooper Guarding - Green Alien",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Nöbette - Yeşil Uzaylı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_green_shot": {
       "source": "Trooper Shot - Green Alien",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Vurulmuş - Yeşil Uzaylı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_human": {
       "source": "Trooper Shooting - Human",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Ateş Ediyor - İnsan",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_human_computer": {
       "source": "Trooper Typing - Human",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Yazıyor - İnsan",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_human_hero": {
       "source": "Trooper Guarding - Human",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Nöbette - İnsan",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_human_shot": {
       "source": "Trooper Shot - Human",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Vurulmuş - İnsan",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_orange": {
       "source": "Trooper Shooting - Orange Alien",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Ateş Ediyor - Turuncu Uzaylı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_orange_computer": {
       "source": "Trooper Typing - Orange Alien",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Yazıyor - Turuncu Uzaylı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_orange_hero": {
       "source": "Trooper Guarding - Orange Alien",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Nöbette - Turuncu Uzaylı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_outpost_soldier_animatronic_orange_shot": {
       "source": "Trooper Shot - Orange Alien",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Vurulmuş - Turuncu Uzaylı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_picnic_bench_01": {
       "source": "Sci-Fi Bench 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Bank 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_picnictable_01": {
       "source": "Sci-Fi Picnic Bench",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Piknik Bankı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_pipe_2m": {
       "source": "Ventilation Pipe 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Havalandırma Borusu 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_pipe_4m": {
       "source": "Ventilation Pipe 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Havalandırma Borusu 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_pipe_corner_small": {
       "source": "Ventilation Pipe 2m - Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Havalandırma Borusu 2m - Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_podloader": {
       "source": "Pod Loader",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Pod Yükleyici",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_radardish": {
       "source": "Radar Dish",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Radar Çanağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_radioactivetank": {
       "source": "Radioactive Tank",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Radyoaktif Tank",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_repairdroid": {
       "source": "Repair Droid",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Tamir Droidi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_rideentrance": {
       "source": "Engineering Deck Archway",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Mühendislik Güvertesi Kemeri",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_robotarm": {
       "source": "Robot Arm",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Robot Kol",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_shopfascia_a_01": {
       "source": "Fibreglass Shop Fascia 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Dükkan Cephesi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_shopfascia_a_02": {
       "source": "Fibreglass Shop Fascia 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Dükkan Cephesi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_shopfasciatop_a_01": {
       "source": "Fibreglass Shop Fascia Reinforcement 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Dükkan Cephesi Takviyesi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_shopfasciatop_a_02": {
       "source": "Fibreglass Shop Fascia Reinforcement 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Dükkan Cephesi Takviyesi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_cockpit_01": {
       "source": "Spaceship Cockpit 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Kokpiti 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_cockpit_02": {
       "source": "Spaceship Cockpit 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Kokpiti 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_cockpit_03": {
       "source": "Spaceship Cockpit 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Kokpiti 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_cockpit_04": {
       "source": "Spaceship Cockpit 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Kokpiti 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_engine_01": {
       "source": "Spaceship Engine 1 - Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Motoru 1 - Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_engine_01_small": {
       "source": "Spaceship Engine 1 - Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Motoru 1 - Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_engine_02": {
       "source": "Spaceship Engine 2 - Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Motoru 2 - Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_engine_02_small": {
       "source": "Spaceship Engine 2 - Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Motoru 2 - Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_engine_03": {
       "source": "Spaceship Engine 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Motoru 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_engine_04": {
       "source": "Spaceship Engine 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Motoru 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_hull_01": {
       "source": "Spaceship Hull 1 - Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Gövdesi 1 - Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_hull_01_large": {
       "source": "Spaceship Hull 1 - Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Gövdesi 1 - Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_hull_02": {
       "source": "Spaceship Hull 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Gövdesi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_hull_03": {
       "source": "Spaceship Hull 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Gövdesi 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_hull_04": {
       "source": "Spaceship Hull 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Gövdesi 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_hull_05": {
       "source": "Spaceship Hull 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Gövdesi 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_landinggear_01": {
       "source": "Spaceship Landing Gear 1 Right",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi İniş Takımı 1 Sağ",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_landinggear_01_flipped": {
       "source": "Spaceship Landing Gear 1 Left",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi İniş Takımı 1 Sol",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_landinggear_02": {
       "source": "Spaceship Landing Gear 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi İniş Takımı 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_landinggear_02_large": {
       "source": "Spaceship Landing Gear 2 Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi İniş Takımı 2 Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_landinggear_03": {
       "source": "Spaceship Landing Gear 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi İniş Takımı 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_landinggear_03_large": {
       "source": "Spaceship Landing Gear 3 Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi İniş Takımı 3 Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_turret_01": {
       "source": "Spaceship Turret 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Tareti 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_turret_02": {
       "source": "Spaceship Turret 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Tareti 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_wing_01": {
       "source": "Spaceship Wing 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Kanadı 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_wing_02": {
       "source": "Spaceship Wing 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Kanadı 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_wing_03": {
       "source": "Spaceship Wing 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Kanadı 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_wing_04": {
       "source": "Spaceship Wing 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Kanadı 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_wing_05": {
       "source": "Spaceship Trim 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Süslemesi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spaceship_wing_07": {
       "source": "Spaceship Trim 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uzay Gemisi Süslemesi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spacewall_01": {
       "source": "Star Field Panel 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yıldız Tarlası Paneli 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_spacewall_02": {
       "source": "Star Field Panel 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yıldız Tarlası Paneli 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_sphere_corner_01": {
       "source": "Reactor Shielding Corner 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Reaktör Kalkanı Köşe 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_stairs_01": {
       "source": "Metal Walkway - Stairs 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Yürüyüş Yolu - Merdiven 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_stairs_short_01": {
       "source": "Metal Walkway - Stairs 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Yürüyüş Yolu - Merdiven 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_storagepod": {
       "source": "Fibreglass Storage Pod",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Depo Pod",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_vents_01": {
       "source": "Fibreglass Ventilation Unit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Havalandırma Ünitesi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_floor": {
       "source": "Metal Alloy Floor",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Zemin",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_floor_quarter": {
       "source": "Metal Alloy Floor - Quarter 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Zemin - Çeyrek 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_floor_quarter_02": {
       "source": "Metal Alloy Floor - Quarter 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Zemin - Çeyrek 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_gabletri_1m": {
       "source": "Metal Alloy Wall - 1m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - 1m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_gabletri_2m": {
       "source": "Metal Alloy Wall - 2m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - 2m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_half_1m": {
       "source": "Metal Alloy Wall - 1m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - 1m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_half_2m": {
       "source": "Metal Alloy Wall - 2m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - 2m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_half_4m": {
       "source": "Metal Alloy Wall - 4m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - 4m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_1m": {
       "source": "Metal Alloy Wall 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_2m": {
       "source": "Metal Alloy Wall 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_4m": {
       "source": "Metal Alloy Wall 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_archextention_4m": {
       "source": "Metal Alloy Wall - Arch Extension",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Kemer Uzatma",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_archround_4m": {
       "source": "Metal Alloy Wall - Arch 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Kemer 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_archstraight_4m": {
       "source": "Metal Alloy Wall - Arch 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Kemer 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_cap": {
       "source": "Metal Alloy Wall - Ridge Cap",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Sırt Kapağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_curve": {
       "source": "Metal Alloy Wall - 4 x 2m Curved Slope",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - 4 x 2m Kavisli Eğim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_curve_inverse": {
       "source": "Metal Alloy Wall - 4 x 2m Inverse Slope",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - 4 x 2m Ters Eğim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_door_4m": {
       "source": "Metal Alloy Wall - With Door",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Kapılı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_largewindow_4m": {
       "source": "Metal Alloy Wall - Large Window",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Büyük Pencere",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_shopfront": {
       "source": "Metal Alloy Wall - Shop Front",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Dükkan Önü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_slope_1m": {
       "source": "Metal Alloy Wall - Slope 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Eğim 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_slope_2m": {
       "source": "Metal Alloy Wall - Slope 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Eğim 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_slope_4m": {
       "source": "Metal Alloy Wall - Slope 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Eğim 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_station_surround_01": {
       "source": "Metal Alloy Wall - Station Surround 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - İstasyon Çevresi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_merge_station_surround_02": {
       "source": "Metal Alloy Wall - Station Surround 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - İstasyon Çevresi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_round_1m": {
       "source": "Metal Alloy Wall - Round 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Yuvarlak 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_round_2m": {
       "source": "Metal Alloy Wall - Round 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Yuvarlak 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wall_metal_alloy_round_4m": {
       "source": "Metal Alloy Wall - Round 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Duvar - Yuvarlak 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_walladdon_corner_01": {
       "source": "Fibreglass Reinforced Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Takviyeli Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_walladdon_main_01": {
       "source": "Fibreglass Reinforced Hatch",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Takviyeli Kapak",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_walladdon_rounded_01": {
       "source": "Reactor Shielding Edge 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Reaktör Kalkanı Kenar 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_walladdon_small_01": {
       "source": "Fibreglass Small Light Detail",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Küçük Işık Detayı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_walladdon_strip_01": {
       "source": "Fibreglass Light Strip 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Işık Şeridi 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallattachment_01": {
       "source": "Metal Alloy Greeble Panel 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Desen Paneli 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallattachment_02": {
       "source": "Metal Alloy Greeble Panel 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Desen Paneli 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallattachment_03": {
       "source": "Metal Alloy Greeble Panel 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Desen Paneli 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallattachment_04": {
       "source": "Metal Alloy Greeble Panel 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Metal Alaşım Desen Paneli 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallpiece_01": {
       "source": "Fibreglass Light Wall Panel",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Işıklı Duvar Paneli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallpiece_02": {
       "source": "Fibreglass Reinforced Window",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Takviyeli Pencere",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallpiece_trim_01": {
       "source": "Fibreglass Wall Trim Plain",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Duvar Pervazı Sade",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallpiece_trim_02": {
       "source": "Fibreglass Wall Trim Display",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Duvar Pervazı Ekranlı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallpiece_trim_03": {
       "source": "Fibreglass Wall Trim Buttons",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Duvar Pervazı Düğmeli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallsign_01": {
       "source": "Sci-Fi Sign - Wall Sign 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tabela - Duvar Tabelası 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallsign_02": {
       "source": "Sci-Fi Sign - Wall Sign 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tabela - Duvar Tabelası 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallsign_03": {
       "source": "Sci-Fi Sign - Wall Sign 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tabela - Duvar Tabelası 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wallsign_04": {
       "source": "Sci-Fi Sign - Wall Sign 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tabela - Duvar Tabelası 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wire_16m_01": {
       "source": "Electrical Cable 6 - 16m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Elektrik Kablosu 6 - 16m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wire_2m_01": {
       "source": "Electrical Cable 4 - 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Elektrik Kablosu 4 - 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wire_2m_single": {
       "source": "Electrical Cable 5 - 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Elektrik Kablosu 5 - 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wire_4m_01": {
       "source": "Electrical Cable 1 - 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Elektrik Kablosu 1 - 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wire_4m_02": {
       "source": "Electrical Cable 2 - 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Elektrik Kablosu 2 - 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sf_wire_4m_single": {
       "source": "Electrical Cable 3 - 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Elektrik Kablosu 3 - 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sn_roof_a_01": {
       "source": "Fibreglass Roof Flat Corrugated",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Fiberglas Çatı Düz Oluklu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_roof_wood_01_1m_eave": {
       "source": "Wood Tile Roof - Eave 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Kiremitli Çatı - Saçak 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_roof_wood_01_4m_eave": {
       "source": "Wood Tile Roof - Eave 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Kiremitli Çatı - Saçak 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_roof_wood_01_corner_1m_eave": {
       "source": "Wood Tile Roof - Eave 1m Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Kiremitli Çatı - Saçak 1m Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_roof_wood_01_corner_4m_eave": {
       "source": "Wood Tile Roof - Eave 4m Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Kiremitli Çatı - Saçak 4m Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_wall_brick_01_half_1m": {
       "source": "Classic Brick Wall - 1m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Klasik Tuğla Duvar - 1m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_wall_brick_01_half_2m": {
       "source": "Classic Brick Wall - 2m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Klasik Tuğla Duvar - 2m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_wall_brick_01_half_4m": {
       "source": "Classic Brick Wall - 4m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Klasik Tuğla Duvar - 4m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_wall_wood_01_half_1m": {
       "source": "Wood Plank Wall - 1m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Tahta Duvar - 1m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_wall_wood_01_half_2m": {
       "source": "Wood Plank Wall - 2m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Tahta Duvar - 2m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_wall_wood_01_half_4m": {
       "source": "Wood Plank Wall - 4m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Tahta Duvar - 4m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_wall_wood_02_half_1m": {
       "source": "Wood Batten Wall - 1m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Lata Duvar - 1m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_wall_wood_02_half_2m": {
       "source": "Wood Batten Wall - 2m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Lata Duvar - 2m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_ws_wall_wood_02_half_4m": {
       "source": "Wood Batten Wall - 4m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Lata Duvar - 4m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_ironfurystock": {
       "source": "Wooden Hybrid - Steel Topped (Standard)",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Melez - Çelik Üstü (Standart)",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_maliceunchainedstock": {
       "source": "Wooden Hybrid - Steel Rails (Standard)",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahşap Melez - Çelik Raylar (Standart)",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_trident": {
       "source": "Return Mk II",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Return Mk II",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_trident_desc": {
       "source": "This coaster shuttles guests to the end of the track, then rebounds them back to the start in reverse!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu hız treni, ziyaretçileri parkurun sonuna taşır, sonra ters dönüp başlangıca geri fırlatır!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_model_returnmkii": {
       "source": "Return Mk II",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Return Mk II",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_type_cc_trident": {
       "source": "Return Mk II",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Return Mk II",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_parkexit_guestejected_common_01": {
       "source": "I'm never going back to that park again! They ejected me but I didn't do anything wrong! ",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bir daha asla o parka dönmem! Beni dışarı attılar ama hiçbir şey yapmadım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_parkexit_pickpocketejected_common_01": {
       "source": "Security at that park was high! I got caught for pickpocketing.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "O parkın güvenliği çok sıkıydı! Yankesicilik yaparken yakalandım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_parkexit_shoplifterejected_common_01": {
       "source": "They were right to eject me from the park. I stole something in anger: I shouldn't have done that.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Beni parktan çıkarmakta haklıydılar. Öfkeyle bir şey çaldım; yapmamalıydım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_parkexit_vandalejected_common_01": {
       "source": "They were right to eject me from the park: I broke something in anger, I shouldn't have done that.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Beni parktan çıkarmakta haklıydılar: öfkeyle bir şey kırdım, yapmamalıydım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_caughtbysecurity_common_01": {
       "source": "Security have caught me red-handed.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güvenlik beni suçüstü yakaladı.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_caughtbysecurity_common_02": {
       "source": "Busted by security.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güvenliğe yakalandım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_caughtbysecurity_common_03": {
       "source": "Game over, security have caught me.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Oyun bitti, güvenlik beni yakaladı.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_caughtbysecurity_common_04": {
       "source": "Caught by security, maybe it’s time to change my ways.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güvenliğe yakalandım, belki de yolumu değiştirmem gerek.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_escapedsecuritychase_common_01": {
       "source": "Security evaded, I live to steal another day.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güvenliği atlattım, yaşıyorum ki başka bir gün çalayım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_escapedsecuritychase_common_02": {
       "source": "I’m too fast for these security guards.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu güvenlik görevlileri için fazla hızlıyım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_escapedsecuritychase_common_03": {
       "source": "These security guards are slow.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu güvenlik görevlileri çok yavaş.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_groupwaspickpocketed_common_01": {
       "source": "I can't believe one of us has been pickpocketed! When did that happen?!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Aramızdan birinin yankesiciye kurban gittiğine inanamıyorum! Ne zaman oldu bu?!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_groupwaspickpocketed_common_02": {
       "source": "One of us was pickpocketed somewhere! There are thieves about!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Birimizin cebi yankesildi! Etrafta hırsız var!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_groupwaspickpocketed_common_03": {
       "source": "What?! Someone stole money from one of us?! Unbelievable!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ne?! Birimizin parasını mı çalmışlar?! İnanılmaz!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_guestwaspickpocketed_common_01": {
       "source": "I've been robbed! When did that happen?!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Soyuldum! Ne zaman oldu bu?!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_guestwaspickpocketed_common_02": {
       "source": "Wait, what's happened to my money? Someone has stolen from me!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bir dakika, paralarıma ne oldu? Birisi parasını çalmış!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_guestwaspickpocketed_common_03": {
       "source": "I had more money than that, at some point I must have been pickpocketed!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Daha çok param vardı, bir yerlerde cebim karıştırılmış olmalı!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_leaveparksuccessful_common_01": {
       "source": "I’ve stolen enough for now, time to leave and enjoy the proceeds of crime.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şimdilik yeterince çaldım, vakit geldi tadını çıkarayım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_leaveparksuccessful_common_02": {
       "source": "That’s enough pickpocketing for now, I’m off to enjoy my takings.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şimdilik yankesicilik yeter, kazancımı yemeye gidiyorum.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_leaveparksuccessful_common_03": {
       "source": "My pockets are loaded, I’ve picked enough of other people’s for now. Time to leave.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ceplerim dolu, yeterince kazandım. Gitme vakti.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_leaveparkunsuccessful_common_01": {
       "source": "Security is too high at this park, I’m off to try another.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu parkın güvenliği çok sıkı, başka birini deneyeyim.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_leaveparkunsuccessful_common_02": {
       "source": "This park has higher security than Fort Knox! I’m leaving.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu park Fort Knox'tan daha sıkı! Gidiyorum.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_leaveparkunsuccessful_common_03": {
       "source": "The Crown Jewels have less security than this park! I give up.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kraliyet Mücevherleri'nin güvenliği bundan az! Vazgeçtim.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_readytosteal_common_01": {
       "source": "No security around, time to pick some pockets.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Etrafta güvenlik yok, cep karıştırma vakti.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_readytosteal_common_02": {
       "source": "Who can I pickpocket?",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kimin cebini karıştırsam?",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_readytosteal_common_03": {
       "source": "I’m going to pick your pocket.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Senin cebini boşaltacağım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_readytostealvending_common_01": {
       "source": "No security around, time to check the vending machines.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Etrafta güvenlik yok, otomatlara bir bakayım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_readytostealvending_common_02": {
       "source": "What do you have for me to steal, vending machine?",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çalacak neyin var, otomat?",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_readytostealvending_common_03": {
       "source": "I'm glad this vending machine offers a five-finger discount.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu otomat beş parmak indirim sunuyor, iyi.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_recoverstolencash_common_01": {
       "source": "Fantastic! They've caught the pickpocket and returned all of my stolen money to me. Security here is great!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Harika! Yankesiciyi yakalamışlar ve çalınan paramı geri getirmişler. Buradaki güvenlik süper!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_recoverstolencash_common_02": {
       "source": "Amazing! All of the money that pickpocket stole has been returned to me! Thank you park security!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "İnanılmaz! Yankesicinin çaldığı tüm param iade edildi! Teşekkürler park güvenliği!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_spottedbysecurity_common_01": {
       "source": "Security has spotted me, run!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güvenlik beni fark etti, kaç!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_spottedbysecurity_common_02": {
       "source": "I’ve been spotted by security, run!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güvenlik beni gördü, kaç!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_successfulsteal_common_01": {
       "source": "Consider your pocket picked.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Cebin boşaldı.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_successfulsteal_common_02": {
       "source": "Picked from your pocket, into mine.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Senin cebinden çıktı, benimkine girdi.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_successfulsteal_common_03": {
       "source": "Another pocket successfully picked.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bir cep daha başarıyla karıştırıldı.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_successfulstealvending_common_01": {
       "source": "Why pay when you can steal.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çalabilecekken niye ödeyeyim.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_successfulstealvending_common_02": {
       "source": "Thanks for the free stuff, machine.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bedava ürün için teşekkürler, makine.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pickpocket_successfulstealvending_common_03": {
       "source": "It's so easy to steal from that vending machine!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu otomattan çalmak çok kolay!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardapprehension_adult_01": {
       "source": "Yes! Good to see security here catching and dealing with criminals.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Evet! Güvenliğin suçluları yakalayıp defedişini görmek güzel.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardapprehension_adult_02": {
       "source": "Good work guard, get that criminal out of here!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Aferin görevli, at şu suçluyu dışarı!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardapprehension_child_01": {
       "source": "That security guard caught a baddie!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güvenlik görevlisi kötü adamı yakaladı!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardapprehension_child_02": {
       "source": "Why is there lots of shouting? Did that person do something wrong?",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Neden bu kadar bağırıyorlar? Biri yanlış bir şey mi yaptı?",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardapprehension_common_01": {
       "source": "That guard has caught someone!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Görevli birini yakalamış!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardapprehension_common_02": {
       "source": "Someone's getting a telling off!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Birisi fırça yiyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardapprehension_common_03": {
       "source": "Someone's in trouble!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Birinin başı dertte!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardchase_child_01": {
       "source": "I hope I can run that fast when I grow up!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Umarım büyüdüğümde ben de o kadar hızlı koşarım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardchase_child_02": {
       "source": "Wow! Look how fast that guard is running!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vay! Bakın ne kadar hızlı koşuyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardchase_child_03": {
       "source": "That security guard is chasing someone!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güvenlik görevlisi birini kovalıyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardchase_common_01": {
       "source": "That guard must be chasing someone!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Görevli birini kovalıyor olmalı!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardchase_common_02": {
       "source": "There's a chase happening!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bir kovalamaca var!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardchase_common_03": {
       "source": "Wow! That guard is flying by!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vay! Görevli rüzgar gibi geçiyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guardchase_common_04": {
       "source": "They're in a hurry!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Acele ediyorlar!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guestejected_common_01": {
       "source": "I've been asked to leave the park but I haven't done anything wrong! I'm going to the newspapers about this!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Parktan çıkmam istendi ama hiçbir şey yapmadım! Bunu gazetelere taşırım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guestejected_common_02": {
       "source": "I'm innocent! Why have I been asked to leave? This isn't fair!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Masumum! Neden ayrılmam isteniyor? Bu haksızlık!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guestejected_common_03": {
       "source": "How dare they ask me to leave when I've done nothing wrong. They'll pay for this!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hiçbir şey yapmadığım halde beni çıkarmaya nasıl cüret ederler. Bunun bedelini ödeyecekler!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_guestejected_common_04": {
       "source": "I can't believe they've asked me to leave, I've never broken the law in my life! This isn't the end...!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çıkmamı istediklerine inanamıyorum, hayatımda hiç suç işlemedim! Bu iş bitmedi...!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_shoplifterejected_common_01": {
       "source": "I've been asked to leave because I stole from the park!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Parktan hırsızlık yaptığım için çıkmam istendi!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_shoplifterejected_common_02": {
       "source": "I've been sent home for shoplifting!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dükkandan hırsızlıktan evime yollandım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_shoplifterejected_common_03": {
       "source": "Maybe crime doesn't pay. I've been ejected from the park after I stole something.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Belki suçun karşılığı yoktur. Bir şey çaldıktan sonra parktan atıldım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_vandalejected_common_01": {
       "source": "I've been asked to leave because I vandalised the park!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Parkı tahrip ettiğim için çıkmam istendi!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_vandalejected_common_02": {
       "source": "I shouldn't have lost my temper and vandalised the park, now I'm being sent home!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Öfkeme hakim olup parkı tahrip etmemeliydim, şimdi eve yollanıyorum!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_security_vandalejected_common_03": {
       "source": "I can't believe I'm being ejected for vandalism!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vandalizm yüzünden atıldığıma inanamıyorum!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_goingtoshoplift_common_01": {
       "source": "This park has made me so angry I'm going to steal something!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu park beni öyle sinirlendirdi ki bir şey çalacağım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_goingtoshoplift_common_02": {
       "source": "I wonder if that shop has something for me to steal.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Acaba şu dükkanda çalabileceğim bir şey var mı.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_goingtoshoplift_common_03": {
       "source": "I'm going to swipe something from that shop.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şu dükkandan bir şey kapacağım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_goingtoshoplift_common_04": {
       "source": "I'm in the mood for some shoplifting.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Canım dükkan soymak istiyor.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_goingtovandalisedobject_common_01": {
       "source": "This park has made me so angry I'm going to break something!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu park beni öyle kızdırdı ki bir şey kıracağım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_goingtovandalisedobject_common_02": {
       "source": "I need to take this anger out on something!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu öfkeyi bir şeyden çıkarmam lazım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_goingtovandalisedobject_common_03": {
       "source": "Aaargh! I'm going to smash something!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Aaaagh! Bir şey kıracağım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_goingtovandalisedobject_common_04": {
       "source": "What can I hit? I'm so angry!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Neye vurayım? Çok kızgınım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_reacttocurrentshoplifting_common_01": {
       "source": "Someone is stealing things from the shop!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Birisi dükkandan hırsızlık yapıyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_reacttocurrentvandalism_adult_01": {
       "source": "Someone is vandalising things in the park!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Birisi parkı tahrip ediyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_reacttocurrentvandalism_adult_02": {
       "source": "Someone's not happy, they're smashing up things in the park!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Biri memnun değil galiba, parkta ortalığı kırıp döküyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_reacttocurrentvandalism_adult_03": {
       "source": "Someone needs to control their temper and not take it out on other people's property!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Birisi öfkesine hakim olup başkalarının eşyasından çıkarmamalı!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_reacttocurrentvandalism_child_01": {
       "source": "I'm scared, that person is hitting things!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korktum, o kişi bir şeylere vuruyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_reacttocurrentvandalism_child_02": {
       "source": "Why is that person breaking things?",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "O kişi neden bir şeyleri kırıyor?",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_reacttocurrentvandalism_common_01": {
       "source": "Someone is breaking things in the park!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Birisi parkta bir şeyleri kırıyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_reacttocurrentvandalism_teen_01": {
       "source": "I can't believe they're just breaking things!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Öylesine bir şeyleri kırmasına inanamıyorum!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_reacttocurrentvandalism_teen_02": {
       "source": "That's not cool, someone's breaking things!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hiç hoş değil, birisi ortalığı kırıyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_reacttocurrentvendingtheft_common_01": {
       "source": "Someone is stealing things from the vending machine!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Birisi otomattan mal çalıyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_shoplifted_common_01": {
       "source": "No service, no payment!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hizmet yok, ödeme yok!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_shoplifted_common_02": {
       "source": "I'll take that, thank you!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şunu alayım, teşekkürler!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_shoplifted_common_03": {
       "source": "Everything in this park is free if you don't pay for it.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu parkta ne varsa ödemezsen bedava.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedfacility_common_01": {
       "source": "Someone has damaged this beyond use.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Birisi bunu kullanılmaz hale getirmiş.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedobject_common_01": {
       "source": "That's better, I feel less angry after breaking that!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Oh be, kırdıktan sonra rahatladım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedobject_common_02": {
       "source": "Breaking that has made me feel a bit better, for now...",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kırmak şu an için beni biraz rahatlattı...",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedobject_common_03": {
       "source": "Breaking that has made me feel less angry!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kırdıktan sonra öfkem biraz dindi!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedobjectsnearby_adult_01": {
       "source": "It's pretty run down around here.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu civarı bayağı bakımsız.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedobjectsnearby_adult_02": {
       "source": "There's lots of vandalism here.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Burada bol bol vandalizm var.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedobjectsnearby_adult_03": {
       "source": "Can't they fix these vandalised things?",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şu tahrip edilen şeyleri tamir edemiyorlar mı?",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedobjectsnearby_child_01": {
       "source": "Why is everything smashed?",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Her şey neden kırık?",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedobjectsnearby_child_02": {
       "source": "It doesn't feel nice here.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Burada hoş bir his yok.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedobjectsnearby_common_01": {
       "source": "There are lots of damaged things around here.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Etrafta çok hasarlı şey var.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedobjectsnearby_teen_01": {
       "source": "Looks like someone's gone on a rampage!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Birisi resmen çıldırmış gibi!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_vandalism_vandalisedobjectsnearby_teen_02": {
       "source": "This place is a dump!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Burası bir rezalet!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "securitycamera_desc": {
       "source": "A powered security measure that monitors and deters criminal activity.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Suç faaliyetlerini izleyen ve caydıran enerjiyle çalışan bir güvenlik aracı.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_status_chasing": {
       "source": "Apprehending criminal",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Suçluyu yakalıyor",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_status_chasingpickpocket": {
       "source": "Apprehending pickpocket",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yankesiciyi yakalıyor",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_status_chasingshoplifter": {
       "source": "Apprehending shoplifter",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dükkan hırsızını yakalıyor",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_status_chasingvandal": {
       "source": "Apprehending vandal",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vandalı yakalıyor",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_status_headingtorepairvandalism": {
       "source": "Going to repair vandalised object",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Tahrip edilen nesneyi onarmaya gidiyor",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_status_headingtorepairvandalismfacility": {
       "source": "Going to repair vandalised facility",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Tahrip edilen tesisi onarmaya gidiyor",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_status_repairingvandalism": {
       "source": "Repairing vandalised object",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Tahrip edilen nesneyi onarıyor",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_status_repairingvandalismfacility": {
       "source": "Repairing vandalised facility",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Tahrip edilen tesisi onarıyor",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_status_reportcrime": {
       "source": "Reporting incident",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Olayı bildiriyor",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_status_reportshoplifting": {
       "source": "Stop! Thief!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dur! Hırsız var!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_chasefail_common_01": {
       "source": "Just need to.... catch my breath... ",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Biraz... nefes alayım...",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_chasefail_common_02": {
       "source": "I'll… I'll get you next time…!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bir dahaki sefere... seni yakalayacağım...!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_chasejoin_common_01": {
       "source": "That criminal's getting away! Not on my watch!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şu suçlu kaçıyor! Ben varken olmaz!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_chasejoin_common_02": {
       "source": "That criminal's no match for me!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "O suçlu bana rakip olamaz!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_chasestart_common_01": {
       "source": "Stop, criminal! Don't make me chase you!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dur suçlu! Seni kovalatma bana!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_chasestart_common_02": {
       "source": "Hey, you! Get back here!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hey sen! Geri dön!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_chasesuccess_common_01": {
       "source": "Got you! You're coming with me.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yakaladım! Benimle geliyorsun.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_chasesuccess_common_02": {
       "source": "Thought you'd get away with it, eh? Not with me around!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Paçayı kurtaracağını mı sandın? Ben varken olmaz!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_ejectvandals_common_01": {
       "source": "You're out of here!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dışarı sen!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_ejectvandals_common_02": {
       "source": "Get out...  and stay out!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çık... ve geri gelme!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_tooquiet_common_01": {
       "source": "It's quiet. Too quiet...",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ortalık sakin. Fazla sakin...",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_thought_security_tooquiet_common_02": {
       "source": "It's quiet around here. Guess I must be doing a good job!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Buralar sakin. İşimi iyi yapıyor olmalıyım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "train_cc_ironfurystock": {
       "source": "High Peaks Construction <b>Wooden Hybrid - Steel Topped (Standard)</b>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "High Peaks Construction <b>Ahşap Melez - Çelik Üstü (Standart)</b>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "train_cc_maliceunchainedstock": {
       "source": "High Peaks Construction <b>Wooden Hybrid - Steel Rails (Standard)</b>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "High Peaks Construction <b>Ahşap Melez - Çelik Raylar (Standart)</b>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "train_cc_trident": {
       "source": "Vector <b>Return Mk II</b>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vector <b>Return Mk II</b>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""

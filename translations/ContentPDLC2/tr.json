@@ -9,3496 +9,3496 @@
   "strings": {
     "blueprint_coaster_outamax_bike_and_sidecar_coaster_01": {
       "source": "Torque",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Torque",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprint_coaster_outamax_bike_and_sidecar_coaster_01_desc": {
       "source": "A multi-launch experience that puts the pedal to the metal with your guests in the driving seat.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ziyaretçilerini sürücü koltuğuna oturtan, gaza kadar basan çok fırlatmalı bir deneyim.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprint_coaster_outamax_lsm_raid_coaster_01": {
       "source": "Ultraviolet",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ultraviyole",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprint_coaster_outamax_lsm_raid_coaster_01_desc": {
       "source": "If upside-down wasn't enough, get ready to swing back and forth on this world-class layout that your guests will never forget.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Baş aşağı yetmediyse, ziyaretçilerinin asla unutmayacağı bu dünya standartlarındaki düzende ileri geri sallanmaya hazır ol.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprint_coaster_vector_child_coaster_01": {
       "source": "Sky Sailor",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Sky Sailor",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprint_coaster_vector_child_coaster_01_desc": {
       "source": "All aboard this child-friendly course of twists and turns that's sure to put the wind in your guests' sails.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ziyaretçilerini rüzgara bırakan, çocuk dostu virajlar ve dönüşlerle dolu bu parkura tüm aileyi bekliyoruz.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprint_coaster_vector_child_coaster_return_01": {
       "source": "Backtrack",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Backtrack",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprint_coaster_vector_child_coaster_return_01_desc": {
       "source": "Don't be afraid to retrace your steps on this dual-direction layout.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bu çift yönlü düzende geri dönmekten çekinme.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_fx_sorcery_magiceffect_01": {
       "source": "Special Effect - Sorcery 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Özel Efekt - Büyü 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_fx_sorcery_magiceffect_02": {
       "source": "Special Effect - Sorcery 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Özel Efekt - Büyü 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_fx_sorcery_smoke_01": {
       "source": "Special Effect - Magical Smoke 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Özel Efekt - Büyülü Duman 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_fx_sorcery_smoke_02": {
       "source": "Special Effect - Magical Smoke 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Özel Efekt - Büyülü Duman 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_souvenirshop_guesthat_sorcery": {
       "source": "Spellcaster's Hat",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şapkası",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_bench_01": {
       "source": "Sorcery Bench",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Bankı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_bins_01": {
       "source": "Sorcery Bin",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Çöp Kutusu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_crystal_01": {
       "source": "Sorcery Crystals - Single",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kristalleri - Tekli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_crystal_claw_01": {
       "source": "Sorcery Crystals - Claw 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kristalleri - Pençe 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_crystal_claw_02": {
       "source": "Sorcery Crystals - Claw 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kristalleri - Pençe 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_crystal_cluster_01": {
       "source": "Sorcery Crystals - Cluster 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kristalleri - Küme 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_crystal_cluster_02": {
       "source": "Sorcery Crystals - Cluster 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kristalleri - Küme 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_crystal_cluster_03": {
       "source": "Sorcery Crystals - Cluster 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kristalleri - Küme 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_crystal_stand_01": {
       "source": "Sorcery Crystals - Plinth",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kristalleri - Kaide",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_door_01": {
       "source": "Keep Door - Tall Single",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kapısı - Uzun Tekli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_door_02": {
       "source": "Townhouse Door - Ornate Wooden Single",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Kapısı - Süslü Ahşap Tekli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_door_03": {
       "source": "Keep Door - Tall Double",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kapısı - Uzun Çift",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_door_04": {
       "source": "Keep Door - Single Arched",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kapısı - Tekli Kemerli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_door_05": {
       "source": "Townhouse Door - Industrial Single",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Kapısı - Endüstriyel Tekli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_door_06": {
       "source": "Townhouse Door - Windowed Single",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Kapısı - Pencereli Tekli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_door_07": {
       "source": "Townhouse Door - Wide Double",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Kapısı - Geniş Çift",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_eggsac": {
       "source": "Giant Spider - Egg Sac",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek - Yumurta Kesesi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_fence_01": {
       "source": "Sorcery Fence",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Çiti",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_fence_02": {
       "source": "Sorcery Fence 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Çiti 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_arch_bottom_01": {
       "source": "Sorcerer's Keep - Thin Arch Extension",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - İnce Kemer Uzatma",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_arch_decoration_01": {
       "source": "Sorcerer's Keep - Tympanum",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_arch_gable_01": {
       "source": "Sorcerer's Keep - Gable Pointed Arch",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Çatı Sivri Kemer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_arch_large_01": {
       "source": "Sorcerer's Keep - Large Pointed Arch",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Büyük Sivri Kemer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_arch_medium_01": {
       "source": "Sorcerer's Keep - Thin Rounded Arch",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - İnce Yuvarlak Kemer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_arch_small_01": {
       "source": "Sorcerer's Keep - Thin Squint Arch",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - İnce Dar Kemer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_arch_stepped_01": {
       "source": "Sorcerer's Keep - Stepped Arch",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Basamaklı Kemer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_buttress_medium_01": {
       "source": "Sorcerer's Keep - Straight Buttress",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Düz Payanda",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_buttress_medium_02": {
       "source": "Sorcerer's Keep - Curved Buttress ",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Kıvrık Payanda",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_buttress_medium_03": {
       "source": "Sorcerer's Keep - Protruding Buttress ",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Çıkıntılı Payanda",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_buttress_small_01": {
       "source": "Sorcerer's Keep - Small Buttress ",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Küçük Payanda",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_column_large_01": {
       "source": "Sorcerer's Keep - Large Column",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Büyük Sütun",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_column_medium_01": {
       "source": "Sorcerer's Keep - Medium Column 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Orta Sütun 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_column_medium_02": {
       "source": "Sorcerer's Keep - Medium Column 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Orta Sütun 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_column_small_01": {
       "source": "Sorcerer's Keep - Small Column 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Küçük Sütun 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_column_small_02": {
       "source": "Sorcerer's Keep - Small Column 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Küçük Sütun 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_column_small_03": {
       "source": "Sorcerer's Keep - Small Column 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Küçük Sütun 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_column_small_04": {
       "source": "Sorcerer's Keep - Small Column 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Küçük Sütun 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_flying_buttress_01": {
       "source": "Sorcerer's Keep - Flying Buttress 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Uçan Payanda 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_flying_buttress_02": {
       "source": "Sorcerer's Keep - Flying Buttress 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Uçan Payanda 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_flying_buttress_03": {
       "source": "Sorcerer's Keep - Flying Buttress 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Uçan Payanda 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_oriel_01": {
       "source": "Sorcerer's Keep - Oriel 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Cumba 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_oriel_02": {
       "source": "Sorcerer's Keep - Oriel 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Cumba 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_pedestal_large_01": {
       "source": "Sorcerer's Keep - Large Pedestal Raised",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Büyük Kaide Yükseltilmiş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_pedestal_large_02": {
       "source": "Sorcerer's Keep - Large Pedestal Flat",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Büyük Kaide Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_pedestal_medium_01": {
       "source": "Sorcerer's Keep - Medium Pedestal Raised",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Orta Kaide Yükseltilmiş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_pedestal_medium_02": {
       "source": "Sorcerer's Keep - Medium Pedestal Star",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Orta Kaide Yıldız",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_pedestal_medium_03": {
       "source": "Sorcerer's Keep - Medium Pedestal Hexagonal",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Orta Kaide Altıgen",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_quatrefoil_01": {
       "source": "Sorcerer's Keep - Trefoil Tracery",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Üç Yapraklı Şebeke",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_roof_dome_01": {
       "source": "Sorcerer's Keep - Turret Round Tall",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Taret Yuvarlak Uzun",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_roof_dome_02": {
       "source": "Sorcerer's Keep - Turret Round ",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Taret Yuvarlak",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_roof_spire_01": {
       "source": "Sorcerer's Keep - Spire Pointed",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Külah Sivri",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_roof_spire_02": {
       "source": "Sorcerer's Keep - Spire Square",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Külah Kare",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_roof_spire_03": {
       "source": "Sorcerer's Keep - Spire Hexagonal",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Külah Altıgen",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_roof_topper_01": {
       "source": "Sorcerer's Keep - Spire Finial 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Külah Tepeliği 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_roof_topper_02": {
       "source": "Sorcerer's Keep - Spire Finial 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Külah Tepeliği 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_roof_topper_03": {
       "source": "Sorcerer's Keep - Spire Finial 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Külah Tepeliği 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_rooftrim_01_4m": {
       "source": "Sorcerer's Keep - Roof Trim 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Çatı Süsü 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_spire_01": {
       "source": "Sorcerer's Keep - Pinnacle",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Doruk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_steps_cnr_angle_01": {
       "source": "Sorcerer's Keep - Steps Corner Straight",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Merdiven Köşe Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_steps_cnr_rnd_01": {
       "source": "Sorcerer's Keep - Steps Corner Round",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Merdiven Köşe Yuvarlak",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_steps_straight_01": {
       "source": "Sorcerer's Keep - Steps 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Merdiven 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_architecture_steps_straight_02": {
       "source": "Sorcerer's Keep - Steps 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şatosu - Merdiven 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_floor": {
       "source": "Keep Stone Floor",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Zemin",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_floor_quarter": {
       "source": "Keep Stone Floor - Quarter 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Zemin - Çeyrek 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_floor_quarter_02": {
       "source": "Keep Stone Floor - Quarter 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Zemin - Çeyrek 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_gabletri_1m": {
       "source": "Keep Stone Wall - 1m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - 1m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_gabletri_2m": {
       "source": "Keep Stone Wall - 2m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - 2m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_gabletri_4m": {
       "source": "Keep Stone Wall - 4m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - 4m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_half_1m": {
       "source": "Keep Stone Wall - 1m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - 1m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_half_2m": {
       "source": "Keep Stone Wall - 2m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - 2m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_half_4m": {
       "source": "Keep Stone Wall - 4m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - 4m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_1m": {
       "source": "Keep Stone Wall 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_2m": {
       "source": "Keep Stone Wall 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_4m": {
       "source": "Keep Stone Wall 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_archextention_4m": {
       "source": "Keep Stone Wall - Arch Extension",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Kemer Uzatma",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_archround_4m": {
       "source": "Keep Stone Wall - Arch 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Kemer 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_archstraight_4m": {
       "source": "Keep Stone Wall - Arch 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Kemer 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_cap": {
       "source": "Keep Stone Wall - Ridge Cap",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Sırt Kapağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_curve": {
       "source": "Keep Stone Wall - 4 x 2m Curved Slope",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - 4 x 2m Kavisli Eğim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_curve_inverse": {
       "source": "Keep Stone Wall - 4 x 2m Inverse Slope",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - 4 x 2m Ters Eğim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_door_4m": {
       "source": "Keep Stone Wall - With Door",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Kapılı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_largewindow_4m": {
       "source": "Keep Stone Wall - Large Window",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Büyük Pencere",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_shopfront": {
       "source": "Keep Stone Wall - Shop Front",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Dükkan Önü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_slope_1m": {
       "source": "Keep Stone Wall - Slope 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Eğim 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_slope_2m": {
       "source": "Keep Stone Wall - Slope 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Eğim 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_slope_4m": {
       "source": "Keep Stone Wall - Slope 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Eğim 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_station_surround_01": {
       "source": "Keep Stone Wall - Station Surround 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - İstasyon Çevresi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_merge_station_surround_02": {
       "source": "Keep Stone Wall - Station Surround 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - İstasyon Çevresi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_round_1m": {
       "source": "Keep Stone Wall - Round 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Yuvarlak 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_round_2m": {
       "source": "Keep Stone Wall - Round 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Yuvarlak 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_keep_round_4m": {
       "source": "Keep Stone Wall - Round 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Yuvarlak 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_armillary_01": {
       "source": "Armillary",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Usturlap",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_armillary_base_01": {
       "source": "Armillary - Base",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Usturlap - Taban",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_armillary_orb_01": {
       "source": "Armillary - Orb",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Usturlap - Küre",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_armillary_pillar_01": {
       "source": "Armillary - Pillar",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Usturlap - Sütun",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_bottle_01": {
       "source": "Bottle Lamp 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şişe Lamba 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_bottle_02": {
       "source": "Bottle Lamp 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şişe Lamba 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_bottle_03": {
       "source": "Bottle Lamp 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şişe Lamba 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_bottle_04": {
       "source": "Bottle Lamp 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şişe Lamba 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_bottle_05": {
       "source": "Bottle Lamp 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şişe Lamba 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_bottle_bracket": {
       "source": "Bottle Lamp Bracket",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şişe Lamba Askısı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_candles_firepit": {
       "source": "Sorcerer's Fire Pit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Ateş Çukuru",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_candles_large": {
       "source": "Candle Stand - Tall",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şamdan - Uzun",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_candles_medium": {
       "source": "Candle Stand - Medium",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şamdan - Orta",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_candles_small": {
       "source": "Candle Stand - Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şamdan - Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_cauldron_01": {
       "source": "Sorcerer's Cauldron 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Kazanı 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_cauldron_02": {
       "source": "Sorcerer's Cauldron 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Kazanı 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_cauldron_03": {
       "source": "Sorcerer's Cauldron 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Kazanı 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lamppost_01": {
       "source": "Sorcery Lamppost",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lamppost_chain_long": {
       "source": "Sorcery Lamppost Chain - Long",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Zinciri - Uzun",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lamppost_chain_short": {
       "source": "Sorcery Lamppost Chain - Short",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Zinciri - Kısa",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lampposts_bracket_01": {
       "source": "Sorcery Lamppost - Bracket 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Askı 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lampposts_bracket_02": {
       "source": "Sorcery Lamppost - Bracket 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Askı 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lampposts_decoration_01": {
       "source": "Sorcery Lamppost - Decoration 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Süsleme 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lampposts_decoration_02": {
       "source": "Sorcery Lamppost - Decoration 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Süsleme 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lampposts_lamp_01": {
       "source": "Sorcery Lamppost - Lamp 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Lamba 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lampposts_lamp_02": {
       "source": "Sorcery Lamppost - Lamp 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Lamba 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lampposts_lamp_03": {
       "source": "Sorcery Lamppost - Lamp 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Lamba 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lampposts_lamp_04": {
       "source": "Sorcery Lamppost - Lamp 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Lamba 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lampposts_lamp_06": {
       "source": "Sorcery Lamppost - Lamp 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Lamba 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lampposts_pole_01": {
       "source": "Sorcery Lamppost - Post 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Direk 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_lampposts_pole_02": {
       "source": "Sorcery Lamppost - Post 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Direk 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_sigils_large": {
       "source": "Sorcerer's Sigil - Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Mührü - Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_sigils_small": {
       "source": "Sorcerer's Sigil - Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Mührü - Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_sign_01": {
       "source": "Sorcery Lamppost - Sign 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Tabela 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_lighting_sign_02": {
       "source": "Sorcery Lamppost - Sign 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Lamba Direği - Tabela 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_modularspider_baby_leg_bent": {
       "source": "Giant Spider - Baby Leg Bent",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek - Yavru Bacak Bükülü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_modularspider_baby_leg_stretched": {
       "source": "Giant Spider - Baby Leg Stretched",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek - Yavru Bacak Gergin",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_modularspider_bum": {
       "source": "Giant Spider - Abdomen",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek - Karın",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_modularspider_complete_baby": {
       "source": "Giant Spider - Complete Baby",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek - Tam Yavru",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_modularspider_complete_mummy": {
       "source": "Giant Spider - Complete",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek - Tam",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_modularspider_head": {
       "source": "Giant Spider - Head",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek - Baş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_modularspider_leg_bent": {
       "source": "Giant Spider - Leg Bent",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek - Bacak Bükülü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_modularspider_leg_stretched": {
       "source": "Giant Spider - Leg Stretched",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek - Bacak Gergin",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_picnicbench_01": {
       "source": "Sorcery Picnic Bench",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Piknik Bankı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_rock_short": {
       "source": "Sorcery Rock 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kayası 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_rock_slim": {
       "source": "Sorcery Rock 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kayası 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_rock_tall": {
       "source": "Sorcery Rock 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kayası 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_1m": {
       "source": "Keep Tile Roof - Slope 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Eğim 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_1m_eave": {
       "source": "Keep Tile Roof - Eave 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Saçak 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_2m": {
       "source": "Keep Tile Roof - Slope 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Eğim 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_2m_eave": {
       "source": "Keep Tile Roof - Eave 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Saçak 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_4m": {
       "source": "Keep Tile Roof - Slope 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Eğim 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_4m_eave": {
       "source": "Keep Tile Roof - Eave 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Saçak 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_corner_1m": {
       "source": "Keep Tile Roof - Corner 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Köşe 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_corner_1m_eave": {
       "source": "Keep Tile Roof - Eave 1m Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Saçak 1m Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_corner_2m": {
       "source": "Keep Tile Roof - Corner 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Köşe 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_corner_2m_eave": {
       "source": "Keep Tile Roof - Eave 2m Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Saçak 2m Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_corner_4m": {
       "source": "Keep Tile Roof - Corner 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Köşe 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_corner_4m_eave": {
       "source": "Keep Tile Roof - Eave 4m Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Saçak 4m Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_cornerinv_1m": {
       "source": "Keep Tile Roof - Inverted Corner 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Ters Köşe 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_cornerinv_2m": {
       "source": "Keep Tile Roof - Inverted Corner 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Ters Köşe 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_cornerinv_4m": {
       "source": "Keep Tile Roof - Inverted Corner 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Ters Köşe 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_doublepitch_1m": {
       "source": "Keep Tile Roof - Pitched 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Eğimli 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_doublepitch_2m": {
       "source": "Keep Tile Roof - Pitched 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Eğimli 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_doublepitch_4m": {
       "source": "Keep Tile Roof - Pitched 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Eğimli 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_doublepitch_corner_1m": {
       "source": "Keep Tile Roof - Pitched Corner 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Eğimli Köşe 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_doublepitch_corner_2m": {
       "source": "Keep Tile Roof - Pitched Corner 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Eğimli Köşe 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_doublepitch_corner_4m": {
       "source": "Keep Tile Roof - Pitched Corner 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Eğimli Köşe 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_flat": {
       "source": "Keep Tile Roof - Flat",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_flat_qtrcirc": {
       "source": "Keep Tile Roof - Flat Quarter",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Düz Çeyrek",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_keep_ridge": {
       "source": "Keep Tile Roof - Ridge Cap",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Kiremit Çatı - Sırt Kapağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_1m": {
       "source": "Townhouse Slate Roof - Slope 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Eğim 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_1m_eave": {
       "source": "Townhouse Slate Roof - Eave 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Saçak 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_2m": {
       "source": "Townhouse Slate Roof - Slope 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Eğim 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_2m_eave": {
       "source": "Townhouse Slate Roof - Eave 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Saçak 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_4m": {
       "source": "Townhouse Slate Roof - Slope 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Eğim 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_4m_eave": {
       "source": "Townhouse Slate Roof - Eave 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Saçak 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_corner_1m": {
       "source": "Townhouse Slate Roof - Corner 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Köşe 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_corner_1m_eave": {
       "source": "Townhouse Slate Roof - Eave 1m Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Saçak 1m Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_corner_2m": {
       "source": "Townhouse Slate Roof - Corner 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Köşe 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_corner_2m_eave": {
       "source": "Townhouse Slate Roof - Eave 2m Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Saçak 2m Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_corner_4m": {
       "source": "Townhouse Slate Roof - Corner 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Köşe 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_corner_4m_eave": {
       "source": "Townhouse Slate Roof - Eave 4m Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Saçak 4m Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_cornerinv_1m": {
       "source": "Townhouse Slate Roof - Inverted Corner 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Ters Köşe 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_cornerinv_2m": {
       "source": "Townhouse Slate Roof - Inverted Corner 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Ters Köşe 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_cornerinv_4m": {
       "source": "Townhouse Slate Roof - Inverted Corner 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Ters Köşe 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_doublepitch_1m": {
       "source": "Townhouse Slate Roof - Pitched 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Eğimli 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_doublepitch_2m": {
       "source": "Townhouse Slate Roof - Pitched 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Eğimli 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_doublepitch_4m": {
       "source": "Townhouse Slate Roof - Pitched 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Eğimli 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_doublepitch_corner_1m": {
       "source": "Townhouse Slate Roof - Pitched Corner 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Eğimli Köşe 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_doublepitch_corner_2m": {
       "source": "Townhouse Slate Roof - Pitched Corner 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Eğimli Köşe 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_doublepitch_corner_4m": {
       "source": "Townhouse Slate Roof - Pitched Corner 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Eğimli Köşe 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_flat": {
       "source": "Townhouse Slate Roof - Flat",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_flat_qtrcirc": {
       "source": "Townhouse Slate Roof - Flat Quarter",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Düz Çeyrek",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_roof_town_ridge": {
       "source": "Townhouse Slate Roof - Ridge Cap",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Arduvaz Çatı - Sırt Kapağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_shopawning_01": {
       "source": "Sorcery Shop Awning 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Dükkan Sundurması 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_shopawning_02": {
       "source": "Sorcery Shop Awning 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Dükkan Sundurması 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_shopfascia_01": {
       "source": "Sorcery Shop Fascia 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Dükkan Cephesi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_shopfascia_02": {
       "source": "Sorcery Shop Fascia 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Dükkan Cephesi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_sign_01": {
       "source": "Sorcery Sign - Gothic Plate 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Tabela - Gotik Plaka 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_sign_02": {
       "source": "Sorcery Sign - Gothic Plate 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Tabela - Gotik Plaka 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_sign_03": {
       "source": "Sorcery Sign - Gothic Plate 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Tabela - Gotik Plaka 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_sign_04": {
       "source": "Sorcery Sign - Book Shop",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Tabela - Kitapçı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_sign_05": {
       "source": "Sorcery Sign - Potion Seller",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Tabela - İksir Satıcısı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_sign_06": {
       "source": "Sorcery Sign - Hanging Parchment",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Tabela - Asılı Parşömen",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_sign_07": {
       "source": "Sorcery Sign - Wooden Roof",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Tabela - Ahşap Çatı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_sign_08": {
       "source": "Sorcery Sign - Tall Stone",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Tabela - Uzun Taş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_sign_09": {
       "source": "Sorcery Sign - Wooden Wide",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Tabela - Ahşap Geniş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_sign_10": {
       "source": "Sorcery Sign - Ornate Gothic",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Tabela - Süslü Gotik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_spider_webs_01": {
       "source": "Giant Spider Web 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek Ağı 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_spider_webs_02": {
       "source": "Giant Spider Web 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek Ağı 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_spider_webs_03": {
       "source": "Giant Spider Web 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek Ağı 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_spider_webs_04": {
       "source": "Giant Spider Web 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek Ağı 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_spider_webs_funnel_01": {
       "source": "Giant Spider Web Funnel",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek Ağı Huni",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_spider_webs_strand_01": {
       "source": "Giant Spider Web Strand",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dev Örümcek Ağı İpliği",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statue_cat_flap": {
       "source": "Cat Statue - Wall",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kedi Heykeli - Duvar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statue_cat_hunched": {
       "source": "Cat Statue - Hunched",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kedi Heykeli - Kamburlu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statue_cat_sitting": {
       "source": "Cat Statue - Guarding",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kedi Heykeli - Nöbette",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statue_toad_body_01": {
       "source": "Toad Statue - Full Body",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kurbağa Heykeli - Tam Gövde",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statue_toad_head_01": {
       "source": "Toad Statue - Head",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kurbağa Heykeli - Baş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_gargoyles_dragon": {
       "source": "Gargoyle Statue - Protruding Dragon",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çörten Heykeli - Çıkıntılı Ejder",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_gargoyles_feline": {
       "source": "Gargoyle Statue - Feline",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çörten Heykeli - Kedigil",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_gargoyles_gryphon": {
       "source": "Gargoyle Statue - Gryphon",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çörten Heykeli - Grifon",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_gargoyles_perched": {
       "source": "Gargoyle Statue - Perched",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çörten Heykeli - Tüneyen",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_plaques_backplate_01": {
       "source": "Gothic Plaque - Base 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Gotik Plaket - Taban 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_plaques_backplate_02": {
       "source": "Gothic Plaque - Base 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Gotik Plaket - Taban 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_plaques_backplate_03": {
       "source": "Gothic Plaque - Base 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Gotik Plaket - Taban 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_plaques_gargoyle_01": {
       "source": "Gothic Plaque - Gargoyle",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Gotik Plaket - Çörten",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_plaques_gargoyle_02": {
       "source": "Gothic Plaque - Gargoyle Happy",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Gotik Plaket - Çörten Mutlu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_plaques_gargoyle_03": {
       "source": "Gothic Plaque - Gargoyle Profile",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Gotik Plaket - Çörten Profili",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_plaques_gargoyle_left": {
       "source": "Gothic Plaque - Gargoyle Left",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Gotik Plaket - Çörten Sol",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_plaques_gargoyle_right": {
       "source": "Gothic Plaque - Gargoyle Right",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Gotik Plaket - Çörten Sağ",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_spiders_hanging": {
       "source": "Spider Statue - Hanging",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Örümcek Heykeli - Asılı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_spiders_hiding": {
       "source": "Spider Statue - Hiding",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Örümcek Heykeli - Saklı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_spiders_perched": {
       "source": "Spider Statue - Perched",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Örümcek Heykeli - Tüneyen",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_wizard_founder_mage": {
       "source": "Sorcerer Bust 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Büstü 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_wizard_founder_warlock": {
       "source": "Sorcerer Bust 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Büstü 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_wizard_founder_witch": {
       "source": "Sorcerer Bust 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Büstü 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_wizard_mask_sorcerer": {
       "source": "Sorcerer Statue - Face 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Heykeli - Yüz 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_wizard_mask_warlock": {
       "source": "Sorcerer Statue - Face 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Heykeli - Yüz 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_wizard_mask_witch": {
       "source": "Sorcerer Statue - Face 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Heykeli - Yüz 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_statues_wizard_robed": {
       "source": "Sorcerer Statue - Robes",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Heykeli - Cüppeli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_beam_4m": {
       "source": "Townhouse - Beam 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Kiriş 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_beam_4m_curved": {
       "source": "Townhouse - Beam 4m Curved",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Kiriş 4m Kavisli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_beam_8m": {
       "source": "Townhouse - Beam 8m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Kiriş 8m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_beam_8m_curved": {
       "source": "Townhouse - Beam 8m Curved",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Kiriş 8m Kavisli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_chimney_01": {
       "source": "Townhouse - Chimney 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Baca 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_chimney_02": {
       "source": "Townhouse - Chimney 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Baca 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_chimney_03": {
       "source": "Townhouse - Chimney 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Baca 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_gable_01": {
       "source": "Townhouse - Small Wooden Gable",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Küçük Ahşap Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_gable_02": {
       "source": "Townhouse - Tall Wooden Gable",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Uzun Ahşap Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_gable_03": {
       "source": "Townhouse - Raised Stone Gable",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Yüksek Taş Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_gable_04": {
       "source": "Townhouse - Pointy Stone Gable",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Sivri Taş Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_gable_04_tall": {
       "source": "Townhouse - Tall Stone Gable",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Uzun Taş Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_gable_05": {
       "source": "Townhouse - Tall Decorative Gable",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Uzun Süslü Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_gable_06": {
       "source": "Townhouse - Large Decorative Gable",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Büyük Süslü Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_pillar_01": {
       "source": "Townhouse - Pillar 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Sütun 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_pillar_02": {
       "source": "Townhouse - Pillar 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Sütun 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_architecture_wall_wooden_01": {
       "source": "Townhouse - Half-timbering Decoration",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi - Ahşap İskelet Dekorasyonu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_floor": {
       "source": "Townhouse Brick Floor",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Zemin",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_floor_quarter": {
       "source": "Townhouse Brick Floor - Quarter 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Zemin - Çeyrek 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_floor_quarter_02": {
       "source": "Townhouse Brick Floor - Quarter 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Zemin - Çeyrek 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_gabletri_1m": {
       "source": "Townhouse Brick Wall - 1m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - 1m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_gabletri_2m": {
       "source": "Townhouse Brick Wall - 2m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - 2m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_gabletri_4m": {
       "source": "Townhouse Brick Wall - 4m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - 4m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_half_1m": {
       "source": "Townhouse Brick Wall - 1m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - 1m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_half_2m": {
       "source": "Townhouse Brick Wall - 2m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - 2m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_half_4m": {
       "source": "Townhouse Brick Wall - 4m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - 4m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_1m": {
       "source": "Townhouse Brick Wall 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_2m": {
       "source": "Townhouse Brick Wall 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_4m": {
       "source": "Townhouse Brick Wall 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_archextention_4m": {
       "source": "Townhouse Brick Wall - Arch Extension",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Kemer Uzatma",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_archround_4m": {
       "source": "Townhouse Brick Wall - Arch 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Kemer 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_archstraight_4m": {
       "source": "Townhouse Brick Wall - Arch 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Kemer 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_cap": {
       "source": "Townhouse Brick Wall - Ridge Cap",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Sırt Kapağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_curve": {
       "source": "Townhouse Brick Wall - 4 x 2m Curved Slope",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - 4 x 2m Kavisli Eğim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_curve_inverse": {
       "source": "Townhouse Brick Wall - 4 x 2m Inverse Slope",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - 4 x 2m Ters Eğim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_door_4m": {
       "source": "Townhouse Brick Wall - With Door",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Kapılı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_largewindow_4m": {
       "source": "Townhouse Brick Wall - Large Window",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Büyük Pencere",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_shopfront": {
       "source": "Townhouse Brick Wall - Shop Front",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Dükkan Önü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_slope_1m": {
       "source": "Townhouse Brick Wall - Slope 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Eğim 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_slope_2m": {
       "source": "Townhouse Brick Wall - Slope 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Eğim 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_slope_4m": {
       "source": "Townhouse Brick Wall - Slope 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Eğim 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_station_surround_01": {
       "source": "Townhouse Brick Wall - Station Surround 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - İstasyon Çevresi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_merge_station_surround_02": {
       "source": "Townhouse Brick Wall - Station Surround 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - İstasyon Çevresi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_round_1m": {
       "source": "Townhouse Brick Wall - Round 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Yuvarlak 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_round_2m": {
       "source": "Townhouse Brick Wall - Round 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Yuvarlak 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_town_round_4m": {
       "source": "Townhouse Brick Wall - Round 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Yuvarlak 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_bark_01": {
       "source": "Tree Giant - Bark 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Kabuk 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_bark_02": {
       "source": "Tree Giant - Bark 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Kabuk 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_bark_03": {
       "source": "Tree Giant - Bark 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Kabuk 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_bark_04": {
       "source": "Tree Giant - Bark 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Kabuk 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_branch_01": {
       "source": "Tree Giant - Branch 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Dal 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_branch_02": {
       "source": "Tree Giant - Branch 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Dal 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_branch_03": {
       "source": "Tree Giant - Branch 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Dal 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_branch_04": {
       "source": "Tree Giant - Branch 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Dal 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_branch_05": {
       "source": "Tree Giant - Branch 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Dal 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_branch_06": {
       "source": "Tree Giant - Branch 6",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Dal 6",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_face_01": {
       "source": "Tree Giant - Head 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Baş 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_face_02": {
       "source": "Tree Giant - Head 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Baş 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_face_03": {
       "source": "Tree Giant - Head 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Baş 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_face_04": {
       "source": "Tree Giant - Head 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Baş 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_trunk_01": {
       "source": "Tree Giant - Trunk 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Gövde 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_trunk_02": {
       "source": "Tree Giant - Trunk 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Gövde 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_trunk_03": {
       "source": "Tree Giant - Trunk 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Gövde 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_trunk_04": {
       "source": "Tree Giant - Trunk 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Gövde 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_trunk_05": {
       "source": "Tree Giant - Trunk 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Gövde 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_treefolk_trunk_06": {
       "source": "Tree Giant - Trunk 6",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Dev - Gövde 6",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_villager_animatronic01": {
       "source": "Spellcaster 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_villager_animatronic02": {
       "source": "Spellcaster 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_villager_animatronic03": {
       "source": "Spellcaster 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_walltrim_01": {
       "source": "Townhouse Brick Wall - Plaster Trim",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Tuğla Duvar - Sıva Süsü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_walltrim_02": {
       "source": "Keep Stone Wall - Trim",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Taş Duvar - Süs",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_web_entangled_female": {
       "source": "Entangled Guest 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Tuzağa Düşmüş Ziyaretçi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_web_entangled_male": {
       "source": "Entangled Guest 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Tuzağa Düşmüş Ziyaretçi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_window_06": {
       "source": "Townhouse Window - Bay Single",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Pencere - Cumba Tekli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_window_07": {
       "source": "Townhouse Window - Bay Double",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Pencere - Cumba Çift",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_windows_01": {
       "source": "Townhouse Window - Wooden Double Arched",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Pencere - Ahşap Çift Kemerli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_windows_02": {
       "source": "Townhouse Window - Wooden Single",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şehir Evi Pencere - Ahşap Tekli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_windows_03": {
       "source": "Keep Window - Triple Arched",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Pencere - Üçlü Kemerli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_windows_04": {
       "source": "Keep Window - Tall Cross-hatch Paned",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Pencere - Uzun Çapraz Kafesli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_sc_windows_05": {
       "source": "Keep Window - Rose Tracery",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şato Pencere - Gül Şebekesi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_childcoaster": {
       "source": "Child Coaster",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çocuk Hız Treni",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_childcoaster_desc": {
       "source": "A fan-favourite coaster that's fun for guests of all ages!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Her yaştan ziyaretçinin hayran kaldığı eğlenceli bir hız treni!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_childcoasterreturn": {
       "source": "Child Coaster Return",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çocuk Hız Treni Dönüşlü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_childcoasterreturn_desc": {
       "source": "A fan-favourite, all-ages coaster that's fun in both directions!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Her iki yönde de eğlenen, her yaşa hitap eden favori hız treni!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_raidcoaster": {
       "source": "LSM Raid Coaster",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "LSM Akın Hız Treni",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_raidcoaster_desc": {
       "source": "A dynamic coaster offering switch tracks, and dual-direction launch pieces to propel your guests this way and that!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Makas rayları ve ziyaretçileri bir o yana bir bu yana fırlatan çift yönlü fırlatma parçaları sunan dinamik bir hız treni!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_steellaunched": {
       "source": "Bike and Sidecar Coaster",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Motosiklet ve Sepet Hız Treni",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_cc_steellaunched_desc": {
       "source": "A launched steel coaster with motorcycle and sidecar styled trains.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Motosiklet ve yan sepetli stilde trenleri olan fırlatmalı çelik hız treni.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_model_childcoasterreturn": {
       "source": "Child Coaster Return",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çocuk Hız Treni Dönüşlü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_model_raidcoaster": {
       "source": "LSM Raid Coaster",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "LSM Akın Hız Treni",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_model_steellaunched": {
       "source": "Bike and Sidecar Coaster",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Motosiklet ve Sepet Hız Treni",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_type_cc_childcoaster": {
       "source": "Child Coaster",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çocuk Hız Treni",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_type_cc_childcoasterreturn": {
       "source": "Child Coaster Return",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çocuk Hız Treni Dönüşlü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_type_cc_raidcoaster": {
       "source": "LSM Raid Coaster",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "LSM Akın Hız Treni",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "coaster_type_cc_steellaunched": {
       "source": "Bike and Sidecar Coaster",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Motosiklet ve Sepet Hız Treni",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "fr_flyingtheatre": {
       "source": "Flying Theatre",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uçuş Tiyatrosu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "fr_flyingtheatre_desc": {
       "source": "Glide through another world on this immersive cinema experience.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Sürükleyici sinema deneyiminde başka bir dünyada süzül.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "fr_flyingtheatre_prefix": {
       "source": "Flying Theatre",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Uçuş Tiyatrosu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "fr_galeforce": {
       "source": "Gale Force",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Gale Force",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "fr_galeforce_desc": {
       "source": "Crank up the fun with a ride on this swinging pendulum!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Sallanan sarkaca binerek eğlenceyi zirveye taşı!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "fr_galeforce_prefix": {
       "source": "Gale Force",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Gale Force",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_archway_01": {
       "source": "Sorcery Archway 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kemeri 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_archway_01_desc": {
       "source": "Sorcery themed archway",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı kemer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_archway_02": {
       "source": "Sorcery Archway 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kemeri 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_archway_02_desc": {
       "source": "Sorcery themed archway",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı kemer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_archway_03": {
       "source": "Sorcery Archway 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Kemeri 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_archway_03_desc": {
       "source": "Sorcery themed archway",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı kemer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_01": {
       "source": "Sorcery Building 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Binası 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_01_desc": {
       "source": "Sorcery themed building",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı bina",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_02": {
       "source": "Sorcery Building 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Binası 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_02_desc": {
       "source": "Sorcery themed building",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı bina",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_03": {
       "source": "Sorcery Building 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Binası 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_03_desc": {
       "source": "Sorcery themed building",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı bina",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_04": {
       "source": "Sorcery Building 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Binası 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_04_desc": {
       "source": "Sorcery themed building",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı bina",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_05": {
       "source": "Sorcery Building 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Binası 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_05_desc": {
       "source": "Sorcery themed building",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı bina",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_06": {
       "source": "Sorcery Building 6",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Binası 6",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_06_desc": {
       "source": "Sorcery themed building",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı bina",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_07": {
       "source": "Sorcery Building 7",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Binası 7",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_07_desc": {
       "source": "Sorcery themed building",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı bina",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_08": {
       "source": "Sorcery Building 8",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Binası 8",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_building_08_desc": {
       "source": "Sorcery themed building",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı bina",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_centrepiece_01": {
       "source": "Sorcery Centrepiece 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Merkez Parça 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_centrepiece_01_desc": {
       "source": "Sorcery themed centrepiece",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı merkez parça",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_centrepiece_02": {
       "source": "Sorcery Centrepiece 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Merkez Parça 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_centrepiece_02_desc": {
       "source": "Sorcery themed centrepiece",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı merkez parça",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_centrepiece_03": {
       "source": "Sorcery Centrepiece 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Merkez Parça 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_centrepiece_03_desc": {
       "source": "Sorcery themed centrepiece",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı merkez parça",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_centrepiece_04": {
       "source": "Sorcery Centrepiece 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Merkez Parça 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_centrepiece_04_desc": {
       "source": "Sorcery themed centrepiece",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı merkez parça",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_centrepiece_05": {
       "source": "Sorcery Centrepiece 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Merkez Parça 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_centrepiece_05_desc": {
       "source": "Sorcery themed centrepiece",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı merkez parça",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_dressing_01": {
       "source": "Sorcery Dressing 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Süsleme 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_dressing_01_desc": {
       "source": "Sorcery themed dressing",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı süsleme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_dressing_02": {
       "source": "Sorcery Dressing 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Süsleme 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_dressing_02_desc": {
       "source": "Sorcery themed dressing",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı süsleme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_dressing_03": {
       "source": "Sorcery Dressing 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Süsleme 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_dressing_03_desc": {
       "source": "Sorcery themed dressing",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı süsleme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_dressing_04": {
       "source": "Sorcery Dressing 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Süsleme 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_dressing_04_desc": {
       "source": "Sorcery themed dressing",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı süsleme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_dressing_05": {
       "source": "Sorcery Dressing 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Süsleme 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_dressing_05_desc": {
       "source": "Sorcery themed dressing",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı süsleme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_guest_facilities_medium_01": {
       "source": "Sorcery Guest Facilities - Medium Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Ziyaretçi Tesisleri - Orta Kabuk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_guest_facilities_medium_01_desc": {
       "source": "Sorcery themed guest facilities shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı ziyaretçi tesisleri kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_guest_facilities_small_01": {
       "source": "Sorcery Guest Facilities - Small Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Ziyaretçi Tesisleri - Küçük Kabuk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_guest_facilities_small_01_desc": {
       "source": "Sorcery themed guest facilities shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı ziyaretçi tesisleri kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_shop_medium_01": {
       "source": "Sorcery Shop - Medium Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Dükkanı - Orta Kabuk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_shop_medium_01_desc": {
       "source": "Sorcery themed shop shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı dükkan kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_shop_small_01": {
       "source": "Sorcery Shop - Small Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Dükkanı - Küçük Kabuk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_shop_small_01_desc": {
       "source": "Sorcery themed shop shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı dükkan kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_staff_facilities_large_01": {
       "source": "Sorcery Staff Facilities - Large Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Personel Tesisleri - Büyük Kabuk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_staff_facilities_large_01_desc": {
       "source": "Sorcery themed staff facilities shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı personel tesisleri kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_staff_facilities_medium_01": {
       "source": "Sorcery Staff Facilities - Medium Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Personel Tesisleri - Orta Kabuk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_staff_facilities_medium_01_desc": {
       "source": "Sorcery themed staff facilities shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı personel tesisleri kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_staff_facilities_small_01": {
       "source": "Sorcery Staff Facilities - Small Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü Personel Tesisleri - Küçük Kabuk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sc_staff_facilities_small_01_desc": {
       "source": "Sorcery themed staff facilities shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyü temalı personel tesisleri kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_flyingtheatre_gentlesway": {
       "source": "Gentle Sway",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yumuşak Salınım",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_flyingtheatre_riseandfall": {
       "source": "Rise and Fall",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yükseliş ve Düşüş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_flyingtheatre_riseandfallfast": {
       "source": "Rise and Fall Fast",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Hızlı Yükseliş ve Düşüş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_flyingtheatre_risebackwadsandfallfast": {
       "source": "Rise Backwards and Fall Fast",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Geri Yükseliş ve Hızlı Düşüş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_flyingtheatre_risebackwardsandfall": {
       "source": "Rise Backwards and Fall",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Geri Yükseliş ve Düşüş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_flyingtheatre_rockbackandforth": {
       "source": "Rock Back and Forth",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "İleri Geri Sallan",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_flyingtheatre_shudder": {
       "source": "Shudder",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Titreme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_flyingtheatre_still": {
       "source": "Still",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Sabit",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_flyingtheatre_swing": {
       "source": "Swing",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Salınım",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_flyingtheatre_swingreverse": {
       "source": "Swing Reverse",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ters Salınım",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_flyingtheatre_turbulentsway": {
       "source": "Turbulent Sway",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çalkantılı Salınım",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_galeforce_backwardroll": {
       "source": "1 Backward Cabin Rotation",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "1 Geri Kabin Dönüşü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_galeforce_backwardroll02": {
       "source": "2 Backward Cabin Rotations",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "2 Geri Kabin Dönüşü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_galeforce_backwardroll02forwardroll02": {
       "source": "2 Backwards and 2 Forward Cabin Rotations",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "2 Geri ve 2 İleri Kabin Dönüşü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_galeforce_backwardroll03": {
       "source": "3 Backward Cabin Rotations",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "3 Geri Kabin Dönüşü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_galeforce_backwardroll04": {
       "source": "4 Backward Cabin Rotations",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "4 Geri Kabin Dönüşü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_galeforce_forwardroll": {
       "source": "1 Forward Cabin Rotation",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "1 İleri Kabin Dönüşü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_galeforce_forwardroll02": {
       "source": "2 Forward Cabin Rotations",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "2 İleri Kabin Dönüşü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_galeforce_forwardroll02backwardroll02": {
       "source": "2 Forward and 2 Backward Cabin Rotations",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "2 İleri ve 2 Geri Kabin Dönüşü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_galeforce_forwardroll03": {
       "source": "3 Forward Cabin Rotations",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "3 İleri Kabin Dönüşü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_galeforce_forwardroll04": {
       "source": "4 Forward Cabin Rotations",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "4 İleri Kabin Dönüşü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "sequence_fr_galeforce_swingnoroll": {
       "source": "Swing with no Cabin Rotation",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kabin Dönüşü Olmadan Salınım",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "shopitem_guesthat_sorcery": {
       "source": "Spellcaster's Hat",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Büyücü Şapkası",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "shopitem_guesthat_sorcery_desc": {
       "source": "A stylish, pointed hat that's probably not the source of unfathomable magical power.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Sivri uçlu şık bir şapka; muhtemelen anlaşılmaz büyülü güçlerin kaynağı değil.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_wizard": {
       "source": "Vesper",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vesper",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_wizard_desc": {
       "source": "Powerful sorcerer",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güçlü büyücü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "staff_wizardam": {
       "source": "Vesper",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vesper",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "train_cc_childcoaster": {
       "source": "Vector <b>Child Coaster</b>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vector <b>Çocuk Hız Treni</b>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "train_cc_childcoasterreturn": {
       "source": "Vector <b>Child Coaster Return</b>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vector <b>Çocuk Hız Treni Dönüşlü</b>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "train_cc_childcoasterstock": {
       "source": "Vector <b>Child Coaster (Standard)</b>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vector <b>Çocuk Hız Treni (Standart)</b>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "train_cc_raidcoaster": {
       "source": "Outamax <b>LSM Raid Coaster</b>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Outamax <b>LSM Akın Hız Treni</b>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "train_cc_raidcoasterstock": {
       "source": "Outamax <b>LSM Raid Coaster (Standard)</b>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Outamax <b>LSM Akın Hız Treni (Standart)</b>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "train_cc_steellaunched": {
       "source": "Outamax <b>Bike and Sidecar Coaster</b>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Outamax <b>Motosiklet ve Sepet Hız Treni</b>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "train_cc_steellaunchedstock": {
       "source": "Outamax <b>Bike and Sidecar Coaster (Standard)</b>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Outamax <b>Motosiklet ve Sepet Hız Treni (Standart)</b>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""

@@ -9,2160 +9,2160 @@
   "strings": {
     "buildingpartname_hol_band": {
       "source": "Festive Duet",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Düeti",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_bauble": {
       "source": "Bauble - Frosted Sphere",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Süs Topu - Buzlu Küre",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_bell_01": {
       "source": "Decorative Bell - Plain",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dekoratif Çan - Sade",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_bell_02": {
       "source": "Decorative Bell - Ribbon",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dekoratif Çan - Kurdeleli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_candycanes_large": {
       "source": "Confectionery - Candy Cane Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Şeker Kamışı Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_candycanes_medium": {
       "source": "Confectionery - Candy Cane Medium",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Şeker Kamışı Orta",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_candycanes_small": {
       "source": "Confectionery - Candy Cane Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Şeker Kamışı Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_chocolate_cup": {
       "source": "Confectionery - Chocolate Cup",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Çikolata Kabı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_chocolate_disc": {
       "source": "Confectionery - Chocolate Disc Plain",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Çikolata Disk Sade",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_chocolate_disc_sprinkles": {
       "source": "Confectionery - Chocolate Disc Sprinkles",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Çikolata Disk Granüllü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_chocolate_disc_white": {
       "source": "Confectionery - White Chocolate Disc Plain",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Beyaz Çikolata Disk Sade",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_chocolate_disc_white_sprinkles": {
       "source": "Confectionery - White Chocolate Disc Sprinkles",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Beyaz Çikolata Disk Granüllü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_chocolate_heart": {
       "source": "Confectionery - Chocolate Heart",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Çikolata Kalp",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_chocolate_slice": {
       "source": "Confectionery - Chocolate Slice",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Çikolata Dilim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_chocolatedippedshortbread": {
       "source": "Confectionery - Chocolate Dipped Shortbread",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Çikolata Kaplı Tereyağlı Kurabiye",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_chocolatefinger": {
       "source": "Confectionery - Chocolate Dipped Finger",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Çikolata Kaplı Parmak Kurabiye",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_chocolatefingerdark": {
       "source": "Confectionery - Chocolate Dipped Finger Dark",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Bitter Çikolata Kaplı Parmak Kurabiye",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_chocolatefingerwhite": {
       "source": "Confectionery - Chocolate Dipped Finger White",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Beyaz Çikolata Kaplı Parmak Kurabiye",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_christmastree_01": {
       "source": "Christmas Tree - Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Ağacı - Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_christmastree_02": {
       "source": "Christmas Tree - Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Ağacı - Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_cn_01": {
       "source": "Festive Picnic Canopy",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Piknik Tenti",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_coconut_cube": {
       "source": "Confectionery - Coconut Cube",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Hindistan Cevizi Küp",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_coconut_cube_pink": {
       "source": "Confectionery - Coconut Cube Pink",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Hindistan Cevizi Küp Pembe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_coconutslice": {
       "source": "Confectionery - Coconut Slice",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Hindistan Cevizi Dilimi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_complexbauble": {
       "source": "Bauble - Lantern",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Süs Topu - Fener",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_conewafer": {
       "source": "Confectionery - Wafer Fan",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Gofret Yelpaze",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_curvedbauble": {
       "source": "Bauble - Ball",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Süs Topu - Yuvarlak",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_decoration_light_01": {
       "source": "Festive Sign - Bauble Lit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Tabelası - Süs Topu Işıklı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_decoration_light_02": {
       "source": "Festive Sign - Falling Star Lit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Tabelası - Kayan Yıldız Işıklı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_decoration_light_03": {
       "source": "Festive Sign - Star 2 Lit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Tabelası - Yıldız 2 Işıklı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_decoration_light_04": {
       "source": "Festive Sign - Star 1 Lit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Tabelası - Yıldız 1 Işıklı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_decoration_light_05": {
       "source": "Festive Sign - Scroll Lit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Tabelası - Kıvrık Yazı Işıklı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_diskwafer": {
       "source": "Confectionery - Wafer Disc",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Gofret Disk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_door_01": {
       "source": "Gingerbread Icing - Door 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kapı 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_door_02": {
       "source": "Gingerbread Icing - Door 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kapı 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_door_03": {
       "source": "Gingerbread Icing - Door 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kapı 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_door_04": {
       "source": "Gingerbread Icing - Door 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kapı 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_door_05": {
       "source": "Gingerbread Icing - Door 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kapı 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_door_06": {
       "source": "Gingerbread Icing - Door 6",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kapı 6",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_door_07": {
       "source": "Gingerbread Icing - Door 7",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kapı 7",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_curved_loose_4m": {
       "source": "Fairy Lights - Variable Curved 4m Loose",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Değişken Kıvrık 4m Sarkık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_curved_straight_4m": {
       "source": "Fairy Lights - Variable Curved 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Değişken Kıvrık 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_loose_1m": {
       "source": "Fairy Lights - Variable 1m Loose",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Değişken 1m Sarkık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_loose_2m": {
       "source": "Fairy Lights - Variable 2m Loose",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Değişken 2m Sarkık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_loose_4m": {
       "source": "Fairy Lights - Variable 4m Loose",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Değişken 4m Sarkık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_still_curved_loose_4m": {
       "source": "Fairy Lights - Constant Curved 4m Loose",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Sabit Kıvrık 4m Sarkık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_still_curved_straight_4m": {
       "source": "Fairy Lights - Constant Curved 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Sabit Kıvrık 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_still_loose_1m": {
       "source": "Fairy Lights - Constant 1m Loose",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Sabit 1m Sarkık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_still_loose_2m": {
       "source": "Fairy Lights - Constant 2m Loose",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Sabit 2m Sarkık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_still_loose_4m": {
       "source": "Fairy Lights - Constant 4m Loose",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Sabit 4m Sarkık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_still_straight_1m": {
       "source": "Fairy Lights - Constant 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Sabit 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_still_straight_2m": {
       "source": "Fairy Lights - Constant 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Sabit 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_still_straight_4m": {
       "source": "Fairy Lights - Constant 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Sabit 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_straight_1m": {
       "source": "Fairy Lights - Variable 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Değişken 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_straight_2m": {
       "source": "Fairy Lights - Variable 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Değişken 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fairylights_straight_4m": {
       "source": "Fairy Lights - Variable 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Işıkları - Değişken 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fakesnowpatches": {
       "source": "Artificial Snow - 4m x 4m Square",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yapay Kar - 4m x 4m Kare",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fakesnowpatches2": {
       "source": "Artificial Snow - 4m x 4m Square Top Surface",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yapay Kar - 4m x 4m Kare Üst Yüzey",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fakesnowpatches3": {
       "source": "Artificial Snow - 2m x 2m Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yapay Kar - 2m x 2m Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fakesnowpatches4": {
       "source": "Artificial Snow - 2m x 2m Curved Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yapay Kar - 2m x 2m Kıvrık Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fakesnowpatches5": {
       "source": "Artificial Snow - 4m x 4m Quarter Circle Top Surface",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yapay Kar - 4m x 4m Çeyrek Daire Üst Yüzey",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fakesnowpatches6": {
       "source": "Artificial Snow - 4m x 1m Rectangle",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yapay Kar - 4m x 1m Dikdörtgen",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fakesnowpatches7": {
       "source": "Artificial Snow - 4m x 1m Rectangle Ridge",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yapay Kar - 4m x 1m Dikdörtgen Sırt",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_fakesnowpatches8": {
       "source": "Artificial Snow - Spread Lump",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yapay Kar - Dağınık Yığın",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gbread_arch_tunnel": {
       "source": "Gingerbread Wall - Round Arch Tunnel",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Yuvarlak Kemer Tünel",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gbread_archhalf_tunnel": {
       "source": "Gingerbread Wall - Half Arch Tunnel",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Yarım Kemer Tünel",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gbread_chimney_01": {
       "source": "Gingerbread Column",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Sütun",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gbread_door": {
       "source": "Gingerbread Cutout - Door 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Kesim - Kapı 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gbread_door_02": {
       "source": "Gingerbread Cutout - Door 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Kesim - Kapı 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gbread_heart": {
       "source": "Gingerbread Cutout - Heart",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Kesim - Kalp",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gbread_oblong_1m": {
       "source": "Gingerbread Oblong 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Dikdörtgen 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gbread_oblong_2m": {
       "source": "Gingerbread Oblong 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Dikdörtgen 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gbread_oblong_4m": {
       "source": "Gingerbread Oblong 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Dikdörtgen 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gift_01": {
       "source": "Festive Gift 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Hediyesi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gift_02": {
       "source": "Festive Gift 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Hediyesi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gift_03": {
       "source": "Festive Gift 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Hediyesi 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gift_04": {
       "source": "Festive Gift 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Hediyesi 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gift_05": {
       "source": "Festive Gift 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Hediyesi 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gift_06": {
       "source": "Festive Gift 6",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Hediyesi 6",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gift_07": {
       "source": "Festive Gift 7",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Hediyesi 7",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gift_08": {
       "source": "Festive Gift 8",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Hediyesi 8",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gift_09": {
       "source": "Festive Gift 9",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Hediyesi 9",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gingerbread_child": {
       "source": "Gingerbread Figure - Child",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Figür - Çocuk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gingerbread_deer": {
       "source": "Gingerbread Figure - Deer",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Figür - Geyik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gingerbread_man": {
       "source": "Gingerbread Figure - Man",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Figür - Erkek",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gingerbread_santa": {
       "source": "Gingerbread Figure - Santa",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Figür - Noel Baba",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gingerbread_tree": {
       "source": "Gingerbread Figure - Tree",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Figür - Ağaç",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_gingerbread_woman": {
       "source": "Gingerbread Figure - Woman",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Figür - Kadın",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icedgem": {
       "source": "Confectionery - Iced Biscuit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Kremalı Bisküvi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_bricks": {
       "source": "Gingerbread Icing - Bricks",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Tuğlalar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_canes": {
       "source": "Gingerbread Icing - Canes",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kamışlar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_comma_large": {
       "source": "Gingerbread Icing - Comma Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Virgül Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_comma_small": {
       "source": "Gingerbread Icing - Comma Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Virgül Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_doubleswirl": {
       "source": "Gingerbread Icing - Double Swirl",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Çift Kıvrım",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_droplets": {
       "source": "Gingerbread Icing - Droplets",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Damlalar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_heart_bead_01": {
       "source": "Gingerbread Icing - Heart Bead",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kalp Boncuk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_holly": {
       "source": "Gingerbread Icing - Holly",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Çoban Püskülü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_leaves": {
       "source": "Gingerbread Icing - Leaves",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Yapraklar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_scallops": {
       "source": "Gingerbread Icing - Scallop Tile 4m Line",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Tarak Desen 4m Çizgi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_star_large": {
       "source": "Gingerbread Icing - Star Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Yıldız Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_star_small": {
       "source": "Gingerbread Icing - Star Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Yıldız Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_stardots": {
       "source": "Gingerbread Icing - Dots",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Noktalar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_swirl_large": {
       "source": "Gingerbread Icing - Swirl Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kıvrım Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_swirl_medium": {
       "source": "Gingerbread Icing - Swirl Medium",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kıvrım Orta",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_swirl_small": {
       "source": "Gingerbread Icing - Swirl Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Kıvrım Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_tile": {
       "source": "Gingerbread Icing - Scallop Tile Single",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Tarak Desen Tekli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_tile_group": {
       "source": "Gingerbread Icing - Scallop Tile Group",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Tarak Desen Grup",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingdec_zigzag": {
       "source": "Gingerbread Icing - Zigzag 4m Line",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Zikzak 4m Çizgi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingtrims_curved_1m": {
       "source": "Icing - Trim Curved 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Krema - Kıvrık Kenarlık 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingtrims_curved_2m": {
       "source": "Icing - Trim Curved 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Krema - Kıvrık Kenarlık 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingtrims_curved_4m": {
       "source": "Icing - Trim Curved 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Krema - Kıvrık Kenarlık 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingtrims_icicle_1m": {
       "source": "Icing - Icicle 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Krema - Buz Sarkıtı 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingtrims_icicle_2m": {
       "source": "Icing - Icicle 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Krema - Buz Sarkıtı 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingtrims_icicle_2m_double": {
       "source": "Icing - Icicle 2m Double",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Krema - Buz Sarkıtı 2m Çift",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingtrims_icicle_4m": {
       "source": "Icing - Icicle 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Krema - Buz Sarkıtı 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingtrims_straight_1m": {
       "source": "Icing - Trim 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Krema - Kenarlık 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingtrims_straight_2m": {
       "source": "Icing - Trim 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Krema - Kenarlık 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_icingtrims_straight_4m": {
       "source": "Icing - Trim 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Krema - Kenarlık 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_jammydodger": {
       "source": "Confectionery - Jammy Biscuit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Reçelli Bisküvi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_jelly_gem": {
       "source": "Confectionery - Jelly Gem",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Jöle Taş",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_lampbauble": {
       "source": "Bauble - Lampshade",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Süs Topu - Abajur",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_lollipop_01": {
       "source": "Confectionery - Candy Lollipop 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Şekerli Lolipop 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_lollipop_02": {
       "source": "Confectionery - Candy Lollipop 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Şekerli Lolipop 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_macaron": {
       "source": "Confectionery - Macaron",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Makaron",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_maltedmilk": {
       "source": "Confectionery - Malted Biscuit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Maltlı Bisküvi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_marshmallow_half": {
       "source": "Marshmallow Face - Grin",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Marshmallow Yüzü - Sırıtma",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_marshmallow_happy": {
       "source": "Marshmallow Face - Happy Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Marshmallow Yüzü - Mutlu Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_marshmallow_not_impressed": {
       "source": "Marshmallow Face - Moody",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Marshmallow Yüzü - Somurtkan",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_marshmallow_shocked": {
       "source": "Marshmallow Face - Shocked",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Marshmallow Yüzü - Şaşkın",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_marshmallow_small_happy": {
       "source": "Marshmallow Face - Happy Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Marshmallow Yüzü - Mutlu Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_marshmallow_twist": {
       "source": "Confectionery - Marshmallow Twist Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Marshmallow Burma Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_marshmallow_twist_1m": {
       "source": "Confectionery - Marshmallow Twist Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Marshmallow Burma Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_marshmallow_unhappy": {
       "source": "Marshmallow Face - Sad",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Marshmallow Yüzü - Üzgün",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_molasses_chew": {
       "source": "Confectionery - Molasses Chew",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Pekmez Sakız",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_nutcracker_01": {
       "source": "Soldier Puppet 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Kuklası 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_nutcracker_02": {
       "source": "Soldier Puppet 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Asker Kuklası 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_pinecone": {
       "source": "Bauble - Pine Cone",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Süs Topu - Çam Kozalağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_pn_01": {
       "source": "Festive Picnic Table",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Piknik Masası",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_pretzel": {
       "source": "Confectionery - Pretzel",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Çubuk Kraker",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_ribbon_01": {
       "source": "Decorative Ribbon - Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dekoratif Kurdele - Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_ribbon_02": {
       "source": "Decorative Ribbon - Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Dekoratif Kurdele - Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_02": {
       "source": "Gingerbread Roof - Double Curve",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Çift Kıvrım",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_02_overhang_1m": {
       "source": "Gingerbread Roof - Double Curve Overhang",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Çift Kıvrım Çıkıntı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_1m": {
       "source": "Gingerbread Roof - Ridge 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Sırt 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_2m": {
       "source": "Gingerbread Roof - Ridge 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Sırt 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_4m": {
       "source": "Gingerbread Roof - Ridge 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Sırt 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_flat": {
       "source": "Gingerbread Roof - Flat",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_flatqtrcirc": {
       "source": "Gingerbread Roof - Flat Quarter",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Düz Çeyrek",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_overhang_1m": {
       "source": "Gingerbread Roof - Ridge 1m Overhang",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Sırt 1m Çıkıntı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_overhang_2m": {
       "source": "Gingerbread Roof - Ridge 2m Overhang",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Sırt 2m Çıkıntı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_overhang_4m": {
       "source": "Gingerbread Roof - Ridge 4m Overhang",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Sırt 4m Çıkıntı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_qtrcone": {
       "source": "Gingerbread Roof - Quarter Cone",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Çeyrek Koni",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_slope_1m": {
       "source": "Gingerbread Roof - Slope 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Eğim 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_slope_2m": {
       "source": "Gingerbread Roof - Slope 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Eğim 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_slope_4m": {
       "source": "Gingerbread Roof - Slope 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Eğim 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_slope_corner_1m": {
       "source": "Gingerbread Oblong 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Dikdörtgen 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_slope_corner_2m": {
       "source": "Gingerbread Oblong 6",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Dikdörtgen 6",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_slope_eave_1m": {
       "source": "Gingerbread Oblong 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Dikdörtgen 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_roof_gbread_tower": {
       "source": "Gingerbread Roof - Ridge 4m Capped",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Çatı - Sırt 4m Kapaklı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_body_arm_01": {
       "source": "Snowman Body - Arm 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Gövdesi - Kol 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_body_arm_02": {
       "source": "Snowman Body - Arm 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Gövdesi - Kol 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_body_large": {
       "source": "Snowman Body - Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Gövdesi - Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_body_medium": {
       "source": "Snowman Body - Medium",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Gövdesi - Orta",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_body_medium_stretched": {
       "source": "Snowman Body - Medium Stretched",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Gövdesi - Orta Uzatılmış",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_body_small": {
       "source": "Snowman Body - Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Gövdesi - Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_body_small_stretched": {
       "source": "Snowman Body - Small Stretched",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Gövdesi - Küçük Uzatılmış",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_clothing_earmufs": {
       "source": "Snowman Accessory - Earmuffs",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Kulaklık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_clothing_hat_01": {
       "source": "Snowman Accessory - Hat 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Şapka 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_clothing_hat_02": {
       "source": "Snowman Accessory - Hat 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Şapka 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_clothing_hat_03": {
       "source": "Snowman Accessory - Hat 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Şapka 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_clothing_scarf_01": {
       "source": "Snowman Accessory - Scarf 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Atkı 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_coal": {
       "source": "Coal Lump",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kömür Parçası",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_face_cutesmile": {
       "source": "Snowman Face - Cute Smile",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Yüzü - Tatlı Gülümseme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_face_happy": {
       "source": "Snowman Face - Happy",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Yüzü - Mutlu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_face_nose": {
       "source": "Snowman Face - Nose",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Yüzü - Burun",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_face_sad": {
       "source": "Snowman Face - Sad",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Yüzü - Üzgün",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowman_face_surprised": {
       "source": "Snowman Face - Surprised",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Yüzü - Şaşırmış",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowmanprop_bowa": {
       "source": "Snowman Accessory - Bow 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Fiyonk 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowmanprop_bowb": {
       "source": "Snowman Accessory - Bow 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Fiyonk 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowmanprop_bucket": {
       "source": "Snowman Accessory - Bucket",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Kova",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowmanprop_cowboyhat": {
       "source": "Snowman Accessory - Cowboy Hat",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Kovboy Şapkası",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowmanprop_neckerchief": {
       "source": "Snowman Accessory - Neckerchief",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Boyun Mendili",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowmanprop_snowshovel": {
       "source": "Snowman Accessory - Snow Shovel",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Kar Küreği",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_snowmanprop_woolyhat": {
       "source": "Snowman Accessory - Woolly Hat",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Yün Şapka",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sour_strip": {
       "source": "Confectionery - Sour Strip Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Ekşi Şerit Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sour_strips_small": {
       "source": "Confectionery - Sour Strip Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Ekşi Şerit Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_standardpinkwafer": {
       "source": "Confectionery - Wafer Biscuit Pink",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Gofret Bisküvi Pembe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_standardwafer": {
       "source": "Confectionery - Wafer Biscuit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Gofret Bisküvi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_star_01": {
       "source": "Treetop Star - Plain",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Ucu Yıldızı - Sade",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_star_02": {
       "source": "Treetop Star - Glowing",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Ucu Yıldızı - Parlayan",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_star_03": {
       "source": "Treetop Star - Eight Pointed",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Ucu Yıldızı - Sekiz Köşeli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_star_04": {
       "source": "Treetop Star - Giant Lit",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ağaç Ucu Yıldızı - Dev Işıklı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_streetlamp": {
       "source": "Candle Torch",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Mum Meşale",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sugar_coated_choc_button": {
       "source": "Confectionery - Sugar Coated Chocolate Button",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Şeker Kaplı Çikolata Düğme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweetbench_01": {
       "source": "Festive Sweets Bench",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Şeker Bankı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweetbin": {
       "source": "Festive Bin",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Çöp Kutusu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweets_bonbon": {
       "source": "Confectionery - Bonbon",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Bonbon",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweets_candy_corn": {
       "source": "Confectionery - Candy Corn",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Mısır Şeker",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweets_humbug": {
       "source": "Confectionery - Humbug",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Naneli Şeker",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweets_jelly_bean": {
       "source": "Confectionery - Jelly Bean",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Jöle Fasulye",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweets_jelly_buttons": {
       "source": "Confectionery - Jelly Button",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Jöle Düğme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweets_jelly_drop": {
       "source": "Confectionery - Jelly Drop",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Jöle Damla",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweets_marshmallow_01": {
       "source": "Confectionery - Marshmallow 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Marshmallow 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweets_marshmallow_02": {
       "source": "Confectionery - Marshmallow 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Marshmallow 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweets_scarf": {
       "source": "Snowman Accessory - Scarf 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kardan Adam Aksesuarı - Atkı 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_sweets_strawberries_cream": {
       "source": "Confectionery - Strawberry Cream",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Çilekli Krema",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_taperedbauble": {
       "source": "Bauble - Tapered",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Süs Topu - İncelen",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_teardropbauble": {
       "source": "Bauble - Teardrop",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Süs Topu - Damla",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_thinwafer": {
       "source": "Confectionery - Wafer Rectangle",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Gofret Dikdörtgen",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_treebauble": {
       "source": "Bauble - Tree",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Süs Topu - Ağaç",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_truffle_a": {
       "source": "Confectionery - Truffle 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Trüf 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_truffle_b": {
       "source": "Confectionery - Truffle 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Trüf 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_truffle_c": {
       "source": "Confectionery - Truffle 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Trüf 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_trumpet": {
       "source": "Trumpet Decoration",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Trompet Dekorasyonu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_tubewafer": {
       "source": "Confectionery - Wafer Straw Chocolate",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Gofret Çubuk Çikolatalı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_viennesefinger": {
       "source": "Confectionery - Viennese Finger",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şekerleme - Vienna Parmak Kurabiye",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_floor": {
       "source": "Gingerbread Floor",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Zemin",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_floor_quarter": {
       "source": "Gingerbread Floor - Quarter 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Zemin - Çeyrek 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_floor_quarter_02": {
       "source": "Gingerbread Floor - Quarter 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Zemin - Çeyrek 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_gabletri_1m": {
       "source": "Gingerbread Wall - 1m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - 1m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_gabletri_2m": {
       "source": "Gingerbread Wall - 2m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - 2m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_gabletri_4m": {
       "source": "Gingerbread Wall - 4m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - 4m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_half_1m": {
       "source": "Gingerbread Wall - 1m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - 1m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_half_2m": {
       "source": "Gingerbread Wall - 2m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - 2m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_half_4m": {
       "source": "Gingerbread Wall - 4m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - 4m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_1m": {
       "source": "Gingerbread Wall 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_2m": {
       "source": "Gingerbread Wall 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_4m": {
       "source": "Gingerbread Wall 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_4m_archwindow": {
       "source": "Gingerbread Wall - Arch Cutout",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Kemer Kesim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_4m_circle": {
       "source": "Gingerbread Wall - Circle Cutout",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Daire Kesim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_4m_heart": {
       "source": "Gingerbread Wall - Heart Cutout",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Kalp Kesim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_archextention_4m": {
       "source": "Gingerbread Wall - Arch Extension",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Kemer Uzatma",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_archhalf": {
       "source": "Gingerbread Wall - Half Arch",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Yarım Kemer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_archround_4m": {
       "source": "Gingerbread Wall - Arch 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Kemer 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_archstraight_4m": {
       "source": "Gingerbread Wall - Arch 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Kemer 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_cap": {
       "source": "Gingerbread Wall - Ridge Cap",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Sırt Kapağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_curve": {
       "source": "Gingerbread Wall - 4 x 2m Curved Slope",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - 4 x 2m Kıvrık Eğim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_curve_inverse": {
       "source": "Gingerbread Wall - 4 x 2m Inverse Slope",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - 4 x 2m Ters Eğim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_door_4m": {
       "source": "Gingerbread Wall - With Door",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Kapılı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_doorway": {
       "source": "Gingerbread Wall - Doorway Cutout",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Kapı Eşiği Kesim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_largewindow_4m": {
       "source": "Gingerbread Wall - Large Window",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Büyük Pencere",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_shopfront": {
       "source": "Gingerbread Wall - Shop Front",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Dükkan Önü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_slope_1m": {
       "source": "Gingerbread Wall - Slope 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Eğim 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_slope_2m": {
       "source": "Gingerbread Wall - Slope 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Eğim 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_slope_4m": {
       "source": "Gingerbread Wall - Slope 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Eğim 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_slope_circle": {
       "source": "Gingerbread Wall - Slope 4m Circle Cutout",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Eğim 4m Daire Kesim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_slope_heart": {
       "source": "Gingerbread Wall - Slope 4m Heart Cutout",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Eğim 4m Kalp Kesim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_station_surround_01": {
       "source": "Gingerbread Wall - Station Surround 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - İstasyon Çevresi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_merge_station_surround_02": {
       "source": "Gingerbread Wall - Station Surround 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - İstasyon Çevresi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_round_1m": {
       "source": "Gingerbread Wall - Round 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Yuvarlak 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_round_2m": {
       "source": "Gingerbread Wall - Round 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Yuvarlak 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wall_gbread_round_4m": {
       "source": "Gingerbread Wall - Round 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Duvar - Yuvarlak 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_window_01": {
       "source": "Gingerbread Icing - Window 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Pencere 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_window_02": {
       "source": "Gingerbread Icing - Window 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Pencere 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_window_03": {
       "source": "Gingerbread Icing - Window 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Pencere 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_window_04": {
       "source": "Gingerbread Icing - Window 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Pencere 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_window_05": {
       "source": "Gingerbread Icing - Window 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Pencere 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_window_07": {
       "source": "Gingerbread Icing - Window 6",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Pencere 6",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_window_08": {
       "source": "Gingerbread Icing - Window 7",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Zencefilli Krema - Pencere 7",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wreath_ringlarge": {
       "source": "Holly Wreath - Ring Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çoban Püskülü Çelengi - Halka Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wreath_ringsmall": {
       "source": "Holly Wreath - Ring Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çoban Püskülü Çelengi - Halka Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wreath_starlarge": {
       "source": "Holly Wreath - Star Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çoban Püskülü Çelengi - Yıldız Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wreath_starsmall": {
       "source": "Holly Wreath - Star Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çoban Püskülü Çelengi - Yıldız Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wreath_straight": {
       "source": "Holly Wreath - Straight",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çoban Püskülü Çelengi - Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wreath_straightendl": {
       "source": "Holly Wreath - Straight End Left",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çoban Püskülü Çelengi - Düz Uç Sol",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wreath_straightendr": {
       "source": "Holly Wreath - Straight End Right",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çoban Püskülü Çelengi - Düz Uç Sağ",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wreath_swaglargel": {
       "source": "Holly Wreath - Swag Large Left",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çoban Püskülü Çelengi - Askı Büyük Sol",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wreath_swaglarger": {
       "source": "Holly Wreath - Swag Large Right",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çoban Püskülü Çelengi - Askı Büyük Sağ",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wreath_swagsmalll": {
       "source": "Holly Wreath - Swag Small Left",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çoban Püskülü Çelengi - Askı Küçük Sol",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_hol_wreath_swagsmallr": {
       "source": "Holly Wreath - Swag Small Right",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çoban Püskülü Çelengi - Askı Küçük Sağ",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""

@@ -9,2552 +9,2552 @@
   "strings": {
     "aq_flatride_coriolis": {
       "source": "Aquatic Coriolis",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Deniz Coriolis",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "aq_flatride_coriolis_desc": {
       "source": "Aquatic themed Coriolis ride",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Deniz temalı Coriolis oyuncağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "aq_flatride_synchronise": {
       "source": "Aquatic Synchronise",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Deniz Synchronise",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "aq_flatride_synchronise_desc": {
       "source": "Aquatic themed Synchronise ride",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Deniz temalı Synchronise oyuncağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_cargo": {
       "source": "Pirate Cargo 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Kargo 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_claypots": {
       "source": "Fairytale Clay Pots",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Kil Çömlekler",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_dragonslayer": {
       "source": "Fairytale Dragon Whisperer",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Ejder Fısıldayan",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_fairytale_corner_180": {
       "source": "Fairytale Fence Path End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çit Yol Ucu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_fairytale_corner_45": {
       "source": "Fairytale Fence Plaza Edge",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çit Meydan Kenarı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_fairytale_corner_90l": {
       "source": "Fairytale Fence Corner Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çit Köşe Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_fairytale_corner_90m": {
       "source": "Fairytale Fence Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çit Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_fairytale_corner_90s": {
       "source": "Fairytale Fence Corner Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çit Köşe Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_fairytale_straight_16m": {
       "source": "Fairytale Fence Straight",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çit Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_festive_corner_180": {
       "source": "Festive Fence Path End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Çit Yol Ucu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_festive_corner_45": {
       "source": "Festive Fence Plaza Edge",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Çit Meydan Kenarı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_festive_corner_90l": {
       "source": "Festive Fence Corner Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Çit Köşe Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_festive_corner_90m": {
       "source": "Festive Fence Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Çit Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_festive_corner_90s": {
       "source": "Festive Fence Corner Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Çit Köşe Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_festive_straight_16m": {
       "source": "Festive Fence Straight",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Çit Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_pirate_corner_180": {
       "source": "Pirate Fence Path End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çit Yol Ucu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_pirate_corner_45": {
       "source": "Pirate Fence Plaza Edge",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çit Meydan Kenarı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_pirate_corner_90l": {
       "source": "Pirate Fence Corner Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çit Köşe Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_pirate_corner_90m": {
       "source": "Pirate Fence Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çit Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_pirate_corner_90s": {
       "source": "Pirate Fence Corner Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çit Köşe Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_pirate_straight_16m": {
       "source": "Pirate Fence Straight",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çit Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_scifi_corner_180": {
       "source": "Sci-Fi Fence Path End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Çit Yol Ucu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_scifi_corner_45": {
       "source": "Sci-Fi Fence Plaza Edge",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Çit Meydan Kenarı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_scifi_corner_90l": {
       "source": "Sci-Fi Fence Corner Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Çit Köşe Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_scifi_corner_90m": {
       "source": "Sci-Fi Fence Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Çit Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_scifi_corner_90s": {
       "source": "Sci-Fi Fence Corner Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Çit Köşe Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_scifi_straight_16m": {
       "source": "Sci-Fi Fence Straight",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Çit Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_low_corner_180": {
       "source": "Western Fence Low Path End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Alçak Çit Yol Ucu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_low_corner_45": {
       "source": "Western Fence Low Plaza Edge",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Alçak Çit Meydan Kenarı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_low_corner_90l": {
       "source": "Western Fence Low Corner Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Alçak Çit Köşe Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_low_corner_90m": {
       "source": "Western Fence Low Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Alçak Çit Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_low_corner_90s": {
       "source": "Western Fence Low Corner Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Alçak Çit Köşe Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_low_straight_16m": {
       "source": "Western Fence Low Straight",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Alçak Çit Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_painted_corner_180": {
       "source": "Western Fence Painted Path End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Boyalı Çit Yol Ucu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_painted_corner_45": {
       "source": "Western Fence Painted Plaza Edge",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Boyalı Çit Meydan Kenarı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_painted_corner_90l": {
       "source": "Western Fence Painted Corner Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Boyalı Çit Köşe Büyük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_painted_corner_90m": {
       "source": "Western Fence Painted Corner",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Boyalı Çit Köşe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_painted_corner_90s": {
       "source": "Western Fence Painted Corner Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Boyalı Çit Köşe Küçük",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_edges_western_painted_straight_16m": {
       "source": "Western Fence Painted Straight",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Boyalı Çit Düz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairyfancythatch": {
       "source": "Fairytale Fancy Thatch",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Süslü Saz Çatı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairyfountain": {
       "source": "Fairytale Fountain",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çeşme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairyfountain2": {
       "source": "Fairytale Fountain of Youth",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Gençlik Çeşmesi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairyjesterjoust": {
       "source": "Fairytale Jesters Jousting",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Soytarı Dövüşü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairyscenery": {
       "source": "Fairytale Tents",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çadırlar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairysceneryplanet": {
       "source": "Fairytale Queen Statue",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Kraliçe Heykeli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytale_stationsurround_01": {
       "source": "Fairytale Station Shell 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı İstasyon Kabuğu 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytale_stationsurround_02": {
       "source": "Fairytale Station Shell 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı İstasyon Kabuğu 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytalebuilding_facilityshell": {
       "source": "Fairytale Facility Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Tesis Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytalebuilding_shopshell": {
       "source": "Fairytale Shop Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Dükkan Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytalescenery_arch_01": {
       "source": "Fairytale Archway 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Kemer 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytalescenery_arch_02": {
       "source": "Fairytale Archway 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Kemer 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytalescenery_flowers_01": {
       "source": "Fairytale Flowers 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çiçekler 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytalescenery_flowers_02": {
       "source": "Fairytale Flowers 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çiçekler 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytalescenery_flowertree": {
       "source": "Fairytale Flowers 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çiçekler 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytalescenery_happytree": {
       "source": "Fairytale Happy Tree",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Mutlu Ağaç",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytalescenery_potions": {
       "source": "Fairytale Potions",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı İksirler",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fairytower": {
       "source": "Fairytale Tower",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Kule",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_fayre": {
       "source": "Fairytale Fayre",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Panayır",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festive_building_facilityshell_new": {
       "source": "Festive Facility Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Tesis Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festive_building_shopshell_new": {
       "source": "Festive Shop Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Dükkan Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festive_building_stationsurround_new": {
       "source": "Festive Station Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı İstasyon Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festive_festivetreelarge_01": {
       "source": "Festive Tree Large",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Büyük Ağaç",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festive_icedbiscuittree_01": {
       "source": "Festive Biscuit Tree 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Bisküvi Ağacı 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festive_scenery_festivetree_new": {
       "source": "Festive Tree Small",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Küçük Ağaç",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festive_scenery_gingerbreadtree_new": {
       "source": "Festive Gingerbread Tree",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Zencefilli Ağaç",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festive_scenery_lollypops_new": {
       "source": "Festive Lollipops 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Lolipoplar 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festive_scenery_smallpresents_new": {
       "source": "Festive Presents",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Hediyeler",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festivelarge04": {
       "source": "Festive House Large 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Büyük Ev 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festivemedium03": {
       "source": "Festive House Medium 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Orta Ev 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_festivemedium04": {
       "source": "Festive House Medium 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Orta Ev 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_flowerstall": {
       "source": "Fairytale Flower Stall",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çiçek Tezgahı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_ft_castlelarge_01": {
       "source": "Fairytale Large Castle",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Büyük Şato",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_ft_castlepassagesmall_01": {
       "source": "Fairytale Castle Passage",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Şato Geçidi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_ft_clocktowerlarge": {
       "source": "Fairytale Clock Tower",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Saat Kulesi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_candycollection": {
       "source": "Festive Gingerbread Trees",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Zencefilli Ağaçlar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_candycollection02": {
       "source": "Festive Lollipops 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Lolipoplar 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_christmastreescenes": {
       "source": "Festive Tree Medium",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Orta Ağaç",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_christmastreescenes02": {
       "source": "Festive Biscuit Tree 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Bisküvi Ağacı 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festiveentrancel": {
       "source": "Festive Archway 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Kemer 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festiveentrances": {
       "source": "Festive Archway 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Kemer 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festivefood": {
       "source": "Festive Shop Shell 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Dükkan Kabuğu 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festivehousel": {
       "source": "Festive House Large 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Büyük Ev 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festivehousel02": {
       "source": "Festive House Large 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Büyük Ev 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festivehousem": {
       "source": "Festive House Medium 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Orta Ev 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festivehousem02": {
       "source": "Festive House Medium 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Orta Ev 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festivehouses": {
       "source": "Festive House Small 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Küçük Ev 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festivehouses02": {
       "source": "Festive House Small 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Küçük Ev 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festivescene": {
       "source": "Festive Fence",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Çit",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festivescene02": {
       "source": "Festive Biscuit Train",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Bisküvi Treni",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_festivetower": {
       "source": "Festive Tower",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Kule",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_giftcollection": {
       "source": "Festive Gift Collection",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Hediye Koleksiyonu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_snowman01": {
       "source": "Festive Snowmen 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Kardan Adamlar 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_snowman02": {
       "source": "Festive Snowmen 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Kardan Adamlar 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_snowman03": {
       "source": "Festive Gingerbread Family",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Zencefilli Aile",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_snowman04": {
       "source": "Festive Snowmen 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Kardan Adamlar 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_hol_snowman05": {
       "source": "Festive Snowman Melted",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yılbaşı Erimiş Kardan Adam",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_kingsloottent": {
       "source": "Fairytale Loot Tent",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Ganimet Çadırı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_krakenattack": {
       "source": "Pirate Kraken Attack",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Kraken Saldırısı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_marketstalls": {
       "source": "Fairytale Market Stalls",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Pazar Tezgahları",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_overgrownspookytree": {
       "source": "Fairytale Overgrown Tree",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Çalılaşmış Ağaç",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_overgrownspookytreeduo": {
       "source": "Fairytale Trees Standing Guard",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Nöbetçi Ağaçlar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pirate_buildings_shopshell_new": {
       "source": "Pirate Villa Shop Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Villa Dükkan Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pirate_buildings_stationsurround_new": {
       "source": "Pirate Shipwreck Station Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Gemi Enkazı İstasyon Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pirate_scenery_ancorstatue_new": {
       "source": "Pirate Anchor Statue",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çapa Heykeli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pirate_scenery_band_new": {
       "source": "Pirate Band",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Grup",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pirate_scenery_cannonstatue_new": {
       "source": "Pirate Cannon Statue",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Top Heykeli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pirate_scenery_flowers_new": {
       "source": "Pirate Flowers",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çiçekler",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pirate_scenery_palmarch_new": {
       "source": "Pirate Palm Archway",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Palmiye Kemer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pirate_scenery_parotstatue_new": {
       "source": "Pirate Parrot Statue",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Papağan Heykeli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pirate_scenery_tenticle_new": {
       "source": "Pirate Tentacle Pool",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Dokunaç Havuzu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pirateanimatronicharbourscene": {
       "source": "Pirate Animatronic Harbour",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Animatronik Liman",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_piratecamp": {
       "source": "Pirate Camp",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Kampı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_piratescenery": {
       "source": "Pirate Mermaid Statue",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Denizkızı Heykeli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_piratescenery2": {
       "source": "Pirate Holdout",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Sığınak",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_piratescenery3": {
       "source": "Pirate Skull Rock",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Kurukafa Kayası",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_piratesea": {
       "source": "Pirate Fountain 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çeşme 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pirateskirmish": {
       "source": "Pirate Skirmish 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çatışma 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_piratesmallent": {
       "source": "Pirate Archway",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Kemer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_piratesmallhouse": {
       "source": "Pirate Villa 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Villa 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_piratewatery": {
       "source": "Pirate Fountain 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çeşme 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pr_atmfacility": {
       "source": "Pirate Villa Bank",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Villa Bankası",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pr_houselarge_01": {
       "source": "Pirate Villa 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Villa 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pr_houselarge_02": {
       "source": "Pirate Villa 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Villa 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pr_housesmall_01": {
       "source": "Pirate Villa 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Villa 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pr_housesmall_02": {
       "source": "Pirate Villa 5",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Villa 5",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_pr_smallscene_01": {
       "source": "Pirate Cargo 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Kargo 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_redcoatskirmish": {
       "source": "Pirate Skirmish 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Çatışma 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_bugbot_01": {
       "source": "Sci-Fi Bug Bot",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Böcek Robot",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_building_facilityshell_new": {
       "source": "Sci-Fi Facility Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tesis Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_building_shopshell_new": {
       "source": "Sci-Fi Shop Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Dükkan Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_coastertunnel_01": {
       "source": "Sci-Fi Coaster Tunnel",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Hız Treni Tüneli",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_largewallcap_01": {
       "source": "Sci-Fi Wall Cap 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Duvar Kapağı 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_largewallcap_02": {
       "source": "Sci-Fi Wall Cap 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Duvar Kapağı 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_pipes_01": {
       "source": "Sci-Fi Pipes",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Borular",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_powerstation_01": {
       "source": "Sci-Fi Power Station",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Enerji İstasyonu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_satellite_01": {
       "source": "Sci-Fi Satellite",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Uydu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_scenery_computerterminal_new": {
       "source": "Sci-Fi Computer Terminal 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Bilgisayar Terminali 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_scenery_exhaustvent_new": {
       "source": "Sci-Fi Exhaust Port",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Egzoz Bacası",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_scenery_fence2_new": {
       "source": "Sci-Fi Barrier 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Bariyer 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_scenery_fence_new": {
       "source": "Sci-Fi Barrier 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Bariyer 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_scenery_statue01_new": {
       "source": "Sci-Fi Tower 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Kule 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_scenery_statue02_new": {
       "source": "Sci-Fi Tower 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Kule 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_scenery_statue03_new": {
       "source": "Sci-Fi Tower 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Kule 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_scenery_statue04_new": {
       "source": "Sci-Fi Research Station 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Araştırma İstasyonu 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_scenery_statue05_new": {
       "source": "Sci-Fi Research Station 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Araştırma İstasyonu 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_scenery_statue06_new": {
       "source": "Sci-Fi Computer Terminal 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Bilgisayar Terminali 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_silo_01": {
       "source": "Sci-Fi Silo",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Silo",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_spaceshiplarge_01": {
       "source": "Sci-Fi Spaceship 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Uzay Gemisi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_spaceshiplarge_02": {
       "source": "Sci-Fi Spaceship 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Uzay Gemisi 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifi_spaceshipsmall_01": {
       "source": "Sci-Fi Spaceship 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Uzay Gemisi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifibuilding02": {
       "source": "Sci-Fi Fusion Tower",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Füzyon Kulesi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scificollection": {
       "source": "Sci-Fi Gustav's Collection",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Gustav'ın Koleksiyonu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifientrance01": {
       "source": "Sci-Fi Wall Entrance",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Duvar Girişi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scififountain": {
       "source": "Sci-Fi Fountain",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Çeşme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scififountain2": {
       "source": "Sci-Fi Plumes of Enceladus",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Enceladus Sütunları",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifilargeent": {
       "source": "Sci-Fi Ride Scenery",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Tren Dekorasyonu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifiparkset": {
       "source": "Sci-Fi Sputnik's Travels",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Sputnik'in Seyahatleri",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifiscenery": {
       "source": "Sci-Fi Airlock",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Hava Kilidi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifisceneryplanet": {
       "source": "Sci-Fi Skirmish",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Çatışma",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifismallent": {
       "source": "Sci-Fi Corridor",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Koridor",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_scifiwall": {
       "source": "Sci-Fi Wall",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu Duvar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_sf_dogbotcrashed": {
       "source": "Sci-Fi M.U.T.T Crashed",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu M.U.T.T Enkaz",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_sf_poseable_dogbot": {
       "source": "Sci-Fi M.U.T.T",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu M.U.T.T",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_silversmith": {
       "source": "Fairytale Silversmith Manor",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Gümüş İşçisi Konağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_sleepingdragon": {
       "source": "Fairytale Dragon's Nest",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Ejder Yuvası",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_swordinthestone": {
       "source": "Fairytale Sword in the Stone",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Taştaki Kılıç",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_travellerscamp": {
       "source": "Fairytale Traveller Camp",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Gezgin Kampı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_treasurepile": {
       "source": "Pirate Treasure",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Hazine",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_ufo": {
       "source": "Sci-Fi UFO",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu UFO",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_ufocrash": {
       "source": "Sci-Fi UFO Crashed",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bilim-Kurgu UFO Enkazı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_vasecollection": {
       "source": "Fairytale Vase Collection",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Vazo Koleksiyonu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_washedupboat": {
       "source": "Pirate Rowboat",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Korsan Sandalı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_building_facilityshell_new": {
       "source": "Western Facility Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Tesis Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_building_shopshell_new": {
       "source": "Western Shop Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Dükkan Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_building_stationsurround01_new": {
       "source": "Western Station Shell 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı İstasyon Kabuğu 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_building_stationsurround02_new": {
       "source": "Western Station Shell 4",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı İstasyon Kabuğu 4",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_chapel_01": {
       "source": "Western Chapel",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Şapel",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_parkentrance_01": {
       "source": "Western Barn 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Ahır 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_parkentrance_02": {
       "source": "Western Barn 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Ahır 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_scenert_outhouse": {
       "source": "Western Outhouse",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Dış Tuvalet",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_scenery_arch02_new": {
       "source": "Western Archway 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Kemer 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_scenery_arch_new": {
       "source": "Western Archway 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Kemer 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_scenery_boiler_new": {
       "source": "Western Boiler",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Kazan",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_scenery_grave_new": {
       "source": "Western Grave",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Mezar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_scenery_minecartscene": {
       "source": "Western Mine Cart Scene",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Maden Arabası Sahnesi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_scenery_scafold_new": {
       "source": "Western Scaffolding",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı İskele",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_scenery_skirmish01_new": {
       "source": "Western Skirmish 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Çatışma 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_scenery_skirmish02_new": {
       "source": "Western Skirmish 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Çatışma 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_stationbuilding_01": {
       "source": "Western Station Building",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı İstasyon Binası",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_stationsurround_01": {
       "source": "Western Station Shell 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı İstasyon Kabuğu 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_stationsurround_02": {
       "source": "Western Station Shell 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı İstasyon Kabuğu 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_tower_01": {
       "source": "Western Tower 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Kule 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_western_tower_02": {
       "source": "Western Tower 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Kule 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernbuilding01": {
       "source": "Western Horse Vet",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı At Veterineri",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernbuilding02": {
       "source": "Western Wagon Servicing",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Araba Tamiri",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernbuilding03": {
       "source": "Western Building 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Bina 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernbuilding05": {
       "source": "Western Building 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Bina 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernbuilding06": {
       "source": "Western Hotel Shell",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Otel Kabuğu",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernbuilding07": {
       "source": "Western Gambling Den",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Kumarhane",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernbuilding08": {
       "source": "Western Sheriffs",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Şerif Ofisi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernbuilding09": {
       "source": "Western Building 3",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Bina 3",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernbuilding10": {
       "source": "Western Undertakers",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Cenaze Levazımatçısı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernbuilding11": {
       "source": "Western Stables",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Ahır",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernbuilding12": {
       "source": "Western Abandoned Church",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Terk Edilmiş Kilise",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westerncollection": {
       "source": "Western Tents",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Çadırlar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernentrance": {
       "source": "Western Buildings",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Binalar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernparkset": {
       "source": "Western Wagons Roll!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Arabalar Geliyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernparkset2": {
       "source": "Western Wagons",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Arabalar",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernscenery": {
       "source": "Western Adventure",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Macera",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernsceneryplanet": {
       "source": "Western Apothecary",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Eczacı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_westernsmallent": {
       "source": "Western Archway 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vahşi Batı Kemer 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "blueprints_witchtreehouse": {
       "source": "Fairytale Witch's Tree House",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Peri Masalı Cadı Ağaç Evi",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartdesc_facility_heater_radiant": {
       "source": "Keeps guests toasty.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ziyaretçileri sıcacık tutar.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_facility_heater_radiant": {
       "source": "Radiant Heater - Standing",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Radyant Isıtıcı - Ayaklı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_facility_heater_wall": {
       "source": "Radiant Heater - Wall Mounted",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Radyant Isıtıcı - Duvara Monte",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_floor": {
       "source": "Rough Concrete Floor",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Zemin",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_floor_quarter": {
       "source": "Rough Concrete Floor - Quarter 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Zemin - Çeyrek 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_floor_quarter_02": {
       "source": "Rough Concrete Floor - Quarter 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Zemin - Çeyrek 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_gabletri_1m": {
       "source": "Rough Concrete Wall - 1m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - 1m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_gabletri_2m": {
       "source": "Rough Concrete Wall - 2m Gable End",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - 2m Üçgen Alınlık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_half_1m": {
       "source": "Rough Concrete Wall - 1m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - 1m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_half_2m": {
       "source": "Rough Concrete Wall - 2m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - 2m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_half_4m": {
       "source": "Rough Concrete Wall - 4m Half Width",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - 4m Yarım Genişlik",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_1m": {
       "source": "Rough Concrete Wall 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_2m": {
       "source": "Rough Concrete Wall 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_4m": {
       "source": "Rough Concrete Wall 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_archextention_4m": {
       "source": "Rough Concrete Wall - Arch Extension",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Kemer Uzatma",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_archround_4m": {
       "source": "Rough Concrete Wall - Tunnel Arch 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Tünel Kemer 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_archstraight_4m": {
       "source": "Rough Concrete Wall - Tunnel Arch 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Tünel Kemer 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_cap": {
       "source": "Rough Concrete Wall - Ridge Cap",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Sırt Kapağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_curve": {
       "source": "Rough Concrete Wall - 4 x 2m Curved Slope",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - 4 x 2m Kavisli Eğim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_curve_inverse": {
       "source": "Rough Concrete Wall - 4 x 2m Inverse Slope",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - 4 x 2m Ters Eğim",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_door_4m": {
       "source": "Rough Concrete Wall - With Door",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Kapılı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_largewindow_4m": {
       "source": "Rough Concrete Wall - Large Window",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Büyük Pencere",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_shopfront": {
       "source": "Rough Concrete Wall - Shop Front",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Dükkan Önü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_slope_1m": {
       "source": "Rough Concrete Wall - Slope 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Eğim 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_slope_2m": {
       "source": "Rough Concrete Wall - Slope 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Eğim 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_slope_4m": {
       "source": "Rough Concrete Wall - Slope 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Eğim 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_station_surround_01": {
       "source": "Rough Concrete Wall - Station Surround 1",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - İstasyon Çevresi 1",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_merge_station_surround_02": {
       "source": "Rough Concrete Wall - Station Surround 2",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - İstasyon Çevresi 2",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_round_1m": {
       "source": "Rough Concrete Wall - Round 1m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Yuvarlak 1m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_round_2m": {
       "source": "Rough Concrete Wall - Round 2m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Yuvarlak 2m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_pc_wall_roughconcrete_round_4m": {
       "source": "Rough Concrete Wall - Round 4m",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kaba Beton Duvar - Yuvarlak 4m",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "buildingpartname_wtr_pool_heater": {
       "source": "Pool Heater",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Havuz Isıtıcısı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_coldcritical_natural_common_01": {
       "source": "It's freezing around here!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Burası buz gibi!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_coldcritical_natural_common_02": {
       "source": "I'm so c-c-c-cold…",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çok ü-ü-ü-üşüyorum...",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_coldcritical_natural_common_03": {
       "source": "Brrr! This park is so chilly!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Brrr! Bu park çok soğuk!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_coldcritical_nodestination_common_01": {
       "source": "Where are all the heaters? It's f-f-f-freezing!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Isıtıcılar nerede? D-d-donuyorum!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_coldlow_natural_common_01": {
       "source": "I'm starting to shiver.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Titremeye başladım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_coldsatisfied_destination_common_01": {
       "source": "Ahh! {reference} has thawed me out!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahh! {reference} beni ısıttı!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_parktemperaturehigh_common_01": {
       "source": "It's a hot one today!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bugün hava resmen pişiriyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_parktemperaturehigh_drink_fluff_common_01": {
       "source": "It's boiling! A nice cold drink would cool me down.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yanıyorum! Buz gibi bir içecek beni serinletir.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_parktemperaturehigh_food_fluff_common_01": {
       "source": "It's so hot today! I'd like to eat something cold.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bugün çok sıcak! Soğuk bir şeyler yesem iyi olur.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_parktemperaturelow_drink_fluff_common_01": {
       "source": "It's freezing here! I'd love a hot drink to warm me up.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Donuyorum! Sıcak bir içecek beni ısıtır.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_parktemperaturelow_food_fluff_common_01": {
       "source": "On a cold day like this, some hot food would be amazing!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Böyle soğuk bir günde sıcak bir yemek süper olurdu!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pool_temperaturecritical_common_01": {
       "source": "Woah! That pool has frozen over!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vay! Havuz donmuş!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pool_temperaturecritical_common_02": {
       "source": "Is that pool frozen solid?",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Şu havuz tamamen mi donmuş?",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pool_temperaturegood_common_01": {
       "source": "{reference} is nice and warm.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "{reference} tam da istediğim sıcaklıkta.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pool_temperaturehigh_common_01": {
       "source": "{reference} looks a little too hot.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "{reference} biraz fazla sıcak gibi.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_pool_temperaturelow_common_01": {
       "source": "{reference} looks too cold for me.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "{reference} bana fazla soğuk geliyor.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_sunburncritical_destination_common_01": {
       "source": "Ouch! I hope {reference} has some suncream.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ah! Umarım {reference}'de güneş kremi vardır.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_sunburncritical_natural_common_01": {
       "source": "Ow! I'm completely sunburnt.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Eyvah! Tamamen güneşten yandım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_sunburncritical_natural_common_02": {
       "source": "Ew, my sunburn is starting to peel.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Iyy, güneşten yanan yerlerim soyulmaya başladı.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_sunburncritical_natural_common_03": {
       "source": "I've been in the sun too long, I'm totally cooked.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çok uzun süre güneşte kaldım, tamamen pişmişim.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_sunburncritical_nodestination_common_01": {
       "source": "Why is there nowhere to buy suncream? I'm burning here!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Güneş kremi alacak yer yok mu? Burada kavruluyorum!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_sunburnlow_natural_common_01": {
       "source": "I think I'll burn if I get any more sun.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Biraz daha güneşte kalırsam yanacağım sanırım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_sunburnsatisfied_common_01": {
       "source": "Ahh! That suncream was just what I needed.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahh! Bu güneş kremi tam ihtiyacım olan şeydi.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_sunburnsatisfied_destination_common_01": {
       "source": "My skin feels so much better after that suncream from {reference}. ",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "{reference}'den aldığım güneş kremi sayesinde cildim çok daha iyi.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_weather_snow_common_01": {
       "source": "Look! It's snowing!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bak! Kar yağıyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_weather_temperaturelow_ridequeue_common_01": {
       "source": "Why are there no heaters around the queue for {reference}? It's so cold!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "{reference} kuyruğunda neden ısıtıcı yok? Soğuktan donuyorum!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_weather_temperaturelow_ridequeue_common_02": {
       "source": "I'm freezing! They should put more heaters around here.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Donuyorum! Buraya daha çok ısıtıcı koymaları lazım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_weather_thunder_common_01": {
       "source": "Eek! I hear thunder!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Eyvah! Gök gürlüyor!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_weather_thunder_onridestruck_common_01": {
       "source": "We were on a ride that got hit by lightning! Let's go home, this park isn't safe!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Bindiğimiz trene yıldırım düştü! Eve dönelim, bu park güvenli değil!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_weather_thunder_ridestruck_common_01": {
       "source": "Woah! That ride got struck by lightning!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Vay! O trene yıldırım düştü!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_wetnesscritical_destination_common_01": {
       "source": "I'm going to {reference} to dry off.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Kurulanmak için {reference}'ye gidiyorum.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_wetnesscritical_natural_common_01": {
       "source": "I'm drenched!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Sırılsıklam oldum!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_wetnesscritical_natural_common_02": {
       "source": "I'm soaked through!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Her yerim ıslandı!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_wetnesscritical_natural_common_03": {
       "source": "Ugh, I'm completely drenched.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Of, tamamen sırılsıklam oldum.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_wetnesscritical_nodestination_common_01": {
       "source": "Huh? There's no Body Dryers here! I'm soaked!",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ne? Burada Vücut Kurutucusu yok mu? Sırılsıklamım!",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_wetnesslow_natural_common_01": {
       "source": "I'm getting rained on a lot.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yağmurda bayağı ıslandım.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_wetnesssatisfied_common_01": {
       "source": "Ahh, I've dried off now.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ahh, kurudum artık.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guest_thought_wetnesssatisfied_destination_common_01": {
       "source": "I'm nice and dry after going to {reference}.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "{reference}'ye gittikten sonra tertemiz kurudum.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guestmood_reason_cold": {
       "source": "Cold",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Soğuk",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guestmood_reason_ridestruckbylightning": {
       "source": "Ride Struck by Lightning",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Trene Yıldırım Düştü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "guestmood_reason_wet": {
       "source": "Wet",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Islak",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "my_flatride_bumpinderby": {
       "source": "Mythology Bumpin' Derby",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Mitoloji Çarpışan Derby",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "my_flatride_bumpinderby_desc": {
       "source": "Mythology themed Bumpin' Derby ride",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Mitoloji temalı Çarpışan Derby oyuncağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "my_flatride_skywatcher": {
       "source": "Mythology Sky Watcher",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Mitoloji Sky Watcher",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "my_flatride_skywatcher_desc": {
       "source": "Mythology themed Sky Watcher ride",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Mitoloji temalı Sky Watcher oyuncağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "pc_flatride_bigwheel": {
       "source": "Planet Coaster Big Wheel",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Planet Coaster Dev Çark",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "pc_flatride_bigwheel_desc": {
       "source": "Planet Coaster themed Big Wheel ride",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Planet Coaster temalı Dev Çark oyuncağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "pc_flatride_resurgence": {
       "source": "Planet Coaster Resurgence",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Planet Coaster Resurgence",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "pc_flatride_resurgence_desc": {
       "source": "Planet Coaster themed Resurgence ride",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Planet Coaster temalı Resurgence oyuncağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "re_flatride_ironclaw": {
       "source": "Resort Iron Claw",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Resort Demir Pençe",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "re_flatride_ironclaw_desc": {
       "source": "Resort themed Iron Claw ride",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Resort temalı Demir Pençe oyuncağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "re_flatride_pathosiii": {
       "source": "Resort Pathos III",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Resort Pathos III",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "re_flatride_pathosiii_desc": {
       "source": "Resort themed Pathos III ride",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Resort temalı Pathos III oyuncağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "trackelementdesc_dualdirectionlsm_holdingsection": {
       "source": "Holds trains before launching them in the direction of travel with a magnetic propulsion system.\n\nDesigned for use at the start of a run of Dual Direction LSM sections.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Trenleri, manyetik itici sistemle hareket yönünde fırlatmadan önce tutar.\\n\\nÇift Yönlü LSM bölümlerinin başında kullanılmak üzere tasarlanmıştır.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "trackelementdesc_frictionwheelliftanddrop": {
       "source": "Releases the train facing backwards at the end of the lift.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Trenin kaldırma sonunda geriye bakar şekilde bırakılmasını sağlar.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "trackelementdesc_frictionwheelliftanddropreverse": {
       "source": "Releases the train facing forwards at the end of the lift.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Trenin kaldırma sonunda ileriye bakar şekilde bırakılmasını sağlar.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "trackelementdisabled_frictionwheelliftanddrop_canonlyplaceafterstation": {
       "source": "Can only be placed on unbanked track in front of the station.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yalnızca istasyonun önündeki eğimsiz raya yerleştirilebilir.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "trackelementdisabled_frictionwheelliftanddropreverse_canonlyplacebehindstation": {
       "source": "Can only be placed directly behind the station or existing Reverse Friction Wheel Lift and Drop sections.",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Yalnızca istasyonun hemen arkasına veya mevcut Ters Sürtünme Tekerli Kaldırma ve Düşürme bölümlerinin arkasına yerleştirilebilir.",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "trackelementname_dualdirectionlsm_holdingsection": {
       "source": "Dual Direction LSM Holding Section",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Çift Yönlü LSM Tutma Bölümü",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "trackelementname_frictionwheelliftanddrop": {
       "source": "Friction Wheel Lift and Drop",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Sürtünme Tekerli Kaldırma ve Düşürme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "trackelementname_frictionwheelliftanddropreverse": {
       "source": "Reverse Friction Wheel Lift and Drop",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Ters Sürtünme Tekerli Kaldırma ve Düşürme",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "tutorialscreen_description_adverseweather": {
       "source": "<p>The <b>weather</b> in your park is always changing. Keep an eye on the <b>Weather Forecast</b> for adverse weather events that can affect the operation of your park.</p>\n<br>\n<p><b>Snow </b>might be pretty to look at, but it can cause real problems in your park. Snow means <b>low temperatures</b>, which make your <b>pools freeze</b> over if unheated. <b>Heaters </b>will also draw more <b>power</b>, and guests will be drawn to warmer areas as well as shops serving hot drinks and food.</p>\n<br>\n<p><b>Thunderstorms </b>spell trouble for your rides. Check the <b>Thunderstorm Risk Heatmap</b> and the <b>Ride InfoPanels</b> to see which of your <b>rides </b>are likely to be <b>struck </b>by lightning, and consider shutting them down to keep guests safe, and <b>maintenance </b>costs low. </p>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "<p>Parkındaki <b>hava durumu</b> sürekli değişir. Parkının işleyişini etkileyebilecek olumsuz hava olayları için <b>Hava Tahmini</b>'ni yakından takip et.</p>\\n<br>\\n<p><b>Kar</b> bakması güzel olabilir, ama parkında ciddi sorunlara yol açabilir. Kar düşük sıcaklık demektir ve ısıtılmayan <b>havuzlarını dondurur</b>. <b>Isıtıcılar</b> daha çok <b>enerji</b> çeker; ziyaretçiler de sıcak bölgelere ve sıcak içecek-yemek satan dükkanlara yönelir.</p>\\n<br>\\n<p><b>Gök gürültülü fırtınalar</b> trenlerine sorun çıkarır. <b>Fırtına Riski Isı Haritası</b>'nı ve <b>Tren Bilgi Panellerini</b> kontrol et; yıldırım çarpma riski yüksek olan trenleri görebilir ve ziyaretçi güvenliği ile <b>bakım</b> maliyetlerini düşük tutmak için kapatmayı düşünebilirsin.</p>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "tutorialscreen_description_coldneed": {
       "source": "<p>When temperatures are low, your guests' <b>Warmth Need</b> will drop. Guests that are <b>cold </b>for a long time will become <b>Uncomfortable</b>, and may want to leave your park.</p>\n<br>\n<p>Place <b>heaters</b> around the high-traffic areas of your park, like <b>queues</b>, so that your guests are nice and toasty when cold weather hits. Also, be sure to have shops that offer hot food and drink to take advantage of guests' changing desires during a cold snap.</p>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "<p>Sıcaklık düşerse ziyaretçilerinin <b>Sıcaklık İhtiyacı</b> düşer. Uzun süre <b>üşüyen</b> ziyaretçiler <b>Rahatsız</b> olur ve parkından ayrılmak isteyebilir.</p>\\n<br>\\n<p>Parkının <b>kuyruk</b> gibi yoğun bölgelerine <b>ısıtıcılar</b> yerleştir; böylece soğuk havada ziyaretçilerin sıcacık kalır. Ayrıca soğuk havalarda değişen isteklere karşılık vermek için sıcak yemek-içecek sunan dükkanlar bulundur.</p>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "tutorialscreen_description_temperature": {
       "source": "<p>Guests have their own preferences for <b>temperature</b>, whether they're walking around your park or swimming in a pool. It's important to make sure your park accommodates these different preferences to ensure your guests are comfortable.</p>\n<br>\n<p>Check a Guest Group's <b>Tolerances</b> to see what kinds of <b>Park Temperature</b> and <b>Minimum Pool Temperature</b> they will tolerate. Temperatures below these minimums will make guests <b>Uncomfortable</b>, or stop them from using your Pools. Guests who don't have their needs accommodated will leave the park.</p>\n<br>\n<p>Pools at very low temperatures will <b>freeze</b> over, stopping your guests from being able to use them. Place <b>Pool Heaters</b> to keep your pools at a comfortable temperature, and stop them from freezing. </p>",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "<p>Ziyaretçilerin, ister parkta gezsin ister havuzda yüzsün, <b>sıcaklık</b> konusunda kendi tercihleri vardır. Ziyaretçilerin rahat etmesi için parkının bu farklı tercihleri karşılamasına dikkat et.</p>\\n<br>\\n<p>Bir Ziyaretçi Grubunun <b>Toleranslarını</b> kontrol ederek hangi <b>Park Sıcaklığı</b> ve <b>Minimum Havuz Sıcaklığı</b>'na katlanabileceğini gör. Bu minimum değerlerin altındaki sıcaklıklar ziyaretçileri <b>Rahatsız</b> eder veya havuzlarını kullanmasını engeller. İhtiyaçları karşılanmayan ziyaretçiler parktan ayrılır.</p>\\n<br>\\n<p>Çok düşük sıcaklıklardaki havuzlar <b>donarak</b> ziyaretçilerin kullanımını engeller. Havuzlarını rahat bir sıcaklıkta tutmak ve donmalarını önlemek için <b>Havuz Isıtıcıları</b> yerleştir.</p>",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "tutorialscreen_title_adverseweather": {
       "source": "Adverse Weather",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Olumsuz Hava Koşulları",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "tutorialscreen_title_coldneed": {
       "source": "Warmth Need",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Sıcaklık İhtiyacı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "tutorialscreen_title_temperature": {
       "source": "Temperature",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Sıcaklık",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "vi_flatride_scizzer": {
       "source": "Viking Scizzer",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Viking Scizzer",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "vi_flatride_scizzer_desc": {
       "source": "Viking themed Scizzer ride",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Viking temalı Scizzer oyuncağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "vi_flatride_tinyeye": {
       "source": "Viking Tiny Eye",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Viking Tiny Eye",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
     },
     "vi_flatride_tinyeye_desc": {
       "source": "Viking themed Tiny Eye ride",
-      "translation": "",
-      "status": "untranslated",
+      "translation": "Viking temalı Tiny Eye oyuncağı",
+      "status": "translated",
       "context": "",
       "max_length": null,
       "category": ""
