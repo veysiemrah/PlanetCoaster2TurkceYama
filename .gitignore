@@ -28,6 +28,9 @@ tools/review_*.py
 # cobra-tools yerel kopyası (ayrı repo)
 cobra-tools/
 
+# AI asistan kilavuzlari (yerel)
+CLAUDE.md
+
 # IDE
 .vscode/
 .idea/
