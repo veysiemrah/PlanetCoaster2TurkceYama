@@ -1,29 +1,29 @@
 {
   "meta": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "last_updated": "2026-04-15",
     "description": "Planet Coaster 2 Türkçe Yama Terimler Sözlüğü"
   },
   "terms": {
     "Coaster": {
-      "translation": "Hız Treni",
-      "note": "'Roller coaster' kısaltması. 'Lunapark treni' kullanılmaz."
+      "translation": "Hız Tren",
+      "note": "'Roller coaster' kısaltması. Stem 'Hız Tren' (Hız Treni, Hız Trenleri, Hız Treninin hepsini yakalar)."
     },
     "Roller Coaster": {
-      "translation": "Hız Treni",
-      "note": "'Coaster' ile aynı çeviri."
+      "translation": "Hız Tren",
+      "note": "'Coaster' ile aynı çeviri. Stem form."
     },
     "Guest": {
       "translation": "Ziyaretçi",
       "note": "Tema parkı bağlamı. 'Misafir' değil."
     },
     "Ride": {
-      "translation": "Eğlence Birimi",
-      "note": "Genel bir eğlence tesisi. Fiil olarak 'binmek' kullanılabilir."
+      "translation": "Tren|Araç|arac",
+      "note": "Bağlama göre seçilir: Coaster/Track/Rail bağlamında 'Tren', Flat Ride/Classic/Spinning/Tower/Swinging/Carousel gibi düz oyuncaklarda 'Araç'. Genel/belirsiz bağlamda 'Araç' (daha kapsayıcı). Fiil olarak 'binmek' kullanılabilir. 'arac' alt formu ünsüz yumuşaması (Aracı, Aracın, Araca) için validator eşleşmesi."
     },
     "Scenery": {
-      "translation": "Dekorasyon",
-      "note": "Park süsleme öğeleri."
+      "translation": "Dekor",
+      "note": "Park süsleme öğeleri. UI'da 'Dekor' tercih edilir (kısa ve tutarlı)."
     },
     "Park": {
       "translation": "Park",
@@ -54,24 +54,24 @@
       "note": "Su parkı çalışanı."
     },
     "Queue": {
-      "translation": "Sıra",
-      "note": "Ride kuyruğu."
+      "translation": "Kuyruk|kuyruğ|Sıra",
+      "note": "Ride kuyruğu. 'Kuyruk' yaygın, 'Sıra' da kabul. 'kuyruğ' alt formu ünsüz yumuşaması için."
     },
     "Path": {
       "translation": "Yol",
       "note": "Park içi patika."
     },
     "Thrill": {
-      "translation": "Heyecan",
-      "note": "Ride istatistiği."
+      "translation": "Gerilim",
+      "note": "Ride istatistiği. 'Excitement = Heyecan' ile çakışmaması için 'Gerilim' kullanılır (TR'de 'gerilim filmi' gibi thriller anlamı)."
     },
     "Excitement": {
-      "translation": "Eğlence",
-      "note": "Ride istatistiği."
+      "translation": "Heyecan",
+      "note": "Ride istatistiği. Thrill 'Gerginlik' olduğu için çakışma yoktur."
     },
     "Nausea": {
-      "translation": "Mide Bulantısı",
-      "note": "Ride istatistiği."
+      "translation": "Bulantı",
+      "note": "Ride istatistiği. UI tutarlılığı için 'Mide Bulantısı' yerine kısa form."
     },
     "Fear": {
       "translation": "Korku",
@@ -82,12 +82,12 @@
       "note": "Ride istatistiği."
     },
     "Prestige": {
-      "translation": "Prestij",
-      "note": "Park istatistiği."
+      "translation": "İtibar|prestij",
+      "note": "Park/ride itibar skoru. TR 'İtibar' yaygın, 'Prestij' de geçebilir."
     },
     "Shop": {
-      "translation": "Dükkan",
-      "note": "Satış noktası."
+      "translation": "Dükkan|Dükkân|Mağaza|Alışveriş|Hediyelik",
+      "note": "Satış noktası. UI 'Dükkan/Mağaza' bağlamına göre; pazarlama 'Alışveriş'; hatıra mağazası 'Hediyelik Eşya'."
     },
     "Restaurant": {
       "translation": "Restoran"
@@ -97,12 +97,12 @@
       "note": "Tuvalet, bilgi merkezi vb. yardımcı tesisler."
     },
     "Blueprint": {
-      "translation": "Şablon",
-      "note": "Kaydedilmiş tasarım."
+      "translation": "Plan",
+      "note": "Kaydedilmiş tasarım. TR 'Plan' yaygın kullanılır (Şablon yerine)."
     },
     "Sandbox": {
-      "translation": "Serbest Mod",
-      "note": "Oyun modu."
+      "translation": "Serbest|Sandbox",
+      "note": "Oyun modu. UI'da 'Serbest', teknik/marka bağlamında 'Sandbox' korunur."
     },
     "Career": {
       "translation": "Kariyer",
@@ -113,20 +113,20 @@
       "note": "Oyun modu, aynen korunur."
     },
     "Track": {
-      "translation": "Ray",
-      "note": "Coaster ray sistemi."
+      "translation": "Parkur|Ray|Güzergah|Pist|Parça",
+      "note": "UI'da 'Parkur' (track/course), teknik ray 'Ray', rota 'Güzergah', güç/yarış 'Pist', sequencer 'Parça'."
     },
     "Pool": {
       "translation": "Havuz",
       "note": "Su parkı havuzu."
     },
     "Slide": {
-      "translation": "Kaydırak",
-      "note": "Su parkı kaydırağı."
+      "translation": "Kaydırak|kaydırağ",
+      "note": "Su parkı kaydırağı. 'kaydırağ' alt formu ünsüz yumuşaması (Kaydırağı, Kaydırağın) için."
     },
     "Attraction": {
-      "translation": "Aktivite",
-      "note": "UI başlık ve kategori bağlamında 'Aktivite'; pazarlama/tanıtım metninde 'Heyecan'. 'Thrill' da 'Heyecan' olduğundan aynı metinde 'Aktivite' tercih edilir."
+      "translation": "Aktivite|Atraksiyon",
+      "note": "UI başlık ve kategori bağlamında 'Aktivite'; tutorial/uzun metinlerde 'Atraksiyon' da kabul."
     },
     "Flat Ride": {
       "translation": "Sabit Oyun",
@@ -141,7 +141,7 @@
       "note": "Su içeren binişler."
     },
     "Transport Ride": {
-      "translation": "Ulaşım Birimi",
+      "translation": "Ulaşım Aracı",
       "note": "Ziyaretçileri parkta farklı noktalara taşır."
     },
     "Go Kart": {
@@ -153,13 +153,13 @@
       "note": "Hava simülasyonlu sinema deneyimi."
     },
     "Spinning Ride": {
-      "translation": "Dönen Eğlence Birimi"
+      "translation": "Dönen Eğlence"
     },
     "Swinging Ride": {
-      "translation": "Salınan Eğlence Birimi"
+      "translation": "Salınan Eğlence"
     },
     "Tower Ride": {
-      "translation": "Kule Eğlence Birimi"
+      "translation": "Kule Eğlence"
     },
     "Wooden Coaster": {
       "translation": "Ahşap Hız Treni"
@@ -180,8 +180,8 @@
       "note": "Reklam kampanyaları."
     },
     "Research": {
-      "translation": "Araştırma",
-      "note": "Tech Tree araştırma sistemi."
+      "translation": "Araştırma|Araştır",
+      "note": "Tech Tree araştırma sistemi. Fiil formunda 'Araştır' (emir kipi)."
     },
     "Maintenance": {
       "translation": "Bakım",
@@ -192,12 +192,12 @@
       "note": "Eğlence birimini sıfırlayan kapsamlı bakım."
     },
     "Running Costs": {
-      "translation": "İşletme Giderleri",
-      "note": "Aylık sabit giderler."
+      "translation": "İşletme Maliyetleri|işletme giderleri",
+      "note": "Aylık sabit giderler. TR 'İşletme Maliyetleri' yaygın."
     },
     "Breakdown": {
-      "translation": "Arıza",
-      "note": "Eğlence biriminin beklenmedik arızası."
+      "translation": "Arıza|Döküm|Dağılım",
+      "note": "Ride bağlamında 'Arıza'; Chart/Power/Prestige Breakdown gibi yerlerde 'Döküm' veya 'Dağılım'."
     },
     "Inspection": {
       "translation": "Denetim"
@@ -215,8 +215,8 @@
       "note": "Prestij bonus aşaması."
     },
     "Established": {
-      "translation": "Yerleşik",
-      "note": "Normal işletim aşaması."
+      "translation": "Yerleşik|Kurul",
+      "note": "Franchise park kurulum durumu. 'Kurul' kökü tüm formları kapsar (Kurulmuş, Kurulmamış, Kuruluşa, Kurulum)."
     },
     "Resurging": {
       "translation": "Canlanıyor",
@@ -253,8 +253,8 @@
       "translation": "İş Yükü"
     },
     "Happiness": {
-      "translation": "Mutluluk",
-      "note": "Ziyaretçinin genel memnuniyet skoru."
+      "translation": "Mutluluk|mutluluğ",
+      "note": "Ziyaretçinin genel memnuniyet skoru. 'mutluluğ' alt formu ünsüz yumuşaması (Mutluluğu, Mutluluğun) için."
     },
     "Hunger": {
       "translation": "Açlık"
@@ -308,8 +308,8 @@
       "translation": "Sezon Takibi"
     },
     "Trigger Sequence": {
-      "translation": "Olay Zinciri",
-      "note": "Event tetikleme ve sıralama sistemi."
+      "translation": "Tetik Dizisi|Tetikleme Dizisi|Tetikleyici Sıras|Olay Zinciri|Diziyi Tetikle",
+      "note": "Event tetikleme ve sıralama sistemi. TR 'Tetik Dizisi' yaygın."
     },
     "Footprint": {
       "translation": "Zemin Alanı",
@@ -324,8 +324,8 @@
       "note": "Ray sistemi bağlantı parçaları."
     },
     "Track Ride": {
-      "translation": "Raylı Eğlence Birimi",
-      "note": "Sabit hızla ray üzerinde ilerleyen eğlence birimi. Coaster değil."
+      "translation": "Raylı Eğlence",
+      "note": "Sabit hızla ray üzerinde ilerleyen eğlence aracı. Coaster değil."
     },
     "Ride Sequence": {
       "translation": "Hareket Sırası",

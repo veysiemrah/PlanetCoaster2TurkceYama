@@ -18,6 +18,50 @@ PLACEHOLDER_PATTERNS = [
     re.compile(r"%[dsifx]"),
 ]
 
+# Glossary kontrolünden hariç tutulan anahtar desenleri.
+# Bu anahtarlar asset adı, kredi, teknik bind gibi çevrilmeyen/kasıtlı korunan içeriklerdir.
+GLOSSARY_SKIP_KEY_PATTERNS = [
+    re.compile(r"^buildingpartname_"),
+    re.compile(r"^guestname_"),
+    re.compile(r"^credits_chunk_"),
+    re.compile(r"^music_track_"),
+    re.compile(r"^optionsmenu_controls_.*_input_"),
+    re.compile(r"^shopitem_misc_(airmattress|poolinflatable|pool(pass|ring)|rubberring|ridephoto|waternoodle)"),
+    re.compile(r"^frontendmenu_(scenarioname|setname)_"),   # senaryo/zone adları
+    re.compile(r"^contentname_"),                           # içerik paketi adları (marketing)
+    re.compile(r"^infopanel_(group_)?tolerances?_(will|not|less|no)"),  # Ride fiil formu
+    re.compile(r"^sequence_fr_"),                           # animasyon dizisi adları
+    re.compile(r"^tag_pdlc_"),                              # PDLC tag'leri (çevrilmiyor)
+]
+
+# Glossary kontrolü öncesi source/translation'dan çıkarılacak teknik tag/markup desenleri.
+# [sentiment=Fear], {NodeName}, <h1>..</h1> vs. glossary karşılaştırmasına dahil edilmez.
+TECHNICAL_TAG_PATTERNS = [
+    re.compile(r"\[sentiment=[^\]]+\]"),
+    re.compile(r"\[[a-zA-Z_]+=[^\]]+\]"),
+    re.compile(r"<[^>]+>"),
+    re.compile(r"\{[^}]+\}"),
+]
+
+# Glossary kontrolü öncesi source'ta maskelenecek özel ad/marka desenleri.
+# "Planet Coaster" önceki oyun adı — "Coaster" burada Hız Treni olarak çevrilmez.
+PROPER_NOUN_PATTERNS = [
+    re.compile(r"\bPlanet Coaster\b"),
+    re.compile(r"\bKing Coaster\b"),
+    re.compile(r"\bCoaster Canyon\b"),
+    re.compile(r"\bCoaster Coast\b"),
+    re.compile(r"\bCoaster Park(land)?\b"),
+    re.compile(r"\bCrimson Coaster\b"),
+]
+
+
+def _tr_casefold(text: str) -> str:
+    """Türkçe-duyarlı lowercase. Python'un .lower() 'İ' için combining dot üretir
+    ('İstasyon' → 'i̇stasyon'), TR içerikteki düz 'istasyon' ile eşleşmez.
+    Bu fonksiyon I→ı, İ→i manuel dönüşümüyle bu bug'ı engeller.
+    """
+    return text.replace("İ", "i").replace("I", "ı").lower()
+
 # Çeviride kesinlikle kullanılmaması gereken terimler → [HATA]
 FORBIDDEN_TERMS: dict[str, str] = {
     "çekici": "Eğlence Birimi veya Aktivite",
@@ -130,6 +174,20 @@ def load_glossary(path: Path) -> dict[str, dict]:
     return data.get("terms", {})
 
 
+def _strip_technical_tags(text: str) -> str:
+    """Teknik tagları boşlukla değiştir (offset korunur, kelime sınırları bozulmaz)."""
+    for pat in TECHNICAL_TAG_PATTERNS:
+        text = pat.sub(lambda m: " " * len(m.group(0)), text)
+    return text
+
+
+def _mask_proper_nouns(text: str) -> str:
+    """Özel ad/marka ifadelerini boşlukla maskele (source için)."""
+    for pat in PROPER_NOUN_PATTERNS:
+        text = pat.sub(lambda m: " " * len(m.group(0)), text)
+    return text
+
+
 def check_glossary(
     key: str,
     source: str,
@@ -139,22 +197,48 @@ def check_glossary(
     """Source'ta geçen glossary terimlerinin translation'da doğru karşılıkla kullanılıp
     kullanılmadığını kontrol et.
 
-    Eşleşme büyük/küçük harfe duyarlıdır: "Ride" terimi sadece büyük harfle başlayan
-    (isim olarak) kullanımlarda tetiklenir, "ride" (fiil) göz ardı edilir.
+    Kurallar:
+    - Büyük/küçük harfe duyarlı: "Ride" sadece isim olarak (büyük harf) tetiklenir.
+    - Uzun terimler önce eşleştirilir, eşleşen source bölgesi maskelenir → kısa terim
+      aynı metne tekrar uyarı üretmez (örn. "Spinning Ride" eşleşince "Ride" tetiklenmez).
+    - [sentiment=X], {placeholder}, <html> gibi teknik etiketler karşılaştırmaya dahil edilmez.
+    - GLOSSARY_SKIP_KEY_PATTERNS'e uyan anahtarlar (asset/kredi/bind) tamamen atlanır.
     """
+    for skip_pat in GLOSSARY_SKIP_KEY_PATTERNS:
+        if skip_pat.search(key):
+            return []
+
     warnings: list[str] = []
-    translation_lower = translation.lower()
+    source_clean = _mask_proper_nouns(_strip_technical_tags(source))
+    translation_lower = _tr_casefold(_strip_technical_tags(translation))
 
-    for term, info in glossary.items():
+    # Uzun glossary terimleri önce: "Spinning Ride" > "Ride"
+    sorted_terms = sorted(glossary.items(), key=lambda kv: -len(kv[0]))
+
+    # Mutable buffer: eşleşen bölgeleri boşlukla maskeleyeceğiz
+    src_buf = list(source_clean)
+
+    for term, info in sorted_terms:
         expected = info["translation"]
-        expected_lower = expected.lower()
+        # "Tren|Araç" gibi alternatifler: | ile ayır, herhangi biri eşleşirse geçer.
+        expected_alts = [_tr_casefold(alt.strip()) for alt in expected.split("|")]
 
-        if re.search(rf"\b{re.escape(term)}\b", source):
-            if expected_lower not in translation_lower:
-                warnings.append(
-                    f"{key}: '{term}' terimi source'ta geçiyor, "
-                    f"çeviride '{expected}' bekleniyor"
-                )
+        pattern = re.compile(rf"\b{re.escape(term)}\b")
+        current = "".join(src_buf)
+        matches = list(pattern.finditer(current))
+        if not matches:
+            continue
+
+        if not any(alt in translation_lower for alt in expected_alts):
+            warnings.append(
+                f"{key}: '{term}' terimi source'ta geçiyor, "
+                f"çeviride '{expected}' bekleniyor"
+            )
+
+        # Eşleşen bölgeleri maskele → daha kısa terimler bu bölgeye denk gelmesin
+        for m in matches:
+            for i in range(m.start(), m.end()):
+                src_buf[i] = " "
 
     return warnings
 
