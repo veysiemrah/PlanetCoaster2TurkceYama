@@ -3,35 +3,67 @@
 ## Otomatik Kurulum (Windows)
 
 1. [Releases](../../releases) sayfasından en son `TurkceYama-vX.Y.Z.zip` dosyasını indir
-2. Zip'i çıkar
-3. `install.bat` dosyasına çift tıkla
-4. Script oyun dizinini bulur ve dosyaları kopyalar
-5. Oyunu başlat, **Ayarlar > Dil** menüsünden **English (US)** seç
-6. Oyun yeniden başladığında Türkçe görünür
+2. Zip'i boş bir klasöre çıkar
+3. `kurulum.bat` dosyasına çift tıkla
+4. Script oyun dizinini otomatik arar:
+   - Xbox Game Pass: `C:\XboxGames`, `D:\XboxGames`, `E:\XboxGames`
+   - Steam: `Program Files`, `Program Files (x86)`, `SteamLibrary`, `Steam` varyantları (C/D/E)
+5. Otomatik bulamazsa kullanıcıdan `ovldata` dizini yolunu ister
+6. Değiştirilecek dosyaların durumunu raporlar:
+   - **Yedeği olmayan orijinal dosya**: `.bak` yedeği alınıp Türkçe ile değiştirilir
+   - **Yedeği zaten olan dosya**: mevcut dosya silinip yenisi konur (yedek korunur)
+   - **Hedef yok**: yeni konuma dosya kopyalanır
+7. Onay (`E`) verdikten sonra kurulum tamamlanır
+8. Oyunu başlat, **Ayarlar > Dil** menüsünden **English (United States)** veya **English (United Kingdom)** seç
+9. Oyun yeniden başladığında Türkçe görünür
 
 ## Manuel Kurulum
 
 1. [Releases](../../releases) sayfasından `TurkceYama-vX.Y.Z.zip` dosyasını indir
-2. Zip'i çıkar (içinden `TurkceYama/` klasörü çıkar)
+2. Zip'i çıkar
 3. Oyun kurulum dizinini bul:
    - **Xbox Game Pass:** `C:\XboxGames\Planet Coaster 2\Content\Win64\ovldata\`
    - **Steam:** `C:\Program Files (x86)\Steam\steamapps\common\Planet Coaster 2\Win64\ovldata\`
-4. `TurkceYama/` klasörünü `ovldata/` dizinine kopyala
-5. Oyunu başlat, **Ayarlar > Dil** menüsünden **English (US)** seç
+4. Her `Content*` paketi için Türkçe `Loc.ovl` dosyasını iki konuma da kopyala:
+   - `{ovldata}\ContentX\Localised\English\UnitedStates\Loc.ovl`
+   - `{ovldata}\ContentX\Localised\English\UnitedKingdom\Loc.ovl`
+5. Orijinal İngilizce dosyaları `.bak` uzantısıyla yedekle (örn. `Loc.ovl` → `Loc.ovl.bak`)
+6. Oyunu başlat, **Ayarlar > Dil** menüsünden **English (United States)** seç
 
 ## Dil Ayarı
 
-Oyunda yerleşik Türkçe dili olmadığı için **İngilizce (ABD)** dili Türkçe ile değiştirilir. Oyun içinde dili "English (US)" seçtiğinde Türkçe görürsün.
+Oyunda yerleşik Türkçe dil desteği bulunmadığından **English (United States)** ve **English (United Kingdom)** dil dosyaları doğrudan Türkçe çeviri ile değiştirilir. Oyun içinde dili **English (US)** veya **English (UK)** olarak seçtiğinde Türkçe görürsün.
+
+> Not: Önceki "mod klasörü" yöntemi Xbox Game Pass sürümünde oyunun çökmesine sebep olduğu için terk edilmiş; doğrudan dosya değiştirme yöntemi benimsenmiştir.
 
 ## Yamayı Kaldırma
 
-1. `ovldata/` dizininden `TurkceYama/` klasörünü sil
-2. Oyunda dili tekrar istediğin dile değiştir
+Kurulum sırasında orijinal İngilizce dosyaların `.bak` uzantılı yedekleri alınır. Geri almak için:
+
+1. `ovldata\Content*\Localised\English\UnitedStates\Loc.ovl` ve `UnitedKingdom\Loc.ovl` dosyalarını sil
+2. Aynı klasörlerdeki `Loc.ovl.bak` dosyalarını `Loc.ovl` olarak yeniden adlandır
+3. Oyunu başlat
+
+Alternatif:
+- **Steam:** "Dosya bütünlüğünü doğrula" (Verify integrity of game files) orijinal dosyaları geri yükler
+- **Xbox Game Pass:** oyunu kaldırıp yeniden kurabilirsin
 
 ## Sorun Giderme
 
-**Oyun açılmıyor:** `TurkceYama/` klasörünü sil, sorun devam ediyorsa oyun dosyalarını doğrula.
+**Oyun açılmıyor**
+Yedek `.bak` dosyalarını orijinal konuma geri taşı. Sorun devam ediyorsa oyun dosyalarını doğrula veya yeniden kur.
 
-**Hala çevrilmemiş görünüyor:** Dil ayarının **English (US)** olduğundan emin ol. Oyunu kapatıp yeniden aç.
+**Hâlâ çevrilmemiş görünüyor**
+Dil ayarının **English (United States)** veya **English (United Kingdom)** olduğundan emin ol. Oyunu kapatıp yeniden aç.
 
-**Bazı metinler çevrilmemiş:** Çeviri devam ediyor. İlerleme için [README](../README.md) sayfasına bak.
+**Bazı metinler çevrilmemiş**
+Çeviri devam ediyor. İlerleme için [README](../README.md) sayfasına bak.
+
+**"Erişim engellendi" hatası**
+`kurulum.bat` dosyasına sağ tıklayıp "Yönetici olarak çalıştır" seçeneğini kullan. Steam `Program Files` altında kurulu ise yönetici hakkı gerekebilir.
+
+**Kurulum otomatik bulamıyor**
+Oyununun kurulu olduğu `ovldata` klasörünün tam yolunu gir. Örnek:
+```
+D:\SteamLibrary\steamapps\common\Planet Coaster 2\Win64\ovldata
+```

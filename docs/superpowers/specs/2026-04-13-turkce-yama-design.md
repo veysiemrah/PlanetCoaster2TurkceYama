@@ -82,7 +82,7 @@ PlanetCoaster2TurkceYama/
 │   └── workflows/
 │       ├── validate.yml          # PR doğrulama CI
 │       └── release.yml           # Otomatik build ve release
-├── install.bat                   # Windows kurulum scripti
+├── kurulum.bat                   # Windows kurulum scripti
 ├── README.md
 └── requirements.txt              # Python bağımlılıkları (cobra-tools)
 ```
@@ -262,11 +262,17 @@ Orijinal dosyalar `.bak` uzantısıyla yedeklenir. Oyun güncellemesinin ardınd
 - Release'e hazır yama dosyaları (zip) eklenir
 - Kullanıcılar sadece Release'den indirir
 
-### 8.2 Kurulum Scripti (`install.bat`)
-1. Oyun dizinini otomatik bul (XboxGames, Steam, vb.)
-2. Mevcut İngilizce Loc.ovl dosyalarının `.bak` yedeğini al
-3. Türkçe Loc.ovl dosyalarını `Content0/Localised/English/UnitedStates/` ve `UnitedKingdom/` altına kopyala
-4. Başarılı kurulum mesajı göster
+### 8.2 Kurulum Scripti (`kurulum.bat`)
+1. Oyun dizinini otomatik bul:
+   - Xbox Game Pass ve Steam için C/D/E sürücülerini tarar
+   - Steam varyantları: `Program Files`, `Program Files (x86)`, `SteamLibrary`, `Steam`
+2. Bulunamazsa kullanıcıdan `ovldata` yolunu ister
+3. Tüm `Content*` paketlerinde hedef dosyaların yedek durumunu tarar
+4. Kullanıcıya yapılacak işlemleri rapor eder (yedek alınacak / değiştirilecek / yeni konum)
+5. Onay (`E`) sonrası:
+   - Yedeği olmayan orijinal `Loc.ovl` dosyaları `.bak` olarak yedeklenir
+   - Türkçe `Loc.ovl` dosyaları `UnitedStates` ve `UnitedKingdom` altına kopyalanır
+6. Özet rapor ve başarılı kurulum mesajı gösterir
 
 ### 8.3 Manuel Kurulum
 1. Release'den zip indir
