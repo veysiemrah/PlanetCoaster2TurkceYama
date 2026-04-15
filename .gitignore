@@ -8,9 +8,25 @@ venv/
 env/
 .env
 *.egg-info/
+.pytest_cache/
 
-# Build çıktıları
+# Build çıktıları ve geçici dosyalar
+build/
 output/
+reviews/
+ride_review.txt
+
+# Yedek dosyaları
+translations/**/*.bak*
+*.bak
+*.bak_*
+
+# Tek-seferlik geçici/geliştirme scriptleri
+tools/_*.py
+tools/review_*.py
+
+# cobra-tools yerel kopyası (ayrı repo)
+cobra-tools/
 
 # IDE
 .vscode/
@@ -20,6 +36,3 @@ output/
 # OS
 .DS_Store
 Thumbs.db
-
-# cobra-tools local clone
-cobra-tools/

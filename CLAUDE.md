@@ -1,40 +1,60 @@
-# Planet Coaster 2 Türkçe Yama — Claude Kılavuzu
+# Planet Coaster 2 Türkçe Yama — Katkıcı Kılavuzu
 
-## Çeviri Seansına Başlamadan Önce ZORUNLU
+Bu dosya hem insan katkıcılar hem de AI asistanları (Claude, Copilot vb.) için çeviri rehberidir.
+
+## Çeviri Oturumuna Başlamadan Önce
 
 1. `glossary.json` dosyasını oku — tüm onaylı terimler burada
 2. `docs/STYLE_GUIDE.md` dosyasını oku — ton ve üslup kuralları
-3. Hangi içerik tipini çevirdiğini belirle (UI, tooltip, ride açıklaması, guest thought, tutorial)
+3. Hangi içerik tipini çevirdiğini belirle (UI, tooltip, ride açıklaması, guest thought, tutorial, marketing)
 4. O içerik tipinin ton kuralını STYLE_GUIDE'dan uygula
 
-## Asla Yapma
+## Temel Kurallar
 
-- `ride` veya `attraction` için **"çekici"** kullanma — doğrusu "Eğlence Birimi" veya "Aktivite"
-- Cümle yapısını İngilizceden birebir çevirme
-- "valla", "yahu", "be" (cümle sonu), "ya" (cümle sonu) kullanma
-- Glossary'de olmayan terimler için kullanıcıya sormadan çeviri üretme
+### Asla yapma
+- `ride` veya `attraction` için **"çekici"** kullanma — yanlış çağrışım yapar
+- Cümle yapısını İngilizceden birebir çevirme — doğal Türkçe öncelikli
+- "valla", "yahu", "be" (cümle sonu), "ya" (cümle sonu) gibi argo/konuşma dili kullanma
+- Glossary'de olmayan yeni terimler için onay almadan çeviri üretme
+
+### Temel terim seçimleri (glossary'den)
+- **Ride** → **Tren** (coaster/track/rail bağlamında) veya **Araç** (flat ride / genel)
+- **Coaster** → **Hız Treni**
+- **Scenery** → **Dekor**
+- **Thrill** → **Gerilim** (Excitement ile çakışmaması için)
+- **Excitement** → **Heyecan**
+- **Nausea** → **Bulantı**
+- **Attraction** → **Aktivite** (UI/kategori) veya **Atraksiyon** (tutorial/uzun metin)
+- **Appeal** → **Cazibe** (asla "Çekicilik" değil)
+
+Compound terimler:
+- Flat Ride → **Sabit Oyun**, Ride Attendant → **Biniş Görevlisi**
+- Transport Ride → **Ulaşım Aracı**
+- Spinning/Swinging/Tower Ride → **Dönen/Salınan/Kule Eğlence**
+- Track Ride → **Raylı Eğlence**
 
 ## Şüpheye Düştüğünde
 
-- Yeni terim gerekiyorsa: önce kullanıcıya sor, onay sonrası `glossary.json`'a ekle, sonra çevir
-- "Attraction" bağlama göre seçilir:
-  - UI başlık, kategori, tablo başlığı → **"Aktivite"**
-  - Pazarlama, tanıtım, heyecan vurgulu metin → **"Heyecan"**
-  - Aynı metinde "Thrill" da varsa her zaman → **"Aktivite"** (karışıklık önlenir)
+- Yeni terim gerekirse: önce tartış (issue aç), onay sonrası `glossary.json`'a ekle, sonra çevir
+- Marketing vs UI bağlamı: UI'da kısa ve net, marketing'de akıcı ve çekici
 
 ## Çeviri Sonrası Validate
 
 ```bash
-./venv/Scripts/python.exe tools/validate.py
+# Linux/Mac
+python tools/validate.py
+
+# Windows
+.\venv\Scripts\python.exe tools/validate.py
 ```
 
 `[HATA]` çıktısı varsa düzelt. `[UYARI]` çıktısı için bilinçli karar ver.
 
 ## Deploy Yöntemi
 
-Mod klasörü crash yapıyor — kullanılmaz. Build sonrası şu iki dosya değiştirilmeli:
+Mod klasörü yaklaşımı Xbox Game Pass sürümünde çökmeye sebep olduğu için kullanılmaz. Bunun yerine İngilizce (US/UK) Loc.ovl dosyaları doğrudan değiştirilir:
 
-- `Content0/Localised/English/UnitedStates/Loc.ovl`
-- `Content0/Localised/English/UnitedKingdom/Loc.ovl`
+- `Content*/Localised/English/UnitedStates/Loc.ovl`
+- `Content*/Localised/English/UnitedKingdom/Loc.ovl`
 
-Orijinaller `.bak` uzantısıyla yedekli.
+Orijinaller `.bak` uzantısıyla yedeklenir. `kurulum.bat` bu süreci otomatikleştirir.
