@@ -41,7 +41,7 @@ Oyunda yerleşik Türkçe dil desteği bulunmadığından İngilizce (US/UK) dil
 - **Çeviri katkısı**: [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md)
 - **Geliştirici bilgisi**: [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md)
 
-Bir çeviriye katkıda bulunmadan önce [glossary.json](glossary.json) ve [docs/STYLE_GUIDE.md](docs/STYLE_GUIDE.md) dosyalarını okumanı rica ederiz.
+Bir çeviriye katkıda bulunmadan önce [glossary.json](glossary.json) ve [docs/STYLE_GUIDE.md](docs/STYLE_GUIDE.md) dosyalarını okuyunuz lütfen.
 
 ## Teknik Detaylar
 
