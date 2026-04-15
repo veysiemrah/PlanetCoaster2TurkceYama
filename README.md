@@ -12,15 +12,12 @@ Tüm 14 içerik paketi çevrildi:
 
 ## Kurulum
 
-### Otomatik (Önerilen)
-
 1. [Releases](../../releases) sayfasından en son `TurkceYama-vX.Y.Z.zip` dosyasını indir
 2. Zip'i boş bir klasöre çıkar
 3. `kurulum.bat` dosyasına çift tıkla
-4. Script otomatik olarak oyun dizinini bulur, orijinal dosyaları yedekler ve Türkçe yamayı kurar
-5. Oyunu başlat — Türkçe metinler aktif olur
+4. Oyunu başlat — Türkçe metinler aktif olur
 
-Yamayı kaldırmak için `orijinal.bat` dosyasını çalıştır — orijinal İngilizce dosyalar yedeklerden geri yüklenir.
+Yamayı kaldırmak için aynı klasördeki `orijinal.bat` dosyasını çalıştır.
 
 Detaylı kurulum kılavuzu: [docs/INSTALL.md](docs/INSTALL.md)
 

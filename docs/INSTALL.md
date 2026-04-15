@@ -1,9 +1,9 @@
 # Kurulum Rehberi
 
-## Otomatik Kurulum (Windows)
+## Kurulum (Windows)
 
 1. [Releases](../../releases) sayfasından en son `TurkceYama-vX.Y.Z.zip` dosyasını indir
-2. Zip'i boş bir klasöre çıkar
+2. Zip'i boş bir klasöre çıkar — içinde hazır `TurkceYama/` klasörü, `kurulum.bat` ve `orijinal.bat` olacak
 3. `kurulum.bat` dosyasına çift tıkla
 4. Script oyun dizinini otomatik arar:
    - Xbox Game Pass: `C:\XboxGames`, `D:\XboxGames`, `E:\XboxGames`
@@ -18,15 +18,13 @@
 
 ## Manuel Kurulum
 
-1. [Releases](../../releases) sayfasından `TurkceYama-vX.Y.Z.zip` dosyasını indir
-2. Zip'i çıkar
-3. Oyun kurulum dizinini bul:
+1. [Releases](../../releases) sayfasından `TurkceYama-vX.Y.Z.zip` dosyasını indir, çıkar
+2. Oyun kurulum dizinini bul:
    - **Xbox Game Pass:** `C:\XboxGames\Planet Coaster 2\Content\Win64\ovldata\`
    - **Steam:** `C:\Program Files (x86)\Steam\steamapps\common\Planet Coaster 2\Win64\ovldata\`
-4. Her `Content*` paketi için Türkçe `Loc.ovl` dosyasını iki konuma da kopyala:
-   - `{ovldata}\ContentX\Localised\English\UnitedStates\Loc.ovl`
-   - `{ovldata}\ContentX\Localised\English\UnitedKingdom\Loc.ovl`
-5. Orijinal İngilizce dosyaları `.bak` uzantısıyla yedekle (örn. `Loc.ovl` → `Loc.ovl.bak`)
+3. Zip içinden çıkan `TurkceYama/Main/Content*/Localised/English/UnitedStates/Loc.ovl` dosyalarını oyun dizininde aynı konuma kopyala
+4. Aynı `Loc.ovl` dosyasını `UnitedKingdom/Loc.ovl` olarak da kopyala
+5. Orijinal İngilizce dosyaları önceden `.bak` uzantısıyla yedeklemeyi unutma
 6. Oyunu başlat — Türkçe metinler aktif olur
 
 ## Nasıl Çalışır
