@@ -20,6 +20,8 @@ Tüm 14 içerik paketi çevrildi:
 4. Script otomatik olarak oyun dizinini bulur, orijinal dosyaları yedekler ve Türkçe yamayı kurar
 5. Oyunu başlat — Türkçe metinler aktif olur
 
+Yamayı kaldırmak için `orijinal.bat` dosyasını çalıştır — orijinal İngilizce dosyalar yedeklerden geri yüklenir.
+
 Detaylı kurulum kılavuzu: [docs/INSTALL.md](docs/INSTALL.md)
 
 ## Nasıl Çalışır

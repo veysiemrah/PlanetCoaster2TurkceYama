@@ -37,13 +37,21 @@ Oyunda yerleşik Türkçe dil desteği bulunmadığından İngilizce (US/UK) dil
 
 ## Yamayı Kaldırma
 
-Kurulum sırasında orijinal İngilizce dosyaların `.bak` uzantılı yedekleri alınır. Geri almak için:
+### Otomatik (Önerilen)
+
+`orijinal.bat` dosyasına çift tıkla:
+- Oyun dizinini otomatik bulur
+- Tüm `.bak` yedeklerini tarar ve raporlar
+- Onay sonrası Türkçe dosyaları siler, orijinalleri `.bak`'tan geri yükler
+
+### Manuel
 
 1. `ovldata\Content*\Localised\English\UnitedStates\Loc.ovl` ve `UnitedKingdom\Loc.ovl` dosyalarını sil
 2. Aynı klasörlerdeki `Loc.ovl.bak` dosyalarını `Loc.ovl` olarak yeniden adlandır
 3. Oyunu başlat
 
-Alternatif:
+### Yedek Yoksa
+
 - **Steam:** "Dosya bütünlüğünü doğrula" (Verify integrity of game files) orijinal dosyaları geri yükler
 - **Xbox Game Pass:** oyunu kaldırıp yeniden kurabilirsin
 
