@@ -22,7 +22,7 @@ Write-Host "`n[3/4] Zip paketi hazirlaniyor..." -ForegroundColor Cyan
 if (Test-Path release_pkg) { Remove-Item -Recurse -Force release_pkg }
 New-Item -ItemType Directory -Path release_pkg | Out-Null
 Copy-Item -Recurse build/TurkceYama release_pkg/
-Copy-Item kurulum.bat, orijinal.bat, README.md, LICENSE release_pkg/
+Copy-Item kurulum.bat, yama_sil.bat, README.md, LICENSE release_pkg/
 Copy-Item -Recurse docs release_pkg/
 if (Test-Path $ZipName) { Remove-Item $ZipName }
 Compress-Archive -Path release_pkg/* -DestinationPath $ZipName

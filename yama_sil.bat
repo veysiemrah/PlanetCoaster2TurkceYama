@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 cd /d "%~dp0"
 
 echo ===================================================
-echo  Planet Coaster 2 Turkce Yama - Orijinal Geri Yukle
+echo  Planet Coaster 2 Turkce Yama - Kaldirma
 echo ===================================================
 echo.
 
@@ -95,8 +95,8 @@ if !FOUND! == 0 (
 )
 
 echo --- Yapilacak Islemler ---
-echo   * !FOUND! adet Loc.ovl silinecek
-echo   * Her Loc.ovl.bak, Loc.ovl olarak yeniden adlandirilacak
+echo   * Yalnizca YEDEKLI !FOUND! dosya silinip .bak ile geri yuklenecek
+echo   * Yedegi olmayan dosyalar korunacak, ASLA silinmeyecek
 echo   * Turkce yama kaldirilacak, orijinal Ingilizce metinler geri gelecek
 echo.
 
@@ -109,6 +109,7 @@ REM ----- 3. Geri yukleme -----
 echo.
 echo [3/3] Orijinal dosyalar geri yukleniyor...
 set /a RESTORED=0
+set /a SKIPPED=0
 set /a FAILED=0
 
 for %%P in (%PACKS%) do (
@@ -117,6 +118,7 @@ for %%P in (%PACKS%) do (
         set "BAK=!DST!.bak"
 
         if exist "!BAK!" (
+            REM Yedek var - guvenli sekilde sil+geri yukle
             if exist "!DST!" del /F /Q "!DST!" >nul 2>&1
             ren "!BAK!" "Loc.ovl" >nul 2>&1
             if errorlevel 1 (
@@ -125,16 +127,23 @@ for %%P in (%PACKS%) do (
             ) else (
                 set /a RESTORED+=1
             )
+        ) else (
+            REM Yedek yok - mevcut dosya korunur, SILINMEZ
+            if exist "!DST!" (
+                echo   %%P\%%R: yedek yok, dosya korundu
+                set /a SKIPPED+=1
+            )
         )
     )
 )
 
 echo.
 echo ===================================================
-echo  Geri Yukleme Tamamlandi
+echo  Yama Kaldirma Tamamlandi
 echo ===================================================
-echo   Geri yuklenen dosya : !RESTORED!
-echo   Basarisiz islem     : !FAILED!
+echo   Geri yuklenen dosya       : !RESTORED!
+echo   Yedek yok, korunan dosya  : !SKIPPED!
+echo   Basarisiz islem           : !FAILED!
 echo.
 echo Oyunu baslat; orijinal Ingilizce metinler aktif olacak.
 echo.

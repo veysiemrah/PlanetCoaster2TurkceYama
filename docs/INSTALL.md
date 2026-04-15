@@ -3,7 +3,7 @@
 ## Kurulum (Windows)
 
 1. [PC2_TR_Yama.zip](https://github.com/veysiemrah/PlanetCoaster2TurkceYama/releases/latest/download/PC2_TR_Yama.zip) dosyasını indir
-2. Zip'i boş bir klasöre çıkar — içinde hazır `TurkceYama/` klasörü, `kurulum.bat` ve `orijinal.bat` olacak
+2. Zip'i boş bir klasöre çıkar — içinde hazır `TurkceYama/` klasörü, `kurulum.bat` ve `yama_sil.bat` olacak
 3. `kurulum.bat` dosyasına çift tıkla
 4. Script oyun dizinini otomatik arar:
    - Xbox Game Pass: `C:\XboxGames`, `D:\XboxGames`, `E:\XboxGames`
@@ -37,20 +37,26 @@ Oyunda yerleşik Türkçe dil desteği bulunmadığından İngilizce (US/UK) dil
 
 ### Otomatik (Önerilen)
 
-`orijinal.bat` dosyasına çift tıkla:
+`yama_sil.bat` dosyasına çift tıkla:
 - Oyun dizinini otomatik bulur
 - Tüm `.bak` yedeklerini tarar ve raporlar
-- Onay sonrası Türkçe dosyaları siler, orijinalleri `.bak`'tan geri yükler
+- Onay sonrası **yalnızca yedeği (.bak) bulunan** dosyaları siler ve yedeklerden geri yükler
+- Yedeği olmayan dosyalar korunur, silinmez
 
 ### Manuel
 
-1. `ovldata\Content*\Localised\English\UnitedStates\Loc.ovl` ve `UnitedKingdom\Loc.ovl` dosyalarını sil
-2. Aynı klasörlerdeki `Loc.ovl.bak` dosyalarını `Loc.ovl` olarak yeniden adlandır
-3. Oyunu başlat
+**Önce** her Content paketinin `.bak` dosyasının var olduğunu kontrol et. Yedeği olmayan Loc.ovl'i **silme** — aksi halde oyun bozulur.
+
+1. `ovldata\Content*\Localised\English\UnitedStates\Loc.ovl.bak` dosyasının var olduğunu gör
+2. Mevcut `Loc.ovl` dosyasını sil
+3. `Loc.ovl.bak` dosyasını `Loc.ovl` olarak yeniden adlandır
+4. `UnitedKingdom` için de aynı adımları tekrar et
+5. Oyunu başlat
 
 ### Yedek Yoksa
 
-- **Steam:** "Dosya bütünlüğünü doğrula" (Verify integrity of game files) orijinal dosyaları geri yükler
+Orijinal dosyaları geri almak için:
+- **Steam:** "Dosya bütünlüğünü doğrula" (Verify integrity of game files)
 - **Xbox Game Pass:** oyunu kaldırıp yeniden kurabilirsin
 
 ## Sorun Giderme

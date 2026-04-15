@@ -23,7 +23,7 @@ Tüm 14 içerik paketi çevrildi:
 3. `kurulum.bat` dosyasına çift tıkla
 4. Oyunu başlat — Türkçe metinler aktif olur
 
-Yamayı kaldırmak için aynı klasördeki `orijinal.bat` dosyasını çalıştır.
+Yamayı kaldırmak için aynı klasördeki `yama_sil.bat` dosyasını çalıştır.
 
 Detaylı kurulum kılavuzu: [docs/INSTALL.md](docs/INSTALL.md)
 

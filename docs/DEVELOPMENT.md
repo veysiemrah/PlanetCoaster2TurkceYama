@@ -66,5 +66,5 @@ gh release create vX.Y.Z --generate-notes
 `release.ps1` şunu yapar:
 1. `validate.py` çalıştırır (placeholder/şema kontrolü)
 2. `build.py` ile tüm 14 paket için Loc.ovl üretir
-3. `TurkceYama/`, `kurulum.bat`, `orijinal.bat`, `README.md`, `LICENSE`, `docs/` içeren zip hazırlar
+3. `TurkceYama/`, `kurulum.bat`, `yama_sil.bat`, `README.md`, `LICENSE`, `docs/` içeren zip hazırlar
 4. `gh release upload` ile zip'i release'e yükler
