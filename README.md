@@ -18,13 +18,13 @@ Tüm 14 içerik paketi çevrildi:
 2. Zip'i boş bir klasöre çıkar
 3. `kurulum.bat` dosyasına çift tıkla
 4. Script otomatik olarak oyun dizinini bulur, orijinal dosyaları yedekler ve Türkçe yamayı kurar
-5. Oyunu başlat, **Ayarlar > Dil** menüsünden **English (United States)** veya **English (United Kingdom)** seç
+5. Oyunu başlat — Türkçe metinler aktif olur
 
 Detaylı kurulum kılavuzu: [docs/INSTALL.md](docs/INSTALL.md)
 
-## Dil Ayarı
+## Nasıl Çalışır
 
-Oyunda yerleşik Türkçe dil desteği bulunmadığından **English (US/UK)** dil dosyaları Türkçe çeviri ile değiştirilir. Oyun içinde dili "English (US)" veya "English (UK)" seçtiğinde Türkçe görürsün.
+Oyunda yerleşik Türkçe dil desteği bulunmadığından İngilizce (US/UK) dil dosyaları Türkçe çeviri ile değiştirilir. Oyun İngilizce ile açıldığında Türkçe metinler görünür.
 
 ## Özellikler
 

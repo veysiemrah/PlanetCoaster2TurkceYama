@@ -165,9 +165,7 @@ echo   Kopyalanan dosya   : !COPIED!
 echo   Yedek alinan dosya : !BACKED_UP!
 echo   Basarisiz islem    : !FAILED!
 echo.
-echo Oyunu ac, Ayarlar ^> Dil menusunden
-echo   "English (United States)" veya "English (United Kingdom)"
-echo sec. Turkce ceviriler etkin olacak.
+echo Oyunu baslat; Turkce metinler aktif olacak.
 echo.
 pause
 exit /b 0

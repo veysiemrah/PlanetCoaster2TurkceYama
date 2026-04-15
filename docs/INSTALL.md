@@ -14,8 +14,7 @@
    - **Yedeği zaten olan dosya**: mevcut dosya silinip yenisi konur (yedek korunur)
    - **Hedef yok**: yeni konuma dosya kopyalanır
 7. Onay (`E`) verdikten sonra kurulum tamamlanır
-8. Oyunu başlat, **Ayarlar > Dil** menüsünden **English (United States)** veya **English (United Kingdom)** seç
-9. Oyun yeniden başladığında Türkçe görünür
+8. Oyunu başlat — Türkçe metinler aktif olur
 
 ## Manuel Kurulum
 
@@ -28,11 +27,11 @@
    - `{ovldata}\ContentX\Localised\English\UnitedStates\Loc.ovl`
    - `{ovldata}\ContentX\Localised\English\UnitedKingdom\Loc.ovl`
 5. Orijinal İngilizce dosyaları `.bak` uzantısıyla yedekle (örn. `Loc.ovl` → `Loc.ovl.bak`)
-6. Oyunu başlat, **Ayarlar > Dil** menüsünden **English (United States)** seç
+6. Oyunu başlat — Türkçe metinler aktif olur
 
-## Dil Ayarı
+## Nasıl Çalışır
 
-Oyunda yerleşik Türkçe dil desteği bulunmadığından **English (United States)** ve **English (United Kingdom)** dil dosyaları doğrudan Türkçe çeviri ile değiştirilir. Oyun içinde dili **English (US)** veya **English (UK)** olarak seçtiğinde Türkçe görürsün.
+Oyunda yerleşik Türkçe dil desteği bulunmadığından İngilizce (US/UK) dil dosyaları doğrudan Türkçe çeviri ile değiştirilir. Oyun İngilizce ile açıldığında metinler Türkçe görünür.
 
 > Not: Önceki "mod klasörü" yöntemi Xbox Game Pass sürümünde oyunun çökmesine sebep olduğu için terk edilmiş; doğrudan dosya değiştirme yöntemi benimsenmiştir.
 
@@ -54,7 +53,7 @@ Alternatif:
 Yedek `.bak` dosyalarını orijinal konuma geri taşı. Sorun devam ediyorsa oyun dosyalarını doğrula veya yeniden kur.
 
 **Hâlâ çevrilmemiş görünüyor**
-Dil ayarının **English (United States)** veya **English (United Kingdom)** olduğundan emin ol. Oyunu kapatıp yeniden aç.
+Oyunu tamamen kapatıp yeniden aç. Sorun devam ederse kurulumu doğrulayabilirsin: `ovldata\Content0\Localised\English\UnitedStates\Loc.ovl` dosyasının tarihine bak.
 
 **Bazı metinler çevrilmemiş**
 Çeviri devam ediyor. İlerleme için [README](../README.md) sayfasına bak.
