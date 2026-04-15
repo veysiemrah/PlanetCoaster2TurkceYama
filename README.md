@@ -1,7 +1,5 @@
 # Planet Coaster 2 Türkçe Yama
 
-Planet Coaster 2 için açık kaynaklı Türkçe çeviri yaması.
-
 ## Durum
 
 **✅ Tamamlandı — %100 çeviri** (32.665/32.665 string)
