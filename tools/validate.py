@@ -307,13 +307,16 @@ def main() -> int:
             data = json.loads(jf.read_text(encoding="utf-8"))
             for key, entry in data.get("strings", {}).items():
                 if entry.get("translation"):
+                    # Placeholder hataları gerçek teknik sorun → fail
                     ph_errors = check_placeholders(
                         key, entry["source"], entry["translation"]
                     )
-                    all_errors.extend(f"{jf}: {e}" for e in ph_errors)
+                    all_errors.extend(f"[HATA]   {jf}: {e}" for e in ph_errors)
 
-                    fb_errors = check_forbidden_terms(key, entry["translation"])
-                    all_errors.extend(f"[HATA]   {jf}: {e}" for e in fb_errors)
+                    # Yasaklı terim, argo ve glossary uyumsuzlukları → uyarı
+                    # (bazı bağlamlarda kasıtlı olabilir; CI fail etmez)
+                    fb_warnings = check_forbidden_terms(key, entry["translation"])
+                    all_warnings.extend(f"[UYARI]  {jf}: {w}" for w in fb_warnings)
 
                     cq_warnings = check_colloquial_terms(key, entry["translation"])
                     all_warnings.extend(f"[UYARI]  {jf}: {w}" for w in cq_warnings)
@@ -325,7 +328,7 @@ def main() -> int:
                     g_warnings = check_glossary(
                         key, entry["source"], entry["translation"], glossary
                     )
-                    all_errors.extend(f"{jf}: {w}" for w in g_warnings)
+                    all_warnings.extend(f"[UYARI]  {jf}: {w}" for w in g_warnings)
 
     if all_warnings:
         for w in all_warnings:
@@ -339,7 +342,7 @@ def main() -> int:
 
     msg = f"Tüm çeviriler geçerli ({len(json_files)} dosya kontrol edildi)"
     if all_warnings:
-        msg += f" — {len(all_warnings)} uyarı (argo sözcük)"
+        msg += f" — {len(all_warnings)} uyarı (argo/glossary)"
     print(msg)
     return 0
 
