@@ -26,7 +26,7 @@ assignees: ''
 
 ## Ortam
 
-- **Oyun sürümü**: (örn. Steam v1.3.2 / Xbox Game Pass)
+- **Oyun sürümü**: (örn. Steam v1.3.2 / Xbox Game Pass / Epic Games)
 - **İşletim sistemi**: Windows 11
 - **Yama sürümü**: (örn. v1.0.0)
 - **Kurulum yöntemi**: `kurulum.bat` / manuel

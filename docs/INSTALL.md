@@ -8,7 +8,8 @@
 4. Script oyun dizinini otomatik arar:
    - Xbox Game Pass: `C:\XboxGames`, `D:\XboxGames`, `E:\XboxGames`
    - Steam: `Program Files`, `Program Files (x86)`, `SteamLibrary`, `Steam` varyantları (C/D/E)
-5. Otomatik bulamazsa kullanıcıdan `ovldata` dizini yolunu ister
+   - Epic Games: Epic Launcher kayıtlarından gerçek kurulum yolu, ardından `Program Files\Epic Games` ve `Epic Games` klasörleri (C/D/E)
+5. Otomatik bulamazsa kullanıcıdan `ovldata` dizini yolunu ister. Oyunun ana klasörü de girilebilir (örn. `D:\Oyunlar\PlanetCoaster2`); script `Win64\ovldata` kısmını kendisi bulur. Yolun tırnak içinde yapıştırılması da sorun değildir.
 6. Değiştirilecek dosyaların durumunu raporlar:
    - **Yedeği olmayan orijinal dosya**: `.bak` yedeği alınıp Türkçe ile değiştirilir
    - **Yedeği zaten olan dosya**: mevcut dosya silinip yenisi konur (yedek korunur)
@@ -22,6 +23,7 @@
 2. Oyun kurulum dizinini bul:
    - **Xbox Game Pass:** `C:\XboxGames\Planet Coaster 2\Content\Win64\ovldata\`
    - **Steam:** `C:\Program Files (x86)\Steam\steamapps\common\Planet Coaster 2\Win64\ovldata\`
+   - **Epic Games:** `C:\Program Files\Epic Games\PlanetCoaster2\Win64\ovldata\` (Epic Launcher → Kütüphane → oyunun `...` menüsü → **Yönet** → klasör simgesi ile gerçek yolu görebilirsin)
 3. Zip içinden çıkan `TurkceYama/Main/Content*/Localised/English/UnitedStates/Loc.ovl` dosyalarını oyun dizininde aynı konuma kopyala
 4. Aynı `Loc.ovl` dosyasını `UnitedKingdom/Loc.ovl` olarak da kopyala
 5. Orijinal İngilizce dosyaları önceden `.bak` uzantısıyla yedeklemeyi unutma
@@ -58,6 +60,7 @@ Oyunda yerleşik Türkçe dil desteği bulunmadığından İngilizce (US/UK) dil
 Orijinal dosyaları geri almak için:
 - **Steam:** "Dosya bütünlüğünü doğrula" (Verify integrity of game files)
 - **Xbox Game Pass:** oyunu kaldırıp yeniden kurabilirsin
+- **Epic Games:** Kütüphane → oyunun `...` menüsü → **Yönet** → **Doğrula**
 
 ## Sorun Giderme
 
