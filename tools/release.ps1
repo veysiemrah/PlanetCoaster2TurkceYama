@@ -23,6 +23,13 @@ if (Test-Path release_pkg) { Remove-Item -Recurse -Force release_pkg }
 New-Item -ItemType Directory -Path release_pkg | Out-Null
 Copy-Item -Recurse build/TurkceYama release_pkg/
 Copy-Item kurulum.bat, yama_sil.bat, README.md, LICENSE release_pkg/
+# .bat dosyalari CRLF olmali; LF ile cmd.exe "call :etiket" hedeflerini bulamayabiliyor.
+# Depo hangi git ayariyla klonlanmis olursa olsun pakette CRLF'yi garanti et.
+foreach ($bat in Get-ChildItem release_pkg -Filter *.bat) {
+    $text = [IO.File]::ReadAllText($bat.FullName)
+    $text = $text -replace "`r?`n", "`r`n"
+    [IO.File]::WriteAllText($bat.FullName, $text, [Text.Encoding]::ASCII)
+}
 Copy-Item -Recurse docs release_pkg/
 if (Test-Path $ZipName) { Remove-Item $ZipName }
 Compress-Archive -Path release_pkg/* -DestinationPath $ZipName

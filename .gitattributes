@@ -1,0 +1,5 @@
+# Windows batch dosyalari CRLF olmak zorunda.
+# LF satir sonlu .bat dosyalarinda cmd.exe "call :etiket" / "goto :etiket"
+# hedeflerini bulamayabiliyor ("The system cannot find the batch label specified").
+*.bat text eol=crlf
+*.cmd text eol=crlf
