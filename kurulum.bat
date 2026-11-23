@@ -38,6 +38,39 @@ for %%D in (C D E) do (
     )
 )
 
+REM Epic Games: once launcher manifestlerinden gercek kurulum yolunu oku
+set "EPIC_MANIFESTS=%ProgramData%\Epic\EpicGamesLauncher\Data\Manifests"
+if not defined GAME_DIR if exist "%EPIC_MANIFESTS%\*.item" (
+    for /f "delims=" %%F in ('findstr /m /i /c:"Planet Coaster 2" "%EPIC_MANIFESTS%\*.item" 2^>nul') do (
+        if not defined GAME_DIR (
+            for /f "tokens=1,* delims=:" %%A in ('findstr /i /c:"InstallLocation" "%%F" 2^>nul') do (
+                if not defined GAME_DIR (
+                    set "EPIC_LOC=%%B"
+                    call :normalize_path EPIC_LOC
+                    if exist "!EPIC_LOC!\Content0" (
+                        set "GAME_DIR=!EPIC_LOC!"
+                        echo   Epic Games bulundu: !GAME_DIR!
+                    )
+                )
+            )
+        )
+    )
+)
+
+REM Epic Games: varsayilan kurulum klasorleri
+for %%D in (C D E) do (
+    for %%N in ("PlanetCoaster2" "Planet Coaster 2") do (
+        if not defined GAME_DIR if exist "%%D:\Program Files\Epic Games\%%~N\Win64\ovldata" (
+            set "GAME_DIR=%%D:\Program Files\Epic Games\%%~N\Win64\ovldata"
+            echo   Epic Games bulundu: %%D:\Program Files\Epic Games\%%~N
+        )
+        if not defined GAME_DIR if exist "%%D:\Epic Games\%%~N\Win64\ovldata" (
+            set "GAME_DIR=%%D:\Epic Games\%%~N\Win64\ovldata"
+            echo   Epic Games bulundu: %%D:\Epic Games\%%~N
+        )
+    )
+)
+
 if not defined GAME_DIR (
     echo   Otomatik bulunamadi.
     echo.
@@ -46,11 +79,22 @@ if not defined GAME_DIR (
     echo.
     set /p "GAME_DIR=Yol: "
     if not defined GAME_DIR goto :cancel
+    call :normalize_path GAME_DIR
+    if not defined GAME_DIR goto :cancel
     if not exist "!GAME_DIR!" (
         echo HATA: "!GAME_DIR!" bulunamadi.
         pause
         exit /b 1
     )
+)
+
+if not exist "!GAME_DIR!\Content0" (
+    echo.
+    echo HATA: "!GAME_DIR!" gecerli bir ovldata dizini degil.
+    echo Bu klasorun icinde Content0, Content1 ... klasorleri olmali.
+    echo Oyunun ana klasorunu girdiysen sonuna \Win64\ovldata ekleyerek dene.
+    pause
+    exit /b 1
 )
 
 echo.
@@ -174,4 +218,31 @@ exit /b 0
 echo.
 echo Kurulum iptal edildi.
 pause
+exit /b 0
+
+REM ----- Yardimci: yol temizleme / ovldata tamamlama -----
+REM Tirnaklari, bas/son bosluklari, JSON kacislarini (\\) ve sondaki \ ile ,
+REM karakterlerini temizler. Oyun ana klasoru verilmisse ovldata'yi ekler.
+:normalize_path
+set "NP=!%~1!"
+if not defined NP goto :normalize_done
+set "NP=!NP:"=!"
+set "NP=!NP:\\=\!"
+for /f "tokens=*" %%X in ("!NP!") do set "NP=%%X"
+:normalize_trim
+if not defined NP goto :normalize_done
+if "!NP:~-1!"==" " set "NP=!NP:~0,-1!" & goto :normalize_trim
+if "!NP:~-1!"=="," set "NP=!NP:~0,-1!" & goto :normalize_trim
+if "!NP:~-1!"=="\" set "NP=!NP:~0,-1!" & goto :normalize_trim
+if not exist "!NP!\Content0" (
+    if exist "!NP!\Win64\ovldata\Content0" (
+        set "NP=!NP!\Win64\ovldata"
+    ) else if exist "!NP!\Content\Win64\ovldata\Content0" (
+        set "NP=!NP!\Content\Win64\ovldata"
+    ) else if exist "!NP!\ovldata\Content0" (
+        set "NP=!NP!\ovldata"
+    )
+)
+:normalize_done
+set "%~1=!NP!"
 exit /b 0
