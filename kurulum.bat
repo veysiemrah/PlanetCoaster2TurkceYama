@@ -7,10 +7,21 @@ echo  Planet Coaster 2 Turkce Yama - Kurulum
 echo ===================================================
 echo.
 
+REM Yonetici olarak yeniden baslatma icin yardimci degiskenler
+set "PC2TR_SELF=%~f0"
+set "PC2TR_PATHFILE=%TEMP%\pc2tr_oyun_yolu.txt"
+
 REM ----- 1. Oyun dizinini bul -----
 set "GAME_DIR="
 echo [1/3] Oyun kurulum yolu araniyor...
 echo.
+
+REM Yonetici olarak yeniden baslatildiysa onceki pencerenin buldugu yolu kullan
+if /i "%~1"=="/yonetici" if exist "%PC2TR_PATHFILE%" (
+    set /p GAME_DIR=<"%PC2TR_PATHFILE%"
+    del /f /q "%PC2TR_PATHFILE%" >nul 2>&1
+    if defined GAME_DIR echo   Onceki pencerede bulunan yol kullaniliyor.
+)
 
 for %%D in (C D E) do (
     if not defined GAME_DIR if exist "%%D:\XboxGames\Planet Coaster 2\Content\Win64\ovldata" (
@@ -100,6 +111,10 @@ if not exist "!GAME_DIR!\Content0" (
 echo.
 echo Hedef dizin: !GAME_DIR!
 echo.
+
+REM ----- Yazma izni kontrolu -----
+call :check_write
+if errorlevel 1 goto :need_admin
 
 REM ----- 2. Kaynak klasoru kontrol -----
 set "SRC_ROOT=TurkceYama\Main"
@@ -203,12 +218,25 @@ for %%P in (%PACKS%) do (
 
 echo.
 echo ===================================================
-echo  Kurulum Tamamlandi
+if !FAILED! gtr 0 (
+    echo  Kurulum TAMAMLANAMADI
+) else (
+    echo  Kurulum Tamamlandi
+)
 echo ===================================================
 echo   Kopyalanan dosya   : !COPIED!
 echo   Yedek alinan dosya : !BACKED_UP!
 echo   Basarisiz islem    : !FAILED!
 echo.
+if !FAILED! gtr 0 (
+    echo UYARI: !FAILED! islem basarisiz oldu, yama eksik kurulmus olabilir.
+    echo Oyunu kapat, kurulum.bat dosyasina sag tikla ve
+    echo "Yonetici olarak calistir" ile tekrar dene. Sorun devam ederse
+    echo bu ekranin goruntusunu GitHub'daki sorun bildirimine ekle.
+    echo.
+    pause
+    exit /b 1
+)
 echo Oyunu baslat; Turkce metinler aktif olacak.
 echo.
 pause
@@ -218,6 +246,47 @@ exit /b 0
 echo.
 echo Kurulum iptal edildi.
 pause
+exit /b 0
+
+REM ----- Yardimci: oyun klasorune yazma izni var mi? -----
+:check_write
+set "WT=!GAME_DIR!\Content0\pc2tr_yazma_testi.tmp"
+((echo test)>"!WT!") >nul 2>&1
+if not exist "!WT!" exit /b 1
+del /f /q "!WT!" >nul 2>&1
+exit /b 0
+
+REM ----- Yazma izni yoksa yonetici olarak yeniden baslat -----
+:need_admin
+echo.
+echo UYARI: Oyun klasorune yazma izni yok.
+echo Oyun "Program Files" gibi korumali bir klasorde kurulu olabilir.
+if /i "%~1"=="/yonetici" (
+    echo.
+    echo Yonetici izniyle de yazilamadi. Oyunun ve Epic/Steam'in kapali
+    echo oldugundan emin olup tekrar dene.
+    echo.
+    pause
+    exit /b 1
+)
+echo.
+echo Islem yonetici izniyle yeni bir pencerede yeniden baslatilacak.
+echo Acilan Windows izin penceresinde "Evet"e tikla.
+echo.
+pause
+>"%PC2TR_PATHFILE%" echo !GAME_DIR!
+powershell -NoProfile -ExecutionPolicy Bypass -Command "try { Start-Process -FilePath $env:PC2TR_SELF -ArgumentList '/yonetici' -Verb RunAs -ErrorAction Stop } catch { exit 1 }"
+if errorlevel 1 (
+    del /f /q "%PC2TR_PATHFILE%" >nul 2>&1
+    echo.
+    echo Yonetici izni verilmedi. Dosyaya sag tiklayip
+    echo "Yonetici olarak calistir" secenegiyle tekrar dene.
+    echo.
+    pause
+    exit /b 1
+)
+echo Islem yeni pencerede devam ediyor. Bu pencere kapanacak.
+timeout /t 3 >nul
 exit /b 0
 
 REM ----- Yardimci: yol temizleme / ovldata tamamlama -----
