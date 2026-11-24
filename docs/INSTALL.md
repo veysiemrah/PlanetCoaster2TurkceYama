@@ -73,8 +73,10 @@ Oyunu tamamen kapatıp yeniden aç. Sorun devam ederse kurulumu doğrulayabilirs
 **Bazı metinler çevrilmemiş**
 Çeviri devam ediyor. İlerleme için [README](../README.md) sayfasına bak.
 
-**"Erişim engellendi" hatası**
-`kurulum.bat` dosyasına sağ tıklayıp "Yönetici olarak çalıştır" seçeneğini kullan. Steam `Program Files` altında kurulu ise yönetici hakkı gerekebilir.
+**"Erişim engellendi" / "Oyun klasörüne yazma izni yok" uyarısı**
+Oyun `Program Files` gibi korumalı bir klasördeyse (Steam ve Epic'te sık görülür) yönetici hakkı gerekir. Script kopyalamadan önce yazma iznini kontrol eder; izin yoksa kendini yönetici olarak yeniden başlatmayı teklif eder. Açılan Windows izin penceresinde "Evet"e tıkla. İstersen baştan `kurulum.bat` dosyasına sağ tıklayıp "Yönetici olarak çalıştır" da diyebilirsin.
+
+Kurulum sonunda "Başarısız işlem" sayısı 0 değilse script "Kurulum TAMAMLANAMADI" der: oyunu ve Steam/Epic'i kapatıp yönetici olarak tekrar çalıştır.
 
 **Kurulum otomatik bulamıyor**
 Oyununun kurulu olduğu `ovldata` klasörünün tam yolunu gir. Örnek:
